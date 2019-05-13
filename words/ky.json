@@ -1,0 +1,5007 @@
+{
+  "languageCode": "ky",
+  "languageName": "Kyrgyz",
+  "languageNativeName": "Кыргызча",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "катары",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "мен",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "анын",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ошол",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ал",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "болду",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "үчүн",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "боюнча",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "болуп саналат",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "менен",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "алар",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "болуу",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "боюнча",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "бир",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "бар",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "бул",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "чейин",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "менен",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "ысык",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "сөз",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "бирок",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "эмне",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "кээ бир",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "болуп саналат",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "ал",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "сиз",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "же",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "бар болчу",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "тиштер",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 30,
+      "targetWord": "боюнча",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "үчүн",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "жана",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "бир",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "боюнча",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "биз",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "алат",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "чыккан",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "башка",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "болгон",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "кайсы",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "эмне",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "алардын",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "убакыт",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "эгер",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "болот",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "кантип",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "мындай деди:",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "бир",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "ар бир",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "айтып",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "кылат",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "коюлган",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "үч",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "каалоо",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "аба",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "жакшы",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "дагы",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "ойноо",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "кичине",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "Бир мезгилдин акырына карата",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "коюу",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "үй",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "окуу",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "кол",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "порт",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "чоң",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "сыйкырлоо",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "кошуу",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "ал тургай,",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "жер",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "бул жерде",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "керек",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "чоң",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "бийик",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "ушундай",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "ээрчүү",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "иш",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "неге",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "суроо",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "эркектер",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "өзгөртүү",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "барды",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "жарык",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "түр",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "өчүрүү",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "керек",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "үй",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "сүрөт",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "аракет кылуу",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "бизге",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "дагы бир жолу",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "жаныбар",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "чекит",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "эне",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "дүйнө",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "жанында",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "куруу",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "өз алдынча башкаруу",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "жер",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "ата",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "кандайдыр",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "жаңы",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "иш",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "бөлүк",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "кабыл алуу",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "алуу",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "орун",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "жасалган",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "жашоо",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "кайда",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "кийин",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "кайра",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "кичине",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "гана",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "тегерек",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "адам",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "жыл",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "болду",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "көрсөтүү",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ар бир",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "жакшы",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "мага",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "берүү",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "биздин",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "астында",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "ысым",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "абдан",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "аркылуу",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "так",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "түрү",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "сүйлөм",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "абдан жакшы",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "ойлоо",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "айтуу",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "жардам",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "төмөн",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "сызык",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "ар кандай",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "бурулуш",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "себеп",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "көп",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "деген",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "мурун",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "жылуу",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "туура",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "бала",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "карыган",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "дагы",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "ошондой",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ал",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "бардык",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "жок",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "качан",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "чейин",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "колдонуу",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "сенин",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "жол",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "жөнүндө",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "көп",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "ошондо",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "аларды",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "жазуу",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "турган",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "сыяктуу",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "ушундай",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "бул",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "анын",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "узун",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "жасоо",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "буюм",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "көрүү",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "анын",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "эки",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "элек",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "кароо",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "дагы",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "күн",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "мүмкүн",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "барып,",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "келген",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "кылды",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "сан",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "тыбыш",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "жок",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "көпчүлүк",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "эл",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "менин",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "үстүндө",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "билүү",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "суу",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "караганда",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "чакыруу",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "алгачкы",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "ким",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "Май",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "төмөн",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "жак",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "болуп",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "азыр",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "табуу",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "баш",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "тура",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "өз",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "бет",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "керек",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "мамлекет",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "табылган",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "жооп",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "мектеп",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "өсүү",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "окуу",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "дагы",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "үйрөнүү",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "өсүмдүк",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "жабуу",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "тамак-аш",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "күн",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "төрт",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "ортосунда",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "мамлекет",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "кармоо",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "көз",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "эч качан",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "акыркы",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "жол",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "ой",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "шаары",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "дарак",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "кесип",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "чарба",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "катуу",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "баштоо",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "күч",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "баян",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "араа",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "алыс",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "деңиз",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "тартуу",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "сол",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "кеч",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "Нускасы:",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "кыла албайт",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "жатканда",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "басма сөз",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "жакын",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "түн",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "чын",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "жашоо",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "бир нече",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "түндүк",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "китеп",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "ашырууга",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "алды",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "илим",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "жеш",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "бөлмө",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "дос",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "баштады",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ой",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "балык",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "тоо",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "токтотуу",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "бир жолу",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "база",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "угуу",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ат",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "кесүү",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "ишенимдүү",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "байкоо",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "түс",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "бет",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "жыгач",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "негизги",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "ачык",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "көрүнүшү",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "бирге",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "кийинки",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "ак",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "балдар",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "баштоо",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "турду",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "басуу",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "мисал",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "тынчылык",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "кагаз",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "группа",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "дайыма",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "музыка",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ошол",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "экөө тең",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "белги",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "көп",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "кат",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "чейин",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "миля",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "дарыя",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "унаа",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "буттары",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "камкордук",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "экинчи",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "жетишет",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "ачык",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "кыз",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "демейдеги",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "жаш",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "даяр",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "жогору",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "дайыма",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "кызыл",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "тизме",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "карабастан",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "сезүү",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "сүйлөшүү",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "чымчык",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "жакында",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "дене",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "ит",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "үй-бүлө",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "түз",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "поза",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "калтыруу",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "ыр",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "ченөө",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "эшик",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "продукт",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "кара",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "кыска",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "сан атооч",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "тап",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "шамал",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "суроо",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "эмне",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "аяктоо",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "кеме",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "аймак",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "жарым",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "аска",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "тартип",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "от",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "түштүк",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "маселе",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "үзүм",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "айтып",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "билген",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "өтүү",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "бери",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "жогорку",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "бүт",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "падыша",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "көчө",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "дюйм",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "көп",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "эч нерсе",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "Албетте,",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "кал",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "дөңгөлөк",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "толук",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "күч",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "көк",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "зат",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "чечүү",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "жер үстүндөгү",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "терең",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "ай",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "арал",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "таман",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "система",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "алек",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "текшерүү",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "жазуу",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "кайык",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "жалпы",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "алтын",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "мүмкүн болгон",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "учак",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "ордуна",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "кургак",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "таң калуу",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "күлүү",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "мын",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "мурда",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "чуркап",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "текшерүү",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "оюн",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "келбет",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "өмүрү",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "ысык",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "кечигүү",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "алып келди",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "ысык",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "кар",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "дөңгөлөктүн алкагы",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "алып келүү",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ооба",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "алыс",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "толтуруу",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "чыгыш",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "боек",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "тил",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "арасында",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "бирдиги",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "кубат",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "шаар",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "айып",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "белгилүү",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "учуу",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "түшөт",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "жетектөө",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "ыйлоо",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "караңгы",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "машина",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "Эскертүү",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "күтүү",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "план",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "көрсөткүч",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "жылдыз",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "кутуча",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "зат атооч",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "талаа",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "эс алуу",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "туура",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "алат",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "фунт",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "аткарылган",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "сулуулук",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "кубалоо",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "турду",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "камтылган",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "алдыңкы",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "окутуу",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "жума",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "акыркы",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "берди",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "жашыл",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "пияз",
+      "englishWord": "onion"
+    },
+    {
+      "rank": 436,
+      "targetWord": "ылдам",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "иштеп чыгуу",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "океан",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "жылуу",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "бекер",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "мүнөт",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "күчтүү",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "атайын",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "акыл-эс",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "артынан",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "ачык",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "куйрук",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "чыгаруу",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "чындык",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "мейкиндик",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "уккан",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "мыкты",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "саат",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "сонун",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "чыныгы",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "убагында",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "жүз",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "беш",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "эстөө",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "кадам",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "эрте",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "кармоо",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "батыш",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "жер",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "пайыздык",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "жетүү",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "орозо",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "этиш",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "ырдоо",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "угуу",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "алты",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "стол",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "саякаттоо",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "азыраак",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "эртең менен",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "он",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "жөнөкөй",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "бир топ",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "үндүү",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "болгон",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "согуш",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "жатты",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "каршы",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "узор",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "жай",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "борбор",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "сүйүү",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "адам",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "акча",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "кызмат кылуу",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "көрүнүшү",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "жол",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "карта",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "жаан",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "бийлик",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "башкаруу",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "тартуу",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "суук",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "билдирүү",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "үн",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "энергия",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "аң уулоо",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "мүмкүн болгон",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "төшөк",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "байке, ини",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "жумуртка",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "жүрүү",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "клетка",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "ишенүү",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "балким,",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "чогултуу",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "кокус",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "эсептөө",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "аянт",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "акыл",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "узундук",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "билдирет",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "искусство",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "тема",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "регион",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "көлөм",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "өзгөрүү",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "чечүү",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "сүйлөө",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "салмак",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "жалпы",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "муз",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "зат",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "тегерек",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "жуп",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "кирет",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "бөлүнүү",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "муун",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "сезип",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "улуу",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "топ",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "дагы",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "толкун",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "тамчы",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "жүрөк",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "жатам",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "азыркы",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "оор",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "бий",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "машина",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "абал",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "кол",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "кең",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "парус менен жүрүү",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "буюм",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "бөлчөк",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "токой",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "отуруу",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "тукум",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "терезе",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "дүкөн",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "жай",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "поезд",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "уйку",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "далилдөө",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "жалгыз",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "бут",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "көнүгүү",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "дубал",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "кармоо",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "тоосунда",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "каалоо",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "асман",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "башкарма",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "кубаныч",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "кыш",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "Sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "жазылган",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "жапайы",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "аспап",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "сакталат",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "айнек",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "чөп",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "уй",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "иш",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "чет",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "белги",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "баруу",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "өткөн",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "жумшак",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "тамаша",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "жаркырак",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "газ",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "аба-ырайы",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "ай",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "миллион",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "көтөрүү",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "бүтүрүү",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "бактылуу",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "үмүт",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "гүл",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "кийинүү",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "бөлөк",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "кетти",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "соода",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "мелодия",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "на",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "кызматы",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "кабыл алуу",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "катар",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "ооз",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "так",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "белги",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "өлүү",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "эң кичине",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "оор",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "кыйкыруу",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "тышкары",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "жазган",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "тукум",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "түс",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "кошулуу",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "сунуш",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "таза",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "тыныгуу",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "айым",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "ярд",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "көтөрүлүү",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "жаман",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "ышкыруу",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "май",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "кан",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "тийүү",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "өстү",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "пайыз",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "аралаштыруу",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "команда",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "зым",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "нарк",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "жоголгон",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "күрөң",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "кийүү",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "бакча",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "бирдей",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "жөнөтүлдү",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "тандап алуу",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "төмөндөдү",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "туура",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "агуу",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "туура",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "банк",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "жыйноо",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "куткаруу",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "башкаруу",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "ондук",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "кулак",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "дагы",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "абдан",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "сындырды",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "окуя",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "орто",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "өлтүрүү",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "уул",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "көл",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "ирмем",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "масштабы",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "катуу",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "жаз",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "сактоо",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "бала",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "түз",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "үнсүз тыбыш",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "улут",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "сөздүк",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "сүт",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "ылдамдык",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "ыкма",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "орган",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "төлөө",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "жашы",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "бөлүк",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "көйнөк",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "булут",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "күтүлбөстүк",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "тынч",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "таш",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "кичинекей",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "көтөрүлүү",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "баракелде",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "дизайн",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "жарды",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "көп",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "тажрыйба",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "Жыйынтык",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "ачкыч",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "темир",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "жалгыз",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "таяк",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "жалпак",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "жыйырма",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "тери",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "жылмаюу",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "көбөйткөнгө",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "тешик",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "секирүү",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "бала",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "сегиз",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "кыштак",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "жолугуу",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "тамыр",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "сатып алуу",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "көтөрүү",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "чечүү",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "метал",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "же",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "түртүү",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "жети",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "абзац",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "үчүнчү",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "милдеттүү",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "өткөрдүк",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "чач",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "баяндоо",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "ашпозчу аял",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "кабат",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "же",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "жыйынтык",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "өрттөө",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "дөбө",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "аман-эсен",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "мышык",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "кылым",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "кароо",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "түрү",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "мыйзам",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "бит",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "деңиз жээги",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "копия",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "түрмөк",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "үнсүз",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "бийик",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "кум",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "жер",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "айландыруу",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "Абанын температурасы:",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "манжа",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "өнөр жай",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "Наркы",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "салгылаш",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "калп",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "сабап,",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "козгоо",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "жаратылыш",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "көрүнүш",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "сезим",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "борбор",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "эркин эмес,",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "стул",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "коркунуч",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "жемиш",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "бай",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "жоон",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "аскер",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "тартиби",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "иштөө",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "практика",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "бөлүнгөн",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "татаал",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "доктор",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "өтүнөмүн",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "коргоо",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "түш маалы",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "түшүм",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "азыркы",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "элемент",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "Даражасы:",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "окуучу",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "бурч",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "партия",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "жабдуу",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "кимдин",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "жайгаштыруу",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "шакек",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "белги",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "курт-кумурска",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "кармалды",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "мезгил",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "көрсөтүү",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "радио",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "мындай деди:",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "атом",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "адам",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "тарых",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "таасири",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "электрдик",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "күтүү",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "сөөк",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "тосмо",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "элестетүү",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "камсыз кылуу",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "макул",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "Ошентип,",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "жумшак",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "аял",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "капитан",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "баамдоо",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "керектүү",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "курч",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "канат",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "түзүү",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "коңшу",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "жуунуу",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "жар канат",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "эмес,",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "эл",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "дан",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "салыштыруу",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "ыр",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "аркан",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "коңгуроо",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "көз каранды",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "эт",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "руб",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "түтүк",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "атактуу",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "доллар",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "агым",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "коркунуч",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "көрүш",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "арык",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "үч бурчтук",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "планета",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "шашуу",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "башчы",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "колония",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "саат",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "кен",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "галстук",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "кирүү",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "майор",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "жаңы",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "издөө",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "жиберүү",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "сары",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "курал",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "уруксат берүү",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "басма",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "өлгөн",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "так",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "ээн",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "туура келүү",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "учурдагы",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "көтөргүч",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "роза",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "келүү",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "кожоюн",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "жол",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "ата-эне",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "жээк",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "бөлүм",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "барак",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "зат",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "пайда",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "байланышуу",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "кызмат",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "сарптоо",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "аккорд",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "май",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "бактылуу",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "баштапкы",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "үлүшү",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "бекети",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "ата",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "нан",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "күнөө",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "ылайык",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "бар",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "сунуш",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "кесинди",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "кул",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "өрдөк",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "көз ирмем",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "базар",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "даражасы",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "толтуруш",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "жөжө",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "кымбаттуу",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "душман",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "жооп",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "ичүү",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "пайда болушу",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "колдоо",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "сүйлөө",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "жаратылыш",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "кырка",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "буу",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "кыймыл",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "жол",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "суюктук",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "журналы",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "билдирген",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "болуп саналат",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "тиштер",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "жумуртканын кабыгы",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "моюн",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "кычкылтек",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "кант",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "өлүм",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "сулуу",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "өнөрдүүлүк",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "аялдар",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "сезону",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "чечим",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "магнит",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "күмүш",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "рахмат",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "бутак",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "мелдеш",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "SUFFIX",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "айрыкча",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "анжыр",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "коркуп",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "абдан чоң",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "бир тууган",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "болот",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "талкуулашат",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "алдыга",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "окшош",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "жетектөө",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "тажрыйба",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "упай",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "алма",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "сатып алган",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "алып келди",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "чымкый",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "жүн",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "массалык маалымат",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "карта",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "банда",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "аркан",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "тайгалануу",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "жеңүү",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "түш",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "кечинде",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "абал",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "тамактануу",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "курал",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "жалпы",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "негизги",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "жыт",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "өрөөн",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "да,",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "эки эсе көп",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "отургуч",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "улантуу",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "тосуу",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "диаграмма",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "калпак",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "сатуу",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "ийгилик",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "компания",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "кемитүү",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "окуя",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "атап айтканда,",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "иш",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "сүзүү",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "мөөнөт",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "карама каршы",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "аял",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "бут кийим",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ийин",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "жайылуу",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "уюштуруу",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "лагерь",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "ойлоп",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "пахта",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "тубаса",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "белгилөө",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "өлчөм",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "тогуз",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "жүк ташуучу",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "ызы-чуу",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "деңгээл",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "учур",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "жыйноо",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "дүкөн",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "чоюу",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "ыргытуу",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "жарык",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "мүлк",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "колонна",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "молекуласы",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "тандоо",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "ката",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "боз",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "кайтолоо",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "талап кылуу",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "кенен",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "даярдоо",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "туз",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "мурун",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "көптөгөн",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "ачуулануу",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "талап",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "континент",
+      "englishWord": "continent"
+    }
+  ]
+}

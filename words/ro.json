@@ -1,0 +1,5007 @@
+{
+  "languageCode": "ro",
+  "languageName": "Romanian",
+  "languageNativeName": "Română",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "ca",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "eu",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "lui",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "că",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "el",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "a fost",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "pentru",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "pe",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "sunt",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "cu",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ei",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "fie",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "la",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "una",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "au",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "acest",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "de la",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "de",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "fierbinte",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "cuvânt",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "dar",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "ce",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "unele",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "este",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "ea",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "tu",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "sau",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "a avut",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "a făcut",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "de",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "la",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "și",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "o",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "în",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "noi",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "poate",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "afară",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "alte",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "au fost",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "care",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "face",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "lor",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "timp",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "dacă",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "va",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "cum",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "a declarat",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "o",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "fiecare",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "spune",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "nu",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "set",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "trei",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "vrea",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "aer",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "bine",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "De asemenea,",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "juca",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "mic",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "capăt",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "pune",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "home",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "citeste",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "mână",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "portul",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "mare",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "scrie",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "adăuga",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "chiar",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "teren",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "aici",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "must",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "mare",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "mare",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "astfel de",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "urma",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "act",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "de ce",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "cere",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "bărbați",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "schimbare",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "a mers",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "lumina",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "fel",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "de pe",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "nevoie",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "casă",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "imagine",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "încercați",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "ne",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "din nou",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "animal",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "punct",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "mamă",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "lume",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "în apropiere",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "construi",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "auto",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "pământ",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "tatal",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "orice",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "nou",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "locul de muncă",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "parte",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "ia",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "obține",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "loc",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "a făcut",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "trăi",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "unde",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "după",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "înapoi",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "mic",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "numai",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "rotund",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "om",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "an",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "a venit",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "spectacol",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "fiecare",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "bun",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "mi-",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "da",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "nostru",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "sub",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "nume",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "foarte",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "prin",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "doar",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "formă",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "propoziție",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "mare",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "cred",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "spune",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "ajuta",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "scăzut",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "linie",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "diferă",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "rândul său,",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "cauza",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "mult",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "Adică",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "înainte",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "mișcare",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "dreapta",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "băiat",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "vechi",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "prea",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "același",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ea",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "toate",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "acolo",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "când",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "în sus",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "utilizare",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "dumneavoastră",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "cale",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "despre",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "multe",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "apoi",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "lor",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "Trimite",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "ar",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "ca",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "așa",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "acestea",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ei",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "lung",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "face",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "lucru",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "vezi",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "l",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "două",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "are",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "uita-te",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "mai mult",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "zi",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "ar putea",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "merge",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "vin",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "a făcut",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "număr",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "sunet",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "nu",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "cel mai",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "oameni",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "meu",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "peste",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "cunoaște",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "de apă",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "decât",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "apel",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "primul",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "care",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "putea",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "jos",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "lateral",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "fost",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "acum",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "găsi",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "cap",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "stand",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "propriu",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "pagina",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "ar trebui",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "țară",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "găsite",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "răspuns",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "școală",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "crește",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "studiu",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "încă",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "învăța",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "plantă",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "capac",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "alimente",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "soare",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "patru",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "între",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "de stat",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "păstra",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "ochi",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "niciodată",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "trecut",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "lăsa",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "gând",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "oraș",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "copac",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "cruce",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "fermă",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "greu",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "Start",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "s-ar putea",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "poveste",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "ferăstrău",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "mult",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "mare",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "trage",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "stânga",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "târziu",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "a alerga",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "nu face",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "în timp ce",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "presă",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "aproape",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "noapte",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "reală",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "viață",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "puțini",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "nord",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "carte",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "efectueze",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "a luat",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "știință",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "mânca",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "cameră",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "prieten",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "început",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "idee",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "pește",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "munte",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "opri",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "dată",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "de bază",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "auzi",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "cal",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "cut",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "sigur",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "ceas",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "culoare",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "fata",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "lemn",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "principal",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "deschis",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "par",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "împreună",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "următor",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "alb",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "copii",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "începe",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "am",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "de mers pe jos",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "exemplu",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ușura",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "hârtie",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "grup",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "întotdeauna",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "muzica",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "aceste",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "atât",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "marcă",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "de multe ori",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "scrisoare",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "până la",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "milă",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "râu",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "masina",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "picioare",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "îngrijire",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "al doilea",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "suficient",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "simplu",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "fată",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "de obicei",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "tineri",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "gata",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "de mai sus",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "vreodată",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "roșu",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "lista",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "deși",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "simți",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "Discuție",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "pasăre",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "curând",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "corp",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "câine",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "familie",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "directe",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "pune",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "lăsa",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "cântec",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "măsura",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "ușă",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "produs",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "negru",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "scurt",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "numeral",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "clasă",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "vânt",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "întrebare",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "întâmpla",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "complet",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "navă",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "zona",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "jumătate",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "rocă",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "pentru",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "foc",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "sud",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problemă",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "bucată",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "a spus",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "Știam",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "trece",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "întrucât",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "top",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "întreg",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "rege",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "stradă",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "inci",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "multiplica",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "nimic",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "curs",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "ședere",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "roată",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "complet",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "vigoare",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "albastru",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "obiect",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "decidă",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "suprafață",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "adânc",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "luna",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "insulă",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "picior",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistem",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "ocupat",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "testare",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "înregistrare",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "barcă",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "comun",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "aur",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "posibil",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "avion",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "locul",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "uscat",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "întreb",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "râs",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "mie",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "în urmă",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "a fugit",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "verifica",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "joc",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "forma",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "echivala",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "fierbinte",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "adus",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "căldură",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "zăpadă",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "anvelope",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "aduce",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "da",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "îndepărtat",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "umple",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "est",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "vopsea",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "limbă",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "printre",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "unitate",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "putere",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "oraș",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "fin",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "sigur",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "zbura",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "cădea",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "plumb",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "strigăt",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "întuneric",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "mașină",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "notă",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "aștepta",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "planul de",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "figura",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "stele",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "cutie",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "substantiv",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "câmp",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "odihnă",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "corect",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "capabil",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "lire",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "terminat",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "frumusețe",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "unitate",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "stat",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "conțin",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "față",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "învăța",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "săptămână",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "finală",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "a dat",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "verde",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "rapid",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "dezvolta",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "oceanului",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "cald",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "liber",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minut",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "puternic",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "special",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "minte",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "în spatele",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "clar",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "coadă",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "produc",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "fapt",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "spațiu",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "a auzit",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "cel mai bun",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "oră",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "mai bine",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "adevărat",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "în timpul",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "sute de",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "cinci",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "amintiți-vă",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "pas",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "devreme",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "țineți",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "vest",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "teren",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "interes",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "ajunge",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "rapid",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "verbul",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "cânta",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "asculta",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "șase",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "masă",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "călătorie",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "mai puțin",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "dimineață",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "zece",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "simplu",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "mai mulți",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "vocală",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "spre",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "război",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "pune",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "împotriva",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "model",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "lent",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "centru",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "dragoste",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "persoană",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "bani",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "servi",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "apărea",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "rutier",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "harta",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "ploaie",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "regulă",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "guverna",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "trage",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "rece",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "Anunț",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "voce",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energie",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "vânătoare",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "probabil",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "pat",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "fratele",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ou",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "plimbare",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "celulă",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "cred",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "poate",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "alege",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "brusc",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "conta",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "pătrat",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "motiv",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "lungime",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "reprezintă",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "artă",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "subiect",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "regiune",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "dimensiunea",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "varia",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "rezolva",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "vorbi",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "greutate",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "generală",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "gheață",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "indiferent",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "cerc",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "pereche",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "includ",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "divide",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "silabă",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "simțit",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "mare",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "bilă",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "încă",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "val",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "picătură",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "inimă",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "sunt",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "prezent",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "grele",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "dans",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "motor",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "poziție",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "braț",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "larg",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "naviga",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materiale",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "fracțiune",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "pădure",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "sta",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "rasă",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "fereastră",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "magazin",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "vară",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "tren",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "somn",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "dovedi",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "singuratic",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "picior",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "exercițiu",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "perete",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "captură",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "montură",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "doresc",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "cer",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "bord",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "bucurie",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "iarnă",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "scris",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "sălbatic",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrumente",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "păstrate",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "sticlă",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "iarbă",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "vacă",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "muncă",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "margine",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "semn",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "vizita",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "trecut",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "moale",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "distracție",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "luminos",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gaz",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "Vremea",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "lună",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "milioane",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "poartă",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "finisaj",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "fericit",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "speranță",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "floare",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "îmbrăca",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "ciudat",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "plecat",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "comerț",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodie",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "excursie",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "birou",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "primi",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "rând",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "gura",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "exactă",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "simbol",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "muri",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "puțin",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "probleme",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "strigăt",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "cu excepția",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "scris",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "semințe",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "ton",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "se alăture",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "sugerează",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "curat",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "pauză",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "doamnă",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "curte",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "crește",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "rău",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "lovitură",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "ulei",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "sânge",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "atingeți",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "a crescut",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "sută",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "amesteca",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "echipa",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "sârmă",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "costul",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "pierdut",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "maro",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "uzură",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "grădină",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "egal",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "trimis",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "alege",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "căzut",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "potrivi",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "flux",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "corect",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bancă",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "colecta",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "salva",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "de control",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "zecimal",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "ureche",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "altceva",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "destul de",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "rupt",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "caz",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "de mijloc",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "ucide",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "fiu",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "lac",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "clipă",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "scară",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "tare",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "arc",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "observa",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "copil",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "drept",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "consoană",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "națiune",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "Dicționar",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "lapte",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "viteza",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "metoda",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "plăti",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "vârstă",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "secțiune",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "rochie",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "nor",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "surpriză",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "liniștit",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "piatră",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "minuscul",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "urcare",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "rece",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "proiectare",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "sărac",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "lot",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "experimentul",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "de jos",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "cheie",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "fier",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "singur",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "băț",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "plat",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "douăzeci",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "piele",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "zâmbet",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "cutelor",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "gaură",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "salt",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "copil",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "opt",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "sat",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "întâlni",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "rădăcină",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "cumpăra",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "ridica",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "rezolva",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "de metal",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "dacă",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "apăsare",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "șapte",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "punctul",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "a treia",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "trebuie",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "ținută",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "păr",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "descrie",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "bucătar",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "etaj",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "fie",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "rezultat",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "arde",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "deal",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "în condiții de siguranță",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "pisică",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "secol",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "ia în considerare",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "tipul",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "lege",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "coasta",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "copie",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "frază",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "tăcut",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "înalt",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "nisip",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "sol",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "rulou",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatură",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "deget",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "industrie",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "valoare",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "lupta",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "minciună",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "bate",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "excita",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "natural",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "vedere",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "sens",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "de capital",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "nu va",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "scaun",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "pericol",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "fructe",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "bogat",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "gros",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "soldat",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "proces",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "opera",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "practica",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "separată",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "dificil",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "medicul",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "vă rog",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "proteja",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "amiază",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "cultură",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "modernă",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "element",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "lovit",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "elev",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "colț",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "partid",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "aprovizionare",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "a cărui",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "localiza",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "inel",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "caracter",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "insectă",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "prins",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "perioada",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "indica",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "Radio",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "a vorbit",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atomul",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "uman",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "istorie",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "efect",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "electric",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "aștepta",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "os",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "feroviar",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "imagina",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "furniza",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "acord",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "astfel,",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "blând",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "femeie",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "căpitan",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "ghici",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "necesar",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "ascuțit",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "aripă",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "crea",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "vecin",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "spălare",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "liliac",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "destul",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "mulțime",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "porumb",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "compara",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "poezie",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "sir",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "clopot",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "depinde",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "carne",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "freca",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "tub",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "faimos",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dolarul",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "flux",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "frică",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "vedere",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "subțire",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "triunghi",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planetă",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "grabă",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "șef",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "colonie",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "ceas",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "a mea",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "cravată",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "intra",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "majoră",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "proaspăt",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "Cautare",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "trimite",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "galben",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "pistol",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "permite",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "print",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "mort",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "loc",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "deșert",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "costum",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "curent",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "lift",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "a crescut",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "ajunge",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "maestru",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "cale",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "părinte",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "țărm",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "divizare",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "foaie",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "substanță",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "favoriza",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "conecta",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "Mesaj",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "petrece",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "coardă",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "grăsime",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "bucuros",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "originală",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "acțiune",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "stație",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "tata",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "pâine",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "încărca",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "corespunzătoare",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "oferta",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segment",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "sclav",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "rață",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "instantaneu",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "piață",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "grad",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "popula",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "pui",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "draga",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "inamic",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "raspunde",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "băutură",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "avea loc",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "suport",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "discurs",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "natura",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "gama",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "abur",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "mișcare",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "cale",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "lichid",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "log",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "însemnat",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "coeficient",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "dinți",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "coajă",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "gât",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "oxigen",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "zahăr",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "moarte",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "destul de",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "calificare",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "femei",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "sezon",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "soluție",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnet",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "argint",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "multumesc",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "ramură",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "meci",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "sufix",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "mai ales",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "fig",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "speriat",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "uriaș",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "sora",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "oțel",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "discuta",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "înainte",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "similare",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "ghid",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "experiență",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "scor",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "măr",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "cumpărat",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "a condus",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "Pitch",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "strat",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "masa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "carte",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "band",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "frânghie",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "alunecare",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "victorie",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "vis",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "seară",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "condiție",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "hrana pentru animale",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "instrument",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "totală",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "de bază",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "miros",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "vale",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "nici",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "dublu",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "scaun",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "continua",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "bloc",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "diagramă",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "pălărie",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "vinde",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "succesul",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "compania",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "scădea",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "eveniment",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "special",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "afacere",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "înot",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "termen",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "opus",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "soție",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "pantof",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "umăr",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "răspândire",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "aranja",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "tabără",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "inventa",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "bumbac",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Născut",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "determina",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "quart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "nouă",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "camion",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "zgomot",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "nivel",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "șansă",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "aduna",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "magazin",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "întindere",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "arunca",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "strălucire",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "proprietate",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "coloana",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "moleculă",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "selectați",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "greșit",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "gri",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "repeta",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "necesita",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "larg",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "pregăti",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "sare",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "nas",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "plural",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "furie",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "revendicare",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "continentului",
+      "englishWord": "continent"
+    }
+  ]
+}

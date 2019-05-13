@@ -1,0 +1,5007 @@
+{
+  "languageCode": "la",
+  "languageName": "Latin",
+  "languageNativeName": "latine",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "ut",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "sum",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "eius",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "quod",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ipse",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "fuit",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "nam",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "in",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "sunt,",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "cum",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "illi",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "esse",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "at",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "unum",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "habent",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "hoc",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "de",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "by",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "calidum",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "verbo,",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "sed",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "quod",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "aliqua",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "est",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "quod",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "vos,",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "vel",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "quod",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "in",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "de",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "ut",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "et",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "a",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "in",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "nos",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "potest",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ex",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "alia",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "erant",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "quibus",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "facite",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "eorum",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "tempore",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "si",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "voluntas",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "quam",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "Dixitque",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "an",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "quisque",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "indica",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "quod",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "set",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "tribus",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "volo",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "aer,",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "etiam",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "etiam",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "fabula",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "parva",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "finem",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "posuit",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "domum",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "lego",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "manibus",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "portus,",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "magna",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "eamque",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "addunt",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "etiam",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "terra,",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "hic",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "necesse",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "magnum",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "princeps",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "talis",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "sequitur",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "actum,",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "quid",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "quaeris",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "homines",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "mutatio",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "abiit",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "lucem",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "quaedam",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "off",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "opus",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "domus",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "ipsum",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "tentant",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "nos",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "rursus",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "pecus",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "punctum",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "mater,",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "orbis",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "prope",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "ædificabis",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "ipsum",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "terra,",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "pater,",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "aliqua",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "novum",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "opus",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "pars,",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "accipe",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "adepto",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "pro eo",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "factum",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "vivo",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "ubi",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "postquam",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "rursus",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "parum",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "nisi",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "per",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "hominis",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "anno",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "factum",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "ostende",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "omnis",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "bonum,",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "me",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "dabit",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "nostrum",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "sub",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "nomen",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "ipsum",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "per",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "iustus",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "forma,",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "sententia",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "magna",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "puto",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "dicunt",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "adiuva",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "humilis,",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "line",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "differunt,",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "vicissim",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "causa,",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "tantum",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "significant",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "antequam",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "movemur",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "ius",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "puer,",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "Vetus",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "etiam",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "idem",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "quae",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "omnes",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "ibi",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "cum",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "ascendit",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "usus,",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "tuus",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "modo",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "de",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "multis",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "tunc",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "eorum",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "scribo",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "utinam",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "sicut",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "ita",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "haec",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "eius",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "longis",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "fac",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "aliquid",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "video",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "eo",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "duobus",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "habet",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "respice",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "more",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "die,",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "potuit",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "vade,",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "venit",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "Feceruntque",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "numerus",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "tuba canerent",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "nulla",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "maxime",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "populus,",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "mea",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "supra",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "scitis",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "aquam",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "quam",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "call",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "prima",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "qui,",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "ut",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "descendit",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "latere",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "fuit",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "nunc",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "invenies",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "caput,",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "stant",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "ipse",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "page",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "ut",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "patriae",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "invenit",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "dicendum,",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "scholae",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "crescat",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "studiorum",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "etiam",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "discant",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "herba",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "Cover",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "cibum",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "solis",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "quatuor,",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "inter",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "status",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "custodi",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "oculus",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "numquam",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "novissime",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "dimitte",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "cogitavit",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "urbem",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "lignum",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "transire",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "fundum",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "difficile",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "initium",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "ut",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "fabula",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "Viderunt omnes",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "tantum",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "mare,",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "hauriret",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "reliquit",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "quondam",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "currunt",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "non",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "cum",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "turba",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "proxime",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "noctis",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "ipsum",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "vita,",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "pauci",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "aquilonem",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "liber",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "ferte",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "tulit",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "scientia,",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "manducare",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "locus",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "amicitia",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "coeperunt",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "idea",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "pisces,",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "montem",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "subsisto",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "quondam",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "basi",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "audite",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "equo",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "sectis",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "certus",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "vigilate",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "colorem",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "faciem",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "lignum",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "main",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "aperi",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "videtur",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "simul",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "postero",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "album",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "filii",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "incipe",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "obtinuit",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "ambulate",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "exemplum",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "relevare",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "cartam",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "group",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "semper",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "musica",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "eorum",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "et",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "caracterem",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "saepe",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "litteris",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "usque",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "mille passuum",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "fluvio",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "car",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "pedes,",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "cura,",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "secundo",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "sufficit",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "patet,",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "puella",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "more",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "adulescens",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "parata",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "supra",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "in perpetuum",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "red",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "album",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "tametsi",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "sentio",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "Disputatio",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "avem",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "mox",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "corpus,",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "canem",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "familia",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "dirige",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "aut statum,",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "relinquo",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "canticum",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "metiretur",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "ostium",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "Vestibulum",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "nigrum",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "breves",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "numerales",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "class",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "spiritus",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "quaestio",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "fieri",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "completum",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "navem",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "area",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "dimidiam",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "petræ",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "ut",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "ignis,",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "austri",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "forsit",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "frustrum",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "nuntiavit",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "cognovit",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "factum",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "cum",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "top",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "omnis",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "rex,",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "platea",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "inch",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "multiplicabo",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "aliquid",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "scilicet",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "manete",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "rotam",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "pleni",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "vi",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "hyacintho",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "obiectum",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "decernere",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "superficies",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "abyssus",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "lunam",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "insulam,",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "pede",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "ratio",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "occupatus",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "aliquam",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "testimonium",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "navicula",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "commune",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "aurum,",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "potest",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "planum",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "pro eo",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "siccum",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "admiramini,",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "rideat",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "milia",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "ago",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "cucurrit,",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "reprehendo",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "ludum",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "figura",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "aequat",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "calidum",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "requisierit",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "adduxerunt",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "calor",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "nix,",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "piget",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "adducet",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "etiam",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "distant",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "imple",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "orientem",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "pingere,",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "lingua",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "in",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "unitas",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "potestatem",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "urbem",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "Postremo",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "quaedam",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "fuge",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "ceciderit",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "ducit",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "clamor",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "obscuro",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "apparatus",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "note",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "exspecta",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "consilium",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "figura,",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "stella,",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "box",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "noun",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "agro,",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "Reliqua",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "recte",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "potest",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "libra",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "factum",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "pulchritudo",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "coegi",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "stetit",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "continent,",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "ante",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "docebit",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "week",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "ultima",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "deditque",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "viridem",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "o",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "acutus",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "evolvere",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "oceanus",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "calidum",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "absque",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minute",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "confortare",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "peculiarem",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "animus",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "retro,",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "patet,",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "caudae",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "producere",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "eo",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "locus",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "audivit",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "optimum",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "hora,",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "melius",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "verum",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "per",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "centum",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "quinque,",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "memores",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "step",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "mane",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "tenent",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "occasu",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "terra,",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "interest",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "attingere",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "ieiunium,",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "verbo,",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "cantabo",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "audite",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "sex,",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "mensamque",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "peregrinationes",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "minor",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "mane,",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "decem",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "simplex,",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "plures",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "vocali,",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "in",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "bellum,",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "dormivitque",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "contra",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "exemplar,",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "tardus",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "centrum",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "amant",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "aliquis",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "pecuniam,",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "serviant",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "appareant",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "via,",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "tabula",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "pluviae",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "imperium",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "regunt",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "attrahendam",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "frigus,",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "Observate",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "vox",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "navitas",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "hunt",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "probabile",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "cubili",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "frater,",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ovum",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "ride",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "cell",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "Credere",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "forsan",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "colligunt",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "repentino",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "Numerabitis",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "quadratum",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "ideo",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "longitudinis",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "repraesentant,",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "art",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "subiectum",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "regionem",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "amplitudo",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "variant",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "habita",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "dicere",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "pondus,",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "generalis",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "glaciem,",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "materia",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "circulus",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "par",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "comprehendo",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "divide",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "syllabae",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "sensi",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "magnificum",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "pila,",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "sed",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "unda,",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "concrescunt",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "cor",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "sum",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "praesens",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "magna",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "chorea",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "engine",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "locus",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "brachium",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "wide",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "vela",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "material",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "fractionem",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "saltus",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "sedebitis",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "generis",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "fenestram",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "store",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "aestas",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "erant",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "somnum",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "probant",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "agitur,",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "leg",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "exercitium",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "murum",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "captiones",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "montem",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "volunt",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "caelum",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "tabulam",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "gaudium,",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "winter",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "scriptum",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "fera",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrumentum,",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "custodivit",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "vitro",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "fœnum",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "vitulus",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "officium",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "ore",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "signum",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "visit",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "past",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "molli",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "fun",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "splendidum",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "Vestibulum",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "tempestas",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "mense",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "million",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "ferre",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "peroratum",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "beati",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "spero",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "flos",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "induere",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "mirum",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "abiit",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "commercia",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodiam",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "trinus",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "officium",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "accipiet",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "row",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "os,",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "exactam",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "signum",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "mortuus",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "minimus",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "angustia",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "jubila",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "nisi",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "scripsit",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "semen,",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tone",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "iungere",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "suadeant",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "mundi",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "aspiret",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "dominae",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "navale",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "surgere",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "malum",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "ictus",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "olei",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "sanguis,",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "tangerent",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "crevit",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "cent",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "miscere,",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "bigas",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "wire",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "cost",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "perierat,",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "brunneis",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "induere",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "hortum",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "aequales",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "misit",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "elige",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "cecidit",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "apta",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "influunt",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "pulchrae",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "ripam",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "colligunt",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "salvum",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "imperium",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "decimales",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "aurem",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "aliud",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "prorsus",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "fregit,",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "ita",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "mediam",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "occides",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "filius,",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "stagnum",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "momento",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "statera",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "magna",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "ver",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "observa",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "puer",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "rectas",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "consonans",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "gentem",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "dictionary",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "lac,",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "celeritate",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "methodo",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organo,",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "redde",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "saeculi",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "section",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "habitus",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "nubes,",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "mirantique",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "quietum",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "lapis,",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "vegrandis",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "ascenditur",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "frigus",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "consilium",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "pauper,",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "multum",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "experimento",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "imo,",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "key",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "ferrum,",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "una",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "lignum",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "flat",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "viginti",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "pelle",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "risu",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "rimula",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "violet,",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "salire",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "Praesent",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "octo,",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "villa",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "concurrunt",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "radix",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "emptum",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "resuscitabo",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "solve",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "ferrum",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "sive",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "dis",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "septem,",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "paragraph",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "tertia",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "numquid",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "Posside",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "capillum",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "describere",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "cocus",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "pavimentum",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "aut",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "ex",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "comburet",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "tumulus",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "salvum",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "cat",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "century",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "considerate",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "type",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "legem",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "aliquam",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "litore",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "rescriptum",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "phrase",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "silentium",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "tall",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "arenam,",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "solum",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "volumen",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatus",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "digitus",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "industria",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "value",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "pugna",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "mendacium",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "percute",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "excitant,",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "naturalis",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "visum",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "sensum",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "capitale",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "nolo",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "cathedra",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "periculum,",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "fructus",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "dives",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "densa",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "miles,",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "aliquid",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "operantur,",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "praxi",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "separatum",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "difficile",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "medicus",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "obsecro,",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "protegat",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "meridies",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "seges,",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "modern",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "aliquid",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "ictus",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "discipulo",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "anguli",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "pars",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "copia",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "cuius",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "locant",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "orbis",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "character",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "insect",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "captus",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "tempus",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "indica",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radio",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "Locutusque",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atom",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "hominis",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "rerum",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "effectus",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "electrica",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "sperare",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "osse",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "cogitis",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "imaginari",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "praestare",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "conveniunt",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "ita",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "mitis",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "mulier,",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "dux",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "Suspicor",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "necesse",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "acutum,",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "alae",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "partum",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "proximus,",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "lava",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "Biblia",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "potius,",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "turba,",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "frumentum,",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "compare",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "poem",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "nervo",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "tintinnabulum",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "ex",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "cibum",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "fricabis",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "tube",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "celebre",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "pupa",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "fluvius",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "timore",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "visum",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "tenuis",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "triangulo",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planeta",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "festinate",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "princeps",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "coloniam",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "horologium",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "mea",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "tatem",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "intrant",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "major",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "recentes",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "quaerere",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "mitto",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "flavis",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "gun",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "sino",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "print",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "mortuus,",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "locum",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "deserto",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "sectam",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "current",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "vitae",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "surrexit",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "perveniunt",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "magister",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "semita",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "parente",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "litore",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "divisione",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "linteum",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "substantia",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "gratiam",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "Pertinent",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "post",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "expendas",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "chorda",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "adipem",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "gavisus",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "original",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "share",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "statio",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "Pater",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "panem",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "Testificor",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "proprium",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "offer",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segmentum",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "servus",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "anas,",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "instant",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "ipsum",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "gradum",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "frequentare",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "pullus",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "carissimi,",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "hostem",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "respondeo",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "potum",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "incididunt",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "auxilium",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "oratio",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "natura",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "range",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "vapor",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "motus",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "semita",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "liquidum",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "stipes",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "intelligantur",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "quotus",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "dentium",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "testa",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "cervicibus",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "dolor",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "sugar",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "mortem",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "bellum",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "peritia",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "mulieres,",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "tempore",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "solutio",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnes",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "argentum,",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "gratias",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "ramum",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "par",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "etiamne",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "maxime",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "fig",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "timere",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ingenti",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "soror",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "ferrum,",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "disputant",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "et deinceps",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "simile",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "dirige",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "experientiam,",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "Octoginta",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "pupillam",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "emptum",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "ductus",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "picem",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "tunica",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "missa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "pecto",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "cohors",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "fune",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "labente",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "vincere",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "somniatis",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "ad vesperum",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "condicionis",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "pascuntur",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "ferramentum",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "totalis",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "prima",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "olfactus",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "vallis",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "neque",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "duplex",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "cathedra",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "perseverant",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "clausus",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "cursus",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "hat",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "vende,",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "successu",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "comitatu",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "Auferatur",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "eventus",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "particularis",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "multum",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "natant",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "term",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "oppositi",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "uxorem",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "calceum",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "umero",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "expandit",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "disponere,",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "castra",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "confingunt",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "bombicis",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "natus,",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "statuere",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "quart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "novem,",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "dolor",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "sonus",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "plana",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "forte",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "congregate",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "taberna",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "tractum",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "mittite",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "luceat",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "proprietate",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "column",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "moleculo",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "eligere,",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "iniuriam",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "gray",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "iterum",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "requirunt",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "lata,",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "praeparabit",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "sal,",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "nasum",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "plural",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "iratus",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "clamium",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "continentem,",
+      "englishWord": "continent"
+    }
+  ]
+}

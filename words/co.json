@@ -1,0 +1,5007 @@
+{
+  "languageCode": "co",
+  "languageName": "Corsican",
+  "languageNativeName": "corsu",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "cum’è",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "I",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "u so",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "chì",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ellu",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "fù",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "di",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "nantu",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "sò",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "cù",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "si",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "essa",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "à",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "unu",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "avè",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "issu",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "da",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "par",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "cavura",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "parulla",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "ma",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "Ce",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "certi",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "hè",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "hè",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "tu",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "o",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "avia",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "l",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "di",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "à",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "e",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "un",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "in",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "avemu",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "pò",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "fora",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "lucca",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "eranu",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "chì",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "fà",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "i so",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "tempu",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "si",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "sarà",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "quantu",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "dissi",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "un",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "ognunu",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "dì",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "ùn",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "ghjocu",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "tre",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "vuliti",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "aria",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "bè",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "ancu",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "ghjucà",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "picculu",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "fini",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "mintiri",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "casa",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "leghje",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "manu",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "portu",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "grossu",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "scriviri",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "aggiungere",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "mancu",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "paese",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "ccà",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "ci vole",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "tette",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "altu",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "tali",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "seguitate",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "attu",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "perchè",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "dumandà",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "l ‘omi",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "cambiamentu",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "si n’andò",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "di luce",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "curtisi",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "cumming",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "bisognu",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "Gîte",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "ritrattu",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "pruvà",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "noi",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "di novu",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "animale",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "puntu",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "mamma",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "mondu",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "vicinu",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "custruisce",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "autuditirminazzioni",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "terra",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "babbu",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "qualunqui",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "novu",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "travagliu",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "parte",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "piglià",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "arrivare",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "postu",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "fattu",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "campà",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "induva",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "dopu à",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "ritornu",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "pocu",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "solu",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "intornu",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "omu",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "annu",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "ghjuntu",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "spettacolo",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ogni",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "bene",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "à mè",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "dà",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "u nostru",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "sottu",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "Cognome",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "assai",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "attraversu",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "ghjustu",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "furmulariu",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "filaru",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "perfettu",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "E pinsari",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "dì",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "aiutu",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "suttana",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "linia",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "differ",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "turnu",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "a causa",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "tantu",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "dì",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "nanzu",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "muvimentu",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "diritta",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "carusu",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "vecchio",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "troppu",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "listessu",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "hà",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "tuttu",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "ùn ci",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "quannu",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "l",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "‘usu",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "vostri",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "modu",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "circa",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "assai",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "allura",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "elli",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "scrivemu",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "avissi",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "cum’è",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "tantu",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "chisti",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "u so",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "tantu",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "fà",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "cosa",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "vidi",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "ellu",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "due",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "hà",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "circà",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "di più",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "ghjornu",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "puteva",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "andà",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "ghjuntu",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "fattu",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "nùmeru",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "sonat",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "innò",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "più",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "populu",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "u mo",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "nantu",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "cunnosce",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "acqua",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "cà",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "d",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "primu",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "chì",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "Maghju",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "falà",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "cantu",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "statu",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "oghji",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "truvà",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "testa",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "tèniti",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "so",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "pagina",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "avissi",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "paese",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "truvonu",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "risposta",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "la scola",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "crisciri",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "studiu",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "ancora,",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "amparà",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "pianta",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "cupertine, iamme",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "pastu",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "soli",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "quattru",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "trà",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "statu",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "teniri",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "ochju",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "mai",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "cognomi",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "chì",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "pinsau",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "a cità",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "àrbulu",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "travancà",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "agricula",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "aspra",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "Partendu",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "forsi",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "storia",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "vide",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "luntanu",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "mari",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "piglià",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "manca",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "tardu",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "scappu",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ùn",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "mentri",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "Paolino",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "chiudi",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "notte",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "etrusca",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "a vita",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "Qualchi",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "nordu",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "librettu",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "purtarla",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "pigghiò",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "scienzi",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "Mangiare",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "cammara",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "amicu",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "accuminzau",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "‘idea",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "pesciu",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "muntagna",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "firmavanu",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "una volta",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "suttastratu",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "state à sente",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "cavallo,",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "verso",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "di sicuru",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "fighjulà",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "culore",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "faccia",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "legnu",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "principale",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "apartu",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "parenu",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "nsemmula",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "prossimu",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "biancu",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "i zitelli",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "comincia",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "A te",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "marchjà",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "esempiu",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "cappella",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "carta",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "gruppu",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "sempri",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "musica",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "quelli",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "tremindù",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "Marque",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "spissu",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "lettera",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "finu",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "chilometru",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "fiume",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "vittura",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "pedi",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "Skin",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "sicondu",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "bastassi",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "piaghja",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "figghjola",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "cinquinu",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "ghjovanu",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "pronta",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "sopratuttu",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "eternu",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "rossu",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "lists",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "sippuru",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "sentimu",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "conversazione",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "acellu",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "prestu",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "corpu",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "ghjacaru",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "a famiglia",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "direttu",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "Suspect",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "lasciarà",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "cantu",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "misurari",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "av",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "pruduttu",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "neru",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "cortu",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "maître",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "burghisìa",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "ventu",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "quistioni",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "succede",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "cumpleta",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "battellu",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "spaziu",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "mitati",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "scogliu",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "pà",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "lu focu",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "sudu",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "prublemu",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "pezzu",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "dittu",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "canuscia",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "passani",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "siccomu",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "cima",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "interu",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "re",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "carrughju",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "inches",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "multiplica",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "nunda",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "corsu",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "dormir",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "ruota",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "chinu",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "forza",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "turchinu",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "ughjettu",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "esaminà",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "superficia",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "abissu",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "luna",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "isula",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "pede",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistema",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "occupato",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "francese test",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "discugràfica",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "in barca",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "cumuni",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "oru",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "pussìbbili",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "n’aeriu",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "inveças",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "asciuttu",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "C’avissi",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "prêt",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "milla",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "fa",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "corse",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "cuntrolla",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "ghjocu",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "furma",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "equate",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "cavura",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "ilu",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "purtaru",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "u caldu",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "neve",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "Pneus",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "purtà",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "iè",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "luntanu",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "Ne Scurdà",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "este",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "dipinze",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "lingua",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "à mezu à",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "unità",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "lu putiri",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "ville",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "a grana",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "certu",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "vulari",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "innamurà",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "cumannari",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "chianciti",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "scure",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "màcchina",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "vascia",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "aspittari",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "pianu",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "figura",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "stella",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "scatula",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "nome",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "chjosu",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "sicretu",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "aggalabbata",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "in gradu",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "mina",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "fattu",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "biddizzi",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "fundale",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "firmonu",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "cuntena",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "fronte,",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "insegni",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "settimana",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "finali",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "detti",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "verde",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "Oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "taliatura",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "elaburà",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "marina",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "callu",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "senza",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minutu",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "forti",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "spiciali",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "cuntata",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "daretu à",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "chjaru",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "cuda",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "prudùcinu",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "Difatti",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "u spaziu",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "ntisi",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "migliori",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "ora",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "megghiu",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "vera",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "duranti",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "centu",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "cinque",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "sapere",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "passu",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "principiu",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "chjappà",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "oeste",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "nterra",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "intaressu",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "ghjugna",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "viloci",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "verbo",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "canta u populu",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "canta",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "sei",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "tàvula",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "In viaghju",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "menu",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "mane",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "deci",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "sèmplice",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "parechji",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "vucali",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "versu",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "a guerra",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "mittaraghju",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "contru à",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "mintali",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "lentu",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "centre",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "àmanu",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "persona",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "soldi",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "servinu",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "cumpariri",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "stradale",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "Mappa",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "arcusgi",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "règula",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "cuvirnari",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "intenzioni",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "imbernu",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "esaudita",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "vuci",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "enirgia",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "caccià",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "di gattiva",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "etichettatura",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "fratellu",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ovu",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "accriscimentu",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "cellula",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "cridite",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "forsi",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "coglie",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "issu",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "contani",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "quatratu",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "raghjoni",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "lunghezza",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "chjare",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "arte",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "sughjettu",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "righjoni",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "grannizza",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "varianu",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "praticà",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "parlà",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "misfattu",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "generale",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "Ghiaccio",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "a materia",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "chjerchju",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "paru",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "Mappa satellitare",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "si spartunu",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "sillabba",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "si ‘ntisi",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "prugettu",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "palla",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "added",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "suddisfava",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "lintà",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "lu cori",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "sugnu",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "prisente",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "pisanti",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "ballari",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "search engine",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "pusizioni",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "bracciu",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "larga",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "navigheghja",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "a materia",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "Fraction",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "foresta",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "occupà",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "a punti",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "fenêtre",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "magazzini",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "‘estate",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "treno",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "scoprinu",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "determinà",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "sulitariu",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "gamma",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "teacher",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "parete",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "caccia",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "muntagna",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "vulete",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "celu",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "bordu",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "aligria",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "inguernu",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "assittatu",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "scrittu",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "salvaticu",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "strumentu",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "mantinutu",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "biccheri",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "erba",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "mucca",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "travagghiu",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "arice",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "scritta",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "ìsita",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "passatu",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "chjara",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "Fun",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "luminosu",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "a gas",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "camping",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "mese",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "miliuna",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "ceppu",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "arrivata",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "cuntenti",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "speru",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "fiore",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "clothe",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "attitudina",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "stilettu",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "prufissioni",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "Quandu",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "viaghju",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "ufficiu",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ricìviri",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "n’angulu",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "bocca",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "esattu",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "simmulu",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "mori",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "omancu",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "datti",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "Populu",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "francu",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "cavallu",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "sumente",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tonu",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "raghjugna",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "laga",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "lavagna",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "ruttura",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "signura",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "iarda",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "ricuddà",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "goffe",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "pugnu",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "ogghiu",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "u sangue",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "tuccari",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "crisciutu",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "centu",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "mmiscari",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "a squatra",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "panze",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "costu",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "persu",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "marrone",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "If",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "‘ortu",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "paru",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "mandatu",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "sceglia",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "cadiu",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "jìssi",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "purtata",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "feri",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "banque",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "vincite",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "sarvari",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "cuntrollu",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "decimali",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "arechja",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "altru",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "sosula",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "rumpiu",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "casu",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "mezzu",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "caccialli",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "figliolu",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "lago",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "memoria",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "scala",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "Populu",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "primavera",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "osservanu",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "zitellu",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "drittu drittu",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "cunzunanti",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "a nazione",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "Traduzione",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "u latti",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "vilucitati",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "mètudu",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organi",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "paiari",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "etati",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "rùbbrica",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "Rochie",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "nuvola",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "maravigghia",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "tranquillu",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "petra",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "Petricaghju",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "foie gras",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "cool",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "cuncezzione",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "mischinu",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "mori",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "sperimentu",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "fondu",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "chiavi",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "ferru",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "sìngulu",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "bastone,",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "appartamentu",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "venti",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "coghju",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "sorrisu",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "dlani",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "pirtusu",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "santari",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "zitellu",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "ottu",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "paesu",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "sìmula",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "ràdica",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "accattari",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "addivà",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "cambiamentu",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "di metallu",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "agghicaru",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "totta",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "sette",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "comma",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "terzu",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "sarà",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "guardata",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "capiddi",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "numaru di",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "cuocu",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "pianu",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "manifisteghja",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "risurtatu",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "brusgia",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "cullina",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "sicuru",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "gattu",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "seculu",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "cunziddirati",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "activité",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "ghjustizia",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "pocu",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "aggrottu",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "esemplariu",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "scritta",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "zittu",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "aeriana",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "sabbia",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "pratu",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "tambour",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatura",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "iditu",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "nnustria",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "valuri",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "cummattimentu",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "minzogna",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "Susanu",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "passiuneghjani",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "naturale",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "vista",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "asempiu",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "capilocu",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "ùn sarà",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "catedra",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "periculu",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "fruttu",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "ricca",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "bilingui",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "surdatu",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "prucessu",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "upirari",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "ghjuvevule",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "siparati",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "difficiule",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "medico",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "per piacè",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "pruteghje",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "a sesta",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "culturi",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "mudernu",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "elimentu",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "schjaccià",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "studiente",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "munnizza",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "partitu",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "branch",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "quale",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "Piatra",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "anellu",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "parsunaghju",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "insecte",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "fuòru pigghiàti",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "piriudu",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "indicanu",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radiu",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "parlava",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atomu",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "umanu",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "storia",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "effettu",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "ilettricu",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "m’aspettu",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "elle",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "ferrovie",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "à pensà",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "furnissi",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "affattu",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "cusì",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "ï¿½",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "donna",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "cummandante",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "Devi essa",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "nicissariu",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "souffle",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "cantu",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "criari",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "prossimu",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "artigianali",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "BAT",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "piuttostu",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "ghjente",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "di granu",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "parauni",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "puema",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "catena",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "ghjuva",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "addipenni",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "manghjà",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "Pascale",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "tubu",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "cèlibbri",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "carenza",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "bracciu",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "Titre",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "a vista",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "sperimentu",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "triangulu",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "pianeta",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "fala",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "u capu",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "culonia",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "roggiu",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "a meia",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "cravatta",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "inserisce",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "maiò",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "freschi",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "local",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "mandà",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "ghjallu",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "cannone",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "auturizà",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "stampa",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "mortu",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "picu",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "u disertu",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "vistitu",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "tirritòriu",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "ascenseur",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "s’arrizzò",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "ghjunghja",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "patruni",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "pista",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "female",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "riva",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "classa",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "fogghiu",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "sustanza",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "pusitivamenti",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "cunnette",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "articulu",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "accadi",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "bascule",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "grassu",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "viulinu",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "urighjinariu",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "sparte",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "stazione",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "sora",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "u pane",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "in prigiò",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "n’aducazzioni",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "barra",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "offerta",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "linìa",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "schiavu",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "anatra",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "un mumentu",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "mercatu",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "fùria",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "ghìnchinu",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "pulcino",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "caru",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "nimicu",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "rispondi",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "vivu",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "ghjughjenu",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "sustegnu",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "discorsu",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "a natura",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "catalogu",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "vapuri",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "rimusciu",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "stradellu",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "liquidu",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "Scie à",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "cambiata",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "quotient",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "dìanti",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "conchiglia",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "collu",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "ossigenu",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "zùccaru",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "a morte",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "bellucciu",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "aptitude",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "donne",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "staghjoni",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "definitivu",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "calamita",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "arghjentu",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "ringraziu",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "Parus",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "scintilla",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "suffissu",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "soprattuttu",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "fico",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "A paura",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "grannissimi",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "surella",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "acciaio",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "discurremu",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "francescon",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "listessu",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "avvià",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "espirienza",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "spartitu",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "mela",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "accattò",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "cundottu",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "inchiostru",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "stemma",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "di massa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "Card",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "à ruban",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "corda",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "maîtrise",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "Win",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "sognu",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "sera",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "cundizione",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "alimenti",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "cuntzertu",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "tutali",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "funnamintali",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "ciavuru",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "piaghja",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "nè",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "doppia",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "pusatoghju",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "cuntinuvà",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "pacchettu",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "cuadru",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "appeddu",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "vendenu",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "a riescita",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "cumpagnia",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "scassinatore",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "eventu",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "particulari",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "usure",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "cacciucco",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "termine",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "upposta",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "moglia",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "scarpa",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "spalla",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "si diffunnìu",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "acconcianu",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "truppa",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "scuprianu",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "cuttuni",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "natu",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "ditarminendu",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "litru",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "nove",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "Camion",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "vucciria",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "livellu",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "casu",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "vinianu",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "Shop",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "striscia",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "graputi",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "beddhu",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "a pruprietà",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "coluna",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "mulècula",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "selezziunà",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "sbagghiatu",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "grisgiu",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ripetiri",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "vurrà",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "fisico",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "priparari",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "sali",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "nasu",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "singular",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "còllera",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "sustennu",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "cuntinenti",
+      "englishWord": "continent"
+    }
+  ]
+}

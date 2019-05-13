@@ -1,0 +1,5007 @@
+{
+  "languageCode": "hu",
+  "languageName": "Hungarian",
+  "languageNativeName": "magyar",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "mint",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "I",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "övé",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "hogy",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ő",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "volt",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "a",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "szóló",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "vannak",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "-val",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ők",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "lehet",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "meg",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "egy",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "van",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "ezt",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "a",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "által",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "forró",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "szó",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "de",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "milyen",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "néhány",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "az",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "azt",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "Ön",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "vagy",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "volt",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "az",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "a",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "hogy",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "és",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "ügynökség",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "itt",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "mi",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "lehet",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ki",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "más",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "voltak",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "amely",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "csinálni",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "ezek",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "idő",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "ha",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "fog",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "hogyan",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "mondta",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "egy",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "minden",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "mondd meg",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "nem",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "készlet",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "három",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "akar",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "levegő",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "jól",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "is",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "játék",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "kicsi",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "end",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "tesz",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "otthon",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "olvas",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "kézi",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "porton",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "nagy",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "varázslat",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "hozzáad",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "még",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "föld",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "itt",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "kell",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "nagy",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "nagy",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "ilyen",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "kövesse",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "felvonás",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "miért",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "kér",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "férfiak",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "változás",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "ment",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "fény",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "kedves",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "le",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "szükség",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "ház",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "kép",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "próbálja",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "nekünk",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "újra",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "állat",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "pont",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "anya",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "világ",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "közel",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "épít",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "self",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "Föld",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "apa",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "bármilyen",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "új",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "munka",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "rész",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "hogy",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "kap",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "hely",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "készült",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "él",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "ahol",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "után",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "vissza",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "kis",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "csak",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "kerek",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "férfi",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "év",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "jött",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "előadás",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "minden",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "jó",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "nekem",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "ad",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "mi",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "alatt",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "név",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "nagyon",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "keresztül",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "csak",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "űrlap",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "mondat",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "nagy",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "gondol",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "mondjuk",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "segítség",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "alacsony",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "vonal",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "különböznek",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "viszont",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "ok",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "sokkal",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "átlagos",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "előtt",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "lépés",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "jobb",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "fiú",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "régi",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "túl",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "ugyanaz",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ő",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "minden",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "ott",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "amikor",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "up",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "használat",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "Ön",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "út",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "körülbelül",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "sok",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "akkor",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "őket",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "ír",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "lenne",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "hasonló",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "így",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "ezeket",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ő",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "hosszú",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "hogy",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "dolog",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "lásd",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "neki",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "két",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "van",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "néz",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "több",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "nap",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "tudott",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "megy",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "jön",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "tett",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "szám",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "hang",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "nincs",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "legtöbb",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "emberek",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "én",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "át",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "tudja",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "víz",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "mint",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "hívás",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "első",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "aki",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "lehet",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "lefelé",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "oldal",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "volt",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "jelenleg",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "talál",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "fej",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "állvány",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "saját",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "oldal",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "kellene",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "ország",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "talált",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "válasz",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "iskola",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "nő",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "tanulmány",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "még mindig",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "tanul",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "növény",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "fedél",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "étel",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "nap",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "négy",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "között",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "állami",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "tart",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "szem",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "soha",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "utolsó",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "legyen",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "gondolat",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "város",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "fa",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "kereszt",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "gazdasági",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "kemény",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "kezdet",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "talán",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "történet",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "fűrész",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "messze",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "tenger",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "felhívni",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "balra",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "késő",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "fuss",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "nem",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "míg",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "sajtó",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "szoros",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "éjszaka",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "valóságos",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "élet",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "kevés",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "északi",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "könyv",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "visz",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "vett",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "tudomány",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "eszik",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "szoba",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "barát",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "kezdődött",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ötlet",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "hal",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "hegyi",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "megáll",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "egyszer",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "alap",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "hall",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ló",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "vágás",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "biztos",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "karóra",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "szín",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "arc",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "fa",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "fő",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "nyitott",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "látszik",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "együtt",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "következő",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "fehér",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "gyerekek",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "kezdődik",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "kapott",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "séta",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "példa",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "könnyű",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "papír",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "csoport",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "mindig",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "zene",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "azok",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "mindkét",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "jel",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "gyakran",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "levél",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "míg",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "mérföld",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "folyó",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "autó",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "láb",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "gondoskodás",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "második",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "elég",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "sima",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "lány",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "szokásos",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "fiatal",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "kész",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "felett",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "valaha",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "piros",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "lista",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "bár",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "úgy érzi,",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "beszélgetés",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "madár",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "hamar",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "test",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "kutya",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "család",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "közvetlen",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "jelent",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "elhagy",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "dal",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "intézkedés",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "ajtó",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "termék",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "fekete",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "rövid",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "szám",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "osztály",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "szél",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "kérdés",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "történik",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "teljes",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "hajó",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "terület",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "fél",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "kő",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "rendelés",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "tűz",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "délre",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "probléma",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "darab",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "mondta",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "tudta",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "át",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "óta",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "felső",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "egész",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "király",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "utca",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "hüvelyk",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "szaporodnak",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "semmi",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "tanfolyam",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "marad",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "kerék",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "teljes",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "erő",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "kék",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "tárgy",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "dönt",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "felület",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "mély",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "hold",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "sziget",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "láb",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "rendszer",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "elfoglalt",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "teszt",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "rekord",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "hajó",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "közös",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "arany",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "lehetséges",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "repülőgép",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "helyett",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "száraz",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "csoda",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "nevetés",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "ezer",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "ezelőtt",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "futott",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "ellenőrizze",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "játék",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "forma",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "egyenlővé",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "forró",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "hozott",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "hő",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "hóban",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "gumiabroncs",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "hoz",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "igen",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "távoli",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "töltse",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "Kelet",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "festék",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "nyelv",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "között",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "egység",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "teljesítmény",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "város",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "finom",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "bizonyos",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "légy",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "esik",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "vezet",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "kiáltás",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "sötét",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "gép",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "hangjegy",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "várjon",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "terv",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "ábra",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "csillag",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "doboz",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "főnév",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "mező",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "pihenés",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "helyes",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "képes",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "font",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "Kész",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "szépség",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "meghajtó",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "állt",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "tartalmaz",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "első",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "tanít",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "hét",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "utolsó",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "adott",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "zöld",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "gyors",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "fejleszt",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "óceán",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "meleg",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "ingyenes",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "perc",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "erős",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "speciális",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "elme",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "mögött",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "világos",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "farok",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "termel",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "tény",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "hely",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "hallott",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "legjobb",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "óra",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "jobb",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "igaz",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "alatt",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "száz",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "öt",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "emlékezik",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "lépés",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "korai",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "tartsa",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "west",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "föld",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "kamat",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "elérni",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "gyors",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "ige",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "énekel",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "hallgat",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "hat",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "táblázat",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "utazás",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "kevesebb",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "reggel",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "tíz",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "egyszerű",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "több",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "magánhangzó",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "felé",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "háború",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "világi",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "ellen",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "minta",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "lassú",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "központ",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "szerelem",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "személy",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "pénz",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "szolgál",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "jelenik meg",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "út",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "térkép",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "eső",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "szabály",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "kormány",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "húzza",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "hideg",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "értesítés",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "hang",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energia",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "vadászat",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "valószínű",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "ágy",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "testvér",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "tojás",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "út",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "sejt",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "hisz",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "talán",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "vegye",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "hirtelen",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "számol",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "tér",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "ok",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "hossz",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "képviseli",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "művészet",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "téma",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "terület",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "méret",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "változik",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "rendezni",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "beszél",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "súly",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "általános",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "jég",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "kérdés",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "kör",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "pár",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "többek között",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "szakadék",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "szótag",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "úgy érezte,",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "nagy",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "labda",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "még",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "hullám",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "csepp",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "szív",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "jelenlegi",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "nehéz",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "tánc",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "motor",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "pozíció",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "kar",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "széles",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "vitorla",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "anyagi",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "frakció",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "erdő",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "ül",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "verseny",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "ablak",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "üzlet",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "nyár",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "vonat",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "alvás",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "bizonyít",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "magányos",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "láb",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "gyakorlat",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "fal",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "fogás",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "tartó",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "szeretnék",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "ég",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "tábla",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "öröm",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "tél",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "ült",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "írott",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "vad",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "eszköz",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "tartott",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "üveg",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "fű",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "tehén",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "munka",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "él",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "jel",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "látogatás",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "múlt",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "puha",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "tréfa",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "fényes",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gáz",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "Időjárás",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "hónap",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "millió",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "medve",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "befejez",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "boldog",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "remény",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "virág",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "öltöztet",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "furcsa",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "elmúlt",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "kereskedelem",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "dallam",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "utazás",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "iroda",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "kap",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "sor",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "száj",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "pontos",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "szimbólum",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "meghal",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "legkevésbé",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "baj",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "kiáltás",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "kivéve",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "írta",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "mag",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tónus",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "csatlakozik",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "javasol",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "tiszta",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "szünet",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "hölgy",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "udvar",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "emelkedik",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "rossz",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "csapás",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "olaj",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "vér",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "érintés",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "nőtt",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "cent",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "mix",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "csapat",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "drót",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "költség",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "elveszett",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "barna",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "kopás",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "kert",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "egyenlő",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "küldött",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "választani",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "esett",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "megfelelő",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "folyik",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "vásár",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bankot",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "gyűjt",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "kivéve",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "vezérlés",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "decimális",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "fül",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "más",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "egészen",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "tört",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "ügy",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "középső",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "megöl",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "fiú",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "tó",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "pillanat",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "skála",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "hangos",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "tavasz",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "tartsa",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "gyermek",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "egyenes",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "mássalhangzó",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "nemzet",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "szótár",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "tej",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "sebesség",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "módszer",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "orgona",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "fizet",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "életkor",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "rész",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "ruha",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "felhő",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "meglepetés",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "csendes",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "kő",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "apró",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "mászás",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "hűvös",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "tervezés",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "szegény",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "sok",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "kísérlet",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "alsó",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "kulcs",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "vas",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "egyetlen",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "bot",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "lapos",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "húsz",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "bőr",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "mosoly",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "ránc",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "lyuk",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "ugrás",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "baba",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "nyolc",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "falu",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "találkozik",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "gyökér",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "vásárolni",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "fel",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "megoldani",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "fém",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "akár",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "nyomja",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "hét",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "bekezdés",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "harmadik",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "kell",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "tartotta",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "haj",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "leírni",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "szakács",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "emelet",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "vagy",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "eredmény",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "éget",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "hegy",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "biztonságos",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "macska",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "század",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "figyelembe",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "típus",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "törvény",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "tengerpart",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "másolat",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "kifejezés",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "csendes",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "magas",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "homok",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "talaj",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "tekercs",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "hőmérséklet",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "ujj",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "ipar",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "érték",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "harc",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "hazugság",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "üt",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "gerjeszti",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "természetes",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "nézet",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "értelme",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "tőke",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "nem fog",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "szék",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "veszély",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "gyümölcs",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "gazdag",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "vastag",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "katona",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "folyamat",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "működik",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "gyakorlat",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "külön",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "nehéz",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "orvos",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "kérem",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "védelme",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "dél",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "termés",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "modern",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "elem",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "hit",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "diák",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "sarok",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "fél",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "ellátás",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "akinek",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "elhelyez",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "gyűrű",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "betű",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "rovar",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "fogott",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "időszak",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "azt mutatják,",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "rádió",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "küllős",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atomnak",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "emberi",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "történelem",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "hatás",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektromos",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "vár",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "csont",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "sín",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "képzelni",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "hogy",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "egyetért",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "így",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "szelíd",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "nő",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapitány",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "gondolom",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "szükséges",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "éles",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "szárny",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "teremt",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "szomszéd",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "mosás",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "denevér",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "inkább",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "tömeg",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "kukorica",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "összehasonlítása",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "vers",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "húr",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "Bell",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "függ",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "hús",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "dörzsölje",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "cső",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "híres",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dollárral",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "folyam",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "félelem",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "látvány",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "vékony",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "háromszög",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "bolygó",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "siess",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "főnök",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "kolónia",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "óra",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "az enyém",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "nyakkendő",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "be",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "nagyobb",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "friss",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "keresés",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "küld",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "sárga",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "pisztoly",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "hogy",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "nyomtatás",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "halott",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "folt",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "sivatag",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "öltöny",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "jelenlegi",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "lift",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "rózsa",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "megérkezik",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "gazda",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "pálya",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "szülő",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "part",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "osztás",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "ív",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "anyag",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "előnyben",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "összekapcsol",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "posta",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "költ",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "akkord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "zsír",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "boldog",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "eredeti",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "részvény",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "állomás",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "apa",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "kenyér",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "díj",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "megfelelő",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bár",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "kínálat",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "szegmens",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "rabszolga",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "kacsa",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "azonnali",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "piac",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "fok",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "benépesít",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "csaj",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "kedves",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "ellenség",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "válasz",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "ital",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "előfordul",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "támogatás",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "beszéd",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "természet",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "tartomány",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "gőz",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "mozgás",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "út",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "folyadék",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "log",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "jelentett",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "hányados",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "fogak",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "kagyló",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "nyak",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "oxigén",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "cukor",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "halál",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "szép",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "készség",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "nők",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "szezon",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "megoldás",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "mágnes",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "ezüst",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "köszönöm",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "ág",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "mérkőzés",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "utótag",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "különösen",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "füge",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "fél",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "hatalmas",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "nővére",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "acél",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "megvitassák",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "előre",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "hasonló",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "útmutató",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "tapasztalat",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "pontszám",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "alma",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "vásárolt",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "vezetett",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "pályán",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "kabát",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "tömeg",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kártya",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "zenekar",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "kötél",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "csúszás",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "győzelem",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "álom",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "este",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "állapot",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "etet",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "eszköz",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "teljes",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "alapvető",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "szag",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "völgy",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "sem",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "dupla",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "ülés",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "tovább",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "blokk",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "chart",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "kalap",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "elad",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "siker",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "társaság",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "levon",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "esemény",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "különös",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "üzlet",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "úszás",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "kifejezés",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "szemben",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "feleség",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "cipő",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "váll",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "terjedését",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "intézkedik",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "tábor",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "feltalál",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "pamut",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "születése",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "határozza meg",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "liter",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "kilenc",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "teherautó",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "zaj",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "szint",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "esély",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "gyűjt",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "üzlet",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "szakaszon",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "dobja",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "ragyog",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "ingatlan",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "oszlop",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekula",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "válassza",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "rossz",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "szürke",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ismétlés",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "szükség",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "széles",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "előkészítése",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "só",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "orr",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "többes",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "harag",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "igény",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontinens",
+      "englishWord": "continent"
+    }
+  ]
+}

@@ -1,0 +1,5007 @@
+{
+  "languageCode": "vi",
+  "languageName": "Vietnamese",
+  "languageNativeName": "Tiếng Việt",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "như",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "tôi",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "mình",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "mà",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ông",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "là",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "cho",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "trên",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "là",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "với",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "họ",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "được",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "tại",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "một",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "có",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "này",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "từ",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "bởi",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "nóng",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "từ",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "nhưng",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "những gì",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "một số",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "là",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "nó",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "anh",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "hoặc",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "có",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "các",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "của",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "để",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "và",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "một",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "trong",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "chúng tôi",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "có thể",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ra",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "khác",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "là",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "mà",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "làm",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "của họ",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "thời gian",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "nếu",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "sẽ",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "như thế nào",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "nói",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "một",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "môi",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "nói",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "không",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "bộ",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "ba",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "muốn",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "không khí",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "cũng",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "cũng",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "chơi",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "nhỏ",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "cuối",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "đặt",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "nhà",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "đọc",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "tay",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "cổng",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "lớn",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "chính tả",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "thêm",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "thậm chí",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "đất",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "ở đây",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "phải",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "lớn",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "cao",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "như vậy",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "theo",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "hành động",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "lý do tại sao",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "xin",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "người đàn ông",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "thay đổi",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "đi",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "ánh sáng",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "loại",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "tắt",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "cần",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "nhà",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "hình ảnh",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "thử",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "chúng tôi",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "một lần nữa",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "động vật",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "điểm",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "mẹ",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "thế giới",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "gần",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "xây dựng",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "tự",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "đất",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "cha",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "bất kỳ",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "mới",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "công việc",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "một phần",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "có",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "được",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "nơi",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "thực hiện",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "sống",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "nơi",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "sau khi",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "trở lại",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "ít",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "chỉ",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "chung quanh",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "người đàn ông",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "năm",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "đến",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "chương trình",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "mỗi",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "tốt",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "tôi",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "cung cấp cho",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "của chúng tôi",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "dưới",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "tên",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "rất",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "thông qua",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "chỉ",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "hình thức",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "câu",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "tuyệt vời",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "nghi",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "nói",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "giúp",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "thấp",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "dòng",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "khác nhau",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "lần lượt",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "nguyên nhân",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "nhiều",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "có nghĩa là",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "trước",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "di chuyển",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "ngay",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "cậu bé",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "cũ",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "quá",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "như nhau",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "cô",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "tất cả",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "có",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "khi",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "lên",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "sử dụng",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "của bạn",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "cách",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "về",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "nhiều",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "sau đó",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "họ",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "viết",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "sẽ",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "như",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "để",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "các",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "cô",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "lâu",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "làm",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "điều",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "thấy",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "anh",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "hai",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "có",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "xem",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "hơn",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "ngày",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "có thể",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "đi",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "đến",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "đã làm",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "số",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "âm thanh",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "không có",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "nhất",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "nhân dân",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "của tôi",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "hơn",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "biết",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "nước",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "hơn",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "gọi",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "đầu tiên",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "người",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "có thể",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "xuống",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "bên",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "được",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "bây giờ",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "tìm",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "đầu",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "đứng",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "riêng",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "trang",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "nên",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "nước",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "tìm thấy",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "câu trả lời",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "trường",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "phát triển",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "nghiên cứu",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "vẫn",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "học",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "nhà máy",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "bìa",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "thực phẩm",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "ánh nắng mặt trời",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "bốn",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "giữa",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "nhà nước",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "giữ",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "mắt",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "không bao giờ",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "cuối cùng",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "cho phép",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "nghĩ",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "thành phố",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "cây",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "qua",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "trang trại",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "cứng",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "bắt đầu",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "might",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "câu chuyện",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "cưa",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "đến nay",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "biển",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "vẽ",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "còn lại",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "cuối",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "chạy",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "không",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "trong khi",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "báo chí",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "gần",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "đêm",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "thực",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "cuộc sống",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "số",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "phía bắc",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "cuốn sách",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "thực hiện",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "mất",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "khoa học",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "ăn",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "phòng",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "người bạn",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "bắt đầu",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ý tưởng",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "cá",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "núi",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "ngăn chặn",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "một lần",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "cơ sở",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "nghe",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ngựa",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "cắt",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "chắc chắn",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "xem",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "màu",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "khuôn mặt",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "gỗ",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "chính",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "mở",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "dường như",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "cùng",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "tiếp theo",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "trắng",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "trẻ em",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "bắt đầu",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "có",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "đi bộ",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "Ví dụ",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "giảm bớt",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "giấy",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "nhóm",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "luôn luôn",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "nhạc",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "những",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "cả hai",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "đánh dấu",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "thường",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "thư",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "cho đến khi",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "dặm",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "sông",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "xe",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "chân",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "chăm sóc",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "thứ hai",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "đủ",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "đồng bằng",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "cô gái",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "thông thường",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "trẻ",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "sẵn sàng",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "trên đây",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "bao giờ",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "màu đỏ",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "danh sách",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "mặc dù",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "cảm thấy",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "nói chuyện",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "chim",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "sớm",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "cơ thể",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "con chó",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "gia đình",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "trực tiếp",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "đặt ra",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "lại",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "bài hát",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "đo lường",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "cửa",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "sản phẩm",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "đen",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "ngắn",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "chữ số",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "lớp",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "gió",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "câu hỏi",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "xảy ra",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "hoàn thành",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "tàu",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "khu vực",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "một nửa",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "đá",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "để",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "lửa",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "nam",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "vấn đề",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "mảnh",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "nói",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "biết",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "vượt qua",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "từ",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "đầu",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "toàn bộ",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "vua",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "đường phố",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "inch",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "nhân",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "không có gì",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "Tất nhiên",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "ở lại",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "bánh xe",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "đầy đủ",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "lực",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "màu xanh",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "đối tượng",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "quyết định",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "bề mặt",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "sâu",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "mặt trăng",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "đảo",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "chân",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "hệ thống",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "bận rộn",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "kiểm tra",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "ghi",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "thuyền",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "phổ biến",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "vàng",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "có thể",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "máy bay",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "thay",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "khô",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "tự hỏi",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "cười",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "ngàn",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "trước",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "ran",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "kiểm tra",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "trò chơi",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "hình dạng",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "đánh đồng",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "nóng",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "bỏ lỡ",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "mang",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "nhiệt",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "tuyết",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "lốp xe",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "mang lại",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "vâng",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "xa",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "điền",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "đông",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "sơn",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "ngôn ngữ",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "trong",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "đơn vị",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "điện",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "thị trấn",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "tốt",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "nhất định",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "bay",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "giảm",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "dẫn",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "kêu",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "tối",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "máy",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "ghi",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "đợi",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "kế hoạch",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "con số",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "sao",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "hộp",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "danh từ",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "lĩnh vực",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "phần còn lại",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "chính xác",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "thể",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "bảng",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "Xong",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "vẻ đẹp",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "ổ đĩa",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "đứng",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "chứa",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "trước",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "dạy",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "tuần",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "thức",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "đã",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "màu xanh lá cây",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "nhanh chóng",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "phát triển",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "đại dương",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "ấm áp",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "miễn phí",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "phút",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "mạnh mẽ",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "đặc biệt",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "tâm",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "sau",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "trong",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "đuôi",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "sản xuất",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "thực tế",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "không gian",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "nghe",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "tốt nhất",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "giờ",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "tốt hơn",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "đúng",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "trong khi",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "trăm",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "năm",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "nhớ",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "bước",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "đầu",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "giư",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "tây",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "mặt đất",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "quan tâm",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "đạt",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "nhanh chóng",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "động từ",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "hát",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "lắng nghe",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "sáu",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "bảng",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "du lịch",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "ít",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "buổi sáng",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "mười",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "đơn giản",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "nhiều",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "nguyên âm",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "hướng",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "chiến tranh",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "đặt",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "chống lại",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "mô hình",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "chậm",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "trung tâm",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "tình yêu",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "người",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "tiền",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "phục vụ",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "xuất hiện",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "đường",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "Bản đồ",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "mưa",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "quy tắc",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "phối",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "kéo",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "lạnh",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "thông báo",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "giọng nói",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "năng lượng",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "săn",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "có thể xảy ra",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "giường",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "anh trai",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "trứng",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "đi xe",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "pin",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "tin",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "có lẽ",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "chọn",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "đột ngột",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "tính",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "vuông",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "lý do",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "chiều dài",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "đại diện",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "nghệ thuật",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "Tiêu đề",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "khu",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "kích thước",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "khác nhau",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "giải quyết",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "nói",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "trọng lượng",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "chung",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "băng",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "vấn đề",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "vòng tròn",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "đôi",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "bao gồm",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "chia",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "âm tiết",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "cảm thấy",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "lớn",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "bóng",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "nhưng",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "sóng",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "rơi",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "tim",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "là",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "hiện nay",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "nặng",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "khiêu vũ",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "động cơ",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "vị trí",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "cánh tay",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "rộng",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "buồm",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "tài liệu",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "phần",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "rừng",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "ngồi",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "cuộc đua",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "cửa sổ",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "cửa hàng",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "mùa hè",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "đào tạo",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "ngủ",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "chứng minh",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "đơn độc",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "chân",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "tập thể dục",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "tường",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "bắt",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "mount",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "muốn",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "bầu trời",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "hội đồng quản trị",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "niềm vui",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "mùa đông",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "ngồi",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "bằng văn bản",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "hoang dã",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "cụ",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "giữ",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "kính",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "cỏ",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "bò",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "công việc",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "cạnh",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "dấu hiệu",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "lần",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "qua",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "mềm",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "vui vẻ",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "sáng",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "khí",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "thời tiết",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "tháng",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "triệu",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "chịu",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "kết thúc",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "hạnh phúc",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "hy vọng",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "hoa",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "mặc",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "lạ",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "ra đi",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "thương mại",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "giai điệu",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "chuyến đi",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "văn phòng",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "nhận",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "hàng",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "miệng",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "chính xác",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "biểu tượng",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "chết",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "nhất",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "rắc rối",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "hét lên",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "trừ",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "đã viết",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "hạt giống",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "giai điệu",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "tham gia",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "đề nghị",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "sạch",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "nghỉ",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "phụ nữ",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "sân",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "tăng",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "xấu",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "đòn",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "dầu",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "máu",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "chạm",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "tăng",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "phần trăm",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "trộn",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "đội",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "dây",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "chi phí",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "thua",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "nâu",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "mặc",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "vườn",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "như nhau",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "gửi",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "chọn",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "giảm",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "phù hợp với",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "chảy",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "công bằng",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "ngân hàng",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "thu thập",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "lưu",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kiểm soát",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "số thập phân",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "tai",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "khác",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "khá",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "đã phá vỡ",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "khi",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "trung",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "giết",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "con trai",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "hồ",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "thời điểm",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "quy mô",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "lớn",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "mùa xuân",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "quan sát",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "con",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "thẳng",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "phụ âm",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "quốc gia",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "từ điển",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "sưa",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "tốc độ",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "phương pháp",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "cơ quan",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "trả",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "tuổi",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "phần",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "váy",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "điện toán đám mây",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "bất ngờ",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "yên tĩnh",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "đá",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "nhỏ",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "lên cao",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "mát mẻ",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "thiết kế",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "người nghèo",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "rất nhiều",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "thí nghiệm",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "dưới",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "chính",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "sắt",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "đơn",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "thanh",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "phẳng",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "hai mươi",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "da",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "nụ cười",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "nếp",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "lỗ",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "nhảy",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "bé",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "tám",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "làng",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "đáp ứng",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "gốc",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "mua",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "nâng cao",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "giải quyết",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "kim loại",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "liệu",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "đẩy",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "bảy",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "đoạn",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "thứ ba",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "có trách nhiệm",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "được tổ chức",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "lông",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "mô tả",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "nấu ăn",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "sàn",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "hoặc",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "kết quả",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "ghi",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "đồi",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "an toàn",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "mèo",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "thế kỷ",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "xem xét",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "loại",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "pháp luật",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "bờ biển",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "bản sao",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "cụm từ",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "im lặng",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "cao",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "cát",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "đất",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "cuộn",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "nhiệt độ",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "ngón tay",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "ngành công nghiệp",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "giá trị",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "cuộc chiến",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "lời nói dối",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "đánh bại",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "kích thích",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "tự nhiên",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "xem",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "ý nghĩa",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "vốn",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "sẽ không",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "ghế",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "nguy hiểm",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "trái cây",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "giàu",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "dày",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "người lính",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "quá trình",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "hoạt động",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "thực hành",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "riêng biệt",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "khó khăn",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "bác sĩ",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "xin vui lòng",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "bảo vệ",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "trưa",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "cây trồng",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "hiện đại",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "yếu tố",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "nhấn",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "sinh viên",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "góc",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "bên",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "cung cấp",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "có",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "xác định vị trí",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "vòng",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "nhân vật",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "côn trùng",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "bắt",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "thời gian",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "chỉ ra",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radio",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "nói",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "nguyên tử",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "con người",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "lịch sử",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "hiệu lực",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "điện",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "mong đợi",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "xương",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "đường sắt",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "tưởng tượng",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "cho",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "đồng ý",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "do đó",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "nhẹ nhàng",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "người phụ nữ",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "đội trưởng",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "đoán",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "cần thiết",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "sắc nét",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "cánh",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "tạo",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "hàng xóm",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "rửa",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "bat",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "thay",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "đám đông",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "ngô",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "so sánh",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "bài thơ",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "chuỗi",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "chuông",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "phụ thuộc",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "thịt",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "chà",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "ống",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "nổi tiếng",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "đồng đô la",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "sông",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "sợ hãi",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "cảnh",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "mỏng",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "tam giác",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "hành tinh",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "nhanh",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "trưởng",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "thuộc địa",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "đồng hồ",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "tôi",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "cà vạt",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "nhập",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "chính",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "tươi",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "tìm kiếm",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "gửi",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "vàng",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "súng",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "cho phép",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "in",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "chết",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "tại chỗ",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "sa mạc",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "phù hợp với",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "hiện tại",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "thang máy",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "tăng",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "đến",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "chủ",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "theo dõi",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "mẹ",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "bờ",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "phân chia",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "tờ",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "chất",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "ủng hộ",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "kết nối",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "bài",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "chi tiêu",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "hợp âm",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "chất béo",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "vui",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "ban đầu",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "chia sẻ",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "trạm",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "cha",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "bánh mì",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "phí",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "thích hợp",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "thanh",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "phục vụ",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "phân khúc",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "nô lệ",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "vịt",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "ngay lập tức",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "thị trường",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "mức độ",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "cư",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "gà",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "thân yêu",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "kẻ thù",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "trả lời",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "ly",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "xảy ra",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "hỗ trợ",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "bài phát biểu",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "thiên nhiên",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "phạm vi",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "hơi nước",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "chuyển động",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "con đường",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "chất lỏng",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "đăng nhập",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "có nghĩa là",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "thương",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "răng",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "vỏ",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "cổ",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "oxy",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "đường",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "chết",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "khá",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "kỹ năng",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "phụ nữ",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "mùa",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "giải pháp",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "nam châm",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "bạc",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "cảm ơn",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "chi nhánh",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "trận đấu",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "hậu tố",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "đặc biệt là",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "sung",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "sợ",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "to",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "em gái",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "thép",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "thảo luận",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "về phía trước",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "tương tự",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "hướng dẫn",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "kinh nghiệm",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "điểm",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "táo",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "mua",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "dẫn",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "sân",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "áo",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "khối lượng",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "thẻ",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "ban nhạc",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "dây",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "trượt",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "giành chiến thắng",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "mơ",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "buổi tối",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "điều kiện",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "thức ăn chăn nuôi",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "công cụ",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "tổng số",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "cơ bản",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "mùi",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "thung lũng",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "cũng không",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "đôi",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "ghế",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "tiếp tục",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "khối",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "biểu đồ",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "mũ",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "bán",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "thành công",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "công ty",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "trừ",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "sự kiện",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "riêng",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "thỏa thuận",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "bơi",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "hạn",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "ngược lại",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "vợ",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "giày",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "vai",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "lây lan",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "sắp xếp",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "trại",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "phát minh",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "bông",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Sinh",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "xác định",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "lít",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "chín",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "xe tải",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "tiếng ồn",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "mức",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "cơ hội",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "thu thập",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "cửa hàng",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "căng ra",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "ném",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "tỏa sáng",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "tài sản",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "cột",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "phân tử",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "chọn",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "sai",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "màu xám",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "lặp lại",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "yêu cầu",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "rộng",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "chuẩn bị",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "muối",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "mui",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "số nhiều",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "tức giận",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "xin",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "lục",
+      "englishWord": "continent"
+    }
+  ]
+}

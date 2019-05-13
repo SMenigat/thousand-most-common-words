@@ -1,0 +1,5007 @@
+{
+  "languageCode": "pl",
+  "languageName": "Polish",
+  "languageNativeName": "język polski",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "jak",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "I",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "jego",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "że",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "on",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "było",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "dla",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "na",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "są",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "zespół",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "oni",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "być",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "w",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "jeden",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "mieć",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "tego",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "z",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "przez",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "gorący",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "słowo",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "ale",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "co",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "niektóre",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "jest",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "to",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "ty",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "lub",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "miał",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "kilka",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "stopa",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "do",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "i",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "ciągnąć",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "w",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "my",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "puszka",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "na zewnątrz",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "inne",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "były",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "który",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "zrobić",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "ich",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "czas",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "jeśli",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "będzie",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "jak",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "powiedział",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "próba",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "każda",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "powiedzieć",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "nie",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "zestaw",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "trzy",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "chcą",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "powietrze",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "dobrze",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "również",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "grać",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "mały",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "koniec",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "wkładać",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "Strona główna",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "czytaj",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "ręka",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "port",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "duży",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "zaklęcie",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "dodać",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "nawet",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "ziemia",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "tutaj",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "musi",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "duży",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "wysoki",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "takie",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "śledzić",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "akt",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "dlaczego",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "zapytaj",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "mężczyźni",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "zmiana",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "poszedł",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "światła",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "rodzaj",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "z",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "potrzeba",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "dom",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "obraz",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "spróbuj",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "nas",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "ponownie",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "zwierząt",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "punkt",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "matka",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "świat",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "blisko",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "budować",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "własny",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "ziemia",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "ojciec",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "dowolny",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "nowy",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "praca",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "część",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "wziąć",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "dostać",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "miejsce",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "wykonane",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "żyć",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "gdzie",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "później",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "z powrotem",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "mało",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "tylko",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "okrągły",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "mężczyzna",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "rok",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "spokojnie",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "pokaż",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "każdy",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "dobry",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "mnie",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "dać",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "nasze",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "pod",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "Nazwa",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "bardzo",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "przez",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "tylko",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "formularz",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "zdanie",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "wielki",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "myśleć",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "powiedzieć",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "pomoc",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "niski",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "linia",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "różnią",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "kolej",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "przyczyna",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "wiele",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "oznaczać",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "przed",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "ruch",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "prawo",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "chłopiec",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "stary",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "zbyt",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "sam",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ona",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "wszystko",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "tam",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "kiedy",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "w górę",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "zastosowanie",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "Twój",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "sposób",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "o",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "wiele",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "następnie",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "im",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "pisać",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "byłoby",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "jak",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "tak",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "te",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ją",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "długo",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "zrobić",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "rzecz",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "zobaczyć",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "mu",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "dwa",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ma",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "szukać",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "więcej",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "dzień",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "może",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "iść",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "przyjść",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "nie",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "liczba",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "brzmieć",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "nie",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "najbardziej",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "ludzie",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "My",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "ponad",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "wiem",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "woda",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "niż",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "wezwanie",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "pierwszy",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "kto",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "może",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "w dół",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "bok",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "było",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "teraz",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "odnaleźć",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "głowa",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "stać",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "własna",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "strona",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "powinna",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "kraj",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "znaleziono",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "odpowiedź",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "szkoła",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "rosnąć",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "badanie",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "jeszcze",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "uczyć się",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "roślin",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "okładka",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "jedzenie",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "słońce",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "cztery",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "między",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "stan",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "zachować",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "oko",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "nigdy",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "ostatnia",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "niech",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "myśli",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "miasto",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "drzewo",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "krzyż",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "gospodarstwo",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "trudne",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "początek",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "moc",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "historia",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "piła",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "daleko",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "morze",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "rysować",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "w lewo",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "późno",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "Run",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "nie",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "podczas",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "naciśnij",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "blisko",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "noc",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "prawdziwy",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "życie",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "kilka",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "północ",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "książka",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "nieść",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "wziął",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "nauka",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "jeść",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "pokój",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "przyjaciel",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "rozpoczął",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "pomysł",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ryb",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "góra",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "zatrzymać",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "raz",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "podstawa",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "słyszeć",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "koń",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "cięcie",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "pewny",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "oglądać",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "kolor",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "twarz",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "drewna",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "głównym",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "otwarte",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "wydają",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "razem",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "następna",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "biały",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "dzieci",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "zacząć",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "got",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "chodzić",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "przykład",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "łatwość",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "papier",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "grupa",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "zawsze",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "muzyka",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "osób",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "zarówno",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "znak",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "często",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "list",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "do",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "km",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "rzeka",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "samochód",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "stopy",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "opieka",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "drugi",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "wystarczy",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "zwykły",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "dziewczyna",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "zwykły",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "młody",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "gotowe",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "powyżej",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "kiedykolwiek",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "czerwony",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "lista",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "chociaż",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "czuć",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "dyskusja",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "ptaka",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "wkrótce",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "ciało",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "pies",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "rodzina",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "bezpośrednie",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "stanowią",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "zostawić",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "piosenka",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "pomiaru",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "drzwi",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "Produkt",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "czarny",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "krótki",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "liczebnik",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "Klasa",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "wiatr",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "pytanie",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "stanie",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "pełna",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "statek",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "obszar",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "połowa",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "skalny",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "zamówienie",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "ogień",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "południe",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problem",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "sztuk",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "powiedział",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "wiedział",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "przekazać",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "od",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "góry",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "cały",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "król",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "ulica",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "cal",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "mnożenie",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "nic",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "Oczywiście",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "pobyt",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "koło",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "pełna",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "siła",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "niebieski",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "obiekt",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "zdecydować",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "powierzchnia",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "głęboko",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "księżyc",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "wyspa",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "stopa",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "System",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "zajęty",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "próba",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "rekord",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "łódź",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "wspólny",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "złota",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "możliwe",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "samolot",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "siona",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "suche",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "zastanawiam się,",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "śmiech",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "tysiąc",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "temu",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "Ran",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "sprawdź",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "gra",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "kształt",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "zrównać",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "gorący",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "panna",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "wniesiona",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "ciepło",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "śnieg",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "opon",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "przynieść",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "tak",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "odległy",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "napełniać",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "wschód",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "malować",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "język",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "między",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "jednostka",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "moc",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "miasto",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "dobrze",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "pewny",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "latać",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "spadek",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "prowadzić",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "krzyk",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "ciemny",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "maszyna",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "uwaga",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "czekać",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "planie",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "rysunek",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "gwiazda",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "Skrzynka",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "rzeczownik",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "pole",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "reszta",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "poprawny",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "zdolny",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "funt",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "gotowe",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "urody",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "napęd",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "stał",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "zawierają",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "z przodu",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "uczyć",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "tydzień",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "ostateczna",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "dał",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "zielony",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "szybki",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "rozwijać",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "ocean",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "ciepły",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "za darmo",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minut",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "silny",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "Specjalne",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "umysł",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "za",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "jasne",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "ogon",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "produkować",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "fakt",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "przestrzeń",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "słyszałem",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "najlepszy",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "godzina",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "lepiej",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "prawdziwy",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "podczas",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "sto",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "pięć",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "pamiętaj",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "krok",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "wcześnie",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "przytrzymaj",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "zachód",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "ziemia",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "odsetki",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "dotrzeć",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "szybko",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "czasownik",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "śpiewać",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "słuchać",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "sześć",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "stół",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "podróży",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "mniej",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "rano",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "dziesięć",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "proste",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "kilka",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "samogłoska",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "kierunku",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "wojna",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "świeckich",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "przed",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "wzór",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "powolny",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "centrum",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "miłość",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "osoba",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "pieniądze",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "służyć",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "pojawiają się",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "drogowego",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "Mapa",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "deszcz",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "reguła",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "rządzić",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "ciągnąć",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "zimno",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "ogłoszenie",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "głos",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energii",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "polowanie",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "prawdopodobne",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "łóżko",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "brat",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "jajko",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "jazda",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "komórek",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "wierzyć",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "być może",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "wybrać",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "nagły",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "liczyć",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "plac",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "powodem",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "długość",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "stanowią",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "sztuka",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "Temat",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "Region",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "rozmiar",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "różnią",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "osiedlenie",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "mówić",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "waga",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "ogólnie",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "lód",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "względu na to,",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "krąg",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "para",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "zawierać",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "podzielić",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "sylaby",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "filc",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "wielki",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "piłka",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "jeszcze",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "fala",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "upuścić",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "serce",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "Niniejszy",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "ciężki",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "taniec",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "silnik",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "stanowisko",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "ramię",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "szeroki",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "żagiel",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materiał",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "frakcja",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "las",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "siedzieć",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "wyścig",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "okno",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "sklep",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "lato",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "pociąg",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "sen",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "dowieść",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "samotny",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "mecz",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ćwiczenie",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "ściana",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "catch",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "mocowanie",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "chcieć",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "niebo",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "wyżywienie",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "radość",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "zima",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "nasyconym",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "napisane",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "dziki",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrument",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "utrzymane",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "szkła",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "trawka",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "krowa",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "praca",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "krawędź",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "znak",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "wizyta",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "przeszłość",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "miękkie",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "zabawy",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "jasny",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gaz",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "pogoda",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "miesiąc",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "milion",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "niedźwiedź",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "wykończenie",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "szczęśliwy",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "nadzieję",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "kwiat",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "odziać",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "dziwny",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "Odszedł",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "handel",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodia",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "wycieczka",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "biuro",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "otrzymać",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "wiersz",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "usta",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "dokładny",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "symbol",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "śmierć",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "najmniej",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "kłopot",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "krzyk",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "z wyjątkiem",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "napisał",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "nasion",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "ton",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "dołączyć",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "sugerują,",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "czyste",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "przerwa",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "pani",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "stoczni",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "wzrosnąć",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "zły",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "cios",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "olej",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "krwi",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "dotknąć",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "wzrosła",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "centów",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "mix",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "zespół",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "drut",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "koszt",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "stracony",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "brązowy",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "nosić",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "ogród",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "równy",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "wysłany",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "wybrać",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "spadła",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "pasować",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "płynąć",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "sprawiedliwy",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "Bank",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "zbierać",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "oszczędzać",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kontrola",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "dziesiętny",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "ucho",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "więcej",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "całkiem",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "złamał",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "sprawa",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "średniej",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "zabić",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "syn",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "jezioro",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "chwilę",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "skala",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "głośno",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "wiosna",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "obserwować",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "dziecko",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "prosto",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "spółgłoska",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "naród",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "Słownik",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "mleko",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "prędkość",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "metoda",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "narząd",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "płacić",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "wiek",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "sekcja",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "sukienka",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "chmura",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "niespodzianka",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "cichy",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "kamień",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "małe",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "wznoszenia",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "chłodny",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "projekt",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "słaba",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "wiele",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "eksperyment",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "dolny",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "klucz",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "żelaza",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "pojedynczy",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "kij",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "mieszkanie",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "dwadzieścia",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "skóra",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "uśmiech",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "marszczyć",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "otwór",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "skok",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "dziecko",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "osiem",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "wieś",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "spotkać",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "korzeń",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "kupić",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "podnieść",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "rozwiązania",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metalu",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "czy",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "pchnięcie",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "siedem",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "pkt",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "trzeci",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "powinien",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "held",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "włosy",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "opisania",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "kucharz",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "piętro",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "albo",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "wynik",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "palić",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "wzgórzu",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "bezpieczne",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "kot",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "wiek",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "rozważać",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "Typ",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "prawo",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "kawałek",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "Wybrzeże",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopia",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "Zwrot",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "cichy",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "wysoki",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "piasek",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "gleby",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "rolki",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatura",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "palec",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "przemysł",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "wartość",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "walka",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "kłamstwo",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "pokonać",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "podniecać",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "naturalne",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "widok",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "poczucie",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "kapitał",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "nie będzie",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "krzesło",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "niebezpieczeństwo",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "owoc",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "bogaty",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "gruby",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "żołnierz",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "proces",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "pracować",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "praktyka",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "oddzielne",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "trudne",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "lekarz",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "proszę",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "ochrony",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "południe",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "upraw",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "nowoczesny",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "elementu",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "uderzać",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "uczeń",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "narożnik",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "strona",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "Zasilanie",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "którego",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "lokalizować",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "pierścień",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "znaków",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "owad",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "złapany",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "okres",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "wskazują,",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "Radio",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "zabrał",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atom",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "ludzki",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "Historia",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "efekt",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektryczny",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "oczekiwać",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "kości",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "szyna",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "wyobrazić",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "zapewniać",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "zgadzam się",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "tak więc",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "łagodny",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "kobieta",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapitan",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "odgadnąć",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "konieczne",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "ostry",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "skrzydło",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "stworzenia",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "sąsiad",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "myjnia",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "nietoperz",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "raczej",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "tłum",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "kukurydza",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "porównanie",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "poemat",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "sznur",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "dzwon",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "zależy",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "mięso",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "trzeć",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "rurka",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "słynny",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dolar",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "strumień",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "strach",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "widok",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "cienki",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "trójkąt",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planeta",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "pospiesz",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "szef",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "kolonia",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "Zegary",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "kopalnia",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "krawat",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "wejść",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "głównym",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "świeży",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "szukaj",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "wyślij",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "żółty",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "pistolet",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "dopuszczać",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "drukuj",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "martwy",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "miejsce",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "pustynia",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "garnitur",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "aktualny",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "wyciąg",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "róża",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "przyjazd",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "mistrz",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "tor",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "rodzic",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "brzeg",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "podział",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "arkusz",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "substancja",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "faworyzować",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "podłącz",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "po",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "wydać",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "akord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "tłuszcz",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "zadowolony",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "oryginalny",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "akcji",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "Stacja",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "tata",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "chleb",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "naładować",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "właściwy",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "oferta",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "Segment",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "niewolnik",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "kaczka",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "błyskawicznej",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "rynku",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "stopień",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "wypełnić",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "pisklę",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "drogi",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "wróg",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "odpowiedz",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "pić",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "występują",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "wsparcie",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "mowy",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "natura",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "zakres",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "parowy",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "ruch",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "ścieżka",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "ciecz",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "zaloguj",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "oznaczało",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "iloraz",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "zęby",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "powłoki",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "szyi",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "tlenu",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "cukier",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "śmierć",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "dość",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "umiejętność",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "kobiety",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "sezon",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "rozwiązanie",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnes",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "srebrny",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "dziękuję",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "gałęzi",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "mecz",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "przyrostek",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "szczególnie",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "figa",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "boi",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ogromny",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "siostra",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "stal",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "omówić",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "do przodu",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "podobne",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "przewodnik",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "doświadczenie",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "wynik",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "jabłko",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "kupiony",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "doprowadziło",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "boisko",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "płaszcz",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "masa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "karta",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "zespół",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "lina",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "poślizgu",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "zwycięstwo",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "śnić",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "wieczorem",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "Stan",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "RSS",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "narzędzie",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "całkowity",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "podstawowy",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "zapach",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "dolina",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ani",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "podwójne",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "siedziba",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "dalej",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "blok",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "wykres",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "kapelusz",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "sprzedać",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "sukces",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "firma",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "odejmowanie",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "wydarzenie",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "szczególności",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "sprawa",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "pływać",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "termin",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "naprzeciwko",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "żona",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "buty",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ramię",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "spread",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "zorganizować",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "obóz",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "wymyślać",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "bawełna",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Urodzony",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "określenia",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "kwarta",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "dziewięć",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "ciężarówka",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "hałas",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "poziom",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "szansa",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "zbierać",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "Sklep",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "odcinek",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "rzucać",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "połysk",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "właściwość",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "kolumna",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "cząsteczka",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "wybierać",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "nie tak",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "szary",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "powtórz",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "wymagać",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "szeroki",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "przygotować",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "sól",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "nos",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "liczba mnoga",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "złość",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "oświadczenie",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontynent",
+      "englishWord": "continent"
+    }
+  ]
+}

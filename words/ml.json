@@ -1,0 +1,5007 @@
+{
+  "languageCode": "ml",
+  "languageName": "Malayalam",
+  "languageNativeName": "മലയാളം",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "പോലെ",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "ഞാന്",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "അവന്റെ",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ആ",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "അവന്",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "ആയിരുന്നു",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "വേണ്ടി",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "മേല്",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "ഉണ്ട്",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "കൂടെ",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "അവര്",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "എന്നു",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "ഭൂതകാല",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "ഒന്ന്",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "ഞങ്ങൾക്കുണ്ട്",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "ഈ",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "നിന്ന്",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "കൊണ്ട്",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "ചൂടുള്ള",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "വാക്ക്",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "പക്ഷേ",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "എന്ത്",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "കുറെ",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "ആകുന്നു",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "അത്",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "നിങ്ങളെ",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "അഥവാ",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "ഉണ്ടായിരുന്നു",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "നബി",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "ഒരു",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "ലേക്ക്",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "ഒപ്പം",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "ഒരു",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "ലെ",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "ഞങ്ങള്",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "കഴിയും",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "പുറത്ത്",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "മറ്റ്",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "ആയിരുന്നു",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "ഏത്",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "ചെയ്യുക",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "അവരുടെ",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "കാലം",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "എങ്കില്",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "will",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "എങ്ങനെ",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "പറഞ്ഞു",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "ഒരു",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "ഓരോ",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "പറയുന്നു",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "does",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "ഗണം",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "മൂന്ന്",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "ആഗ്രഹിക്കുന്നു",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "എയർ",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "കിണറ്",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "പുറമേ",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "കളി",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "ചെറിയ",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "അവസാനിക്കുന്നു",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "ഇടുക",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "വീട്",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "വായിക്കുക",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "കൈ",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "തുറമുഖം",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "വലിയ",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "അക്ഷരപ്പിശക്",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "ചേർക്കുക",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "പോലും",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "നിലം",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "ഇവിടെ",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "ആവശമാകുന്നു",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "വലിയ",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "ഉയര്ന്ന",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "അത്തരം",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "പിന്തുടരുക",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "പ്രവർത്തി",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "എന്തുകൊണ്ട്",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "ചോദിക്കുക",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "പുരുഷന്മാർ",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "മാറ്റം",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "പോയി",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "വെളിച്ചം",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "തരം",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "ഓഫ്",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "ആവശ്യം",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "വീട്",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "ചിതം",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "ശ്രമിക്കുക",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "ഞങ്ങളെ",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "വീണ്ടും",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "ജന്തു",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "ബിന്ദു",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "അമ്മ",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "ലോകം",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "അടുത്തു",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "പണിയുക",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "സ്വയം",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "ഭൂമി",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "പിതാവ്",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "എന്തെങ്കിലും",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "പുതിയ",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "വേല",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "ഭാഗം",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "എടുക്കുക",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "തെരഞ്ഞെടുക്കപ്പെട്ടതാണ്",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "സ്ഥലം",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "ഉണ്ടാക്കി",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "ജീവിക്കുക",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "എവിടെ",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "ശേഷം",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "തിരികെ",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "ചെറിയ",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "മാത്രം",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "ചുറ്റും",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "മനുഷ്യൻ",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "വര്ഷം",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "വന്നു",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "കാണിക്കുക",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ഓരോ",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "നല്ല",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "എന്നോട്",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "കൊടുക്കുക",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "നമ്മുടെ",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "കീഴെ",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "പേര്",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "വളരെ",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "മുഖാന്തിരം",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "വെറും",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "രൂപം",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "വിധി",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "മഹത്തായ",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "ചിന്തിക്കുക",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "പറയുക",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "സഹായം",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "കുറഞ്ഞ",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "വര",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "ഭിന്നത",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "വളവ്",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "കാരണം",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "വളരെ",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "അർത്ഥമാക്കുന്നത്",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "മുമ്പ്",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "നീക്കുക",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "വലത്",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "കുട്ടി",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "പഴയ",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "കൂടി",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "ഒരേ",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "അവള്",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "എല്ലാം",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "അവിടെ",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "എപ്പോൾ",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "അപ്",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "ഉപയോഗം",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "നിങ്ങളുടെ",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "വഴി",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "കുറിച്ച്",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "വളരെ",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "അപ്പോള്",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "അവരെ",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "എഴുതുക",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "would",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "പോലെ",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "അതുപോലെ",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "ഇവ",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "അവള്",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "നീളമുള്ള",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "ഉണ്ടാക്കുക",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "വസ്തു",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "കാണുക",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "അവനെ",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "രണ്ട്",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ഉണ്ട്",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "നോക്കുക",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "കൂടുതൽ",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "ദിവസം",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "കഴിഞ്ഞില്ല",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "പോയി",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "വരിക",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "ചെയ്തു",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "അക്കം",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "ശബ്ദം",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ഇല്ല",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "ഏറ്റവും",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "ജനം",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "എന്റെ",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "ഓരോ",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "അറിയുക",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "വെള്ളം",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "അധികം",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "വിളി",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "ആദ്യം",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "ആര്",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "മേയ്",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "ഇറങ്ങി",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "വശം",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "ഉണ്ടായിരുന്നതു",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "ഇപ്പോള്",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "കണ്ടെത്തുക",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "തല",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "സ്റ്റാൻഡ്",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "സ്വന്തം",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "പേജ്",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "വേണം",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "രാജ്യം",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "കണ്ടെത്തി",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "ഉത്തരം",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "സ്കൂൾ",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "വളരും",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "പഠിക്കുക",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "ഇപ്പോഴും",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "പഠിക്കാൻ",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "ചെടി",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "മൂടി",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "ഭക്ഷണം",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "സൂര്യൻ",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "നാല്",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "ഇടയില്",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "അവസ്ഥ",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "സൂക്ഷിക്കുക",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "കണ്ണ്",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "ഒരിക്കലും",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "കഴിഞ്ഞ",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "എന്നു",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "ചിന്ത",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "നഗരം",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "മരം",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "കുരിശ്",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ഫാം",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "ഹാർഡ്",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "തുടക്കം",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "ശക്തി",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "കഥ",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "കണ്ടു",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "ഇതുവരെ",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "കടല്",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "വര്ണിക്കുക",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "ഇടത്തെ",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "വൈകി",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "ഓട്ടം",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ചെയ്യരുത്",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "സമയത്ത്",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "അമർത്തുക",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "അടയ്ക്കുക",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "രാത്രി",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "യഥാർത്ഥ",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "ജീവന്",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "കുറെ",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "വടക്ക്",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "പുസ്തകം",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "കൊണ്ടുപോകും",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "എടുത്തു",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "ശാസ്ത്രം",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "ഭക്ഷണം",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "ഇടം",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "സ്നേഹിതന്",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "തുടങ്ങി",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ആശയം",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "മത്സ്യം",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "പര്വ്വതം",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "നിർത്തുക",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "ഒരിക്കല്",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "അടിത്തറ",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "കേള്ക്കുക",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "കുതിര",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "മുറിക്കുക",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "ഉറപ്പാണോ",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "കാവൽ",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "നിറം",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "മുഖം",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "മരം",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "പ്രധാന",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "തുറക്കുക",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "തോന്നുക",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "ഒന്നിച്ച്",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "അടുത്തത്",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "വെളുത്ത",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "മക്കൾ",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "ആരംഭിക്കുന്നു",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "കിട്ടി",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "നടക്കുക",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "ഉദാഹരണം",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "എളുപ്പമുണ്ടായിരിക്കും",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "കടലാസ്",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "ഗ്രൂപ്പ്",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "എല്ലായിപ്പോഴും",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "സംഗീതം",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ആ",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "രണ്ടും",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "അടയാളം",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "അടിക്കടി",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "അക്ഷരം",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "വരെ",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "നാഴിക",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "നദി",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "കാര്",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "കാൽ",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "സംരക്ഷണം",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "സെക്കന്റ്",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "മതി",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "പ്ലെയിൻ",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "പെണ്കുട്ടി",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "സാധാരണമായ",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "ഇളം",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "തയ്യാറായ",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "മുകളിൽ",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "എപ്പോഴും",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "ചുവപ്പ്",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "പട്ടിക",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "ആയാലും",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "സ്പര്ശിക്കുക",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "സംവാദം",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "പക്ഷി",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "പെട്ടെന്ന്",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "ശരീരം",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "നായ്",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "കുടുംബം",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "നേരായ",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "ഭാവം",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "വിട്ടേക്കുക",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "പാട്ട്",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "അളവ്",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "വാതില്",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "ഉത്പന്നം",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "കറുത്ത",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "കുറിയ",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "സംഖ",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "ക്ലാസ്",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "കാറ്റ്",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "ചോദ്യം",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "സംഭവിക്കുക",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "പൂർണ്ണമായ",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "കപ്പല്",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "പ്രദേശം",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "പകുതി",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "പാറ",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "ഓർഡർ",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "തീ",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "തെക്ക്",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "പ്രശ്നം",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "കഷണം",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "പറഞ്ഞു",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "അറിഞ്ഞു",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "ചുരം",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "പിന്നീട്",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "മുകളിൽ",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "മുഴുവൻ",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "രാജാവ്",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "തെരുവ്",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "ഇഞ്ച്",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "പെരുക്കുക",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "ഒന്നും",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "ഗതി",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "താമസിക്കാൻ",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "ചക്രം",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "നിറഞ്ഞ",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "ശക്തി",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "നീല",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "വസ്തു",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "തീരുമാനിക്കുക",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "ഉപരിതലം",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "ആഴമുള്ള",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "ചന്ദ്രൻ",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "ദ്വീപ്",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "പാദം",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "സിസ്റ്റം",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "തിരക്ക്",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "പരിശോധന",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "രേഖ",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "വള്ളം",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "പൊതുവായ",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "സ്വർണം",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "സാധ്യത",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "വിമാനം",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "പകരം",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "ഉണങ്ങിയ",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "വിസ്മയം",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "ചിരിക്കുക",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "ആയിരം",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "മുന്പ്",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "ത്ത്",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "പരിശോധന",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "കളി",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "ആകൃതി",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "ആക്കുമോ",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "ചൂടുള്ള",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "നഷ്ടപ്പെടുക",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "കൊണ്ടുവന്നു",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "ചൂട്",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "മഞ്ഞ്",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "ക്ഷീണം",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "കൊണ്ടുവരിക",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "അതെ",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "ദൂരെയുള്ള",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "നിറയ്ക്കുക",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "കിഴക്ക്",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "ചായം",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "ഭാഷ",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "കൂട്ടത്തില്",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "ഘടകം",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "ശക്തി",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "പട്ടണം",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "പിഴ",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "ചില",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "ഈച്ച",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "വീഴ്ച",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "ഈയം",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "നിലവിളി",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "ഇരുണ്ട",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "യന്ത്രം",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "കുറിപ്പ്",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "കാക്കുക",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "പദ്ധതി",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "ചിത്രം",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "നക്ഷത്ര",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "പെട്ടി",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "നാമം",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "മണ്ഡലം",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "ബാക്കി",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "ശരിയായ",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "കഴിവുള്ള",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "റാത്തല്",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "പൂർത്തിയായി",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "സൗന്ദര്യം",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "ഡ്രൈവ്",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "നിന്നു",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "അടങ്ങിയിട്ടുണ്ട്",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "ഫ്രണ്ട്",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "പഠിപ്പിക്കുക",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "ആഴ്ച",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "ഫൈനലിൽ",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "കൊടുത്തു",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "പച്ചയായ",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "ഓ",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "പെട്ടെന്നുള്ള",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "വികസിപ്പിക്കുക",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "സമുദ്രം",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "ഊഷ്മള",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "സ്വതന്ത്ര",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "മിനിറ്റ്",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "ശക്തമായ",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "പ്രത്യേക",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "മനസ്സ്",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "പിന്നാലെ",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "തെളിഞ്ഞ",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "വാല്",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "ഉൽപ്പാദിപ്പിക്കുക",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "വസ്തുത",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "ഇടം",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "കേട്ടു",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "മികച്ച",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "മണിക്കൂര്",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "മെച്ചപ്പെട്ട",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "സത്യം",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "കാലത്ത്",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "നൂറ്",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "അഞ്ച്",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "സ്മരിക്കുക",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "ചുവട്",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "നേരത്തെയുള്ള",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "പിടിക്കുക",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "പടിഞ്ഞാറ്",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "നിലത്തു",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "പലിശ",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "എത്താൻ",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "ഉപവാസം",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "ക്രിയ",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "പാടുക",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "കേൾക്കാൻ",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "ആറ്",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "പട്ടിക",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "യാത്രാ",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "കുറവ്",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "രാവിലെ",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "പത്ത്",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "ലഘുവായ",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "നിരവധി",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "സരം",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "നേരെ",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "യുദ്ധം",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "കിടന്നു",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "എതിരായി",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "മാതൃക",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "സ്ലോ",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "കേന്ദ്രം",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "സ്നേഹം",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "വ്യക്തി",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "പണം",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "സേവിക്കുക",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "ദൃശ്യമാകും",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "റോഡ്",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "ഭൂപടം",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "മഴ",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "ചട്ടം",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "ഭരിക്കുക",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "വലിക്കുക",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "തണുത്ത",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "അറിയിപ്പ്",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "ശബ്ദം",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "ഊര്ജം",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "നായാട്ട്",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "സംഭാവമായ",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "കിടക്ക",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "സഹോദരൻ",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "മുട്ട",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "കുതിരസവാരി",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "കോശം",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "വിശ്വസിക്കുകയും",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "ഒരുപക്ഷേ",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "തിരഞ്ഞെടുക്കാവുന്നതാണ്",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "പെട്ടെന്നുള്ള",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "എണ്ണം",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "സമചതുരം",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "കാരണം",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "ദൈർഘ്യം",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "പ്രതിനിധാനം",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "കല",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "വിഷയം",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "പ്രദേശം",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "വലുപ്പം",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "വ്യത്യാസപ്പെടാം",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "settle",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "സംസാരിക്കുക",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "ഭാരം",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "പൊതുവായ",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "മഞ്ഞ്",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "കാര്യം",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "വലയം",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "ഇണ",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "ഉൾപ്പെടുന്നു",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "വീതിക്കുക",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "അക്ഷരങ്ങൾ",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "തോന്നി",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "Grand",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "പന്ത്",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ഇതുവരെ",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "തിരമാല",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "ഡ്രോപ്പ്",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "ഹൃദയം",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "ആകുന്നു",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "സമ്മാനം",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "ഭാരമുള്ള",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "നൃത്തം",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "എഞ്ചിൻ",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "സ്ഥാനം",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "ഭുജം",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "വീതിയുള്ള",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "കപ്പല്യാതചെയ്യുക",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "വസ്തു",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "അംശം",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "കാട്",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "ഇരുന്നു",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "ഓട്ടം",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "ജാലകം",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "സ്റ്റോർ",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "വേനല്ക്കാലം",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "തീവണ്ടി",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "ഉറക്കം",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "തെളിയിക്കുക",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "ഏക",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "കാല്",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "വ്യായാമം",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "ചുവര്",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "പിടിക്കുക",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "മൌണ്ട്",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "അഭിലാഷം",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "ആകാശം",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "പലക",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "സന്തോഷം",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "ശീതകാലം",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "ശ",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "എഴുതിയ",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "കാട്ടുപന്നി",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "ഉപകരണം",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "ആചരിച്ചു",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "ഗ്ലാസ്",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "പുല്ല്",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "പശു",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "ജോലി",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "അറ്റം",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "അടയാളം",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "സന്ദര്ശനം",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "കഴിഞ്ഞ",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "മൃദുവായ",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "തമാശ",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "തിളങ്ങുന്ന",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "വാതകം",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "കാലാവസ്ഥ",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "മാസം",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "ദശലക്ഷം",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "കരടി",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "തീര്ക്കുക",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "സന്തുഷ്ടമായ",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "പ്രത്യാശ",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "പൂവ്",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "ധരിപ്പിക്കും",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "അസാധാരണമായ",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "മാറിപ്പോയല്ലോ",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "വ്യാപാരം",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "മാധുരമായ",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "ട്രിപ്പ്",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "ഓഫീസ്",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ലഭിക്കും",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "നിര",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "വായ",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "സൂക്ഷ്മമായ",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "ചിഹ്നം",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "മരിക്കുക",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "കുറഞ്ഞത്",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "കഷ്ടത",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "അലറുക",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "ഒഴികെ",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "എഴുതി",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "വിത്ത്",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "ഛായ",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "ചേരാൻ",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "suggest",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "വെടിപ്പുള്ള",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "ബ്രേക്ക്",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "യുവതിയുടെ",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "ഗജം",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "വർധന",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "ചീത്ത",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "അടിക്കുക",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "എണ്ണ",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "രക്തം",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "ടച്ച്",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "വളർന്നു",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "ശതമാനം",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "കൂട്ടിക്കലര്ത്തുക",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "ടീം",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "കന്വി",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "വില",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "നഷ്ടപ്പെട്ട",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "തവിട്ട്",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "ധരിക്കാൻ",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "തോട്ടം",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "ചിഹ്നം",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "അയച്ചു",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "തിരഞ്ഞെടുക്കുക",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "അസ്വസ്ഥനായിരുന്നു",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "യോജമാക്കുക",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "ഒഴുക്ക്",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "മേള",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "ബാങ്ക്",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "ശേഖരിക്കുക",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "അല്ലാതെ",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "നിയന്ത്രണം",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "ദശാംശ",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "ചെവി",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "മറ്റാരെങ്കിലും",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "തികച്ചും",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "തകർത്തുകളഞ്ഞു",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "കേസ്",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "മദ്ധ്യ",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "കൊല്ലുക",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "മകൻ",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "തടാകം",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "നിമിഷം",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "സ്കെയിൽ",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "ഉച്ചത്തിലുള്ള",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "അരുവി",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "നിരീക്ഷിക്കുക",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "കുട്ടി",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "ഋജുവായത്",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "വഞ്ജനാക്ഷരം",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "ജാതി",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "നിഘണ്ടു",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "പാൽ",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "വേഗം",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "രീതി",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "ശരീരാവയവം",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "കൂലി",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "പ്രായം",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "വിഭാഗം",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "ഉടുക്കുക",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "മേഘം",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "സർപ്രൈസ്",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "മിണ്ടാതിരിപ്പാൻ",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "കല്ല്",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "തീരെച്ചെറിയ",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "കയറുക",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "അടിപൊളി",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "ഡിസൈന്",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "പാവപ്പെട്ട",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "ചീട്ടു",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "പരീക്ഷണം",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "അടിത്തട്ട്",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "കീ",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "ഇരുമ്പ്",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "ഒറ്റ",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "വടി",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "പരന്ന",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "ഇരുപത്",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "തൊലി",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "പുഞ്ചിരി",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "ക്രീസിൽ",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "തുള",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "കുതിക്കുക",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "ശിശു",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "എട്ട്",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "ഗ്രാമം",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "സംഗമം",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "വേര്",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "വാങ്ങുക",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "ഉളവാക്കുവാൻ",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "പരിഹരിക്കാൻ",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "ലോഹം",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "എന്ന്",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "തള്ളുക",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "ഏഴ്",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "ഖണ്ഡിക",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "മൂന്നാമത്തെ",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "എന്നു",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "held",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "തലമുടി",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "വിവരിക്കുക",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "പാചകക്കാരന്",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "തറ",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "ഒന്നുകിൽ",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "ഫലം",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "കത്തിക്കുക",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "കുന്ന്",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "സുരക്ഷിതമായ",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "പൂച്ച",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "നൂറ്റാണ്ട്",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "പരിഗണിക്കുക",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "ടൈപ്പ് ചെയ്യുക",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "നിയമം",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "ബിറ്റ്",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "തീരം",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "പകര്പ്പ്",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "ശൈലി",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "നിശ്ശബ്ദമായ",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "പൊക്കമുള്ള",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "മണല്",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "മണ്ണ്",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "ഉരുളുക",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "താപനില",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "വിരല്",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "വ്യവസായം",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "വില",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "യുദ്ധം",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "നുണ",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "അടി",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "ഉണര്ത്തുക",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "പ്രകൃതി",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "കാഴ്ച",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "അർഥത്തിൽ",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "തലസ്ഥാനം",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "മനസ്സില്ല",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "കസേര",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "അപായം",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "പഴം",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "സമ്പന്നമായ",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "കട്ടിയുള്ള",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "സൈനികന്റെ",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "പ്രക്രിയ",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "ഓപ്പറേറ്റ്",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "പരിശീലനം",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "പ്രത്യേക",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "പ്രയാസമാണ്",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "ഡോക്ടര്",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "ദയവായി",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "സംരക്ഷിക്കുക",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "ഉച്ചയ്ക്ക്",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "വിളവ്",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "ആധുനികമായ",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "മൂലകം",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "തല്ലുക",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "വിദ്യാർത്ഥി",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "മൂല",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "കക്ഷി",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "വിതരണം",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "ആരുടെ",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "കണ്ടുപിടിക്കുക",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "വളയം",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "പ്രതീകം",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "പുഴു",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "പിടിച്ചു",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "കാലഘട്ടം",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "സൂചിപ്പിക്കുക",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "റേഡിയോ",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "സ്പോക്",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "പരമാണു",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "മാനുഷികമായ",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "ചരിത്രം",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "ഫലം",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "വൈദ്യുത",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "പ്രതീക്ഷ",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "അസ്ഥി",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "റെയിൽ",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "സങ്കൽപ്പിക്കാൻ",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "നൽകുന്നതിന്",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "സമ്മതിക്കുക",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "ഇങ്ങനെ",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "ശാന്തനും",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "സ്ത്രീ",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "നായകൻ",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "ഊഹിക്കുക",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "ആവശ്യമായ",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "കൂര്ത്ത",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "ചിറക്",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "സൃഷ്ടിക്കുക",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "കൂട്ടുകാരനെ",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "കഴുകുക",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "ബാറ്റ്",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "അധികമായി",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "കൂട്ടം",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "ചോളം",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "താരതമ്യം",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "കവിത",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "സ്ട്രിംഗ്",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "മണി",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "ആശ്രയിച്ചിരിക്കുന്നു",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "മാംസം",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "തടവുക",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "കുഴല്",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "പേരുകേട്ട",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ഡോളറിന്",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "സ്ട്രീം",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "ഭയം",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "കാഴ്ച",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "കനംകുറഞ്ഞ",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "തികോണം",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "ഗ്രഹം",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "ധൃതികൂട്ടുക",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "നേതാവ്",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "കോളനി",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "ഘടികാരം",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "എന്റെ",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "ടൈ",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "നൽകുക",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "പ്രധാന",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "പുതിയ",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "തിരയൽ",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "അയയ്ക്കുക",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "മഞ്ഞ",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "നോക്ക്",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "അനുവദിക്കുക",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "അച്ചടിക്കുക",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "മരിച്ച",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "പുള്ളി",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "മരുഭൂമിയിൽ",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "വസ്തം",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "നിലവിലെ",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "ലിഫ്റ്റ്",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "പനിനീര്പ്പൂവ്",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "എത്തും",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "യജമാനന്",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "പാത",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "പാരന്റ്",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "തീരം",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "ഡിവിഷൻ",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "ഷീറ്റ്",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "സമ്പത്തു",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "അനുഗ്രഹം",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "കണക്ട്",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "സ്ഥാനം",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "ചെലവഴിക്കുകയും",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "ശബ്ദവലയം",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "കൊഴുപ്പ്",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "സന്തോഷിച്ചു",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "യഥാർത്ഥ",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "പങ്കിടുക",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "സ്റ്റേഷൻ",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "അച്ഛന്",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "റൊട്ടി",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "ചാർജ്ജ്",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "ശരിയായ",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "ബാർ",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "വാഗ്ദാനം",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "സെഗ്മെന്റ്",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "അടിമ",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "ഡക്ക്",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "തൽക്ഷണ",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "വിപണി",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "ബിരുദം",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "ജനപ്രിയമാക്കുന്നതിന്",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "കൊഴി",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "പ്രിയ",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "ശത്രു",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "മറുപടി",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "പാനീയം",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "സംഭവിക്കുക",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "പിന്തുണ",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "മൊഴി",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "പ്രകൃതി",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "പരിധി",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "ആവി",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "ചലനം",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "പാത",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "ദ്രാവക",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "രേഖ",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "ഉദ്ദേശിച്ചത്",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "ഘടകഗ്രൂപ്പുകൾ",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "പല്ലുകൾ",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "ഷെൽ",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "കഴുത്ത്",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "ഓക്സിജൻ",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "പഞ്ചസാര",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "മരണം",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "പ്രെറ്റി",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "നൈപുണ്യ",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "സ്ത്രീകൾ",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "കാലം",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "പരിഹാരം",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "കാന്തം",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "വെള്ളി",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "നന്ദിപറയുക",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "ശാഖ",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "മത്സരം",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "പ്രത്യയം",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "വിശേഷാല്",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "അത്തിപ്പഴം",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "ഭയപ്പെട്ടു",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "വലിയ",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "സഹോദരി",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "ഉരുക്ക്",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ചർച്ച",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "മുന്നോട്ട്",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "സമാനമായ",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "വഴികാട്ടി",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "പരിചയം",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "സ്കോർ",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "ആപ്പിൾ",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "വാങ്ങിയ",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "എൽഇഡി",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "പിച്ച്",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "അങ്കി",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "പിണ്ഡം",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "കാർഡ്",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "കൂട്ടം",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "കയര്",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "അടിവസ്തം",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "വിജയം",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "സ്വപ്നം",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "വൈകുന്നേരം",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "അവസ്ഥ",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "തീറ്റ",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "ഉപകരണം",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "മൊത്തം",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "അടിസ്ഥാനപരമായ",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "മണം",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "താഴ്വര",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "അരുതു",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "ഇരട്ട",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "ഇരിപ്പിടം",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "തുടരുക",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "ബ്ലോക്ക്",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "ചാർട്ട്",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "തൊപ്പി",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "വിറ്റു",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "വിജയം",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "സംഘം",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "കുറയ്ക്കുക",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "സംഭവം",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "പ്രത്യേക",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "കരാര്",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "നീന്തുക",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "കാലാവധി",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "സമ്മുഖ",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "ഭാര്യ",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "ചെരുപ്പ്",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "തോളിൽ",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "വിരിക്കുക",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "കമീകരിക്കുക",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "പാളയം",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "കെട്ടിയുണ്ടാക്കുകയുമാണ്",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "പരുത്തി",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "ജനിച്ച",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "തീരുമാനിക്കുക",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "നല്ലൊരു",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "ഒന്പത്",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "വണ്ടി",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "ശബ്ദം",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "നില",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "അവസരം",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "ശേഖരിച്ചു",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "കട",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "പരത്തുക",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "എറിയുക",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "തിളക്കം",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "യോഗ്യത",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "കോളം",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "തന്മാത്ര",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "തെരഞ്ഞെടുക്കുക",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "തെറ്റായ",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "ചാര",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ആവര്ത്തിക്കുക",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "ആവശ്യമായ",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "വിശാലമായ",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "ഒരുക്കും",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "ഉപ്പ്",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "മൂക്ക്",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "പദത്തിന്റെ",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "കോപം",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "അവകാശം",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "ഭൂഖണ്ഡം",
+      "englishWord": "continent"
+    }
+  ]
+}

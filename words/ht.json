@@ -1,0 +1,5007 @@
+{
+  "languageCode": "ht",
+  "languageName": "Haitian",
+  "languageNativeName": "Kreyòl ayisyen",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "kòm",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "mwen",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "l’",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ki",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "li",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "te",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "pou",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "sou",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "yo se",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "ak",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "yo",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "gen",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "nan",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "yon sèl",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "gen",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "sa a",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "soti nan",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "pa",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "cho",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "mo",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "men",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "sa ki",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "kèk",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "se",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "li",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "ou",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "oswa",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "te gen",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "nan",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "nan",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "gen",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "ak",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "yon",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "nan",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "nou",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "kapab",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "soti",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "lòt",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "yo te",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "ki",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "fè",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "yo",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "tan",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "si",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "pral",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "ki jan",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "te di",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "yon",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "chak",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "di",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "fè",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "seri",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "twa",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "vle",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "lè",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "byen",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "tou",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "jwe",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "ti",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "fen",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "mete",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "lakay",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "li",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "men",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "pò",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "gwo",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "eple",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "ajoute",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "menm",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "peyi",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "isit la",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "dwe",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "gwo",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "segondè",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "sa yo",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "swiv",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "zak",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "poukisa",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "mande",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "moun",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "chanjman",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "te ale",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "limyè",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "kalite",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "koupe",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "bezwen",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "kay",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "foto",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "eseye",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "nou",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "ankò",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "bèt",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "pwen",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "manman",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "mond",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "tou pre",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "bati",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "pwòp tèt ou",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "latè",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "papa",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "nenpòt ki",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "nouvo",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "travay",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "pati",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "pran",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "jwenn",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "plas",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "te fè",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "ap viv",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "ki kote",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "apre",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "tounen",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "ti kras",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "sèlman",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "wonn",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "nonm",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "ane",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "te vin",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "montre",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "chak",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "bon",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "m ‘",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "bay",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "nou an",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "anba",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "non",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "trè",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "atravè",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "jis",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "fòm",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "fraz",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "gwo",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "panse",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "di",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "ede",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "ki ba",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "liy",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "diferan",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "vire",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "kòz",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "anpil",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "vle di",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "anvan",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "deplase",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "dwa",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "ti gason",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "fin vye granmoun",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "twò",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "menm",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "li",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "tout",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "gen",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "lè",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "moute",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "itilize",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "ou",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "fason",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "sou",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "anpil",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "lè sa a,",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "yo",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "ekri",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "ta",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "tankou",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "se konsa,",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "sa yo",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "gen",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "lontan",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "fè",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "bagay",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "wè",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "l ‘",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "de",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "gen",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "gade",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "plis",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "jou",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "te kapab",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "ale",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "vini",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "te fè",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "nimewo",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "son",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "pa gen okenn",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "pi",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "moun",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "mwen",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "sou",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "konnen",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "dlo",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "pase",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "apèl",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "premye",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "ki moun ki",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "kapab",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "desann",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "bò",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "te",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "kounye a",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "jwenn",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "tèt",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "kanpe",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "pwòp",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "paj",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "ta dwe",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "peyi",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "jwenn",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "repons",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "lekòl",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "grandi",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "etid",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "toujou",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "aprann",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "plant",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "kouvèti",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "manje",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "solèy",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "kat",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "ant",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "eta",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "kenbe",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "je",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "pa janm",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "dènye",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "kite",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "te panse",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "vil la",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "pyebwa",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "travèse",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "fèm",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "difisil",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "kòmansman",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "ta ka",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "istwa",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "te wè",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "byen lwen",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "lanmè",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "trase",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "kite",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "an reta",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "kouri",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "pa fè sa",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "pandan y ap",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "laprès",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "fèmen",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "lannwit",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "reyèl",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "lavi",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "kèk",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "nò",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "liv",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "pote",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "pran",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "syans",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "manje",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "chanm",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "zanmi",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "te kòmanse",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "lide",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "pwason",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "mòn",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "sispann",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "yon fwa",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "baz",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "tande",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "chwal",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "koupe",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "asire w",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "gade",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "koulè",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "figi",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "bwa",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "prensipal",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "louvri",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "sanble",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "ansanm",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "pwochen",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "blan",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "timoun",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "kòmanse",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "te resevwa",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "mache",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "egzanp",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "fasilite",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "papye",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "gwoup",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "toujou",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "mizik",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "moun",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "tou de",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "make",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "souvan",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "lèt",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "jiskaske",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "mil",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "gwo larivyè Lefrat",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "machin",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "pye",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "swen",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "dezyèm",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "ase",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "plenn",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "ti fi",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "nòmal",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "jèn",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "pare",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "pi wo a",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "tout tan tout tan",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "wouj",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "lis",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "menm si",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "santi",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "pale",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "zwazo",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "byento",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "kò",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "chen",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "fanmi",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "dirèk",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "poze",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "kite",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "chante",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "mezire",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "pòt",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "pwodwi",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "nwa",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "kout",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "a chif",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "klas",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "van",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "kesyon",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "rive",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "konplè",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "bato",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "zòn",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "mwatye",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "wòch",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "lòd",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "dife",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "sid",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "pwoblèm",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "moso",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "te di",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "te konnen",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "pase",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "depi",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "tèt",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "antye",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "wa",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "lari",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "pous",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "miltipliye",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "pa gen anyen",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "kou",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "rete",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "wou",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "plen",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "fòs",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "ble",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "objè",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "deside",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "sifas",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "gwo twou san fon",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "lalin",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "zile",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "pye",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistèm",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "okipe",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "tès",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "dosye",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "bato",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "komen",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "lò",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "posib",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "avyon",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "plas",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "sèk",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "mande",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "ri",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "mil",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "de sa",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "kouri",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "tcheke",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "jwèt",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "fòm",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "egalize",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "cho",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "mennen l ‘",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "chalè",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "nèj",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "kawotchou",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "pote",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "repons lan se wi",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "byen lwen",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "ranpli",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "bò solèy leve",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "penti",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "lang",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "nan mitan",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "inite",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "pouvwa",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "vil",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "amann",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "sèten",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "vole",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "tonbe",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "mennen",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "rèl",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "fè nwa",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "machin",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "nòt",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "rete tann",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "plan",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "figi",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "etwal",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "bwat",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "non",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "jaden",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "rès",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "kòrèk",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "kapab",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "liv",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "fè a",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "bote",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "kondwi",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "te kanpe",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "gen ladan",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "devan",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "anseye",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "semèn",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "final",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "te bay",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "vèt",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "rapid",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "devlope",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "oseyan",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "cho",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "gratis",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minit",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "fò",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "espesyal",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "lide",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "dèyè",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "klè",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "ke",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "pwodwi",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "reyalite",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "espas",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "tande",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "pi bon",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "èdtan",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "pi bon",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "vre",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "pandan",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "santèn",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "senk",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "sonje",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "etap",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "byen bonè",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "kenbe",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "lwès",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "tè",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "enterè",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "rive jwenn",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "vit",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "vèb",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "chante",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "koute",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "sis",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "tab",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "vwayaj",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "mwens",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "maten",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "dis",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "senp",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "plizyè",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "vwayèl",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "nan direksyon",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "lagè",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "kouche",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "kont",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "modèl",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "dousman",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "SANT",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "renmen",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "moun",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "lajan",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "sèvi",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "parèt",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "wout",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "kat jeyografik",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "lapli",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "règ",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "gouvène",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "rale",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "frèt",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "avi",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "vwa",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "enèji",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "lachas",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "pwobab",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "kabann",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "frè",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ze",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "woulib",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "selil",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "kwè",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "petèt",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "chwazi",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "toudenkou",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "konte",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "kare",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "rezon",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "longè",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "reprezante",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "atizay",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "sijè",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "rejyon",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "gwosè",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "varye",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "rezoud",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "pale",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "pwa",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "jeneral",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "glas",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "pwoblèm",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "sèk",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "pè",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "gen ladan yo",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "divize",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "silab",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "te santi",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "Grand",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "boul",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ankò",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "vag",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "gout",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "kè",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "menm",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "prezan",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "lou",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "dans",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "motè",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "pozisyon",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "bra",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "lajè",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "vwal",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materyèl",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "fraksyon",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "forè",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "chita",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "ras",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "fenèt",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "magazen",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "ete",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "tren",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "dòmi",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "pwouve",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "Lone",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "janm",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "fè egzèsis",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "miray",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "trape",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "mòn",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "swete",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "syèl",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "tablo",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "kè kontan",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "sezon fredi",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "ekri",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "sovaj",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "enstriman",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "kenbe",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "vè",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "zèb",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "bèf",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "travay",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "kwen",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "siy",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "vizit",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "sot pase",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "mou",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "plezi",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "klere",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gaz",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "move tan",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "mwa",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "milyon dola",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "pote",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "fini",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "kontan",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "espere",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "flè",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "abiye",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "etranj",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "ale",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "komès",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodi",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "vwayaj",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "biwo",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "resevwa",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "ranje",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "bouch",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "egzak",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "senbòl",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "mouri",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "omwen",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "pwoblèm",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "sèl rèl byen",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "eksepte",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "ekri",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "pitit pitit",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "ton",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "rantre nan",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "sijere",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "pwòp",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "repo",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "dam",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "lakou",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "monte",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "move",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "souflèt",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "lwil oliv",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "san",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "manyen",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "te grandi",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "santim",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "melanje",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "ekip",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "fil",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "pri",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "pèdi",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "mawon",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "mete",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "jaden",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "egal",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "voye",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "chwazi",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "tonbe",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "anfòm",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "koule",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "ki jis",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bank",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "kolekte",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "sove",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kontwòl",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "desimal",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "zòrèy",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "lòt moun",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "byen",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "kase",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "ka",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "mitan",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "touye",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "pitit gason",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "lak",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "moman sa",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "echèl",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "byen fò",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "sezon prentan",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "obsève",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "pitit",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "tou dwat",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "konsòn",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "nasyon",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "diksyonè",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "lèt",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "vitès",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "metòd",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "ògàn",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "peye",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "laj",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "seksyon",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "rad",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "nwaj",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "sipriz",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "trankil",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "wòch",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "ti",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "grenpe",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "fre",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "konsepsyon",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "pòv",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "anpil",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "eksperyans",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "anba",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "kle",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "fè",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "sèl",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "bwa",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "plat",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "ven",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "po",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "souri",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "pli",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "twou",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "sote",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "ti bebe",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "uit",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "vilaj",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "satisfè",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "rasin",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "achte",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "ogmante",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "rezoud",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metal",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "si wi ou non",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "pouse",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "sèt",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "paragraf",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "twazyèm",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "va",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "ki te fèt",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "tout cheve nan tèt",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "dekri",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "kwit manje",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "etaj",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "swa",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "rezilta",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "boule",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "mòn",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "ki san danje",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "chat",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "syèk",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "konsidere",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "kalite",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "lalwa",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "ti jan",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "kòt",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopi",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "fraz",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "an silans",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "wotè",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "sab",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "tè",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "woulo liv",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "tanperati",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "dwèt",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "endistri",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "valè",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "batay",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "manti",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "bat",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "motive",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "natirèl",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "View",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "sans",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "kapital",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "pa pral",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "chèz",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "danje",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "fwi",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "moun rich",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "epè",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "sòlda",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "pwosesis",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "opere",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "pratik",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "separe",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "difisil",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "doktè",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "tanpri",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "pwoteje",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "midi",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "rekòt",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "modèn",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "eleman",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "frape",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "elèv",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "kwen",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "pati",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "ekipman pou",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "ki gen",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "lokalize",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "bag",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "karaktè",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "ensèk",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "kenbe",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "peryòd",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "endike",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radyo",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "te pale",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atòm",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "imen",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "istwa",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "efè",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektrik",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "espere",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "zo",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "tren",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "imajine",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "bay",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "dakò",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "konsa",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "dou",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "fanm",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kòmandan",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "devine",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "nesesè",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "byen file",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "zèl",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "kreye",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "frè parèy",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "lave",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "baton",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "olye",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "foul moun",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "mayi",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "konpare",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "powèm",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "fisèl",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "klòch",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "depann",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "vyann",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "fwote",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "tib",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "pi popilè",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dola",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "kouran",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "pè",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "je",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "mens",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "triyang",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planèt",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "prese",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "chèf",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "koloni",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "revèy",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "m ‘",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "menm kantite vòt",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "antre nan",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "pi gwo",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "fre",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "rechèch",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "voye",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "jòn",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "zam",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "pèmèt",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "ekri an lèt detache",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "mouri",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "plas",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "dezè",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "kostim",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "aktyèl",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "leve",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "leve",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "rive",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "mèt",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "tras",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "paran",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "rivaj",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "divizyon",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "fèy",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "sibstans",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "favorize",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "konekte",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "pòs",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "depanse",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "kòd",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "grès",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "kontan",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "orijinal",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "pataje",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "estasyon",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "papa",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "pen",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "chaje",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "apwopriye",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "òf",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segman",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "esklav",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "kanna",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "enstantane",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "mache",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "degre",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "peple",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "Chick",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "mwen renmen anpil",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "lènmi",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "reponn",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "bwè",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "rive",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "sipò",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "diskou",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "nati",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "seri",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "vapè",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "mouvman",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "chemen",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "likid",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "journal",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "vle di",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "kosyan",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "dan",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "koki",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "kou",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "oksijèn",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "sik",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "lanmò",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "bèl",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "konpetans",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "fanm",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "sezon",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "solisyon",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "leman",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "ajan",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "mèsi",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "branch",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "matche ak",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "sIFIKS",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "espesyalman",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "fig frans",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "pè",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "gwo",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "sè",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "asye",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "diskite sou",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "pou pi devan",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "menm jan",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "gide",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "eksperyans",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "nòt",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "pòm",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "te achte",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "dirije",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "anplasman",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "rad",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "mas",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kat",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "bann",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "kòd",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "glise",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "genyen",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "rèv",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "aswè",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "kondisyon",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "manje",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "zouti",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "manm",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "debaz",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "pran sant",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "fon",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ni",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "doub",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "chèz",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "kontinye",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "blòk",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "tablo",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "chapo",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "vann",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "siksè",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "konpayi",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "fè soustraksyon",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "evènman",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "patikilye",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "kontra",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "naje",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "tèm",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "opoze",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "madanm",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "soulye",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "zepòl",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "gaye",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "fè aranjman pou",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "kan",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "envante",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "koton",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Li te fèt",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "detèmine",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "lit edmi",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "nèf",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "kamyon",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "bri",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "nivo",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "chans",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "ranmase",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "boutik",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "detire",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "voye jete",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "klere",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "pwopriyete",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "kolòn",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekil",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "chwazi",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "mal",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "gri",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "repete",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "mande pou",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "laj",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "prepare",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "sèl",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "nen",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "pliryèl",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "kòlè",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "reklamasyon",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontinan",
+      "englishWord": "continent"
+    }
+  ]
+}

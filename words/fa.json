@@ -1,0 +1,5007 @@
+{
+  "languageCode": "fa",
+  "languageName": "Persian",
+  "languageNativeName": "فارسی",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "عنوان",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "من",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "خود",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "که",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "او",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "بود",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "برای",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "در",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "هستیم",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "با",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "آنها",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "بودن",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "در",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "یک",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "دارند",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "این",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "از",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "توسط",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "داغ",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "کلمه",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "اما",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "چه",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "برخی از",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "است",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "آن",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "شما",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "و یا",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "حال",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "تر",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "از",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "به",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "و",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "دست",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "در",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "ما",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "می توانید",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "از",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "دیگر",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "بود",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "که",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "انجام",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "شان",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "زمان",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "اگر",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "خواهد شد",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "چگونه",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "گفت:",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "پا",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "هر",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "بگو",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "میکند",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "مجموعه",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "سه",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "می خواهم",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "هوا",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "به خوبی",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "همچنین",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "بازی",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "کوچک",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "پایان",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "قرار دادن",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "خانه",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "بهعنوان",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "دست",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "بندر",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "بزرگ",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "طلسم",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "اضافه",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "حتی",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "زمین",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "اینجا",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "باید",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "بزرگ",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "بالا",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "از جمله",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "به دنبال",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "عمل",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "به همین دلیل",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "بپرسید",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "مردها",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "تغییر",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "رفت",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "نور",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "نوع",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "خاموش",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "نیاز",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "خانه",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "تصویر",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "سعی کنید",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "ما",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "دوباره",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "حیوانات",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "نقطه",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "مادر",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "جهان",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "در نزدیکی",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "ساخت",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "خود",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "زمین",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "پدر",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "هر",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "جدید",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "کار",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "بخش",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "را",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "دریافت",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "محل",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "ساخته شده",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "زنده",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "که در آن",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "پس از",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "به عقب",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "کمی",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "تنها",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "دور",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "مرد",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "سال",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "آمد",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "نمایش",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "هر",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "خوب",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "به من",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "را",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "ما",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "در",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "نامونام",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "بسیار",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "از طریق",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "فقط",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "فرم",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "حکم",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "بزرگ",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "فکر کردن",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "می گویند",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "کمک",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "کم",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "خط",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "متفاوت",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "به نوبه خود",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "علت",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "بسیار",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "متوسط",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "قبل",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "حرکت",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "راست",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "پسر",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "قدیمی",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "هم",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "همان",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "او",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "همه",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "وجود دارد",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "وقتی که",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "بالا",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "استفاده",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "خود را",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "راه",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "در مورد",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "بسیاری از",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "پس از آن",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "آنها را",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "نوشتن",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "را",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "مانند",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "تا",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "اینها",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "او",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "طولانی",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "را",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "چیزی که",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "ببینید",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "او",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "دو",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "دارد",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "نگاه",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "تر",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "روز",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "می تواند",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "به",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "آمده",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "انجام",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "تعداد",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "صدا",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "هیچ",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "بیشترین",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "مردم",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "من",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "روی",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "می دانم",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "اب",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "نسبت به",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "تماس",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "اولین",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "که",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "ممکن است",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "پایین",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "سمت",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "بوده",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "ساعت",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "پیدا کردن",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "سر",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "ایستادن",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "خود",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "صفحه",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "باید",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "کشور",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "یافت",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "پاسخ",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "مدرسه",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "رشد",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "مطالعه",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "هنوز",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "یادگیری",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "کارخانه",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "پوشش",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "مواد غذایی",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "آفتاب",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "چهار",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "بین",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "دولت",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "نگه داشتن",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "چشم",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "هرگز",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "آخرین",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "اجازه",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "فکر",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "شهرستان",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "درخت",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "صلیب",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "مزرعه",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "سخت",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "شروع",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "زور",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "داستان",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "اره",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "بسیار",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "دریا",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "قرعه کشی",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "سمت چپ",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "اواخر",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "اجرا",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "نکن",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "در حالی که",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "مطبوعات",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "نزدیک",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "شب",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "واقعی",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "زندگی",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "کم",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "شمال",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "کتاب",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "حمل",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "در زمان",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "علم",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "خوردن",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "اتاق",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "دوستان",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "آغاز شد",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ایده",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ماهی",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "کوه",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "توقف",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "یک بار",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "پایه",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "گوش",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "اسب",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "برش",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "مطمئن",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "تماشای",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "رنگ",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "صورت",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "چوب",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "اصلی",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "باز",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "به نظر می رسد",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "با هم",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "بعدی",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "سفید",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "کودکان",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "شروع",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "رو",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "راه رفتن",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "مثال",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "آسان",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "مقاله",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "گروه",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "همیشه",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "موسیقی",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "آن",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "هر دو",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "علامت",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "غالبا",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "نامه",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "تا زمانی که",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "مایل",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "رودخانه",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "اتومبیل",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "پا",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "مراقبت",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "دوم",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "کافی",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "ساده",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "دختر",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "معمول",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "جوان",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "اماده",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "بالا",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "همیشه",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "قرمز",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "لیست",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "هر چند",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "احساس",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "بحث",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "پرنده",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "بزودی",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "بدن",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "سگ",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "خانواده",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "مستقیم",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "مطرح",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "ترک",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "آهنگ",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "اندازه گیری",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "درب",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "محصول",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "سیاه و سفید",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "کوتاه",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "بر اساس اعداد",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "کلاس",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "باد",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "سوال",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "اتفاق می افتد",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "کامل",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "کشتی",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "منطقه",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "نیم",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "سنگ",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "منظور",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "آتش",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "جنوب",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "مشکل",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "قطعه",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "گفت",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "می دانستم که",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "عبور",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "از سال",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "بالا",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "تمام",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "پادشاه",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "خیابان",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "اینچ",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "ضرب",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "هیچ",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "البته",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "اقامت",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "چرخ",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "کامل",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "نیروی",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "آبی",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "شی",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "تصمیم گی",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "سطح",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "عمیق",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "ماه",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "جزیره",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "پا",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "سیستم",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "مشغول",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "آزمون",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "رکورد",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "قایق",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "مشترک",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "طلا",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "ممکن",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "هواپیما",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "جا",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "خشک",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "جای تعجب",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "خنده",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "هزار",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "پیش",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "فرار",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "بررسی",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "بازی",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "شکل",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "برابر",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "داغ",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "دست",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "آورده",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "حرارت",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "برف",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "لاستیک",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "را",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "بله",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "دور",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "پر",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "شرق",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "رنگ",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "زبان",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "در میان",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "واحد",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "قدرت",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "شهر",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "خوب",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "معین",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "پرواز",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "سقوط",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "شود",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "فریاد",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "تاریک",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "ماشین",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "یادداشت",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "صبر",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "برنامه",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "شکل",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "ستاره",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "جعبه",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "اسم",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "حوزه",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "بقیه",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "درست",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "قادر",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "پوند",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "انجام",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "زیبایی",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "درایو",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "ایستاده بود",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "شامل",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "جلو",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "آموزش",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "هفته",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "نهایی",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "به",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "سبز",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "آه",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "سریع",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "توسعه",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "اقیانوس",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "گرم",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "رایگان",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "دقیقه",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "قوی",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "ویژه",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "ذهن",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "پشت سر",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "روشن",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "دم",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "محصول",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "واقع",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "فضا",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "شنیده",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "بهترین",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "ساعت",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "بهتر",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "درست است",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "در",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "صد",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "پنج",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "به یاد داش",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "گام",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "اوایل",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "نگه داشتن",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "غرب",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "زمین",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "علاقه",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "رسیدن به",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "سریع",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "فعل",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "آواز خواندن",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "گوش دادن",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "شش",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "جدول",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "سفر",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "کمتر",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "صبح",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "ده",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "ساده",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "چند",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "واکه",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "به سمت",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "جنگ",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "ذخیره کردن",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "در برابر",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "الگوی",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "کند",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "مرکز",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "دوست دارم",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "فرد",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "پول",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "خدمت",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "به نظر می رسد",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "جاده",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "نقشه",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "باران",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "قانون",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "حکومت",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "کشیدن",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "سرد",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "اطلاع",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "صدای",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "انرژی",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "شکار",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "احتمالی",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "تخت",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "برادر",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "تخم مرغ",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "سوار",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "سلول",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "باور",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "شاید",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "انتخاب کنید",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "ناگهانی",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "شمار",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "مربع",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "دلیل",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "طول",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "نمایندگی",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "هنر",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "موضوع",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "منطقه",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "اندازه",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "متفاوت ا",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "حل و فصل",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "کنند",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "وزن",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "عمومی",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "یخ",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "موضوع",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "دایره",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "جفت",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "عبارتند از",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "تقسیم",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "هجا",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "نمد",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "بزرگ",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "توپ",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "هنوز",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "موج",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "رها کردن",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "قلب",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "ساعت",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "حاضر",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "سنگین",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "رقص",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "موتور",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "موقعیت",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "دست",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "گسترده",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "بادبان",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "ماده",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "بخش",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "جنگل",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "نشستن",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "مسابقه",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "پنجره",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "فروشگاه",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "تابستان",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "قطار",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "خواب",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "ثابت",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "تنها",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "پا",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ورزش",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "دیوار",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "گرفتن",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "کوه",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "آرزو",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "آسمان",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "هیئت مدیره",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "لذت",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "زمستان",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "شنبه",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "نوشته شده",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "وحشی",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "ابزار",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "نگه داشته",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "شیشه ای",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "چمن",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "گاو",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "کار",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "لبه",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "علامت",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "بازدید",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "گذشته",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "نرم",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "سرگرم",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "روشن",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "گاز",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "آب و هوا",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "ماه",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "میلیون",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "تحمل",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "پایان",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "شاد",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "امیدوارم",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "گل",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "پوشاندن",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "عجیب و غر",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "رفته",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "تجارت",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "ملودی",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "سفر",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "دفتر",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "دریافت",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "ردیف",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "دهان",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "دقیق",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "نماد",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "مرگ",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "کمترین",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "مشکل",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "فریاد",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "جز",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "نوشت",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "دانه",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "تن",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "عضویت",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "نشان می دهد",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "تمیز",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "استراحت",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "خانم",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "حیاط",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "افزایش",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "بد",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "ضربه",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "نفت",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "خون",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "دستزدن",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "رشد",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "در صد",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "مخلوط",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "تیم",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "سیم",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "هزینه",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "از دست داده",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "قهوه ای",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "لباس",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "باغ",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "برابر",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "ارسال",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "کنید",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "سقوط",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "مناسب",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "جریان",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "عادلانه",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "بانک",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "جمع آوری",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "ذخیره",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "کنترل",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "اعشاری",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "گوش",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "دیگر",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "کاملا",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "شکست",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "مورد",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "متوسط",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "کشتن",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "پسر",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "دریاچه",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "لحظه ای",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "مقیاس",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "با صدا",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "بهار",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "مشاهده",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "کودک",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "مستقیم",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "همخوان",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "کشور",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "فرهنگ لغت",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "شیر",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "سرعت",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "روش",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "عضو",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "پرداخت",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "سن",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "بخش",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "لباس",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "ابر",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "تعجب",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "آرام",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "سنگ",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "کوچک",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "صعود",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "سرد",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "طراحی",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "ضعیف",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "زیادی",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "تجربه",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "پایین",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "کلید",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "اهن",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "تک",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "چوب",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "تخت",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "بیست",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "پوست",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "لبخند",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "چین",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "سوراخ",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "پرش به",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "کودک",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "هشت",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "روستای",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "ملاقات",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "ریشه",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "خرید",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "بالا بردن",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "حل",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "فلز",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "چه",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "فشار",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "هفت",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "بند",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "سوم",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "باید",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "برگزار شد",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "مو",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "توصیف",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "آشپز",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "طبقه",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "یا",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "نتیجه",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "رایت",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "تپه",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "امن",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "گربه",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "قرن",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "در نظر",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "نوع",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "قانون",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "بیت",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "ساحل",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "کپی",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "عبارت",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "خاموش",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "بلند",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "شن",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "خاک",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "رول",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "درجه حرارت",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "انگشت",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "صنعت",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "ارزش",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "مبارزه",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "دروغ",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "ضرب و شتم",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "تحریک",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "طبیعی",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "نظر",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "احساس",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "سرمایه",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "نه",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "صندلی",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "خطر",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "میوه",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "غنی",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "ضخامت",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "سرباز",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "روند",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "کار",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "عمل",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "جداگانه",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "دشوار",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "دکتر",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "لطفا",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "محافظت",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "ظهر",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "محصول",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "مدرن",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "عنصر",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "ضربه",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "دانش آموز",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "گوشه",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "حزب",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "عرضه",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "که",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "قرار",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "حلقه",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "شخصیت",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "حشرات",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "گرفتار",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "دوره",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "نشان می دهد",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "رادیو",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "صحبت",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "اتم",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "انسانی",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "تاریخ",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "اثر",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "برق",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "انتظار",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "استخوان",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "نرده",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "تصور کنید",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ارائه",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "توافق",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "بنابر این",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "ملایم",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "زن",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "کاپیتان",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "حدس می زنم",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "لازم",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "تیز",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "بال",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "ایجاد",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "همسایه",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "شستشو",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "خفاش",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "نه",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "جمعیت",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "ذرت",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "مقایسه",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "شعر",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "رشته",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "زنگ",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "بستگی دارد",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "گوشت",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "مالیدن",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "لوله",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "معروف",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "دلار",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "جریان",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "ترس",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "نظر",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "نازک",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "مثلث",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "سیاره",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "عجله ب",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "رئیس",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "مستعمره",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "ساعت",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "معدن",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "کراوات",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "وارد شدن",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "اصلی",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "تازه",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "جستجو",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "ارسال",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "زرد",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "اسلحه",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "اجازه",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "چاپ",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "مرده",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "نقطه",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "بیابان",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "کت و ش",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "جریان",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "آسانسور",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "افزایش",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "رسیدن",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "کارشناس",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "آهنگ",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "پدر و مادر",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "ساحل",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "بخش",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "ورق",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "ماده",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "به نفع",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "اتصال",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "پست",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "خرج کردن",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "وتر",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "چربی",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "خوشحالم",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "اصلی",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "سهم",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "ایستگاه",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "پدر",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "نان",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "شارژ",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "مناسب",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "بار",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "پیشنهاد",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "بخش",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "برده",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "اردک",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "فوری",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "بازار",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "درجه",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "جمعیت",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "جوجه",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "عزیز",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "دشمن",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "پاسخ",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "نوشابه",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "رخ می دهد",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "پشتیبانی",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "سخنرانی",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "طبیعت",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "دامنه",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "بخار",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "حرکت",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "راه",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "مایع",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "ورود به",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "به معنای",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "خارج قسمت",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "دندانها",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "پوسته",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "گردن",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "اکسیژن",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "قند",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "مرگ",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "خوب",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "مهارت",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "زنان",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "فصل",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "راه حل",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "مغناطیس",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "نقره ای",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "تشکر",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "شاخه",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "مسابقه",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "پسوند",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "ویژه",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "انجیر",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "ترس",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "بزرگ",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "خواهر",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "فولاد",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "بحث",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "به جلو",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "مشابه",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "راهنمایی",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "تجربه",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "نمره",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "سیب",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "خریداری",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "رهبری",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "زمین",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "کت",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "جرم",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "کارت",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "گروه",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "طناب",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "لغزش",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "برنده",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "رویا",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "شب",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "شرایط",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "خوراک",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "ابزار",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "کل",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "اساسی",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "بوی",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "دره",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "و نه",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "دو",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "صندلی",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "ادامه",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "بلوک",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "نمودار",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "کلاه",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "فروش",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "موفقیت",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "شرکت",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "تفریق",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "رویداد",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "خاص",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "معامله",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "شنا",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "مدت",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "در مقابل",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "همسر",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "کفش",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "شانه",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "گسترش",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "ترتیب",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "اردوگاه",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "اختراع",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "پنبه",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "متولد",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "تعیین",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "کوارت",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "نه",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "کامیون",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "سر و صدا",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "سطح",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "شانس",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "جمع کردن",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "فروشگاه",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "کشش",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "پرتاب",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "درخشش",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "خاصیت",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "ستون",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "مولکول",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "ب کنید",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "اشتباه",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "خاکستری",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "تکرار",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "نیاز",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "پهن",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "آماده",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "نمک",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "بینی",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "جمع",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "خشم",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "ادعا",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "قاره",
+      "englishWord": "continent"
+    }
+  ]
+}

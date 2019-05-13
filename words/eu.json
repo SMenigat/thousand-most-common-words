@@ -1,0 +1,5007 @@
+{
+  "languageCode": "eu",
+  "languageName": "Basque",
+  "languageNativeName": "euskara",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "bezala",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "I",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "bere",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "duten",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "zuen",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "izan zen",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "for",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "an",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "daude",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "Honekin",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "dute",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "izan",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "at",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "bat",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "dute",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "honetan",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "tik",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "arabera",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "hot",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "hitza",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "baina",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "zer",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "batzuk",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "da",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "berau",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "you",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "edo",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "izan",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "du",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "of",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "arte",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "eta",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "a",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "in",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "dugu",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "ahal",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "out",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "beste",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "ziren",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "bertan",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "egin",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "beren",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "denbora",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "bada",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "izango",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "nola",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "esan",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "baten",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "bakoitzak",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "esango",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "ez du",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "set",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "hiru",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "nahi",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "aire",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "ondo",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "halaber",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "jolastu",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "txiki",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "end",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "jarri",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "hasiera",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "irakurri",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "eskuko",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "portuko",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "handi",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "ortografia",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "gehitu",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "are",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "lurrak",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "hemen",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "muztioa",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "big",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "handiko",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "hala nola,",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "jarraitu",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "ekintza",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "zergatik",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "eskatu",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "gizonak",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "aldaketa",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "joan",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "argia",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "nolako",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "off",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "behar",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "etxea",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "argazki",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "saiatu",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "gurekin",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "berriro",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "animalia",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "puntua",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "amak",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "munduan",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "gertu",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "eraikitzeko",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "auto",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "lurra",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "aita",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "edozein",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "berria",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "lana",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "part",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "hartu",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "lortu",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "leku",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "egin",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "bizi",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "non",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "ondoren",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "atzera",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "apur",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "bakarrik",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "txandan",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "man",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "urteko",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "dugunik",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "show",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "behin",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "ona",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "me",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "eman",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "gure",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "pean",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "izena",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "oso",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "bidez",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "besterik",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "formulario",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "Gogoratu",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "handia",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "uste",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "esan",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "lagun",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "txikia",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "line",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "datoz",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "txanda",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "kausa",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "askoz",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "esan nahi",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "aurretik",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "mugimendu",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "eskuineko",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "mutiko",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "zaharra",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "too",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "bera",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "zuen",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "guztiak",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "ez",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "denean",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "sortu",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "erabilera",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "zure",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "era",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "buruz",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "asko",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "Orduz",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "horiek",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "idatzi",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "iba",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "bezala",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "beraz,",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "horiek",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "bere",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "luzea",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "egiteko",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "gauza",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "ikusi",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "zion",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "bi",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ditu",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "begiratu",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "gehiago",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "egun",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "Could",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "joan",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "zatoz",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "egin",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "zenbakia",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "soinua",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "no",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "gehien",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "jende",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "nire",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "baino gehiago",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "jakingo",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ura",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "baino",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "deia",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "lehenengoa",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "nor",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "may",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "behera",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "albo",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "izan",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "orain",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "aurkitu",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "burua",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "stand",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "egin",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "orria",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "beharko lukete",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "country",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "aurkitu",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "erantzuna",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "eskola",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "hazten",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "azterketa",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "oraindik",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "ikasi",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "landare",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "cover",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "janaria",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "eguzkia",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "lau",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "arteko",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "egoera",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "mantentzeko",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "begi",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "inoiz ez",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "azken",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "utzi",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "pentsatu",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "hiria",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "zuhaitz",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "zeharkatuko",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "baserriko",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "gogor",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "hasiera",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "agian",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "istorioa",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "saw",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "urrun",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "sea",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "marraztu",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "utzi",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "berandu",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "run",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ez",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "bitartean",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "prentsa",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "itxi",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "gauean",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "benetako",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "bizitza",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "gutxi",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "iparraldean",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "liburua",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "egiteko",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "hartu",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "zientzia",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "jan",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "gela",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "lagun",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "hasi",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ideia",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "arrain",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "mendia",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "gelditzeko",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "behin",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "base",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "entzun",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "zaldi",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "ebaki",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "Ziur",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "ikusi",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "kolorea",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "aurpegi",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "egurra",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "nagusia",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "open",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "badirudi",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "elkarrekin",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "hurrengo",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "zuri",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "haurrak",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "hasiko",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "lortu",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "oinez",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "Adibidez",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "erraztasuna",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "paper",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "taldea",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "beti",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "music",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "horiek",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "bai",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "marka",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "askotan",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "gutuna",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "arte",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "milia",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "ibaiaren",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "autoa",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "oinak",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "zainketa",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "bigarren",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "nahikoa",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "arrunta",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "neska",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "ohikoa den",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "gazte",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "prest",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "Goiko",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "inoiz",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "gorria",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "zerrenda",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "nahiz",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "sentitzen",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "eztabaida",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "txori",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "laster",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "gorputza",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "txakur",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "familiari",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "zuzeneko",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "pose",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "utzi",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "song",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "neurtzeko",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "atea",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "produktua",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "beltza",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "laburra",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "numeral",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "class",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "haizea",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "question",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "gertatuko",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "osoa",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "ontzia",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "Zonalde",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "erdia",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "rock",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "ordena",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "sua",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "hegoaldean",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "arazoa",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "pieza",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "esan",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "bazekien",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "gainditu",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "geroztik",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "top",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "osoa",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "king",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "kalean",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "hazbeteko",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "biderkatu",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "nothing",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "ikastaroa",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "egonaldia",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "gurpila",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "osoa",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "indarrean",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "blue",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "objektu",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "erabakitzeko",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "azalera",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "sakona",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "ilargia",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "uharteko",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "oinez",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistema",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "lanpetuta",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "proba",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "record",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "txalupa",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "ohikoa",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "urre",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "posible",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "hegazkina",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "orde",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "lehorra",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "galdetzen",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "barre",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "mila",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "ago",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "ran",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "egiaztatu",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "Partida",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "forma",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "equate",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "hot",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "ekarri",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "bero",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "elurra",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "pneumatikoen",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "ekarri",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "bai",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "urrutiko",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "bete",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "ekialdean",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "margotzeko",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "hizkuntza",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "artean",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "unitatea",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "power",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "herri",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "fina",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "zenbait",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "hegan",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "erori",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "ekar",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "oihu",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "dark",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "makina",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "ohar",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "itxaron",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "plan",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "zifra",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "izarra",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "kutxa",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "noun",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "eremu",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "gainerakoak",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "zuzena",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "gai",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "libra",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "done",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "edertasuna",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "Pase",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "koa",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "eduki",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "aurrean",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "irakasteko",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "astea",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "final",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "eman",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "berdea",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "azkarra",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "garatzea",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "ozeano",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "epela",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "free",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minutu",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "indartsu",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "bereziak",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "mind",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "atzean",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "argi",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "buztana",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "ekoizteko",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "Izan",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "espazioa",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "entzun",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "onena",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "ordu",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "hobeto",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "egia",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "zehar",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "ehun",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "bost",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "gogoratu",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "urrats",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "hasieran",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "eutsi",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "west",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "lurrean",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "interes",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "iristeko",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "azkarra",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "aditza",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "abestu",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "entzuteko",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "sei",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "taula",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "bidaia",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "gutxiago",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "goizean",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "hamar",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "sinple",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "hainbat",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "bokal",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "aldera",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "gerra",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "arautuko",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "aurka",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "eredua",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "motela",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "zentroa",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "maitasun",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "pertsona",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "dirua",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "balioko",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "agertzen",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "errepide",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "mapa",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "euri",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "arau",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "gobernatzeko",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "tira",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "hotza",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "oharra",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "ahotsa",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energia",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "ehiza",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "probable",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "ohean",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "anaia",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "arrautza",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "ride",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "zelula",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "sinesten",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "agian",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "jaso",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "Bat-batean",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "zenbatu",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "karratu",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "arrazoia",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "luzera",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "adierazten",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "art",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "gaia",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "eskualdea",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "tamaina",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "aldatu egiten dira",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "konformatu",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "hitz egin",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "pisu",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "Oro",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "izotz",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "Gaia",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "zirkulua",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "bikotea",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "besteak beste,",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "arraila",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "silaba",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "sentitu",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "grand",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "pilota",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "oraindik",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "uhin",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "jaregin",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "bihotza",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "Ni",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "gaur",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "heavy",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "dantza",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "motorra",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "posizio",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "arm",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "zabal",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "sail",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materiala",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "Frakzio",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "basoa",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "eseri",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "lasterketa",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "leihoa",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "denda",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "udan",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "trena",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "loa",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "frogatzeko",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "bakarti",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "hanka",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ariketa",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "horma",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "catch",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "mount",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "Nahi",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "zerua",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "taula",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "poza",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "negua",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "idatzizko",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "basa",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrumentua",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "mantendu",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "beira",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "belarra",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "behi",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "lana",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "ertza",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "zeinu",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "bisita",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "iraganean",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "bigun",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "fun",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "distiratsua",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gas",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "eguraldi",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "Hileko",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "milioi",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "bear",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "akabera",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "zoriontsu",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "espero",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "lore",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "clothe",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "arraro",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "gone",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "merkataritza",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodia",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "bidaia",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "bulegoa",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "jasotzeko",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "ilara",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "ahoa",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "zehatza",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "sinbolo",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "hiltzen",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "gutxienez",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "arazoak",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "oihu",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "salbu",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "idatzi",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "hazia",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tonua",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "apunta",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "iradokitzen",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "garbi",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "break",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "andre",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "patiora",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "igoko",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "txarra",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "kolpe",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "olioa",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "odol",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "ukitu",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "hazi",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "cent",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "nahastu",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "taldeak",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "wire",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "kostua",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "galduta",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "marroi",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "higadura",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "lorategia",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "berdina",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "bidali",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "aukeratu",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "jaitsi",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "kabitzen",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "osotasunean",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "azoka",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bankua",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "biltzeko",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "gorde",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kontrola",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "hamartarrekin",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "belarria",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "else",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "nahiko",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "hautsi",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "Kasu",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "Erdialdetik",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "hiltzeko",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "semea",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "laku",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "une",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "eskala",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "ozen",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "udaberrian",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "behatzen",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "Umearen",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "zuzen",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "kontsonante",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "nazioa",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "hiztegia",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "esnea",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "abiadura",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "metodo",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organoaren",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "ordaindu",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "adina",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "atalean",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "soineko",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "hodei",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "sorpresa",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "lasaiak",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "harria",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "tiny",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "Igoera",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "cool",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "diseinua",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "pobrea",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "asko",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "esperimentua",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "behean",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "giltza",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "burdina",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "bakar",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "makila",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "laua",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "hogei",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "azala",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "irribarre",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "crease",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "zulo",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "salto",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "haurra",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "zortzi",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "herriko",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "bete",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "erroa",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "erosi",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "goratzen",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "konpontzeko",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metal",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "ala",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "push",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "zazpi",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "paragrafoan",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "hirugarren",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "errejimena",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "mantendutako",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "ilea",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "deskribatuko",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "sukaldari",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "solairuan",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "bai",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "emaitza",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "erre",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "muino",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "seguru",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "katu",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "mendean",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "kontuan hartu",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "mota",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "legea",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "kostaldean",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopia",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "Esaldi",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "isila",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "altu",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "harea",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "lurzoruaren",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "roll",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "tenperatura",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "hatz",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "industria",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "balio",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "borroka",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "gezur",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "beat",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "urduritu",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "natural",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "ikuspegia",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "zentzu",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "capital",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "izango ez",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "aulkia",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "arriskuan",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "fruta",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "aberatsa",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "lodi",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "soldadu",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "prozesua",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "funtzionatzeko",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "praktikan",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "Aparteko",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "zaila",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "doctor",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "mesedez",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "babesteko",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "eguerdian",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "laborantza",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "modernoa",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "elementu",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "hit",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "ikaslearen",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "korner",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "festa",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "hornikuntza",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "zeinen",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "kokatzeko",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "ring",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "pertsonaia",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "intsektuen",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "harrapatu",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "epea",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "adierazten",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radio",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "mintzatu",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atomo",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "giza",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "historia",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "efektu",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektrikoa",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "espero",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "hezur",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "trenbide",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "imajinatu",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ematen",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "ados",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "horrela",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "leuna",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "emakumea",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "Kapitainak",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "asmatzen",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "beharrezkoa",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "zorrotz",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "Ezenarro",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "sortu",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "bizilaguna",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "garbiketa",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "Bat",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "baizik",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "Zaleak",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "arto",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "alderatu",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "poema",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "katea",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "kanpai",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "mendekoak",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "haragi",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "RUB",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "hodi",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "ospetsua",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dolarrak",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "erreka",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "beldurra",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ikusmena",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "mehe",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "triangelu",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planeta",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "presarik",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "buruzagi",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "kolonia",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "erlojuaren",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "mine",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "Berdinketa",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "idatzi",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "nagusien",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "freskoa",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "bilaketa",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "bidali",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "horia",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "pistola",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "baimendu",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "inprimatu",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "hildako",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "Leku",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "basamortuko",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "trajea",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "egungo",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "igogailua",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "igo",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "iristen",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "master",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "pista",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "gurasoa",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "shore",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "zatiketa",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "fitxa",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "substantzia",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "mesede",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "konektatu",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "post",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "pasatzeko",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "akordeak",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "gantz",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "pozik",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "original",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "share",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "geltokia",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "dad",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "ogia",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "kobratzen",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "egokia",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "eskaintza",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segmentu",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "esklabu",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "ahate",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "instant",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "merkatua",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "maila",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "populatu",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "Chick",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "maitea",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "etsaiaren",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "erantzun",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "edari",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "gerta",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "laguntza",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "hitzaldian",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "natura",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "sorta",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "lurrun",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "motion",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "bidea",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "likidoa",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "saioa hasi",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "ekarri",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "zatidura",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "hortzak",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "shell",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "lepoan",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "oxigeno",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "azukre",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "heriotza",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "nahiko",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "skill",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "emakumeak",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "denboraldian",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "irtenbide",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "iman",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "zilar",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "eskerrik",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "adarra",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "partidu",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "atzizkia",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "batez ere,",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "piku",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "beldur",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "handi",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "arreba",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "steel",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "eztabaidatzeko",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "aurrera",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "antzeko",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "orientatzea",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "Eskarmentu",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "puntuazio",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "sagar",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "erosi",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "buru",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "zelaia",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "berokia",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "masa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "txartel",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "band",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "soka",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "lapsus",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "irabazi",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "amets",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "arratsaldean",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "baldintza",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "feed",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "tresna",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "guztira",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "oinarrizko",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "usaina",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "haran",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ezta",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "bikoitza",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "eserlekua",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "jarraitzeko",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "bloke",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "taula",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "hat",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "saltzeko",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "arrakasta",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "konpainia",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "kenketak",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "ekitaldia",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "bereziki",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "akordio",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "igeri",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "epe",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "kontrakoa",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "emaztea",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "zapatila",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "sorbaldaren",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "hedapena",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "antolatu",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "camp",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "asmatuko",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "kotoia",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Born",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "zehazteko",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "quart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "bederatzi",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "kamioi",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "zarata",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "maila",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "aukera",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "bildu",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "denda",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "tarte",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "bota",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "distira",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "jabetza",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "zutabe",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekula",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "hautatu",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "oker",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "grisa",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "errepikatu",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "eskatzen",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "zabal",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "prestatu",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "gatza",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "sudurra",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "plural",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "haserrea",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "erreklamazioa",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontinenteko",
+      "englishWord": "continent"
+    }
+  ]
+}

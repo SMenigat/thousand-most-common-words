@@ -1,0 +1,5007 @@
+{
+  "languageCode": "ne",
+  "languageName": "Nepali",
+  "languageNativeName": "नेपाली",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "रूप",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "म",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "आफ्नो",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "कि",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "उहाँले",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "थियो",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "को लागि",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "मा",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "हो",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "संग",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "तिनीहरू",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "हुन",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "मा",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "एक",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "छ",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "यो",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "देखि",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "द्वारा",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "तातो",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "शब्द",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "तर",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "के",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "केही",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "छ",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "यो",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "तपाईं",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "वा",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "थियो",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "को",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "को",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "गर्न",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "र",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "एक",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "मा",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "हामी",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "गर्न सक्छन्",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "बाहिर",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "अन्य",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "थिए",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "जो",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "के",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "आफ्नो",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "समय",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "यदि",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "हुनेछ",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "कसरी",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "भने",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "एक",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "प्रत्येक",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "भन्नु",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "गर्छ",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "सेट",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "तीन",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "चाहनुहुन्छ",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "हावा",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "राम्रो",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "पनि",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "खेल",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "साना",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "अन्त",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "डाल",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "घर",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "पढ्न",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "हात",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "पोर्ट",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "ठूलो",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "हिज्जे",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "जोड",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "पनि",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "भूमि",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "यहाँ",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "पर्छ",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "ठूलो",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "उच्च",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "यस्तो",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "पछ्याउन",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "काम",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "किन",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "सोध्न",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "पुरुष",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "परिवर्तन",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "गए",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "प्रकाश",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "दयालु",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "बन्द",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "आवश्यक",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "घर",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "picture",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "प्रयास",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "हामीलाई",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "फेरि",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "पशु",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "बिन्दु",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "आमा",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "संसार",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "निकट",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "निर्माण",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "आत्म",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "पृथ्वीमा",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "पिता",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "कुनै पनि",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "नयाँ",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "काम",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "अंश",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "ले",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "प्राप्त",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "ठाउँ",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "गरे",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "बाँच्न",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "जहाँ",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "पछि",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "फिर्ता",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "साना",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "केवल",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "गोल",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "मानिस",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "वर्ष",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "आयो",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "शो",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "हरेक",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "राम्रो",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "मलाई",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "दिन",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "हाम्रो",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "अन्तर्गत",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "नाम",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "धेरै",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "माध्यम",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "बस",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "फारम",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "सजाय",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "ठूलो",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "विचार",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "भन्न",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "मदत",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "कम",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "नयाँ",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "फरक",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "फलस्वरूप",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "कारण",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "धेरै",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "अर्थ",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "अघि",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "कदम",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "सही",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "केटा",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "पुराना",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "पनि",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "त्यसै",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "त्यो",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "सबै",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "त्यहाँ",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "जब",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "अप",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "प्रयोग",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "आफ्नो",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "बाटो",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "बारेमा",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "धेरै",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "त्यसपछि",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "तिनीहरूलाई",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "लेख्न",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "हुनेछ",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "जस्तै",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "यति",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "यी",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "उनको",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "लामो",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "बनाउन",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "कुरा",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "हेर्नुहोस्",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "तिनलाई",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "दुई",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "छ",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "रुप",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "थप",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "दिन",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "सकेजति",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "जाने",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "आउन",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "गरे",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "नम्बर",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "sound",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "कुनै",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "सबैभन्दा",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "मान्छे",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "मेरो",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "मा",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "थाहा",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "पानी",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "भन्दा",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "कल",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "पहिलो",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "जो",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "may",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "तल",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "पक्ष",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "भएको",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "अब",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "फेला",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "टाउको",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "खडा",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "आफ्नै",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "पृष्ठ",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "चाहिए",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "देश",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "फेला",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "जवाफ",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "स्कूल",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "बढ्दै",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "अध्ययन",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "अझै पनि",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "सिक्न",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "बिरूवा",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "आवरण",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "खाना",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "सूर्य",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "चार",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "बीच",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "राज्य",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "राखन",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "आँखा",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "कहिल्यै",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "अन्तिम",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "गरौं",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "लाग्यो",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "शहर",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "रूख",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "पार",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "खेत",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "कडा",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "सुरु",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "होस्",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "कथा",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "देख्यो",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "टाढा",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "समुद्र",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "नजिक",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "बायाँ",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "लेट",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "रन",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "के छैन",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "जबकि",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "प्रेस",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "नजिक",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "रात",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "वास्तविक",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "जीवन",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "केही",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "उत्तर",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "पुस्तक",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "पूरा",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "लिनुभयो",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "विज्ञान",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "खान",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "कोठा",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "मित्र",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "सुरु",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "विचार",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "माछा",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "पहाड",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "बन्द",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "एक पटक",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "आधार",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "सुन्छन्",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "घोडा",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "कटौती",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "निश्चित",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "घडी",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "रङ",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "अनुहार",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "काठ",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "मुख्य",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "खुला",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "जस्तो",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "सँगै",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "अर्को",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "सेतो",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "छोराछोरीको",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "सुरु",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "मिल्यो",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "हिंड्न",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "उदाहरणका",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "कम",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "कागज",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "समूह",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "सधैं",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "संगीत",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ती",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "दुवै",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "मार्क",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "अक्सर",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "पत्र",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "सम्म",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "मील",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "नदी",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "कार",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "खुट्टा",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "हेरचाह",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "दोस्रो",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "पर्याप्त",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "सादा",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "केटी",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "सामान्य",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "जवान",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "तयार",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "माथि",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "कहिल्यै",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "रातो",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "सूची",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "यद्यपि",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "महसुस",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "भाषण",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "चरा",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "चाँडै",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "निकाय",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "कुकुर",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "परिवार",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "प्रत्यक्ष",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "pose",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "छोड",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "गीत",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "उपाय",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "ढोका",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "उत्पादन",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "कालो",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "छोटो",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "सङ्ख्याको",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "वर्ग",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "हावा",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "प्रश्न",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "के",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "पूर्ण",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "जहाज",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "क्षेत्र",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "आधा",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "चट्टान",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "आदेश",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "आगो",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "दक्षिण",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "समस्या",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "टुक्रा",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "यसो भने",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "थाह थियो",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "पारित",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "पछि",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "शीर्ष",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "सारा",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "राजा",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "सडक",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "इन्चको",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "वृद्धि",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "केही",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "पाठ्यक्रम",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "रहन",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "पाङ्ग्रा",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "पूर्ण",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "बल",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "नीलो",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "वस्तु",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "निर्णय",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "सतह",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "गहिरो",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "चन्द्र",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "द्वीप",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "खुट्टा",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "प्रणाली",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "व्यस्त",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "परीक्षण",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "रेकर्ड",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "डुङ्गा",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "सामान्य",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "सुन",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "सम्भव",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "विमान",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "उनीपछि नयाँ",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "सुक्खा",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "आश्चर्य",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "हाँसेको",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "हजार",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "पहिले",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "भाग्यो",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "जाँच",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "खेल",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "आकार",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "समान मनाना",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "तातो",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "मिस",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "ल्याए",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "गर्मी",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "हिउँ",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "टायर",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "ल्याउन",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "हो",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "टाढा",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "भर्ने",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "पूर्व",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "उतार्न",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "भाषा",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "बीचमा",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "एकाइ",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "शक्ति",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "शहर",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "राम्रो",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "निश्चित",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "उड",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "गिरावट",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "नेतृत्व",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "पुकारा",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "अन्धकार",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "मिसिन",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "नोट",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "प्रतीक्षा",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "योजना",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "आंकडा",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "तारा",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "बक्स",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "संज्ञा",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "क्षेत्र",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "बाँकी",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "सही",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "सक्षम",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "पाउन्ड",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "डन",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "सौन्दर्य",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "ड्राइव",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "उभिए",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "समावेश",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "अगाडि",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "सिकाउँछन्",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "हप्ता",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "अन्तिम",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "दिए",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "हरियो",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "हरे",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "छिटो",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "विकास",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "सागर",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "न्यानो",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "निःशुल्क",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "मिनेट",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "बलियो",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "विशेष",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "मन",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "पछि",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "स्पष्ट",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "पुच्छर",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "उत्पादन",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "वास्तवमा",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "अन्तरिक्ष",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "सुनेको",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "सबै भन्दा राम्रो",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "घण्टा",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "राम्रो",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "साँचो",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "समयमा",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "सय",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "पाँच",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "सम्झना",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "कदम",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "प्रारम्भिक",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "पकड",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "पश्चिम",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "जमीन",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "चासो",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "पुग्न",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "छिटो",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "क्रिया",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "गाउँछन्",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "सुन्न",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "छ",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "तालिका",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "यात्रा",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "कम",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "बिहान",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "दस",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "सरल",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "धेरै",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "स्वर",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "तिर",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "युद्ध",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "सुते",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "विरुद्ध",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "नमुना",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "ढिलो",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "केन्द्र",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "प्रेम",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "व्यक्ति",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "पैसा",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "सेवा",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "देखा",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "सडक",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "नक्शा",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "वर्षा",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "नियम",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "शासन",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "पुल",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "चिसो",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "सूचना",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "आवाज",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "ऊर्जा",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "शिकार",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "संभावित",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "ओछ्यानमा",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "भाइ",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "अण्डा",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "सवारी",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "सेल",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "विश्वास",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "सायद",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "लेने",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "अचानक",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "गणना",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "वर्ग",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "कारण",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "लम्बाइ",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "प्रतिनिधित्व",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "कला",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "विषयगत",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "क्षेत्र",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "आकार",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "भिन्न",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "सुल्झाउन",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "बोल्न",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "वजन",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "सामान्य",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "बरफ",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "कुरा",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "सर्कल",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "जोडी",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "समावेश",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "विभाजित",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "शब्दांश",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "महसुस",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "महान्",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "बल",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "अझै",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "लहर",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "ड्रप",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "हृदय",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "छु",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "वर्तमान",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "भारी",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "नृत्य",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "इन्जिन",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "स्थिति",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "हात",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "व्यापक",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "पाल",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "भौतिक",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "अंश",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "वन",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "बस्न",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "दौड",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "सञ्झ्याल",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "स्टोर",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "गर्मी",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "रेल",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "निद्रामा",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "प्रमाणित",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "लोन",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "खुट्टा",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "व्यायाम",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "पर्खाल",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "जालो",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "माउन्ट",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "इच्छा",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "आकाश",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "बोर्ड",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "आनन्द",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "जाडो",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "Sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "लिखित",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "जङ्गली",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "साधन",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "राखिएको",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "ग्लास",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "घाँस",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "गाई",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "काम",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "किनारा",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "साइन",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "भ्रमण",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "विगत",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "नरम",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "मजा",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "उज्ज्वल",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "ग्याँस",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "मौसम",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "महिना",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "लाख",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "फलाउन",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "समाप्त",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "खुसी",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "आशा",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "फूल",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "लुगा लगाउनु",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "अनौठो",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "पाएकै",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "व्यापार",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "माधुर्य",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "यात्रा",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "कार्यालयको",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "प्राप्त",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "पङ्क्ति",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "मुख",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "सही",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "प्रतीक",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "मर्न",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "कम से कम",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "समस्या",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "स्वरले",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "बाहेक",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "यस्तो लेखे",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "बीउ",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "टोन",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "join",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "सुझाव",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "स्वच्छ",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "ब्रेक",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "महिला",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "यार्ड",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "उठ्नेछ",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "खराब",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "झटका",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "तेल",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "रगत",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "छुन",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "बढ्दै",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "प्रतिशत",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "मिश्रण",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "टीम",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "तार",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "लागत",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "गुमाए",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "खैरो",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "लगाउँछन्",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "बगैंचामा",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "बराबर",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "पठाए",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "चयन",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "खसे",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "फिट",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "प्रवाह",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "निष्पक्ष",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "बैंक",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "सङ्कलन",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "बचत",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "नियन्त्रण",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "दशमलव",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "कान",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "अरू",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "एकदम",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "भत्केको",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "मामला",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "बीचमा",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "मार्न",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "छोरा",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "ताल",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "क्षण",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "मात्रा",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "चर्को",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "वसन्त",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "पालन",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "बच्चा",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "सीधा",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "व्यञ्जनवर्ण",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "राष्ट्र",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "शब्दकोश",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "दूध",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "गति",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "विधि",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "अंग",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "तिर्न",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "उमेर",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "खण्ड",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "पहिरन",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "बादल",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "आश्चर्य",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "शान्त",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "ढुङ्गा",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "साना",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "उकालो",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "सुन्दर",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "डिजाइन",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "गरिब",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "धेरै",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "प्रयोग",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "तल",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "प्रमुख",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "फलाम",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "एकल",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "छडी",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "तला",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "बीस",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "छाला",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "मुस्कान",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "क्रीज",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "प्वाल",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "हामफाल्नु",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "बच्चा",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "आठ",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "गाउँमा",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "बैठक",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "मूल",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "किन्न",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "हुर्काउन",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "समाधान",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "धातु",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "कि",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "धक्का",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "सात",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "अनुच्छेद",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "तेस्रो",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "गर्छु",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "धान",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "कपाल",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "वर्णन",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "कुक",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "तल्ला",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "या त",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "परिणाम",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "बाल्न",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "पहाडी",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "सुरक्षित",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "बिरालो",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "शताब्दीमा",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "विचार",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "प्रकार",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "व्यवस्था",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "बिट",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "तट",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "प्रतिलिपि",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "वाक्यांश",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "मौन",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "अग्लो",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "बालुवा",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "माटो",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "रोल",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "तापमान",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "औंला",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "उद्योग",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "मूल्य",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "लडाई",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "झूट",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "पिटे",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "उत्तेजित",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "प्राकृतिक",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "दृष्टिकोण",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "अर्थ",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "राजधानी",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "नहीं हुनेछ",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "कुर्सी",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "खतरा",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "फल",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "धनी",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "बाक्लो",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "सिपाही",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "प्रक्रिया",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "सञ्चालन",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "अभ्यास",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "अलग",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "कठिन",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "डाक्टर",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "कृपया",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "सुरक्षा",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "दिउसो",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "बाली",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "आधुनिक",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "तत्व",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "मारा",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "विद्यार्थीको",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "कुना",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "पार्टी",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "आपूर्ति",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "जसको",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "तोक्न",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "औंठी",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "चरित्र",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "कीरा",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "समातिए",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "अवधिमा",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "सङ्केत",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "रेडियो",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "कुरा",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "अणु",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "मानव",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "इतिहास",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "प्रभाव",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "बिजुली",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "आशा",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "हड्डी",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "रेल",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "कल्पना",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "प्रदान",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "सहमत",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "यसरी",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "कोमल",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "महिला",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "कप्तान",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "अनुमान",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "आवश्यक",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "धारिलो",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "भाग",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "सिर्जना",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "छिमेकीलाई",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "धुनु",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "bat",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "बरु",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "भीड",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "मकै",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "तुलना गर्नुहोस्",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "कविता",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "स्ट्रिङ",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "घन्टी",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "निर्भर",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "मासु",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "दल्नु",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "ट्यूब",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "प्रसिद्ध",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "डलर",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "प्रवाह",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "डर",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "दृष्टि",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "पातलो",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "त्रिकोण",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "ग्रह",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "हतार",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "प्रमुख",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "उपनिवेश",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "घडी",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "मेरो",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "टाई",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "प्रवेश",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "प्रमुख",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "ताजा",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "खोज",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "पठाउन",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "पहेंलो",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "बन्दूक",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "अनुमति",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "मुद्रण",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "मृत्यु",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "स्थान",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "मरुभूमि",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "सूट",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "वर्तमान",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "लिफ्ट",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "गुलाब",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "आइपुग्छन्",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "मालिक",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "ट्रयाक",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "आमा",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "किनारमा",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "विभाजन",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "पाना",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "पदार्थ",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "कृपा",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "जडान",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "पोस्ट",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "खर्च",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "तार",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "बोसो",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "खुसी",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "मूल",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "शेयर",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "स्टेशन",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "पिताजी",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "रोटी",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "शुल्क",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "उचित",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "बार",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "प्रस्ताव",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "भाग",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "दास",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "धुनमा",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "तत्काल",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "बजार",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "तह",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "आबाद",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "केटी",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "प्रिय",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "शत्रु",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "जवाफ",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "पिउने पानी",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "हुन",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "सहयोग",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "बोली",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "प्रकृति",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "सीमा",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "भाप",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "गति",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "बाटो",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "तरल",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "लग",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "अर्थ",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "भागफल",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "दाँत",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "खोल",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "घाँटी",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "अक्सिजन",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "चिनी",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "मृत्यु",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "धेरै",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "सीप",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "महिला",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "मौसम",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "समाधान",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "चुम्बक",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "चाँदी",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "धन्यवाद",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "शाखा",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "म्याच",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "प्रत्यय",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "विशेष गरी",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "नेभाराको",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "डर",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "विशाल",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "बहिनी",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "स्टील",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "छलफल",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "अगाडी",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "यस्तै",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "डोऱ्याउन",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "अनुभव",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "स्कोर",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "स्याउ",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "किनेको",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "नेतृत्व",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "पिच",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "कोट",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "सामूहिक",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "कार्ड",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "दल",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "डोरी",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "पर्ची",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "जीत",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "सपना",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "साँझ",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "अवस्था",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "फिड",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "उपकरण",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "कुल",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "आधारभूत",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "बास्ना",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "उपत्यकामा",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "न त",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "डबल",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "सीट",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "जारी",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "ब्लक",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "चार्ट",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "टोपी",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "बेचन",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "सफलता",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "कम्पनी",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "घटाउनुहोस्",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "घटना",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "विशेष",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "सम्झौता",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "पौडी",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "अवधि",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "विपरीत",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "पत्नी",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "जूता",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "काँध",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "फैलियो",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "व्यवस्था",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "शिविरमा",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "आविष्कार",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "कपास",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "जन्म",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "निर्धारित",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "रमा",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "नौ",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "ट्रक",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "शोर",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "स्तर",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "मौका",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "भेला",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "पसल",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "तान्नु",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "बिसाउन",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "घाम लागोस्",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "सम्पत्ति",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "स्तम्भ",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "अणु",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "चयन",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "गलत",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "ग्रे",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "फेरि",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "आवश्यकता",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "व्यापक",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "तयार",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "नुन",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "नाक",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "बहुवचन",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "रिस",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "दाबी",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "महादेशमा",
+      "englishWord": "continent"
+    }
+  ]
+}

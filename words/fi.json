@@ -1,0 +1,5007 @@
+{
+  "languageCode": "fi",
+  "languageName": "Finnish",
+  "languageNativeName": "suomi",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "kuin",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "minä",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "hänen",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "että",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "hän",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "oli",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "varten",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "päälle",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "olemme",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "kanssa",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ne",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "olla",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "klo",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "yksi",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "olla",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "tämä",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "alkaen",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "mukaan",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "kuuma",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "sana",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "mutta",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "mitä",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "jotkut",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "on",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "se",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "sinua",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "tai",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "oli",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "päälle",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "jos",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "to",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "ja",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "tehdä",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "sisään",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "me",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "voida",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ulos",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "muut",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "olivat",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "joka",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "tehdä",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "niiden",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "aika",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "jos",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "tahtoa",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "miten",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "sanoi",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "pieni",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "kukin",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "kertoa",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "tekee",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "setti",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "kolme",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "haluta",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "ilma",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "hyvin",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "myös",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "pelata",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "pieni",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "pää",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "laittaa",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "koti",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "lue",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "käsi",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "portti",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "suuri",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "oikeinkirjoituksen",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "lisätä",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "jopa",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "maa",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "täällä",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "must",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "iso",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "korkea",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "niin",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "seurata",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "säädös",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "miksi",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "kysyä",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "miehet",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "muutos",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "meni",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "valo",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "kind",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "pois",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "tarvitsevat",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "talo",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "kuva",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "yrittää",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "meille",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "jälleen",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "eläin",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "kohta",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "äiti",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "maailma",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "lähellä",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "rakentaa",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "itse",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "maa",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "isä",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "kaikki",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "uusi",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "työ",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "osa",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "ottaa",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "saada",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "paikka",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "tehty",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "elää",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "jossa",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "jälkeen",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "takaisin",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "vähän",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "vain",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "pyöreä",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "mies",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "vuosi",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "tuli",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "show",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "joka",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "hyvä",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "minua",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "antaa",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "meidän",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "alle",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "nimi",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "hyvin",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "kautta",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "vain",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "lomake",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "virke",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "suuri",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "ajatella",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "sanoa",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "auttaa",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "alhainen",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "linja",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "erota",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "vuoro",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "syy",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "paljon",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "tarkoittaa",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "ennen",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "liikkua",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "oikea",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "poika",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "vanha",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "liian",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "sama",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "hän",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "kaikki",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "siellä",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "kun",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "ylös",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "käyttää",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "sinun",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "tapa",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "noin",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "monet",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "sitten",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "niitä",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "kirjoittaa",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "olisi",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "kuten",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "niin",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "nämä",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "hänen",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "pitkä",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "tehdä",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "asia",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "nähdä",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "häntä",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "kaksi",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "on",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "katso",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "lisää",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "päivä",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "voisi",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "mennä",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "tulevat",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "teki",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "numero",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "ääni",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ei",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "eniten",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "ihmiset",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "minun",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "yli",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "tietää",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "vesi",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "kuin",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "puhelu",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "ensimmäinen",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "jotka",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "saattaa",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "alas",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "puoli",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "ollut",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "nyt",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "löytää",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "pää",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "seistä",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "oma",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "sivu",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "pitäisi",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "maa",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "löytyi",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "vastaus",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "koulu",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "kasvaa",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "tutkimus",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "vielä",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "oppia",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "kasvi",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "kansi",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "ruoka",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "aurinko",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "neljä",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "välillä",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "valtio",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "pitää",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "silmä",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "ei koskaan",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "viime",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "antaa",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "ajatus",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "kaupunki",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "puu",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "cross",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "maatila",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "kova",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "alku",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "ehkä",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "tarina",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "saha",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "pitkälle",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "meri",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "piirtää",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "vasen",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "myöhään",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "run",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "eivät",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "taas",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "lehdistö",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "lähellä",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "yö",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "todellinen",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "elämä",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "harvat",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "pohjoiseen",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "kirja",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "kuljettaa",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "otti",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "tiede",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "syödä",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "huone",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "ystävä",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "alkoi",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "idea",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "kala",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "vuori",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "lopettaa",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "kerran",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "pohja",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "kuulla",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "hevonen",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "leikkaus",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "varma",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "katsella",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "väri",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "kasvot",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "puu",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "tärkein",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "avoin",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "näyttää",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "yhdessä",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "seuraava",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "valkoinen",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "lapset",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "alkaa",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "sai",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "kävellä",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "esimerkiksi",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "helppous",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "paperi",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "ryhmä",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "aina",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "musiikki",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ne",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "molemmat",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "merkki",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "usein",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "kirje",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "saakka",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "maili",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "joki",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "auto",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "jalat",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "hoito",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "toinen",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "tarpeeksi",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "tavallinen",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "tyttö",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "tavallinen",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "nuori",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "valmis",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "edellä",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "koskaan",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "punainen",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "lista",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "vaikka",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "tuntea",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "puhua",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "lintu",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "pian",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "elin",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "koira",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "perhe",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "suora",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "aiheuttaa",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "jätä",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "laulu",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "mitata",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "ovi",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "tuote",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "musta",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "lyhyt",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "numero",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "luokka",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "tuuli",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "kysymys",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "tapahtua",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "täydellinen",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "laiva",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "alue",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "puoli",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "kallio",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "järjestys",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "palo",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "etelään",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "ongelma",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "pala",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "kertoi",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "tiesi",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "kulkea",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "koska",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "alkuun",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "koko",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "kuningas",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "katu",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "tuuma",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "lisääntyä",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "ei mitään",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "kurssi",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "pysyä",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "pyörä",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "täysi",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "voima",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "sininen",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "esine",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "päättää",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "pinta",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "syvä",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "moon",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "saari",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "jalka",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "järjestelmä",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "kiireinen",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "testi",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "ennätys",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "veneen",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "yhteinen",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "kulta",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "mahdollinen",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "kone",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "sijaansa",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "kuiva",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "ihme",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "nauraa",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "tuhatta",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "sitten",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "juoksi",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "tarkistaa",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "peli",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "muoto",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "rinnastaa",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "kuuma",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "neiti",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "toi",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "lämpö",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "lumi",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "rengas",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "tuoda",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "kyllä",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "kaukainen",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "täyttää",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "itään",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "maali",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "kieli",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "keskuudessa",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "yksikkö",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "voima",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "kaupunki",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "hieno",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "tietty",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "lentää",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "pudota",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "johtaa",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "itkeä",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "pimeä",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "kone",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "huomautus",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "odottaa",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "suunnitelma",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "kuva",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "tähti",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "laatikko",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "substantiivi",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "kenttä",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "levätä",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "oikea",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "pystyy",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "punta",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "tehty",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "kauneus",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "ajaa",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "seisoi",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "sisältävät",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "etuosa",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "opettaa",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "viikko",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "lopullinen",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "antoi",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "vihreä",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oi",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "nopea",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "kehittää",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "valtameri",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "lämmin",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "vapaa",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minuutti",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "vahva",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "erityistä",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "mieli",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "takana",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "selkeä",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "pyrstö",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "tuottaa",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "tosiasia",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "tilaa",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "kuuli",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "paras",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "tunti",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "parempi",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "totta",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "aikana",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "sata",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "viisi",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "muistaa",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "vaihe",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "varhainen",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "pidä",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "länsi",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "maa",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "etua",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "tavoittaa",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "nopeasti",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "verbi",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "laulaa",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "kuunnella",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "kuusi",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "taulukko",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "matkailu",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "vähemmän",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "aamu",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "kymmenen",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "yksinkertainen",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "useat",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "vokaali",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "kohti",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "sota",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "asettaa",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "vastaan",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "kuvio",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "hidas",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "keskus",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "rakkaus",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "henkilö",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "raha",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "palvella",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "ilmestyä",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "tie",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "kartta",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "sade",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "sääntö",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "säätelevät",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "vetää",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "kylmä",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "huomautus",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "ääni",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energia",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "metsästää",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "todennäköinen",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "sängyssä",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "veli",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "muna",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "ratsastaa",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "solu",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "uskoa",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "ehkä",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "poimia",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "äkillinen",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "luottaa",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "neliö",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "syy",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "pituus",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "edustaa",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "taide",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "aihe",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "alue",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "koko",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "vaihdella",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "asettua",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "puhua",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "paino",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "yleinen",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "jää",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "asia",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "ympyrä",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "pari",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "sisältävät",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "kahtiajaon",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "tavu",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "huopa",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "suuri",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "pallo",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "vielä",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "aalto",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "pudota",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "sydän",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "nykyinen",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "raskas",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "tanssi",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "moottori",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "asema",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "varsi",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "leveä",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "purje",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materiaali",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "osa",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "metsä",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "istua",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "kilpailu",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "ikkuna",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "myymälä",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "kesä",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "juna",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "uni",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "todistaa",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "yksinäinen",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "jalka",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "liikunta",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "seinä",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "saalis",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "mount",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "toivottaa",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "taivas",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "lauta",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "ilo",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "talvi",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "kyll",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "kirjallinen",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "villi",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "väline",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "säilytettävä",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "lasi",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "ruoho",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "lehmä",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "työ",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "reuna",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "merkki",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "Vierailun",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "ohi",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "pehmeä",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "hauskaa",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "kirkas",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "kaasu",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "sää",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "kuukausi",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "miljoona",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "bear",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "viimeistely",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "onnellinen",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "Toivottavasti",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "kukka",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "vaatettaa",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "outo",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "poissa",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "kauppa",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodia",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "matka",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "toimisto",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "vastaanottaa",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "rivi",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "suu",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "tarkka",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "symboli",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "die",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "vähiten",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "ongelmia",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "huutaa",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "paitsi",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "kirjoitti",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "siemen",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "sävy",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "yhtyä",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "ehdottaa",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "puhtaita",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "tauko",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "lady",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "piha",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "nousta",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "huono",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "puhallus",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "öljy",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "veri",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "koskettaa",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "kasvoi",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "sentti",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "sekoittaa",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "joukkue",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "lanka",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "kustannukset",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "menetetty",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "ruskea",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "kuluminen",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "puutarha",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "yhtäläinen",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "lähetetty",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "valita",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "laski",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "sovittaa",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "virtaus",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "oikeudenmukainen",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "pankki",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "kerätä",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "tallentaa",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "ohjaus",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "desimaalin",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "korva",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "muu",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "melko",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "rikkoi",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "asia",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "keskellä",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "tappaa",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "poika",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "järvi",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "hetki",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "asteikko",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "äänekäs",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "kevät",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "tarkkailla",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "lapsi",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "suora",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "konsonantti",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "kansakunta",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "sanakirja",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "maito",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "nopeus",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "menetelmä",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "urut",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "maksaa",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "ikä",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "jakso",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "mekko",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "pilvi",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "yllätys",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "hiljainen",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "kivi",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "pikkuruinen",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "kiivetä",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "viileä",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "suunnittelu",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "kehno",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "paljon",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "kokeilu",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "pohja",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "avain",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "rauta",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "single",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "stick",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "tasainen",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "kaksikymmentä",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "iho",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "hymy",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "prässi",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "reikä",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "hyppy",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "vauva",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "kahdeksan",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "kylä",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "tavata",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "juuri",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "ostaa",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "nostaa",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "ratkaista",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metalli",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "onko",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "push",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "seitsemän",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "kohta",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "kolmas",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "on",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "held",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "hiukset",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "kuvata",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "kokki",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "lattia",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "jompikumpi",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "tulos",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "polttaa",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "mäki",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "turvallinen",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "kissa",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "luvulla",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "harkita",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "tyyppi",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "laki",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bitti",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "rannikolla",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopio",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "lause",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "hiljainen",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "pitkä",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "hiekka",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "maaperä",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "rulla",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "lämpötila",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "sormi",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "teollisuus",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "arvo",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "taistelu",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "valhe",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "voittaa",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "kiihottaa",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "luonnollinen",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "näkymä",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "merkityksessä",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "pääoma",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "eivät",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "tuoli",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "vaara",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "hedelmät",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "rikas",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "paksu",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "sotilas",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "prosessi",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "toimivat",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "käytäntö",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "erillinen",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "vaikea",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "lääkäri",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "olkaa hyvä",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "suojella",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "keskipäivällä",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "kasvuston",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "nykyaikainen",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "elementti",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "osuma",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "opiskelija",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "kulma",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "puolue",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "tarjonta",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "joiden",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "paikantaa",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "rengas",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "merkki",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "hyönteinen",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "kiinni",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "aika",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "osoittaa",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radio",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "puhui",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atomi",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "ihmisen",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "historia",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "vaikutus",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "sähköinen",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "odottaa",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "luu",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "kisko",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "kuvitella",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "antaa",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "suostua",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "näin",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "lempeä",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "nainen",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapteeni",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "arvata",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "välttämätön",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "teräviä",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "siipi",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "luoda",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "naapuri",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "pesu",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "lepakko",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "pikemminkin",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "väkijoukko",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "maissi",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "vertaa",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "runo",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "string",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "soittokello",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "riippua",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "liha",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "hieroa",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "putki",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "kuuluisa",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dollari",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "virta",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "pelko",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "näky",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "ohut",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "kolmio",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planeetta",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "kiire",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "päällikkö",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "siirtomaa",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "kello",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "mine",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "sitoa",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "astua",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "merkittävä",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "tuore",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "haku",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "lähettää",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "keltainen",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "gun",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "sallia",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "painatus",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "kuollut",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "paikka",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "aavikko",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "puku",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "nykyinen",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "hissi",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "Rose",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "saapua",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "mestari",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "raita",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "vanhempi",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "rannikko",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "jako",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "arkki",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "aine",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "suosia",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "kytkeä",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "virka",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "viettää",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "sointu",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "rasva",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "iloinen",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "alkuperäinen",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "osake",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "asema",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "isä",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "leipä",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "veloittaa",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "oikea",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "tarjous",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segmentti",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "orja",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "ankka",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "välitön",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "markkinat",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "aste",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "asuttaa",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "poikasen",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "rakas",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "vihollinen",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "vastata",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "juoma",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "esiintyä",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "tuki",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "puhe",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "luonto",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "alue",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "höyry",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "motion",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "polku",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "neste",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "loki",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "tarkoitti",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "osamäärä",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "hampaat",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "kuori",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "niska",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "happi",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "sokeri",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "kuolema",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "aika",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "taito",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "naiset",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "kausi",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "ratkaisu",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magneetti",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "hopea",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "kiitos",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "sivuliike",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "ottelu",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "pääte",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "erityisesti",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "viikuna",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "peloissaan",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "valtava",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "sisko",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "teräs",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "keskustella",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "eteenpäin",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "samankaltainen",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "opas",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "kokemus",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "pisteet",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "omena",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "ostivat",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "led",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "piki",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "takki",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "massa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kortti",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "bändi",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "köysi",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "lipsahdus",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "voittaa",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "unelma",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "ilta",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "ehto",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "rehu",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "työkalu",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "yhteensä",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "perus",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "haju",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "laakso",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "eikä myöskään",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "kaksinkertainen",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "istuin",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "jatkaa",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "lohko",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "kaavio",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "hattu",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "myydä",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "menestys",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "yritys",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "vähentää",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "tapahtuma",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "erityinen",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "sopimus",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "uida",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "termi",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "päinvastainen",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "vaimo",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "kenkä",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "olkapää",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "leviäminen",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "järjestää",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "leiri",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "keksiä",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "puuvilla",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Born",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "määrittää",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "gallona",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "yhdeksän",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "truck",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "melu",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "taso",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "mahdollisuus",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "kerätä",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "kauppa",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "venyttää",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "heittää",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "paistaa",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "omaisuus",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "sarake",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekyyli",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "valita",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "väärä",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "harmaa",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "toistaa",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "vaatia",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "laaja",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "valmistella",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "suola",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "nenä",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "monikko",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "viha",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "vaatimus",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "maanosa",
+      "englishWord": "continent"
+    }
+  ]
+}

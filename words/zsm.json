@@ -1,0 +1,5007 @@
+{
+  "languageCode": "zsm",
+  "languageName": "Malaysian",
+  "languageNativeName": "bahasa Malaysia",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "sebagai",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "saya",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "beliau",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "yang",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "beliau",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "adalah",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "untuk",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "pada",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "adalah",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "dengan",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "mereka",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "menjadi",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "di",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "satu",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "mempunyai",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "ini",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "daripada",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "oleh",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "panas",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "perkataan",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "tetapi",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "apa",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "beberapa",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "adalah",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "ia",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "anda",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "atau",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "mempunyai",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "yang",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "daripada",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "kepada",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "dan",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "yang",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "dalam",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "kami",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "boleh",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "keluar",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "lain",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "adalah",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "yang",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "melakukan",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "mereka",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "masa",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "jika",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "akan",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "bagaimana",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "berkata",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "seorang",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "setiap",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "memberitahu",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "tidak",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "set",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "tiga",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "mahu",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "udara",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "baik",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "juga",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "bermain",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "kecil",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "akhir",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "meletakkan",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "rumah",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "membaca",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "tangan",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "pelabuhan",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "besar",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "mengeja",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "menambah",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "walaupun",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "tanah",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "di sini",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "mesti",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "besar",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "tinggi",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "seperti",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "mengikuti",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "tindakan",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "mengapa",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "meminta",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "lelaki",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "perubahan",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "pergi",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "cahaya",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "jenis",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "off",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "perlu",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "rumah",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "gambar",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "cuba",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "kami",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "lagi",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "haiwan",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "titik",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "ibu",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "dunia",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "berhampiran",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "membina",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "diri",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "bumi",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "bapa",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "apa-apa",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "baru",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "kerja",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "sebahagian",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "mengambil",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "mendapatkan",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "tempat",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "dibuat",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "hidup",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "di mana",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "selepas",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "kembali",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "kecil",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "hanya",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "pusingan",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "lelaki",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "tahun",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "datang",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "persembahan",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "setiap",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "baik",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "saya",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "memberi",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "kami",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "di bawah",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "nama",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "sangat",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "melalui",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "hanya",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "bentuk",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "hukuman",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "besar",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "berfikir",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "mengatakan",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "membantu",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "rendah",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "talian",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "berbeza",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "seterusnya",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "punca",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "banyak",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "bermakna",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "sebelum",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "langkah",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "betul",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "budak",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "lama",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "terlalu",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "sama",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "dia",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "semua",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "ada",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "apabila",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "sehingga",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "penggunaan",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "anda",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "cara",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "mengenai",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "banyak",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "kemudian",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "mereka",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "menulis",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "akan",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "seperti",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "jadi",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "ini",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "beliau",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "lama",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "membuat",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "perkara",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "lihat",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "dia",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "dua",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "mempunyai",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "melihat",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "lebih",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "hari",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "boleh",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "pergi",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "datang",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "lakukan",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "bilangan",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "bunyi",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ada",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "paling",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "orang",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "saya",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "lebih",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "tahu",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "air",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "daripada",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "panggilan",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "pertama",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "yang",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "boleh",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "turun",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "sebelah",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "telah",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "kini",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "mendapati",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "kepala",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "berdiri",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "sendiri",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "laman",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "perlu",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "negara",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "didapati",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "jawapan",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "sekolah",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "berkembang",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "kajian",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "masih",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "belajar",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "tumbuhan",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "perlindungan",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "makanan",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "matahari",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "empat",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "antara",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "negeri",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "menjaga",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "mata",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "tidak pernah",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "lalu",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "mari",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "fikir",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "bandar",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "pokok",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "menyeberangi",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ladang",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "keras",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "permulaan",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "mungkin",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "cerita",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "saw",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "jauh",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "laut",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "menarik",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "meninggalkan",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "lewat",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "jangka",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "tidak",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "manakala",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "akhbar",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "rapat",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "malam",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "sebenar",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "kehidupan",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "beberapa",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "utara",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "buku",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "menjalankan",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "mengambil",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "sains",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "makan",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "bilik",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "rakan",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "bermula",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "idea",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ikan",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "gunung",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "berhenti",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "sekali",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "asas",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "mendengar",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "kuda",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "dipotong",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "memastikan",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "menonton",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "warna",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "muka",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "kayu",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "utama",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "terbuka",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "seolah-olah",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "bersama-sama",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "seterusnya",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "putih",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "kanak-kanak",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "mula",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "mendapat",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "berjalan",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "contoh",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "meringankan",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "kertas",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "kumpulan",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "sentiasa",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "muzik",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "yang",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "kedua-dua",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "tanda",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "sering",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "surat",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "sehingga",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "batu",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "sungai",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "kereta",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "kaki",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "penjagaan",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "kedua",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "cukup",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "dataran",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "gadis",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "biasa",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "muda",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "bersedia",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "atas",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "pernah",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "merah",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "senarai",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "walaupun",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "berasa",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "bercakap",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "burung",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "tidak lama lagi",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "badan",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "anjing",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "keluarga",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "langsung",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "menimbulkan",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "meninggalkan",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "lagu",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "mengukur",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "pintu",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "produk",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "hitam",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "pendek",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "angka",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "kelas",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "angin",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "soalan",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "berlaku",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "lengkap",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "kapal",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "kawasan",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "setengah",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "batuan",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "perintah",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "api",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "selatan",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "masalah",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "sekeping",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "memberitahu",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "tahu",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "lulus",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "sejak",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "atas",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "keseluruhan",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "raja",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "jalan",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "inci",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "membiak",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "apa-apa",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "kursus",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "tinggal",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "roda",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "penuh",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "kuasa",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "biru",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "objek",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "membuat keputusan",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "permukaan",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "dalam",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "bulan",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "pulau",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "kaki",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistem",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "sibuk",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "ujian",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "rekod",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "bot",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "biasa",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "emas",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "mungkin",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "kapal terbang",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "kedudukan",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "kering",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "tertanya-tanya",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "ketawa",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "ribu",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "lalu",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "berlari",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "semak",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "permainan",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "bentuk",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "menyamakan",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "panas",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "dibawa",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "haba",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "salji",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "tayar",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "membawa",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ya",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "jauh",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "mengisi",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "timur",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "cat",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "bahasa",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "antara",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "unit",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "kuasa",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "bandar",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "denda",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "tertentu",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "terbang",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "jatuh",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "membawa",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "menangis",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "gelap",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "mesin",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "nota",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "tunggu",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "pelan",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "angka",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "bintang",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "kotak",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "kata nama",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "bidang",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "selebihnya",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "betul",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "dapat",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "pound",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "dilakukan",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "kecantikan",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "pemacu",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "berdiri",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "mengandungi",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "hadapan",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "mengajar",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "minggu",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "akhir",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "memberi",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "hijau",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "cepat",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "membangunkan",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "lautan",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "panas",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "percuma",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minit",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "kuat",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "khas",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "fikiran",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "di belakang",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "jelas",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "ekor",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "menghasilkan",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "fakta",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "ruang",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "mendengar",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "terbaik",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "jam",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "lebih baik",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "benar",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "semasa",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "ratus",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "lima",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "ingat",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "langkah",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "awal",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "memegang",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "barat",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "tanah",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "kepentingan",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "mencapai",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "cepat",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "kata kerja",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "menyanyi",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "mendengar",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "enam",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "jadual",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "perjalanan",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "kurang",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "pagi",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "sepuluh",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "mudah",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "beberapa",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "vokal",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "ke arah",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "perang",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "meletakkan",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "terhadap",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "corak",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "perlahan",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "pusat",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "suka",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "orang",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "wang",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "berkhidmat",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "muncul",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "jalan raya",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "peta",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "hujan",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "peraturan",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "mentadbir",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "menarik",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "sejuk",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "notis",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "suara",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "tenaga",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "memburu",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "kemungkinan",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "katil",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "saudara",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "telur",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "perjalanan",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "sel",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "percaya",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "mungkin",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "mengambil",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "secara tiba-tiba",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "mengira",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "persegi",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "sebab",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "panjang",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "mewakili",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "seni",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "tertakluk",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "rantau",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "saiz",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "berbeza-beza",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "menyelesaikan",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "bercakap",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "berat badan",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "umum",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "ais",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "perkara",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "bulatan",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "pasangan",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "termasuk",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "jurang",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "suku kata",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "merasakan",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "besar",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "bola",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "belum",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "gelombang",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "drop",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "jantung",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "saya",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "sekarang",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "berat",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "tarian",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "enjin",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "kedudukan",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "lengan",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "luas",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "belayar",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "bahan",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "pecahan",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "hutan",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "duduk",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "bangsa",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "tetingkap",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "kedai",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "musim panas",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "kereta api",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "tidur",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "membuktikan",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "tunggal",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "kaki",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "senaman",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "dinding",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "tangkapan",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "gunung",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "ingin",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "langit",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "lembaga",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "kegembiraan",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "musim sejuk",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "Sab",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "bertulis",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "liar",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrumen",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "disimpan",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "kaca",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "rumput",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "lembu",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "kerja",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "kelebihan",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "tanda",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "lawatan",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "lalu",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "lembut",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "menyeronokkan",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "terang",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gas",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "cuaca",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "bulan",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "juta",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "menanggung",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "penamat",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "gembira",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "berharap",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "bunga",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "pakaian",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "pelik",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "pergi",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "perdagangan",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodi",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "perjalanan",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "pejabat",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "menerima",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "berturut-turut",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "mulut",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "tepat",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "simbol",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "mati",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "kurangnya",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "masalah",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "jeritan",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "kecuali",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "menulis",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "benih",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "nada",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "menyertai",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "mencadangkan",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "bersih",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "rehat",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "wanita",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "yard",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "naik",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "buruk",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "tamparan",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "minyak",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "darah",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "menyentuh",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "berkembang",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "peratus",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "campuran",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "pasukan",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "wayar",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "kos",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "hilang",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "coklat",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "memakai",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "taman",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "sama",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "dihantar",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "memilih",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "jatuh",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "muat",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "mengalir",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "adil",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bank yang",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "mengumpul",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "menyelamatkan",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kawalan",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "perpuluhan",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "telinga",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "lain",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "agak",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "patah",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "kes",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "pertengahan",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "membunuh",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "anak",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "tasik",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "masa",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "skala",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "kuat",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "musim bunga",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "memerhatikan",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "kanak-kanak",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "lurus",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "konsonan",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "negara",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "kamus",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "susu",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "kelajuan",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "kaedah",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "membayar",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "umur",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "seksyen",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "pakaian",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "awan",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "kejutan",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "tenang",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "batu",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "kecil",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "pendakian",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "sejuk",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "reka bentuk",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "miskin",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "banyak",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "eksperimen",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "bahagian bawah",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "utama",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "besi",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "tunggal",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "kayu",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "rata",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "dua puluh",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "kulit",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "senyuman",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "berkedut",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "lubang",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "melompat",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "bayi",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "lapan",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "kampung",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "memenuhi",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "akar",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "membeli",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "meningkatkan",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "menyelesaikan",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "logam",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "sama ada",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "push",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "tujuh",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "perenggan",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "ketiga",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "hendaklah",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "diadakan",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "rambut",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "menggambarkan",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "tukang masak",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "lantai",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "sama ada",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "hasil",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "membakar",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "bukit",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "selamat",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "kucing",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "abad",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "mempertimbangkan",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "Jenis",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "undang-undang",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "sedikit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "pantai",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "salinan",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "frasa",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "senyap",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "tinggi",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "pasir",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "tanah",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "daftar",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "suhu",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "jari",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "industri",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "nilai",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "perjuangan",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "dusta",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "menewaskan",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "merangsang",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "semula jadi",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "pandangan",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "rasa",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "modal",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "tidak akan",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "kerusi",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "bahaya",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "buah-buahan",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "kaya",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "tebal",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "askar",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "proses",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "beroperasi",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "amalan",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "berasingan",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "sukar",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "doktor",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "sila",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "melindungi",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "tengah hari",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "tanaman",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "moden",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "elemen",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "melanda",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "pelajar",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "sudut",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "pihak",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "bekalan",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "yang",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "mengesan",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "cincin",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "watak",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "serangga",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "ditangkap",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "tempoh",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "menunjukkan",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "sejuk",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "bercakap",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "debu",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "manusia",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "sejarah",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "kesan",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektrik",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "mengharapkan",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "tulang",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "kereta api",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "bayangkan",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "menyediakan",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "bersetuju",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "dengan itu",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "lembut",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "wanita",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapten",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "meneka",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "perlu",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "tajam",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "sayap",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "mewujudkan",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "jiran",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "mencuci",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "kelawar",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "bukan",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "orang ramai",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "jagung",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "membandingkan",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "puisi",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "rentetan",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "loceng",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "bergantung",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "daging",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "sapu",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "tiub",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "terkenal",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dolar",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "aliran",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "ketakutan",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "penglihatan",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "nipis",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "segitiga",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planet",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "terburu-buru",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "ketua",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "tanah jajahan",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "jam",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "saya",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "tali leher",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "memasukkan",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "utama",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "segar",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "carian",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "menghantar",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "kuning",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "pistol",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "membolehkan",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "cetak",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "mati",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "tempat",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "padang pasir",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "saman",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "semasa",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "lif",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "meningkat",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "tiba",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "induk",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "trek",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "ibu bapa",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "pantai",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "bahagian",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "lembaran",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "bahan",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "memihak kepada",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "menyambung",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "jawatan",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "menghabiskan",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "kord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "lemak",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "gembira",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "asal",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "saham",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "stesen",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "ayah",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "roti",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "caj",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "betul",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "tawaran",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segmen",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "hamba",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "itik",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "segera",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "pasaran",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "ijazah",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "mempopulasikan",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "anak ayam",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "sayang",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "musuh",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "membalas",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "minuman",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "berlaku",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "sokongan",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "ucapan",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "alam semula jadi",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "pelbagai",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "stim",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "gerakan",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "jalan",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "cecair",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "log",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "bermakna",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "hasil bahagi",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "gigi",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "shell",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "leher",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "oksigen",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "gula",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "kematian",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "cantik",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "kemahiran",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "wanita",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "musim",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "penyelesaian",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnet",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "perak",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "terima",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "cawangan",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "perlawanan",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "akhiran",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "terutamanya",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "ara",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "takut",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "besar",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "kakak",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "keluli",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "membincangkan",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "ke hadapan",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "sama",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "membimbing",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "pengalaman",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "Perincian",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "epal",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "membeli",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "membawa",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "padang",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "kot",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "besar-besaran",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kad",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "band",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "tali",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "slip",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "kemenangan",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "bermimpi",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "petang",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "keadaan",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "makanan",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "alat",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "jumlah",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "asas",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "bau",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "lembah",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ataupun",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "dua",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "tempat duduk",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "terus",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "blok",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "carta",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "topi",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "menjual",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "kejayaan",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "syarikat",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "tolak",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "acara",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "tertentu",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "perjanjian",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "berenang",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "jangka",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "bertentangan",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "isteri",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "kasut",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "bahu",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "penyebaran",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "mengatur",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "kem",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "mengada-adakan",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "kapas",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "dilahirkan",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "menentukan",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "kuart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "sembilan",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "trak",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "bunyi",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "tahap",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "peluang",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "mengumpul",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "kedai",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "regangan",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "membuang",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "bersinar",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "harta",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "ruangan",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekul",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "pilih",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "salah",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "kelabu",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ulangan",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "memerlukan",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "luas",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "menyediakan",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "garam",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "hidung",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "majmuk",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "kemarahan",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "tuntutan",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "benua",
+      "englishWord": "continent"
+    }
+  ]
+}

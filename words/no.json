@@ -1,0 +1,5007 @@
+{
+  "languageCode": "no",
+  "languageName": "Norwegian",
+  "languageNativeName": "Norsk",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "som",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "jeg",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "hans",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "at",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "han",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "var",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "for",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "på",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "er",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "med",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "de",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "være",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "på",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "ett",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "har",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "dette",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "fra",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "etter",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "varm",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "ordet",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "men",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "Hva",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "noen",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "er",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "den",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "du",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "eller",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "hadde",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "den",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "av",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "til",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "og",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "en",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "i",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "vi",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "kan",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ut",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "andre",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "var",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "som",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "gjøre",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "deres",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "tid",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "hvis",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "vil",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "hvordan",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "sa",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "en",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "hver",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "fortelle",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "gjør",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "sett",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "tre",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "ønsker",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "luft",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "godt",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "også",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "spille",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "liten",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "ende",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "sette",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "hjem",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "lese",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "hånd",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "port",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "stor",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "stave",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "legge",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "selv",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "landet",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "her",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "må",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "big",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "høy",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "slik",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "følg",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "handle",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "hvorfor",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "spør",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "menn",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "endring",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "gikk",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "lys",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "kind",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "off",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "trenger",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "huset",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "bilde",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "prøve",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "oss",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "igjen",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "dyr",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "punkt",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "mor",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "verden",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "nær",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "bygge",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "selv",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "jorden",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "far",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "noen",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "ny",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "arbeid",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "del",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "ta",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "få",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "sted",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "gjort",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "leve",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "der",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "etter",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "tilbake",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "lite",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "bare",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "runde",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "mann",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "år",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "kom",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "vis",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "alle",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "god",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "meg",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "gi",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "vår",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "etter",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "navn",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "veldig",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "gjennom",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "bare",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "skjema",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "setning",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "stor",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "tror",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "si",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "hjelpe",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "lav",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "etter",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "avvike",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "sving",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "årsaken",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "mye",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "mener",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "før",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "flytte",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "høyre",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "gutt",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "gammel",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "også",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "samme",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "hun",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "alle",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "det",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "når",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "opp",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "bruk",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "din",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "måte",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "om",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "mange",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "deretter",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "dem",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "skrive",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "ville",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "som",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "så",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "disse",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "henne",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "lang",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "gjøre",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "ting",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "se",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "ham",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "to",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "har",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "se",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "mer",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "dag",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "kunne",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "gå",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "kommer",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "gjorde",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "nummer",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "høres",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "no",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "mest",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "folk",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "min",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "løpet",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "vet",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "vann",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "enn",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "samtale",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "første",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "som",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "kan",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "ned",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "side",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "vært",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "nå",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "finne",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "hode",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "stå",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "egen",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "side",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "bør",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "landet",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "funnet",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "svar",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "skole",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "vokse",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "studien",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "fortsatt",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "lære",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "anlegg",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "dekselet",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "mat",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "sol",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "fire",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "mellom",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "stat",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "holde",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "øye",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "aldri",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "siste",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "la",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "trodde",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "by",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "tre",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "krysse",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "gård",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "vanskelig",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "start",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "kanskje",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "historien",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "sag",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "langt",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "sea",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "tegne",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "venstre",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "sent",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "kjøre",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ikke gjør",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "mens",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "trykk",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "nær",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "natt",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "real",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "livet",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "noen",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "nord",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "bok",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "bære",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "tok",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "vitenskap",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "spise",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "rom",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "venn",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "begynte",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ide",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "fisk",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "fjellet",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "stoppe",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "gang",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "basen",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "høre",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "hest",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "kutt",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "sikker",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "se",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "farge",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "ansikt",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "tre",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "hoved",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "åpent",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "synes",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "sammen",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "neste",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "hvit",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "barn",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "begynne",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "fikk",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "gå",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "eksempel",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "lette",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "papir",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "gruppe",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "alltid",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "musikk",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "de",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "både",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "mark",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "ofte",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "brev",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "før",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "mile",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "elv",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "bil",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "føtter",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "omsorg",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "andre",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "nok",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "plain",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "jente",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "vanlig",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "ung",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "klar",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "ovenfor",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "noensinne",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "red",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "liste",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "skjønt",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "føler",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "diskusjon",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "fugl",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "snart",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "kroppen",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "hund",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "familie",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "direkte",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "posere",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "forlate",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "sangen",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "måle",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "dør",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "produkt",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "svart",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "kort",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "tall",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "klasse",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "vind",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "spørsmål",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "skje",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "komplett",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "skip",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "område",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "halv",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "stein",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "rekkefølge",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "brann",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "sør",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problem",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "piece",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "fortalte",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "visste",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "passere",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "siden",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "toppen",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "hele",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "king",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "street",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "tommers",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "multiplisere",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "ingenting",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "kurs",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "opphold",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "wheel",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "fullt",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "kraft",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "blå",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "objekt",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "bestemme",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "overflaten",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "dyp",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "månen",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "øy",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "foten",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "system",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "opptatt",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "test",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "rekord",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "båt",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "felles",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "gull",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "mulig",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "planet",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "stedet",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "tørk",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "rart",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "latter",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "tusen",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "siden",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "Ran",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "sjekk",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "spill",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "form",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "likestille",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "hot",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "savner",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "brakte",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "hete",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "snø",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "dekk",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "bringe",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ja",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "fjernt",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "fylle",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "øst",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "maling",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "språk",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "blant",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "enhet",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "makt",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "byen",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "bot",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "viss",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "fly",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "høst",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "føre",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "gråte",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "mørk",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "maskin",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "notat",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "vente",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "planen",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "figur",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "stjerners",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "boks",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "substantiv",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "felt",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "resten",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "riktig",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "stand",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "pund",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "gjort",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "skjønnhet",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "kjøring",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "sto",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "inneholde",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "foran",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "undervise",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "uke",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "endelig",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "ga",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "grønn",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "rask",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "utvikle",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "ocean",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "varm",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "gratis",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minutt",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "sterk",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "spesiell",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "sinn",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "bak",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "klar",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "halen",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "produsere",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "faktisk",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "plass",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "hørt",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "beste",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "time",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "bedre",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "SANT",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "under",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "hundre",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "fem",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "huske",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "trinn",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "tidlig",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "holde",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "vest",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "bakken",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "interesse",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "nå",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "rask",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "verb",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "synge",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "lytte",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "seks",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "bord",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "reise",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "mindre",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "morgen",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "ti",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "enkel",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "flere",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "vokal",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "mot",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "krig",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "lå",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "mot",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "mønster",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "langsom",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "senter",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "elsker",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "personer",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "penger",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "tjene",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "vises",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "vei",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "kartet",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "regn",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "regelen",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "regulerer",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "trekke",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "kaldt",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "varsel",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "stemme",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energi",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "jakt",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "sannsynlig",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "seng",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "bror",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "egg",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "ride",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "celle",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "tror",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "kanskje",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "plukke",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "plutselige",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "teller",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "square",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "grunnen",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "lengde",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "representerer",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "kunst",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "lagt",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "region",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "størrelse",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "variere",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "bosette",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "snakke",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "vekt",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "generell",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "is",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "saken",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "sirkel",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "pair",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "inkludere",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "dividere",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "stavelse",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "følte",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "grand",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "ballen",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ennå",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "wave",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "slipp",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "hjerte",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "stede",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "tung",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "dans",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "motor",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "stilling",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "arm",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "wide",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "seil",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "material",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "brøkdel",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "skog",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "sitte",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "veddeløp",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "vindu",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "butikken",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "sommer",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "tog",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "søvn",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "bevise",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "lone",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "leg",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "trening",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "veggen",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "fangst",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "mount",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "ønsker",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "himmel",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "brett",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "glede",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "vinter",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "skrevet",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "vill",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrument",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "holdt",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "glass",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "gress",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "ku",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "jobb",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "kanten",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "skilt",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "besøk",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "fortid",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "myk",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "moro",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "lyse",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gass",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "vær",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "måned",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "millioner",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "bære",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "ferdig",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "lykkelig",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "håper",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "blomst",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "ikle",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "merkelig",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "borte",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "handel",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodi",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "tur",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "kontor",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "motta",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "rad",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "munn",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "eksakte",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "symbol",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "dø",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "minst",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "trøbbel",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "rop",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "bortsett fra",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "skrev",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "seedet",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tonen",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "bli med",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "foreslå",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "ren",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "pause",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "damen",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "tunet",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "stige",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "dårlig",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "slag",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "olje",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "blod",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "røre",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "vokste",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "prosent",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "bland",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "teamet",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "ledning",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "kostnader",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "tapt",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "brun",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "slitasje",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "hage",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "lik",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "sendt",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "velge",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "falt",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "passe",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "flyte",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "rettferdig",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bank",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "samle",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "spare",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kontroll",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "desimal",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "øret",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "annet",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "ganske",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "brøt",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "case",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "midten",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "drepe",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "sønn",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "innsjø",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "øyeblikk",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "skala",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "høyt",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "våren",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "observere",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "barn",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "rett",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "konsonant",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "nasjon",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "ordbok",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "melk",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "hastighet",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "metode",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "betale",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "alder",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "seksjon",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "kjole",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "skyen",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "overraskelse",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "stille",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "stein",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "tiny",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "klatre",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "kult",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "utforming",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "dårlig",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "mye",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "eksperiment",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "bunnen",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "nøkkel",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "jern",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "enslig",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "stick",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "flat",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "tjue",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "hud",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "smil",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "krøll",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "hull",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "hopp",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "babyen",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "åtte",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "landsby",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "møtes",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "rot",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "kjøpe",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "heve",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "løse",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metall",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "enten",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "Push",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "syv",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "avsnitt",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "tredje",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "skal",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "holdt",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "hår",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "beskrive",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "kokk",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "etasje",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "enten",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "resultat",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "brenne",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "hill",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "trygg",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "katt",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "århundre",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "vurdere",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "typen",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "lov",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "kysten",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopi",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "frase",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "taus",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "høyt",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "sand",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "jord",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "rulle",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatur",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "fingeren",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "industrien",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "verdi",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "kampen",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "løgn",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "slå",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "opphisse",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "naturlig",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "visning",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "følelse",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "kapital",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "vil ikke",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "stol",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "fare",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "frukt",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "rik",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "tykk",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "soldat",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "prosessen",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "betjene",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "praksis",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "separat",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "vanskelig",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "lege",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "Vennligst",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "beskytte",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "noon",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "avling",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "moderne",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "element",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "rammet",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "studenten",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "hjørne",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "fest",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "forsyning",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "hvis",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "isere",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "ring",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "karakter",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "insekt",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "fanget",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "periode",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "indikere",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radioen",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "snakket",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atomet",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "menneskelig",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "historie",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "effekt",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektrisk",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "forvente",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "bein",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "skinne",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "forestille",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "gi",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "enig",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "dermed",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "skånsom",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "kvinne",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kaptein",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "gjett",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "nødvendig",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "skarp",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "vinge",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "skape",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "nabo",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "vask",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "bat",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "heller",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "folkemengde",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "mais",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "sammenligne",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "dikt",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "streng",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "bell",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "avhenge",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "kjøtt",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "gni",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "tube",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "berømt",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dollar",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "stream",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "frykt",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "synet",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "tynn",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "trekant",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planet",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "skynde",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "sjef",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "koloni",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "klokke",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "gruve",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "slips",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "inn",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "stor",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "frisk",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "søk",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "send",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "gul",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "pistol",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "tillate",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "print",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "døde",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "sted",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "ørkenen",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "drakt",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "nåværende",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "lift",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "rose",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "ankomme",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "mester",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "spor",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "forelder",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "shore",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "divisjon",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "ark",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "substans",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "favorisere",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "koble",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "post",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "bruke",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "akkord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "fett",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "glad",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "opprinnelige",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "aksje",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "stasjonen",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "pappa",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "brød",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "belaste",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "riktig",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "tilbudet",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segment",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "slave",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "and",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "instant",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "markedet",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "grad",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "befolke",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "chick",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "kjære",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "fiende",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "svar",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "drikke",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "forekomme",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "støtte",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "tale",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "natur",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "range",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "steam",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "bevegelse",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "bane",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "væske",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "logg",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "ment",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "kvotient",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "tenner",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "shell",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "halsen",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "oksygen",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "sukker",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "død",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "pen",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "ferdighet",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "kvinner",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "sesong",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "løsning",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnet",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "sølv",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "takk",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "gren",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "kamp",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "suffiks",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "spesielt",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "fig",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "redd",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "stor",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "søster",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "stål",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "diskutere",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "frem",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "lignende",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "veilede",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "erfaring",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "poengsum",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "eple",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "kjøpt",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "ledet",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "banen",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "frakk",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "masse",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kortet",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "bandet",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "tau",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "slip",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "vinne",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "drømme",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "kveld",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "tilstand",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "fôr",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "verktøy",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "totalt",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "grunnleggende",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "lukt",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "dalen",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "eller",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "dobbel",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "sete",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "fortsette",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "blokk",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "diagram",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "hat",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "selge",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "suksess",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "selskap",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "subtrahere",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "hendelse",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "særlig",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "avtale",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "svømmetur",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "term",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "motsatt",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "kone",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "shoe",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "skulder",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "spredningen",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "arrangere",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "leir",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "oppfinne",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "bomull",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Født",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "bestemme",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "kvart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "ni",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "lastebil",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "støy",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "nivå",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "sjanse",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "samle",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "butikk",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "stretch",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "kaste",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "skinne",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "eiendom",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "kolonne",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekyl",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "velg",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "galt",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "grå",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "gjenta",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "krever",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "bred",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "forberede",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "saltet",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "nese",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "flertall",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "sinne",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "krav",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontinentet",
+      "englishWord": "continent"
+    }
+  ]
+}

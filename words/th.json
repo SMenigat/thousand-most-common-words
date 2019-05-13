@@ -1,0 +1,5007 @@
+{
+  "languageCode": "th",
+  "languageName": "Thai",
+  "languageNativeName": "ไทย",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "เป็น",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "ฉัน",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "ของเขา",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ว่า",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "เขา",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "เป็น",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "สำหรับ",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "บน",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "มี",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "ด้วย",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "พวกเขา",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "จะเป็น",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "ที่",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "หนึ่ง",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "มี",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "นี้",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "จาก",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "โดย",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "ร้อน",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "คำ",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "แต่",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "สิ่งที่",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "บาง",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "เป็น",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "มัน",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "คุณ",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "หรือ",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "มี",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "ได้",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "ของ",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "ที่จะ",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "และ",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "กรอก",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "ใน",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "เรา",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "สามารถ",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ออก",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "อื่น ๆ",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "เป็น",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "ซึ่ง",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "ทำ",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "ของพวกเขา",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "เวลา",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "ถ้า",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "จะ",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "วิธี",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "กล่าวว่า",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "บิน",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "แต่ละ",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "บอก",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "ไม่",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "ชุด",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "สาม",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "ต้องการ",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "อากาศ",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "ดี",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "ด้วย",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "เล่น",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "ขนาดเล็ก",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "ปลาย",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "ใส่",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "บ้าน",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "อ่าน",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "มือ",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "พอร์ต",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "ที่มีขนาดใหญ่",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "สะกด",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "เพิ่ม",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "แม้กระทั่ง",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "ที่ดิน",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "ที่นี่",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "ต้อง",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "ใหญ่",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "สูง",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "เช่น",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "ทำตาม",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "การกระทำ",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "เหตุผลที่",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "ขอให้",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "ผู้ชาย",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "การเปลี่ยนแปลง",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "ไป",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "แสง",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "ชนิด",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "ออก",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "ต้อง",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "บ้าน",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "ภาพ",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "พยายาม",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "เรา",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "อีกครั้ง",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "สัตว์",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "จุด",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "แม่",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "โลก",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "อยู่ใกล้",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "สร้าง",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "ตนเอง",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "โลก",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "พ่อของ",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "ใด ๆ",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "ใหม่",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "การทำงาน",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "ส่วนหนึ่ง",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "ใช้เวลา",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "ได้รับ",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "สถานที่ที่",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "ทำ",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "มีชีวิต",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "ที่",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "หลังจากที่",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "กลับ",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "เล็ก ๆ น้อย ๆ",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "เท่านั้น",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "รอบ",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "คน",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "ปี",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "มา",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "แสดง",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ทุก",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "ดี",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "ฉัน",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "ให้",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "ของเรา",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "ภายใต้",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "ชื่อ",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "มาก",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "ตลอด",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "เพียงแค่",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "รูปแบบ",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "ประโยค",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "ที่ดี",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "คิดว่า",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "พูด",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "ช่วย",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "ต่ำ",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "สาย",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "แตกต่าง",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "เลี้ยว",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "สาเหตุ",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "มาก",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "หมายความ",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "ก่อนที่จะ",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "ย้าย",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "ขวา",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "เด็กชาย",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "เก่า",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "เกินไป",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "เดียวกัน",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "เธอ",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "ทั้งหมด",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "มี",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "เมื่อ",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "ขึ้น",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "การใช้งาน",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "ของคุณ",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "ทาง",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "เกี่ยวกับ",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "หลาย",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "แล้วก็",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "พวกเขา",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "เขียน",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "จะ",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "เช่น",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "ดังนั้น",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "เหล่านี้",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "เธอ",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "ยาว",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "ทำให้",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "สิ่งที่",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "เห็น",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "เขา",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "สอง",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "มี",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "ดู",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "ขึ้น",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "วัน",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "สามารถทำได้",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "ไป",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "มา",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "ได้",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "จำนวน",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "เสียง",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ไม่มี",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "มากที่สุด",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "คน",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "ของฉัน",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "กว่า",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "ทราบ",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "น้ำ",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "กว่า",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "โทร",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "เป็นครั้งแรก",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "ที่",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "อาจ",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "ลง",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "ด้าน",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "รับ",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "ตอนนี้",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "หา",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "หัว",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "ยืน",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "ของตัวเอง",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "หน้า",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "ควร",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "ประเทศ",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "พบ",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "คำตอบ",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "โรงเรียน",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "เติบโต",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "การศึกษา",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "ยังคง",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "เรียน",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "พืช",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "ปก",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "อาหาร",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "ดวงอาทิตย์",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "สี่",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "ระหว่าง",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "รัฐ",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "เก็บ",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "ตา",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "ไม่เคย",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "สุดท้าย",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "ให้",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "คิดว่า",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "เมือง",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "ต้นไม้",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "ข้าม",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ฟาร์ม",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "อย่างหนัก",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "เริ่มต้นที่",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "อาจ",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "เรื่องราว",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "เลื่อย",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "ห่างไกล",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "ทะเล",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "วาด",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "ด้านซ้าย",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "ช่วงปลายเดือน",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "การทำงาน",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ทำไม่ได้",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "ในขณะที่",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "กด",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "ใกล้",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "คืน",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "จริง",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "ชีวิต",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "น้อย",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "เหนือ",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "หนังสือ",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "พกพา",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "เอา",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "วิทยาศาสตร์",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "กิน",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "ห้อง",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "เพื่อน",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "เริ่ม",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ความคิดที่",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ปลา",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "ภูเขา",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "หยุด",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "ครั้งเดียว",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "ฐาน",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "ได้ยิน",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ม้า",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "ตัด",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "แน่ใจ",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "ชม",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "สี",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "ใบหน้า",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "เนื้อไม้",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "หลัก",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "เปิด",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "ดูเหมือน",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "เข้าด้วยกัน",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "ต่อไป",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "สีขาว",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "เด็ก",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "เริ่มต้น",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "ได้",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "เดิน",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "ตัวอย่างเช่น",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "บรรเทา",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "กระดาษ",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "กลุ่ม",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "เสมอ",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "เพลง",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ผู้ที่",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "ทั้งสอง",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "เครื่องหมาย",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "มักจะ",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "จดหมาย",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "จนกระทั่ง",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "ไมล์",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "แม่น้ำ",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "รถ",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "ฟุต",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "การดูแล",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "ที่สอง",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "พอ",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "ธรรมดา",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "สาว",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "ปกติ",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "หนุ่ม",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "พร้อมแล้ว",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "ข้างบน",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "เคย",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "สีแดง",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "รายการ",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "แม้ว่า",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "รู้สึก",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "พูดคุย",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "นก",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "เร็ว ๆ นี้",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "ร่างกาย",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "สุนัข",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "ครอบครัว",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "โดยตรง",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "ท่าทาง",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "ออกจาก",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "เพลง",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "วัด",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "ประตู",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "ผลิตภัณฑ์",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "สีดำ",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "สั้น",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "ตัวเลข",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "ชั้น",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "ลม",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "คำถาม",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "เกิดขึ้น",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "สมบูรณ์",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "เรือ",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "พื้นที่",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "ครึ่ง",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "หิน",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "เพื่อ",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "ไฟไหม้",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "ทางตอนใต้",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "ปัญหา",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "ชิ้นส่วน",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "บอก",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "รู้",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "ผ่าน",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "ตั้งแต่",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "ด้านบน",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "ทั้ง",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "กษัตริย์",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "ถนน",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "นิ้ว",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "คูณ",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "ไม่มีอะไร",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "แน่นอน",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "พักอยู่",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "ล้อ",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "เต็ม",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "แรง",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "สีฟ้า",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "วัตถุ",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "ตัดสินใจ",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "พื้นผิว",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "ลึก",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "ดวงจันทร์",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "เกาะ",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "เท้า",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "ระบบ",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "ยุ่ง",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "การทดสอบ",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "บันทึก",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "เรือ",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "ที่พบบ่อย",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "ทอง",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "เป็นไปได้",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "เครื่องบิน",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "แทน",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "แห้ง",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "ไม่น่าแปลกใจ",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "หัวเราะ",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "พัน",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "ที่ผ่านมา",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "วิ่ง",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "ตรวจสอบ",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "เกม",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "รูปร่าง",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "ถือเอา",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "ร้อน",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "พลาด",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "นำ",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "ความร้อน",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "หิมะ",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "ยาง",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "นำมาซึ่ง",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ใช่",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "ที่ห่างไกล",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "กรอก",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "ทางทิศตะวันออก",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "ทาสี",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "ภาษา",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "ในหมู่",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "หน่วย",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "อำนาจ",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "เมือง",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "ปรับ",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "บางอย่าง",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "บิน",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "ตก",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "นำไปสู่",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "ร้องไห้",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "มืด",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "เครื่อง",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "บันทึก",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "รอสักครู่",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "แผน",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "รูปที่",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "ดาว",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "กล่อง",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "คำนาม",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "สนาม",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "ส่วนที่เหลือ",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "ถูกต้อง",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "สามารถ",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "ปอนด์",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "เสร็จแล้ว",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "ความงาม",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "ไดรฟ์",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "ยืนอยู่",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "มี",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "ด้านหน้า",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "สั่งสอน",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "สัปดาห์ที่",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "สุดท้าย",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "ให้",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "สีเขียว",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "โอ้",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "อย่างรวดเร็ว",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "การพัฒนา",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "มหาสมุทร",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "อบอุ่น",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "ฟรี",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "นาที",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "ที่แข็งแกร่ง",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "พิเศษ",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "จิตใจ",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "ที่อยู่เบื้องหลัง",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "ที่ชัดเจน",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "หาง",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "ผลิต",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "ความเป็นจริง",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "พื้นที่",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "ได้ยิน",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "ที่ดีที่สุด",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "ชั่วโมง",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "ที่ดีกว่า",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "ที่แท้จริง",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "ในช่วง",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "ร้อย",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "ห้า",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "จำได้ว่า",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "ขั้นตอนที่",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "ตอนต้น",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "ถือ",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "ทางทิศตะวันตก",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "พื้นดิน",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "ที่น่าสนใจ",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "เข้าถึง",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "อย่างรวดเร็ว",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "คำกริยา",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "ร้องเพลง",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "ฟัง",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "หก",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "ตาราง",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "การเดินทาง",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "น้อย",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "ตอนเช้า",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "สิบ",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "ง่าย",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "หลาย",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "สระ",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "ต่อ",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "สงคราม",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "วาง",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "กับ",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "ลวดลาย",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "ช้า",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "ศูนย์",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "ความรัก",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "คน",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "เงิน",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "ให้บริการ",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "ปรากฏ",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "ถนน",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "แผนที่",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "ฝน",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "กฎ",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "ควบคุม",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "ดึง",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "เย็น",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "แจ้งให้ทราบล่วงหน้า",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "เสียง",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "พลังงาน",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "ล่า",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "น่าจะเป็น",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "เตียง",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "พี่ชายของ",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ไข่",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "นั่ง",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "เซลล์",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "เชื่อ",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "บางทีอาจจะเป็น",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "เลือก",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "ฉับพลัน",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "นับ",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "ตาราง",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "เหตุผลที่",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "ระยะเวลา",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "เป็นตัวแทนของ",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "ศิลปะ",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "เรื่อง",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "ภูมิภาค",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "ขนาด",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "แตกต่าง",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "ชำระ",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "พูด",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "น้ำหนัก",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "ทั่วไป",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "น้ำแข็ง",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "เรื่อง",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "วงกลม",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "คู่",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "ประกอบด้วย",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "แบ่ง",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "พยางค์",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "รู้สึกว่า",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "ยิ่งใหญ่",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "ลูก",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ยัง",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "คลื่น",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "หล่น",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "การเต้นของหัวใจ",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "ปัจจุบัน",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "หนัก",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "การเต้นรำ",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "เครื่องยนต์",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "ตำแหน่ง",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "แขน",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "กว้าง",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "แล่นเรือ",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "วัสดุ",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "ส่วน",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "ป่า",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "นั่ง",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "การแข่งขัน",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "หน้าต่าง",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "การจัดเก็บ",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "ฤดูร้อน",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "รถไฟ",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "การนอนหลับ",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "พิสูจน์",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "คนเดียว",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "ขา",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "การออกกำลังกาย",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "ผนัง",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "จับ",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "ภูเขา",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "หวังว่า",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "ท้องฟ้า",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "คณะกรรมการ",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "ความสุข",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "ฤดูหนาว",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "นั่ง",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "เขียน",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "ป่า",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "เครื่องมือ",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "เก็บไว้",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "แก้ว",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "หญ้า",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "วัว",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "งาน",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "ขอบ",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "เข้าสู่ระบบ",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "การเยี่ยมชม",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "ที่ผ่านมา",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "อ่อน",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "สนุก",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "สดใส",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "ก๊าซ",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "สภาพอากาศ",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "เดือน",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "ล้าน",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "แบก",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "เสร็จ",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "มีความสุข",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "หวังว่า",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "ดอกไม้",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "ตกแต่ง",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "แปลก",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "หายไป",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "การค้า",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "เมโลดี้",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "การเดินทาง",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "สำนักงาน",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ได้รับ",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "แถว",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "ปาก",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "ที่แน่นอน",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "สัญลักษณ์",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "ตาย",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "อย่างน้อย",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "ปัญหา",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "ตะโกน",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "ยกเว้น",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "เขียน",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "เมล็ดพันธุ์",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "โทน",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "ร่วม",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "ขอแนะนำให้",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "ทำความสะอาด",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "ทำลาย",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "สุภาพสตรี",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "ลาน",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "ลุกขึ้น",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "ไม่ดี",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "ระเบิด",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "น้ำมัน",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "เลือด",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "แตะ",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "เพิ่มขึ้น",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "ร้อยละ",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "ผสม",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "ทีมงาน",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "ลวด",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "ค่าใช้จ่าย",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "หายไป",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "สีน้ำตาล",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "สวมใส่",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "สวน",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "เท่ากัน",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "ส่ง",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "เลือก",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "ลดลง",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "พอดี",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "ไหล",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "ยุติธรรม",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "ธนาคาร",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "การเก็บรวบรวม",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "บันทึก",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "การควบคุม",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "ทศนิยม",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "หู",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "อื่น",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "ค่อนข้าง",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "ยากจน",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "กรณี",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "ตรงกลาง",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "ฆ่า",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "บุตรชาย",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "ทะเลสาบ",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "ขณะ",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "ขนาด",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "เสียงดัง",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "ฤดูใบไม้ผลิ",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "สังเกต",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "เด็ก",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "ตรง",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "พยัญชนะ",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "ประเทศชาติ",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "พจนานุกรม",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "นม",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "ความเร็ว",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "วิธีการ",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "อวัยวะ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "จ่าย",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "อายุ",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "ส่วน",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "การแต่งกาย",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "เมฆ",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "แปลกใจ",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "เงียบสงบ",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "หิน",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "จิ๋ว",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "ปีน",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "เย็น",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "ออกแบบ",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "ที่น่าสงสาร",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "สลาก",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "การทดลอง",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "ด้านล่าง",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "ที่สำคัญ",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "เหล็ก",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "เดียว",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "ติด",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "แบน",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "ยี่สิบ",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "ผิว",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "รอยยิ้ม",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "รอยพับ",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "หลุม",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "กระโดด",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "ทารก",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "แปด",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "หมู่บ้าน",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "ตอบสนองความ",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "ราก",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "ซื้อ",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "ยก",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "แก้",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "โลหะ",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "ไม่ว่าจะเป็น",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "การผลักดัน",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "เจ็ด",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "วรรค",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "ที่สาม",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "จะต้อง",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "ชู",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "ผม",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "อธิบาย",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "ปรุงอาหาร",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "ชั้น",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "อย่างใดอย่างหนึ่ง",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "ผล",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "เผา",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "เนินเขา",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "ความปลอดภัย",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "แมว",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "ศตวรรษที่",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "พิจารณา",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "ชนิด",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "กฎหมาย",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "บิต",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "ชายฝั่ง",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "สำเนา",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "วลี",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "เงียบ",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "สูง",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "ทราย",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "ดิน",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "ม้วน",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "อุณหภูมิ",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "ลายนิ้วมือ",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "อุตสาหกรรม",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "มูลค่า",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "สู้",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "โกหก",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "เอาชนะ",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "ตื่นเต้น",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "ธรรมชาติ",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "มุมมอง",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "ความรู้สึก",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "ทุน",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "จะไม่",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "เก้าอี้",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "อันตราย",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "ผลไม้",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "อุดมไปด้วย",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "หนา",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "ทหาร",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "กระบวนการ",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "ดำเนินการ",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "การปฏิบัติ",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "แยกต่างหาก",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "ยาก",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "แพทย์",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "กรุณา",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "ป้องกัน",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "เที่ยง",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "การเพาะปลูก",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "ที่ทันสมัย",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "องค์ประกอบ",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "ตี",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "นักเรียน",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "มุม",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "บุคคลที่",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "อุปทาน",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "ใคร",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "ค้นหา",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "แหวน",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "ตัวอักษร",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "แมลง",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "จับ",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "ระยะเวลา",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "แสดง",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "วิทยุ",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "พูด",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "อะตอม",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "มนุษย์",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "ประวัติศาสตร์",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "ผลกระทบ",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "ไฟฟ้า",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "คาดหวังว่า",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "กระดูก",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "ทางรถไฟ",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "จินตนาการ",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ให้",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "ตกลง",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "ดังนั้น",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "อ่อนโยน",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "หญิง",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "กัปตัน",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "เดา",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "จำเป็น",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "คมชัด",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "ปีก",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "สร้าง",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "เพื่อนบ้าน",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "ล้าง",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "ค้างคาว",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "ค่อนข้าง",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "ฝูงชน",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "ข้าวโพด",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "เปรียบเทียบ",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "บทกวี",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "สตริง",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "ระฆัง",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "ขึ้นอยู่",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "เนื้อ",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "ถู",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "หลอด",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "ที่มีชื่อเสียง",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ดอลล่า",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "กระแส",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "ความกลัว",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "สายตา",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "บาง",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "สามเหลี่ยม",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "ดาวเคราะห์",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "รีบ",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "หัวหน้า",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "อาณานิคม",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "นาฬิกา",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "เหมือง",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "ผูกเน็คไท",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "ใส่",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "สำคัญ",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "สด",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "ค้นหา",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "ส่ง",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "สีเหลือง",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ปืน",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "อนุญาตให้",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "พิมพ์",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "ที่ตายแล้ว",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "จุด",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "ทะเลทราย",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "สูท",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "ปัจจุบัน",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "ลิฟท์",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ดอกกุหลาบ",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "มาถึง",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "ปริญญาโท",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "ติดตาม",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "ผู้ปกครอง",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "ฝั่ง",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "ส่วน",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "แผ่น",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "สาร",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "ชอบ",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "เชื่อมต่อ",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "เสา",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "ใช้จ่าย",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "คอร์ด",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "ไขมัน",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "ดีใจ",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "เดิม",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "ส่วนแบ่ง",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "สถานี",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "พ่อ",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "ขนมปัง",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "คิดค่าใช้จ่าย",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "ที่เหมาะสม",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "บาร์",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "เสนอ",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "ส่วน",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "ทาส",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "เป็ด",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "ทันที",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "ตลาด",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "องศา",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "เติม",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "เจี๊ยบ",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "ที่รัก",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "ศัตรู",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "ตอบ",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "เครื่องดื่ม",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "เกิดขึ้น",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "สนับสนุน",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "คำพูด",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "ธรรมชาติ",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "ช่วง",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "ไอน้ำ",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "การเคลื่อนไหว",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "เส้นทาง",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "ของเหลว",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "เข้าสู่ระบบ",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "หมายความว่า",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "เชาวน์",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "ฟัน",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "เปลือก",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "คอ",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "ออกซิเจน",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "น้ำตาล",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "ความตาย",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "สวย",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "ทักษะ",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "ผู้หญิง",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "ฤดู",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "การแก้ปัญหา",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "แม่เหล็ก",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "สีเงิน",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "ขอขอบคุณ",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "สาขา",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "การแข่งขัน",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "ต่อท้าย",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "โดยเฉพาะอย่างยิ่ง",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "มะเดื่อ",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "กลัว",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ใหญ่",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "น้องสาวของ",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "เหล็ก",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "หารือเกี่ยวกับ",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "ข้างหน้า",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "คล้ายคลึงกัน",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "แนะนำ",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "ประสบการณ์",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "คะแนน",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "แอปเปิล",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "ซื้อ",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "นำ",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "สนาม",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "เสื้อโค้ท",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "มวล",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "บัตร",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "วงดนตรี",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "เชือก",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "ลื่น",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "ชนะ",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "ฝัน",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "ตอนเย็น",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "สภาพ",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "อาหารสัตว์",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "เครื่องมือ",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "ทั้งหมด",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "ขั้นพื้นฐาน",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "กลิ่น",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "หุบเขา",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "หรือ",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "สอง",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "ที่นั่ง",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "ดำเนินการต่อไป",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "บล็อก",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "แผนภูมิ",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "หมวก",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "ขาย",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "ประสบความสำเร็จ",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "บริษัท",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "ลบ",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "เหตุการณ์",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "โดยเฉพาะอย่างยิ่ง",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "ข้อตกลง",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "การว่ายน้ำ",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "ระยะ",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "ตรงข้าม",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "ภรรยา",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "รองเท้า",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ไหล่",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "การแพร่กระจาย",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "จัด",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "ค่าย",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "คิดค้น",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "ผ้าฝ้าย",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "เกิด",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "กำหนด",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "ควอร์",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "เก้า",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "รถบรรทุก",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "เสียงรบกวน",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "ระดับ",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "โอกาส",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "รวบรวม",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "ร้านขายของ",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "ยืด",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "โยน",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "เงางาม",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "สถานที่ให้บริการ",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "คอลัมน์",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "โมเลกุล",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "เลือก",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "ผิด",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "สีเทา",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ทำซ้ำ",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "ต้องการ",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "กว้าง",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "การเตรียมความพร้อม",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "เกลือ",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "จมูก",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "พหูพจน์",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "ความโกรธ",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "อ้าง",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "ทวีป",
+      "englishWord": "continent"
+    }
+  ]
+}

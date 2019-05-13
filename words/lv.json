@@ -1,0 +1,5007 @@
+{
+  "languageCode": "lv",
+  "languageName": "Latvian",
+  "languageNativeName": "latviešu valoda",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "kā",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "es",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "viņa",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ka",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "viņš",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "bija",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "par",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "gada",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "ir",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "ar",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "viņi",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "būt",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "pie",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "viens",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "ir",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "šī",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "no",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "līdz",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "karsts",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "vārds",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "bet",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "ko",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "daži",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "ir",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "tā",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "jums",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "vai",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "bija",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "siltums",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "no",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "līdz",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "un",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "seši",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "in",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "mēs",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "var",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ārā",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "citi",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "bija",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "kas",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "do",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "viņu",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "laiks",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "ja",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "griba",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "cik",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "teica",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "viņiem",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "katrs",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "pateikt",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "nav",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "komplekts",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "trīs",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "gribu",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "gaisa",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "labi",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "arī",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "play",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "mazs",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "beigas",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "likts",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "mājas",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "lasīt",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "roku",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "port",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "liels",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "pareizrakstības",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "pievienot",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "pat",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "zeme",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "šeit",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "nepieciešams",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "big",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "augsta",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "piemēram",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "sekot",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "akts",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "kāpēc",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "jautāt",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "cilvēki",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "maiņa",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "aizgāja",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "gaisma",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "veids",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "no",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "vajadzība",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "māja",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "attēlu",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "mēģināt",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "us",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "atkal",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "dzīvnieks",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "punkts",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "māte",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "pasaule",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "netālu",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "būvēt",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "pats",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "zemes",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "tēvs",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "jebkurš",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "jaunā",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "darbs",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "daļa",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "ņemt",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "nokļūt",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "vieta",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "veikts",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "dzīvot",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "kur",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "pēc",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "atpakaļ",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "maz",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "tikai",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "kārta",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "vīrietis",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "gads",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "atnāca",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "izstāde",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ik",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "labs",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "mani",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "dot",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "mūsu",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "saskaņā ar",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "nosaukums",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "ļoti",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "cauri",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "tikai",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "forma",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "teikums",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "liels",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "domā",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "teikt",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "palīdzēt",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "zems",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "līnija",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "atšķiras",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "kārta",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "cēlonis",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "daudz",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "nozīmēt",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "pirms",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "pārvietot",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "tiesības",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "boy",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "vecs",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "pārāk",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "tas pats",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "viņa",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "viss",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "tur",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "kad",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "augšup",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "izmantot",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "jūsu",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "veids",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "par",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "daudz",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "pēc tam",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "viņiem",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "rakstīt",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "būtu",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "piemēram,",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "tā",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "šie",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "viņai",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "garš",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "padarīt",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "lieta",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "sk",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "viņam",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "divi",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ir",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "meklēt",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "vairāk",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "diena",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "varētu",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "iet",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "nākt",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "darīja",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "numurs",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "skaņu",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "nē",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "visvairāk",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "cilvēki",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "mans",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "vairāk",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "zināt",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ūdens",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "nekā",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "izsaukums",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "pirmais",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "kurš",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "var",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "leju",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "side",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "ir",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "tagad",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "atrast",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "vadītājs",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "stāvēt",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "paša",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "lapa",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "vajadzētu",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "valsts",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "dibināt",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "atbilde",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "skola",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "augt",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "pētījums",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "vēl",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "mācīties",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "augs",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "vāks",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "pārtika",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "saule",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "četri",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "starp",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "valsts",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "glabāt",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "acs",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "nekad",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "pagājušajā",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "ļaujiet",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "doma",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "city",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "koks",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "šķērsot",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "saimniecība",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "grūti",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "sākums",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "varētu",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "stāsts",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "zāģis",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "tālu",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "jūra",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "izdarīt",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "kreisi",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "vēlu",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "palaist",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "nav",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "kamēr",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "nospiediet",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "aizvērt",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "nakts",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "real",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "dzīve",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "maz",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "ziemeļiem",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "grāmata",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "pārvadāt",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "paņēma",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "zinātne",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "ēst",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "telpa",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "draugs",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "sākās",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ideja",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "zivis",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "kalns",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "apstāties",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "reizi",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "bāze",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "dzirdēt",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "zirgs",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "cut",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "pārliecināts",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "skatīties",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "krāsu",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "seja",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "koks",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "galvenais",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "atvērts",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "likties",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "kopā",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "nākamais",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "balts",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "bērni",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "sākties",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "got",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "staigāt",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "piemērs",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "atvieglot",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "papīrs",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "grupa",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "vienmēr",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "mūzika",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "tās",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "abi",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "zīme",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "bieži",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "vēstule",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "līdz",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "jūdze",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "river",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "auto",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "kājām",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "kopšana",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "otrais",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "pietiekami",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "vienkāršs",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "meitene",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "ierasts",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "jauniešiem",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "gatavs",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "iepriekš",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "kādreiz",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "sarkans",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "saraksts",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "tomēr",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "justies",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "diskusija",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "putns",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "drīz",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "korpuss",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "suns",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "ģimene",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "tieši",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "uzdot",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "atstāt",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "dziesma",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "izmērīt",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "durvis",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "produkts",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "melna",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "īss",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "cipars",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "klase",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "vējš",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "jautājums",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "notikt",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "pilnīgs",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "kuģis",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "platība",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "puse",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "klinšu",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "rīkojums",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "ugunsgrēks",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "dienvidu",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problēma",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "gabals",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "pastāstīja",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "zināja",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "caurlaide",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "kopš",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "tops",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "viss",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "karalis",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "iela",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "inch",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "reizināt",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "nekas",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "Protams",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "uzturēties",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "ritenis",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "pilns",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "spēks",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "blue",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "objekts",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "izlemt",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "virsma",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "dziļi",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "pavadonis",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "sala",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "kāju",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistēma",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "aizņemts",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "testa",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "ieraksts",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "laiva",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "kopēja",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "zelta",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "iespējams",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "plakne",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "baudiet",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "sauss",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "brīnums",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "smieties",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "tūkstotis",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "pirms",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "skrēja",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "pārbaudiet",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "spēle",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "forma",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "vienādot",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "karsts",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "celta",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "siltums",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "sniegs",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "riepa",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "celt",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "jā",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "tāls",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "aizpildīt",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "austrumiem",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "gleznot",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "valoda",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "vidū",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "vienība",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "jauda",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "pilsēta",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "fine",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "skaidrs",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "lidot",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "kritums",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "vadīt",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "sauciens",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "tumšs",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "mašīna",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "piezīme",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "pagaidiet",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "plāns",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "skaitlis",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "zvaigzne",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "kaste",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "lietvārds",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "lauka",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "atpūta",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "pareizs",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "spējīgs",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "mārciņa",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "gatavots",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "skaistums",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "disku",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "stāvēja",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "satur",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "priekšējais",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "mācīt",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "nedēļa",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "galīgs",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "deva",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "zaļa",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "ātri",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "attīstīt",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "ocean",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "silts",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "bezmaksas",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minūte",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "spēcīga",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "īpašs",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "prāts",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "aiz",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "skaidrs",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "aste",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "ražot",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "fakts",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "telpa",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "dzirdējis",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "vislabāk",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "stunda",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "labāk",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "patiess",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "laikā",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "simti",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "pieci",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "atcerēties",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "solis",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "agri",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "turēt",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "rietumu",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "zemes",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "procenti",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "sasniegt",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "ātrs",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "darbības vārds",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "dziedāt",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "klausīties",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "seši",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "tabula",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "ceļot",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "mazāk",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "rīts",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "desmit",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "vienkāršs",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "vairāki",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "patskaņu",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "virzienā",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "karš",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "gulēja",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "pret",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "raksts",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "lēni",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "centrs",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "mīlestība",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "persona",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "nauda",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "kalpot",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "parādās",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "ceļš",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "karte",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "lietus",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "noteikums",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "valdīt",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "vilkt",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "auksts",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "paziņojums",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "balss",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "enerģija",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "medības",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "iespējams",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "gulta",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "brālis",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "olu",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "ride",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "šūna",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "tic",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "varbūt",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "pick",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "pēkšņs",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "skaitīt",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "kvadrātveida",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "iemesls",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "garums",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "pārstāvēt",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "art",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "pakļauts",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "rajons",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "izmērs",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "mainīties",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "nokārtot",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "runāt",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "svars",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "vispārējs",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "ledus",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "jautājums",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "aplis",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "pāris",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "ietvert",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "dalīt",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "zilbe",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "jutās",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "Lielā",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "bumba",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "vēl",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "vilnis",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "piliens",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "sirds",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "dāvana",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "smags",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "deja",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "dzinējs",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "pozīciju",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "roku",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "plašs",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "bura",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materiāls",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "daļa",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "mežs",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "sēdēt",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "skrējiens",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "logu",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "veikals",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "vasara",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "vilciens",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "miegs",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "izrādīties",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "vientuļš",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "kāja",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "vingrinājums",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "siena",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "loms",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "kalns",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "vēlēties",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "debesis",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "dēlis",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "prieks",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "ziema",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "rakstisks",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "savvaļā",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrumentam",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "tur",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "stikls",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "zāle",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "govs",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "darbs",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "mala",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "zīme",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "apmeklējums",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "pagātne",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "mīksts",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "jautrība",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "spilgti",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gāze",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "laika",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "mēnesis",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "miljons",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "nest",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "apdare",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "laimīgs",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "cerība",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "zieds",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "ietērpt",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "dīvains",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "aizgājuši",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "tirdzniecība",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodija",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "brauciens",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "birojs",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "saņem",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "rinda",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "mute",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "precīzu",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "simbols",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "nomirt",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "vismaz",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "nepatikšanas",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "kliegt",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "izņemot",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "rakstīja",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "sēkla",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tonis",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "pievienoties",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "iesaku",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "tīrs",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "pārtraukums",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "dāma",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "yard",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "pieaugt",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "slikti",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "trieciens",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "eļļa",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "asinis",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "pieskarieties",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "pieauga",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "centu",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "samaisa",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "komanda",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "stieple",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "izmaksas",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "zaudējis",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "brūns",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "valkāt",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "dārzs",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "vienāds",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "nosūtīts",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "izvēlēties",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "samazinājās",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "piemērots",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "plūsmas",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "godīgi",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "banka",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "savākt",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "glābt",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kontrole",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "decimāldaļskaitlis",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "auss",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "cits",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "diezgan",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "izputējis",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "case",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "vidus",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "nogalināt",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "dēls",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "ezers",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "brīdis",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "skala",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "skaļi",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "pavasaris",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "novērot",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "bērns",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "taisni",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "līdzskanis",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "tauta",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "vārdnīca",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "piens",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "ātrums",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "metode",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "ērģeles",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "samaksāt",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "vecums",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "sadaļa",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "kleita",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "mākonis",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "pārsteigums",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "kluss",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "akmens",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "niecīgs",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "kāpt",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "atdzist",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "dizains",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "slikts",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "daudz",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "eksperiments",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "apakšā",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "taustiņš",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "dzelzs",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "vienotā",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "nūja",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "flat",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "divdesmit",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "āda",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "smaids",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "burzīties",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "caurums",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "lēkt",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "mazulis",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "astoņi",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "ciems",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "apmierināt",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "sakne",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "nopirkt",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "paaugstināt",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "atrisināt",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metāla",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "vai",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "stumtu",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "septiņi",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "daļa",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "trešais",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "veic",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "ko",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "mati",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "aprakstīt",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "pavārs",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "stāvs",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "nu",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "rezultāts",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "dedzināt",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "kalns",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "drošs",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "kaķis",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "gadsimts",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "apsvērt",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "tips",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "likums",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bits",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "piekraste",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopija",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "frāze",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "kluss",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "augsts",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "smiltis",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "augsne",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "rullis",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatūras",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "pirksts",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "nozare",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "vērtība",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "cīņa",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "meli",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "pārspēt",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "satraukt",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "dabisks",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "skats",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "saprāts",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "kapitāls",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "nebūs",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "krēsls",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "briesmas",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "augļi",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "bagāts",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "biezs",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "karavīrs",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "process",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "darboties",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "prakse",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "atsevišķs",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "grūti",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "ārsts",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "lūdzu",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "aizsargāt",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "pusdienlaiks",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "raža",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "mūsdienu",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "elements",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "hit",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "students",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "stūris",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "puse",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "piegāde",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "kuru",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "atrodiet",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "gredzens",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "raksturs",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "kukainis",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "nozvejotas",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "periods",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "norādīt",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radiofrekvenču",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "runāja",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atoms",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "cilvēku",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "vēsture",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "efekts",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektriskā",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "gaidīt",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "kauls",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "dzelzceļš",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "iedomāties",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "nodrošināt",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "piekrītu",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "tādējādi",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "maigs",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "sieviete",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapteinis",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "uzminēt",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "nepieciešams",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "ass",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "spārnu",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "izveidot",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "kaimiņš",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "mazgāšana",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "nūja",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "drīzāk",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "pūlis",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "kukurūza",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "salīdzināt",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "dzejolis",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "rinda",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "zvans",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "atkarīgi",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "gaļa",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "berzēt",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "caurule",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "slavens",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dolāru",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "straume",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "bailes",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "skats",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "plānas",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "trīsstūris",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planēta",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "steigā",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "galvenais",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "kolonija",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "pulkstenis",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "raktuve",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "kaklasaite",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "ievadiet",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "galvenais",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "svaigs",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "meklēšana",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "sūtīt",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "dzeltena",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "lielgabals",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "ļaut",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "print",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "miris",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "vieta",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "tuksnesis",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "uzvalks",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "strāva",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "pacēlājs",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "roze",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "ierasties",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "master",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "track",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "vecāks",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "krasts",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "nodaļa",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "lapa",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "viela",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "priekšroku",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "savienot",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "pasta",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "tērēt",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "akords",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "tauki",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "priecīgs",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "oriģināls",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "daļa",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "stacija",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "tētis",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "maize",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "maksa",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "pienācīgs",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bārs",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "piedāvājums",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segments",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "vergu",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "pīle",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "tūlītējs",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "tirgus",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "pakāpe",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "apdzīvot",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "cālis",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "dārgais",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "ienaidnieks",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "atbildēt",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "dzēriens",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "notikt",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "atbalsts",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "runas",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "daba",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "diapazons",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "tvaiks",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "kustības",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "ceļš",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "šķidrums",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "log",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "nozīmēja",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "koeficients",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "zobi",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "apvalks",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "kakls",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "skābeklis",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "cukurs",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "nāve",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "diezgan",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "prasme",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "sievietes",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "sezona",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "risinājums",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnēts",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "sudrabs",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "paldies",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "filiāle",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "mačs",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "piedēklis",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "sevišķi",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "fig",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "nobijies",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "milzīgs",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "māsa",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "tērauds",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "apspriest",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "uz priekšu",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "līdzīga",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "virzīt",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "pieredze",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "punktu skaits",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "ābolu",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "nopirka",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "vadīja",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "piķis",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "mētelis",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "masa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kartes",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "grupa",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "virve",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "buksēšana",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "win",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "sapnis",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "vakars",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "nosacījums",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "barības",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "rīks",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "kopējais",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "bāzes",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "smarža",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "ieleja",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "nedz",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "dubultā",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "sēdeklis",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "turpināt",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "bloks",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "diagramma",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "cepure",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "pārdot",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "veiksme",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "uzņēmums",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "atņemt",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "notikums",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "īpaši",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "darījums",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "peldēt",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "termins",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "pretī",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "sieva",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "apavu",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "plecu",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "izplatība",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "organizēt",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "nometne",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "izgudrot",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "kokvilna",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Dzimis",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "noteikt",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "cet",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "deviņi",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "truck",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "troksnis",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "līmenis",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "iespēja",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "savākt",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "veikals",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "stiept",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "mest",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "spīdēt",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "īpašums",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "kolonna",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekula",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "izvēlieties",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "nepareizs",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "pelēks",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "atkārtot",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "pieprasīt",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "plašs",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "sagatavoties",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "sāls",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "deguns",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "daudzskaitlis",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "dusmas",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "prasījums",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontinents",
+      "englishWord": "continent"
+    }
+  ]
+}

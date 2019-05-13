@@ -1,0 +1,5007 @@
+{
+  "languageCode": "lt",
+  "languageName": "Lithuanian",
+  "languageNativeName": "lietuvių kalba",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "kaip",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "Aš",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "jo",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "kad",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "jis",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "buvo",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "už",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "nuo",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "yra",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "su",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "jie",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "būti",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "pradėjo",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "vienas",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "turėti",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "tai",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "nuo",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "pagal",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "karštas",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "žodis",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "tačiau",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "ką",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "kai",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "yra",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "ji",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "jūs",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "arba",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "buvo",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "pamatyti",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "iš",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "į",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "ir",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "grožis",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "matyti",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "mes",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "galima",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "iš",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "kitas",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "buvo",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "kurie",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "padaryti",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "jų",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "laikas",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "jei",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "bus",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "kaip",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "sakė",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "kiekvienas",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "pasakyti",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "daro",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "rinkinys",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "trijų",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "noriu",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "oro",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "gerai",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "taip pat",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "žaisti",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "mažas",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "pabaiga",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "sudėti",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "namai",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "skaityti",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "rankų",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "uostas",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "didelis",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "reikšti",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "pridėti",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "net",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "žemės",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "čia",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "turi",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "didelis",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "aukštas",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "toks",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "sekti",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "aktas",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "kodėl",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "paklausti",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "vyrai",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "pokytis",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "nuvyko",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "šviesa",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "natūra",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "nuo",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "reikėti",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "namas",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "nuotrauka",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "pabandyti",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "mums",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "vėl",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "gyvūnas",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "taškas",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "motina",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "pasaulis",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "šalia",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "statyti",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "savarankiškai",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "žemė",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "tėvas",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "bet koks",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "nauja",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "darbas",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "dalis",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "imti",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "gauti",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "vieta",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "padarė",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "gyventi",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "kur",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "po",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "atgal",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "mažai",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "tik",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "turas",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "vyras",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "metai",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "atėjo",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "šou",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "kiekvienas",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "geras",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "mane",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "duoti",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "mūsų",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "pagal",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "pavadinimas",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "labai",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "per",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "tiesiog",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "forma",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "sakinys",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "puikus",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "galvoti",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "pasakyti",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "padėti",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "žemas",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "linija",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "skiriasi",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "posūkis",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "priežastis",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "daug",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "reiškia",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "prieš",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "Perkelti",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "teisė",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "berniukas",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "senas",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "taip pat",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "tas pats",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ji",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "visi",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "ten",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "kai",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "į viršų",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "naudoti",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "savo",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "būdas",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "apie",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "daug",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "tada",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "jiems",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "rašyti",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "būtų",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "kaip",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "taip",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "tai",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "jos",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "ilgai",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "padaryti",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "dalykas",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "pamatyti",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "jį",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "du",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "turi",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "žiūrėti",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "daugiau",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "dieną",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "galėtų",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "eiti",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "ateiti",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "padarė",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "skaičius",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "garso",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ne",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "dauguma",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "žmonės",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "mano",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "per",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "žinoti",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "vanduo",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "nei",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "kvietimas",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "pirmas",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "kas",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "gali",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "žemyn",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "pusė",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "buvo",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "dabar",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "rasti",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "vadovas",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "stovėti",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "savo",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "puslapis",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "turėtų",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "šalis",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "rasti",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "atsakymas",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "mokykla",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "augti",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "tyrimas",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "dar",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "sužinoti",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "augalų",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "dangtis",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "maistas",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "saulė",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "keturi",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "tarp",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "valstybės",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "išlaikyti",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "akių",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "niekada",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "paskutinis",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "tegul",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "mintis",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "miestas",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "medis",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "kirsti",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ūkis",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "sunku",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "pradžia",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "might",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "istorija",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "pjūklas",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "toli",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "jūra",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "atkreipti",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "į kairę",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "vėlai",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "paleisti",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "nėra",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "o",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "paspauskite",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "arti",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "naktis",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "tikras",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "gyvenimas",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "mažai",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "į šiaurę",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "knyga",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "vykdyti",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "paėmė",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "mokslas",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "valgyti",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "kambario",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "draugas",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "pradėjo",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "idėja",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "žuvis",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "kalnas",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "sustabdyti",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "kartą",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "bazė",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "išgirsti",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "arklys",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "supjaustyti",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "tikrai",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "žiūrėti",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "spalva",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "veido",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "medienos",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "pagrindinis",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "atvira",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "atrodo",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "kartu",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "kitas",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "baltas",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "vaikai",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "pradėti",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "turiu",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "vaikščioti",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "pavyzdys",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "palengvinti",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "popieriaus",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "grupė",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "visada",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "muzika",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "tie",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "abu",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "ženklas",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "dažnai",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "laiškas",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "iki",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "mylių",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "upės",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "automobilių",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "pėdų",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "priežiūra",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "antra",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "pakankamai",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "paprastas",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "mergina",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "įprasta",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "jauna",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "pasiruošęs",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "aukščiau",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "kada nors",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "raudonas",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "sąrašas",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "nors",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "jausti",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "aptarimas",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "paukštis",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "greičiau",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "kūnas",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "šuo",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "šeima",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "tiesiogiai",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "kelti",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "palikti",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "daina",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "matuoti",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "durys",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "produktas",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "juodas",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "trumpas",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "skaitvardis",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "klasė",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "vėjas",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "klausimas",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "atsitikti",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "pilnas",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "laivas",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "plotas",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "pusė",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "rokas",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "kad",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "gaisro",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "į pietus",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problema",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "gabalas",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "sakė",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "žinojo,",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "pereiti",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "nuo",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "viršus",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "visas",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "karalius",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "gatvės",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "colis",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "daugintis",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "nieko",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "Žinoma",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "likti",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "ratų",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "pilnas",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "jėga",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "mėlynas",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "objektas",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "nuspręsti",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "paviršius",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "giliai",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "mėnulis",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "sala",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "pėda",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistema",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "užimtas",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "testas",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "įrašas",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "valtis",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "bendras",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "aukso",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "galimas",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "lėktuvas",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "sodyba",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "sausas",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "nenuostabu",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "juokas",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "tūkstančių",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "prieš",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "Arklys",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "patikrinti",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "žaidimas",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "forma",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "prilygti",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "karštas",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "praleisti",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "atnešė",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "šilumos",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "sniego",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "padanga",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "atnešti",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "taip",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "tolimas",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "užpildyti",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "į rytus",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "dažai",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "kalba",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "tarp",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "vienetas",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "galia",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "miestas",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "gerai",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "tikras",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "skristi",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "patenka",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "vadovauti",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "šauksmas",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "tamsus",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "mašina",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "pastaba",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "laukti",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "planas",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "figūra",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "žvaigždė",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "dėžutė",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "daiktavardis",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "srityje",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "poilsio",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "teisingas",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "sugebėti",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "svaras",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "padirbtas",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "grožis",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "vairuoti",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "stovėjo",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "būti",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "priekinis",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "mokyti",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "savaitę",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "galutinis",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "davė",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "žalia",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "greitai",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "plėtoti",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "vandenynas",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "šiltas",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "nemokamai",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minučių",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "stiprus",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "ypatingą",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "protas",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "už",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "aišku,",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "uodega",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "gaminti",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "faktas",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "vietos",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "girdėjau",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "geriausias",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "valandos",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "geriau",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "tiesa",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "metu",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "šimtai",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "penki",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "prisiminti",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "žingsnis",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "anksti",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "palaikykite",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "vakarų",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "žemės",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "palūkanos",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "pasiekti",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "greitai",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "veiksmažodis",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "dainuoti",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "klausyti",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "šešių",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "lentelė",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "kelionė",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "mažiau",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "rytas",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "dešimt",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "paprastas",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "kelis",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "balsis",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "link",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "karas",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "padėti",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "prieš",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "modelis",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "lėtai",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "centras",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "patinka",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "asmuo",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "pinigai",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "tarnauti",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "pasirodyti",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "kelių",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "žemėlapis",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "lietus",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "taisyklė",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "reglamentuoja",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "traukti",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "šaltas",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "pranešimas",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "balsas",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energija",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "medžioklė",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "tikėtina,",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "lova",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "brolis",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "kiaušinis",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "važinėti",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "ląstelė",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "tikėti",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "galbūt",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "pasirinkti",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "staiga",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "skaičiuoti",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "aikštė",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "priežastis",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "ilgis",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "atstovauti",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "menas",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "tema",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "regionas",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "dydis",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "skirtis",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "atsiskaityti",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "kalbėti",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "svoris",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "bendras",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "ledas",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "nesvarbu",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "ratas",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "pora",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "įtraukti",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "takoskyra",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "skiemuo",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "jaučiamas",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "didysis",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "kamuoliukas",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "dar",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "banga",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "lašas",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "širdis",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "pm",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "metu",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "sunkus",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "šokis",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "variklis",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "pozicija",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "ranka",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "pločio",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "burė",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "medžiaga",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "frakcija",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "miškas",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "sėdėti",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "varžybos",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "langas",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "parduotuvė",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "vasara",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "traukinys",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "miegas",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "įrodyti",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "vienišas",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "koja",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "pratimas",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "sienos",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "laimikis",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "kalno",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "norėti",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "dangus",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "lenta",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "džiaugsmas",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "žiema",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "parašyta",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "laukinis",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "priemonė",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "laikomi",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "stiklas",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "žolė",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "karvė",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "darbas",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "kraštas",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "ženklas",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "apsilankymas",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "praeitis",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "minkštas",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "malonumas",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "šviesus",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "dujos",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "oras",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "mėnesį",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "milijonas",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "būti",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "apdaila",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "laimingas",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "tikiuosi",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "gėlė",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "aprengti",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "keista",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "dingo",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "prekyba",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodija",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "Kelionės",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "biuras",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "gauti",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "eilė",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "burna",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "tikslus",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "simbolis",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "mirti",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "mažiau",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "bėda",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "šaukti",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "išskyrus",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "rašė",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "sėklos",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tonas",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "prisijungti",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "pasiūlyti",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "švarus",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "pertrauka",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "panele",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "kiemas",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "padidės",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "blogas",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "smūgis",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "alyva",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "kraujo",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "paliesti",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "augo",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "centas",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "maišyti",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "komanda",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "vielos",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "kaina",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "prarado",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "rudi",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "dėvėti",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "sodas",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "lygūs",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "siunčiami",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "pasirinkti",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "sumažėjo",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "tinka",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "tekėti",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "sąžininga",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bankas",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "rinkti",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "išsaugoti",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "valdymas",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "dešimtainis",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "ausis",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "kitas",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "gana",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "sumušė",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "atveju",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "vidurys",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "nužudyti",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "sūnus",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "ežeras",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "akimirka",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "skalė",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "garsiai",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "pavasaris",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "stebėti",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "vaikas",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "tiesiai",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "priebalsis",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "tauta",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "žodynas",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "pienas",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "greitis",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "metodas",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organas",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "mokėti",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "amžius",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "skyrius",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "suknelė",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "debesis",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "staigmena",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "ramus",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "akmuo",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "mažytis",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "lipti",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "kietas",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "dizainas",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "prastas",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "daug",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "eksperimentas",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "apačia",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "raktas",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "geležies",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "vieno",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "Stick",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "butas",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "dvidešimt",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "oda",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "šypsena",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "raukšlėtis",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "skylė",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "šuolis",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "kūdikis",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "aštuoni",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "kaimas",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "patenkinti",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "šaknis",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "pirkti",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "pakelti",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "išspręsti",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metalo",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "ar",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "stumti",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "septyni",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "punktas",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "trečia",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "turi",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "rankinė",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "plaukai",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "apibūdinti",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "virėjas",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "aukštas",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "arba",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "rezultatas",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "deginti",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "kalnas",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "saugus",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "katė",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "amžius",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "apsvarstyti",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "tipas",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "teisė",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "tiek",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "pakrantė",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopija",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "frazė",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "tylus",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "aukštas",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "smėlio",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "dirvožemis",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "ritinys",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatūra",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "pirštas",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "pramonė",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "vertė",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "kova",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "melas",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "įveikti",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "sužadinti",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "natūralus",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "vaizdas",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "jausmas",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "kapitalas",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "nebus",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "kėdė",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "pavojus",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "vaisiai",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "turtingas",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "storas",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "Eilinis",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "procesas",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "veikia",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "praktika",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "atskiras",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "sunkus",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "gydytojas",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "Prašom",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "apsaugoti",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "vidurdienis",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "pasėlių",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "modernus",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "elementas",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "nukentėjo",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "studentas",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "kampas",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "šalis",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "tiekimas",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "kurio",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "rasti",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "žiedas",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "charakteris",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "vabzdžių",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "sugauti",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "laikotarpis",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "rodo",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radijo",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "kalbėjo",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atomas",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "žmogaus",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "istorija",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "poveikis",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektros",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "tikėtis",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "kaulas",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "geležinkelių",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "įsivaizduoti",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "teikti",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "susitarti",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "taip",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "švelnus",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "moteris",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapitonas",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "atspėti",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "reikalingas",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "aštrus",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "sparnas",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "kurti",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "kaimynas",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "skalbimas",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "bat",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "gana",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "minia",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "kukurūzai",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "palyginti",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "eilėraštis",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "styga",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "varpas",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "priklauso",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "mėsa",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "rublių",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "vamzdis",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "garsus",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "doleris",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "srautas",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "baimė",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "reginys",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "plonas",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "trikampis",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planeta",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "skubėti",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "vyriausiasis",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "kolonija",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "laikrodis",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "mano",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "kaklaraištis",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "įeiti",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "pagrindinis",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "švieži",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "paieška",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "siųsti",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "geltonas",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "pistoletas",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "leisti",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "Spausdinti",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "miręs",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "vieta",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "dykuma",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "kostiumas",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "dabartinis",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "keltuvas",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "rožė",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "atvykti",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "meistras",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "takelis",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "tėvų",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "kranto",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "skyrius",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "lapas",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "medžiaga",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "pirmenybę",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "prisijungti",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "pranešimas",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "praleisti",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "styga",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "riebalų",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "malonu",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "originalus",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "dalis",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "stotis",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "tėtis",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "duona",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "imti",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "tinkamas",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "baras",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "pasiūlymas",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segmentas",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "vergas",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "antis",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "momentinis",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "rinka",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "laipsnis",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "užpildyti",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "jauniklį",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "brangusis",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "priešas",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "atsakinėti",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "gėrimas",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "atsirasti",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "parama",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "kalbos",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "pobūdis",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "diapazonas",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "garo",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "pasiūlymas",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "kelias",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "skystis",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "prisijungti",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "reiškia",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "dalmuo",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "dantys",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "apvalkalas",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "kaklas",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "deguonies",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "cukraus",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "mirtis",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "gana",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "įgūdžių",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "moterys",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "sezonas",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "sprendimas",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnetas",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "sidabras",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "ačiū",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "filialas",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "rungtynės",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "priesaga",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "ypač",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "pav",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "bijau",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "didžiulis",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "sesuo",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "plieno",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "aptarti",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "pirmyn",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "panašus",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "vadovas",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "patirtis",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "rezultatas",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "obuolių",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "nusipirkau",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "lėmė",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "pikis",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "kailis",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "masė",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kortelė",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "grupė",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "virvės",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "slydimo",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "laimėti",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "svajonė",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "vakaras",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "sąlyga",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "pašarai",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "priemonė",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "visas",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "pagrindinis",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "kvapas",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "slėnis",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "nei",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "dvigubai",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "sėdynė",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "toliau",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "blokas",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "schema",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "skrybėlė",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "parduoti",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "sėkmė",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "įmonė",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "atimti",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "renginys",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "pirma",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "spręsti",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "plaukti",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "terminas",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "priešais",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "žmona",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "batų",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "petys",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "plitimas",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "susitarti",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "stovykla",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "sugalvoti",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "medvilnės",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Gimė",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "nustatyti",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "kvorta",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "devyni",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "sunkvežimis",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "triukšmas",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "lygis",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "tikimybė",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "surinkti",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "parduotuvė",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "ruožas",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "mesti",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "valymo",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "turtas",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "stulpelis",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekulė",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "pasirinkti",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "negerai",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "pilka",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "pakartokite",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "reikalauti",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "platus",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "parengti",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "druska",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "nosis",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "daugiskaitos",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "pyktis",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "reikalavimas",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "žemynas",
+      "englishWord": "continent"
+    }
+  ]
+}

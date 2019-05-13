@@ -1,0 +1,5007 @@
+{
+  "languageCode": "mt",
+  "languageName": "Maltese",
+  "languageNativeName": "Malti",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "bħala",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "I",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "tiegħu",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "li",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "hu",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "kien",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "għal",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "fuq",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "huma",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "ma",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "huma",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "jkun",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "fi",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "wieħed",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "jkollhom",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "dan",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "minn",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "minn",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "sħun",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "kelma",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "imma",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "liema",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "xi",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "huwa",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "dan",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "inti",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "jew",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "kellhom",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "l-",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "tal",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "li",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "u",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "a",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "fil",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "aħna",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "jista",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "out",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "oħra",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "kienu",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "li",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "do",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "tagħhom",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "ħin",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "jekk",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "se",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "kif",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "qal",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "l",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "kull",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "tell",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "ma",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "sett",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "tlieta",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "trid",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "arja",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "ukoll",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "wkoll",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "play",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "żgħir",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "aħħar",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "tpoġġi",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "domiċilju",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "aqra",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "idejn",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "port",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "kbir",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "jespliċitaw",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "żid",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "anke",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "art",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "hawn",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "għandhom",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "big",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "għolja",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "bħal",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "isegwu",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "att",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "għaliex",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "staqsi",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "irġiel",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "bidla",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "marru",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "dawl",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "tip",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "barra",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "bżonn",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "house",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "stampa",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "jippruvaw",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "us",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "darb’oħra",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "annimali",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "punt",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "omm",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "dinja",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "qrib",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "jibnu",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "awto",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "earth",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "missier",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "kwalunkwe",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "ġdida",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "xogħol",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "parti",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "tieħu",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "jiksbu",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "post",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "magħmula",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "jgħixu",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "fejn",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "wara",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "back",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "ftit",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "biss",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "rawnd",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "bniedem",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "sena",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "daħal",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "juru",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "kull",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "tajba",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "me",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "jagħtu",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "tagħna",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "taħt",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "isem",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "ħafna",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "permezz",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "biss",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "forma",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "sentenza",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "kbira",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "jaħsbu",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "jgħidu",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "jgħinu",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "baxxa",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "line",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "differenti",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "dawran",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "kawża",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "ħafna",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "jfissru",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "qabel",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "mossa",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "dritt",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "tifel",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "qodma",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "wisq",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "istess",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "hi",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "kollha",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "hemm",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "meta",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "up",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "użu",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "tiegħek",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "mod",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "dwar",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "ħafna",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "imbagħad",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "minnhom",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "jiktbu",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "kieku",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "bħal",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "hekk",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "dawn",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "tagħha",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "twil",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "jagħmlu",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "ħaġa",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "tara",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "lilu",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "tnejn",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "għandha",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "ħarsa",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "aktar",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "jum",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "jistgħu",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "go",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "come",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "għamlet",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "numru",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "ħoss",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ebda",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "aktar",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "nies",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "tiegħi",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "fuq",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "taf",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ilma",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "minn",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "sejħa",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "ewwel",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "li",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "jista",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "isfel",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "ġenb",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "kien",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "issa",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "isibu",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "ras",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "toqgħod",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "stess",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "paġna",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "għandhom",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "pajjiż",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "misjuba",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "tweġiba",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "iskola",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "jikbru",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "studju",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "xorta",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "jitgħallmu",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "impjant",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "kopertura",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "ikel",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "xemx",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "erbgħa",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "bejn",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "istat",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "iżommu",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "għajn",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "qatt",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "aħħar",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "let",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "ħasbu",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "belt",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "siġra",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "jaqsmu",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "farm",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "diffiċli",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "bidu",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "jista",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "istorja",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "serrieq",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "ferm",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "baħar",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "jiġbed",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "xellug",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "tard",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "medda",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ma",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "filwaqt li",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "istampa",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "qrib",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "lejl",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "reali",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "ħajja",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "ftit",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "tramuntana",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "ktieb",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "twettaq",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "ħa",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "xjenza",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "jieklu",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "kamra",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "ħabib",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "beda",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "idea",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ħut",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "muntanji",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "tieqaf",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "ladarba",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "bażi",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "tisma",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "żiemel",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "qatgħa",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "żgur",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "watch",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "kulur",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "wiċċ",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "injam",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "prinċipali",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "miftuħa",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "jidhru",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "flimkien",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "li jmiss",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "abjad",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "tfal",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "tibda",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "ltqajna",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "jimxu",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "eżempju",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "faċilità",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "karta",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "grupp",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "dejjem",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "mużika",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "dawk",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "kemm",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "marka",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "spiss",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "ittra",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "sakemm",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "mile",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "xmara",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "karozza",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "saqajn",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "kura",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "tieni",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "biżżejjed",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "plain",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "girl",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "soltu",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "żgħażagħ",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "lest",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "hawn fuq",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "qatt",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "aħmar",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "lista",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "għalkemm",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "jħossu",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "talk",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "għasfur",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "dalwaqt",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "korp",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "klieb",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "familja",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "dirett",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "joħolqu",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "tħalli",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "kanzunetta",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "ikejlu",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "bieb",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "prodott",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "iswed",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "qasir",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "numerali",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "klassi",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "riħ",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "kwistjoni",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "jiġri",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "kompluta",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "vapur",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "żona",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "nofs",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "blat",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "ordni",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "nar",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "nofsinhar",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problema",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "biċċa",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "told",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "kien jaf",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "jgħaddu",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "peress",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "top",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "kollu",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "king",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "toroq",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "pulzier",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "immoltiplika",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "xejn",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "kors",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "waqfa",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "rota",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "sħiħa",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "forza",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "blu",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "oġġett",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "tiddeċiedi",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "wiċċ",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "fond",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "qamar",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "gżira",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "sieq",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistema",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "okkupati",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "tal",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "rekord",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "dgħajsa",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "komuni",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "deheb",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "possibbli",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "pjan",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "minfloku",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "xott",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "wonder",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "tidħaq",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "elf",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "ilu",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "dam",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "jiċċekkjaw",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "logħba",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "forma",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "qabblet",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "sħun",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "jitilfu",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "miġjuba",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "sħana",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "borra",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "tajer",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "iġibu",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "iva",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "bogħod",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "imla",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "lvant",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "żebgħa",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "lingwa",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "fost",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "unità",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "qawwa",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "belt",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "multa",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "ċerti",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "fly",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "jaqgħu",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "ċomb",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "cry",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "dlam",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "magna",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "nota",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "stenna",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "pjan",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "figura",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "stilla",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "kaxxa",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "nom",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "qasam",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "bqija",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "korretta",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "kapaċi",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "lira",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "isir",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "sbuħija",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "drive",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "kien",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "fihom",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "quddiem",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "jgħallmu",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "ġimgħa",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "finali",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "taw",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "aħdar",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "malajr",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "jiżviluppaw",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "oċean",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "sħun",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "ħielsa",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minuta",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "qawwija",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "speċjali",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "mind",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "wara",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "ċara",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "denb",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "jipproduċu",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "fatt",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "ispazju",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "jinstemgħu",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "aħjar",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "siegħa",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "aħjar",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "veru",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "matul",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "mitt",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "ħamsa",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "ftakar",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "pass",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "kmieni",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "istiva",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "punent",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "art",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "interess",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "jilħqu",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "fast",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "li",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "nijet",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "jisimgħu",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "sitta",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "tabella",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "ivvjaġġar",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "inqas",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "filgħodu",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "għaxar",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "sempliċi",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "diversi",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "vokali",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "lejn",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "gwerra",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "jistabbilixxu",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "kontra",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "mudell",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "bil-mod",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "ċentru",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "imħabba",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "persuna",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "flus",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "jservu",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "jidhru",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "triq",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "mappa",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "xita",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "regola",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "jirregolaw",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "iġbed",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "kiesaħ",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "avviż",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "vuċi",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "enerġija",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "kaċċa",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "probabbli",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "sodda",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "ħuh",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "bajd",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "rikba",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "ċellula",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "jemmnu",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "forsi",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "pick",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "f’daqqa",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "għadd",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "kwadru",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "raġuni",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "tul",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "jirrappreżentaw",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "arti",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "suġġett",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "reġjun",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "daqs",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "jvarjaw",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "joqgħod",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "jitkellmu",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "piż",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "ġenerali",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "silġ",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "kwistjoni",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "ċirku",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "par",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "jinkludu",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "firda",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "sillaba",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "ħass",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "grand",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "logħob",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "għadhom",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "mewġa",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "qatra",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "qalb",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "preżenti",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "tqil",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "żfin",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "magna",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "pożizzjoni",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "driegħ",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "wiesgħa",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "qlugħ",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materjal",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "frazzjoni",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "foresta",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "ipoġġu",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "razza",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "tieqa",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "maħżen",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "sajf",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "ferrovija",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "irqad",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "jipprova",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "isolati",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "riġel",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "eżerċizzju",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "ħajt",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "qabda",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "impunjazzjoni",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "tixtieq",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "sema",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "abbord",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "ferħ",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "xitwa",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sib",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "miktub",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "selvaġġi",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "istrument",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "miżmuma",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "ħġieġ",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "ħaxix",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "baqra",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "xogħol",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "tarf",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "sinjal",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "żjara",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "passat",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "soft",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "gost",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "bright",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gass",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "temp",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "xahar",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "miljun",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "iġorru",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "finitura",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "kuntenti",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "tama",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "fjura",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "b’saqaf",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "stramba",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "marret",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "kummerċ",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodija",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "vjaġġ",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "uffiċċju",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "jirċievu",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "ringiela",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "ħalq",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "eżatt",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "simbolu",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "jmutu",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "inqas",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "trouble",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "shout",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "ħlief",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "kiteb",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "żerriegħa",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tone",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "jissieħbu",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "jissuġġerixxu",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "nadif",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "waqfa",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "mara",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "tarzna",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "lok",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "ħażina",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "daqqa",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "żejt",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "demm",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "tmissx",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "kiber",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "ċenteżmu",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "taħlita",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "tim",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "wajer",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "ispiża",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "mitlufa",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "kannella",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "jilbsu",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "ġnien",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "ugwali",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "mibgħuta",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "jagħżlu",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "waqgħet",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "tajbin",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "fluss",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "ġust",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bank",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "jiġbru",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "jiffranka",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kontroll",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "informazzjoni",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "widna",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "inkella",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "pjuttost",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "kissru",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "każ",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "nofs",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "joqtlu",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "iben",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "lag",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "mument",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "iskala",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "qawwi",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "rebbiegħa",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "josservaw",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "tfal",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "dritta",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "konsonanti",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "nazzjon",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "dizzjunarju",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "ħalib",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "veloċità",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "metodu",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organu",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "tħallas",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "età",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "taqsima",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "libsa",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "sħaba",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "sorpriża",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "kwieta",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "ġebel",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "ċkejkna",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "tluq",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "jibred",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "disinn",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "foqra",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "lott",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "esperiment",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "qiegħ",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "ċavetta",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "ħadid",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "wieħed",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "stick",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "ċatt",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "għoxrin",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "ġilda",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "daħka",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "titkemmex",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "toqba",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "jaqbżu",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "baby",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "tmienja",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "raħal",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "jissodisfaw",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "għerq",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "jixtru",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "jgħollu",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "isolvu",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metall",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "jekk",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "timbotta",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "seba",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "paragrafu",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "tielet",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "għandhom",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "miżmuma",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "xagħar",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "jiddeskrivu",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "kok",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "art",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "jew",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "riżultat",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "burn",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "hill",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "sikur",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "qattus",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "seklu",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "jikkunsidraw",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "tip",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "liġi",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "daqsxejn",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "kosta",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopja",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "frażi",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "siekta",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "tall",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "ramel",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "ħamrija",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "romblu",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatura",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "finger",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "industrija",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "valur",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "ġlieda",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "jimteddu",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "taħbit",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "eċitati",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "naturali",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "fehma",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "sens",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "kapital",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "mhux se",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "president",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "periklu",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "frott",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "sinjuri",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "ħoxna",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "suldat",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "proċess",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "joperaw",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "prattika",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "separata",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "diffiċli",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "tabib",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "jekk jogħġbok",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "jipproteġu",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "nofsinhar",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "uċuħ tar-raba",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "modern",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "element",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "hit",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "istudent",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "kantuniera",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "parti",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "provvista",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "li",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "lokalizzar",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "ring",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "karattru",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "insetti",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "maqbuda",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "perjodu",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "jindikaw",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radju",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "Tkellem",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atomu",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "bniedem",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "istorja",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "effett",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elettriku",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "jistennew",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "għadam",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "ferrovija",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "jimmaġina",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "jipprovdu",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "jaqblu",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "b’hekk",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "ġentili",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "mara",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kaptan",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "raden",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "meħtieġ",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "sharp",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "ġwienaħ",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "joħolqu",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "proxxmu",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "aħsel",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "maġina",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "pjuttost",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "folla",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "qamħ",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "iqabblu",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "poeżija",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "sekwenza",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "qanpiena",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "jiddependu",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "laħam",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "Togħrokx",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "tubu",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "famuż",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dollaru",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "nixxiegħa",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "biża",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "vista",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "irqiq",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "trijanglu",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "pjaneta",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "hurry",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "kap",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "kolonja",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "arloġġ",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "minjiera",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "tie",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "jidħol",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "maġġuri",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "frisk",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "tfittxija",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "tibgħat",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "isfar",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "gun",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "jippermettu",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "istampar",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "mejta",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "post",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "deżert",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "libsa",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "attwali",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "lift",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "tela",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "jaslu",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "kaptan",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "binarju",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "ġenitur",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "shore",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "diviżjoni",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "folja",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "sustanza",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "favur",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "jgħaqqdu",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "wara",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "jonfqu",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "korda",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "xaħam",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "ferħan",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "oriġinali",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "sehem",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "istazzjon",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "dad",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "ħobż",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "ħlas",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "xierqa",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "offerta",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segment",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "slave",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "papra",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "instant",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "suq",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "grad",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "timla",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "flieles",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "għażiż",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "ghadu",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "risposta",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "xarba",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "jseħħu",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "appoġġ",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "diskors",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "natura",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "firxa",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "fwar",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "mozzjoni",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "triq",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "likwidu",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "log",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "fisser",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "kwozjent",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "snien",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "qoxra",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "għonq",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "ossiġnu",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "zokkor",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "mewt",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "pretty",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "ħiliet",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "nisa",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "istaġun",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "soluzzjoni",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "kalamita",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "fidda",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "nirringrazzja",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "fergħa",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "logħba",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "suffiss",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "speċjalment",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "fig",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "jibżgħu",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "enormi",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "sister",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "azzar",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "jiddiskutu",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "quddiem",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "simili",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "gwida",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "esperjenza",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "F’ħin",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "tuffieħ",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "mixtrija",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "wassal",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "żift",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "kowt",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "massa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "karta",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "band",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "ħabel",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "slip",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "win",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "ħolma",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "filgħaxija",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "kundizzjoni",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "għalf",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "għodda",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "total",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "bażiku",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "riħa",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "wied",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "lanqas",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "double",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "sedil",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "tkompli",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "blokk",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "grafika",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "kpiepel",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "jbiegħu",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "suċċess",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "kumpanija",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "naqqas",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "avveniment",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "partikolari",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "jittrattaw",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "jgħum",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "tul",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "oppost",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "mara",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "żarbun",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ispalla",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "tixrid",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "tirranġa",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "camp",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "nivvintaw",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "qoton",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Mwieled",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "jiddeterminaw",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "quart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "disa",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "trakk",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "istorbju",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "livell",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "ċans",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "jiġbru",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "shop",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "stretch",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "tarmi",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "shine",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "proprjetà",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "kolonna",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekula",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "tagħżel",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "ħażin",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "griż",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "irrepeti",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "jeħtieġu",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "wiesgħa",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "jippreparaw",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "melħ",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "imnieħer",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "plurali",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "rabja",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "pretensjoni",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontinent",
+      "englishWord": "continent"
+    }
+  ]
+}

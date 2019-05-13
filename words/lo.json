@@ -1,0 +1,5007 @@
+{
+  "languageCode": "lo",
+  "languageName": "Lao",
+  "languageNativeName": "ພາສາ",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "ເປັນ",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "ຂ້າພະເຈົ້າ",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "ລາວ",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ທີ່",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ລາວ",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "ນີ້ແມ່ນ",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "ສໍາລັບການ",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "ສຸດ",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "ແມ່ນ",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "ກັບ",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ພວກເຂົາເຈົ້າ",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "ຈະ",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "ຢູ່",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "ຫນຶ່ງ",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "ມີ",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "ນີ້",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "ຈາກ",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "ໂດຍ",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "ຮ້ອນ",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "ຄໍາ",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "ແຕ່ວ່າ",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "ສິ່ງທີ່",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "ບາງ",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "ແມ່ນ",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "ມັນ",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "ທ່ານ",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "ຫຼື",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "ໄດ້",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "ໄດ້",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "ຂອງ",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "ການທີ່ຈະ",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "ແລະ",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "ເປັນ",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "ໃນ",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "ພວກເຮົາ",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "ສາມາດເຮັດໄດ້",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ອອກ",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "ອື່ນໆ",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "ໄດ້",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "ທີ່",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "ເຮັດແນວໃດ",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "ຂອງເຂົາເຈົ້າ",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "ທີ່ໃຊ້ເວລາ",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "ຖ້າຫາກວ່າ",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "ຈະ",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "ວິທີການ",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "ກ່າວວ່າ",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "ເປັນ",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "ແຕ່ລະຄົນ",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "ບອກ",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "ບໍ່",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "ທີ່ກໍານົດໄວ້",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "ສາມ",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "ຕ້ອງການ",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "ອາກາດ",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "ດີ",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "ຍັງ",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "ຫຼິ້ນ",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "ຂະຫນາດນ້ອຍ",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "ໃນຕອນທ້າຍ",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "ເອົາໃຈໃສ່",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "ເຮືອນ",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "ອ່ານ",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "ມື",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "ທີ່",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "ຂະຫນາດໃຫຍ່",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "ການສະກົດຄໍາ",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "ເພີ່ມ",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "ເຖິງແມ່ນວ່າ",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "ທີ່ດິນ",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "ທີ່ນີ້",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "ຕ້ອງ",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "ໃຫຍ່",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "ສູງ",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "ເຊັ່ນ:",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "ປະຕິບັດຕາມ",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "ກົດຫມາຍວ່າດ້ວຍ",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "ເປັນຫຍັງ",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "ຖາມ",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "ຜູ້ຊາຍ",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "ການປ່ຽນແປງ",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "ໄດ້",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "ແສງສະຫວ່າງ",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "ປະເພດ",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "ໄປ",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "ຈໍາເປັນຕ້ອງໄດ້",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "ເຮືອນ",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "ຮູບ",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "ພະຍາຍາມ",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "ພວກເຮົາ",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "ອີກເທື່ອຫນຶ່ງ",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "ສັດ",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "ຈຸດ",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "ແມ່",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "ໂລກ",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "ຢູ່ໃກ້",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "ການກໍ່ສ້າງ",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "ຕົນເອງ",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "ແຜ່ນດິນໂລກ",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "ພໍ່",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "ໃດ",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "ໃຫມ່",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "ການເຮັດວຽກ",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "ສ່ວນ",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "ໃຊ້ເວລາ",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "ໄດ້ຮັບ",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "ສະຖານທີ່",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "ໄດ້",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "ດໍາລົງຊີວິດ",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "ບ່ອນທີ່",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "ຫຼັງຈາກ",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "ກັບຄືນໄປບ່ອນ",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "ພຽງເລັກນ້ອຍ",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "ພຽງແຕ່",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "ໄດ້ຕະຫຼອດ",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "ຜູ້ຊາຍ",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "ປີ",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "ມາ",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "ສະແດງໃຫ້ເຫັນ",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ທຸກ",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "ດີ",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "ຂ້າພະເຈົ້າ",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "ໃຫ້",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "ຂອງພວກເຮົາ",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "ພາຍໃຕ້ການ",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "ຊື່",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "ຫຼາຍ",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "ໂດຍຜ່ານການ",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "ພຽງແຕ່",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "ຮູບແບບ",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "ປະໂຫຍກ",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "ທີ່ຍິ່ງໃຫຍ່",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "ຄິດວ່າ",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "ເວົ້າ",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "ຊ່ວຍເຫຼືອ",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "ຕ່ໍາ",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "ເສັ້ນ",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "ຄວາມແຕກຕ່າງກັນ",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "ແລະເຮັດໃຫ້ການ",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "ສາເຫດ",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "ຫຼາຍ",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "ຫມາຍຄວາມວ່າ",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "ກ່ອນທີ່ຈະ",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "ການເຄື່ອນໄຫວ",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "ສິດ",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "ເດັກຜູ້ຊາຍ",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "ອາຍຸ",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "ເກີນໄປ",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "ດຽວກັນ",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ນາງ",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "ທັງຫມົດ",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "ມີ",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "ໃນເວລາທີ່",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "ເຖິງ",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "ການນໍາໃຊ້",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "ຂອງທ່ານ",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "ວິທີການ",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "ກ່ຽວກັບ",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "ຈໍານວນຫຼາຍ",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "ຫຼັງຈາກນັ້ນ",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "ໃຫ້ເຂົາເຈົ້າ",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "ຂຽນ",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "ຈະ",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "ເຊັ່ນ:",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "ສະນັ້ນ",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "ເຫຼົ່ານີ້",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ນາງ",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "ຍາວ",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "ເຮັດໃຫ້",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "ການທົດສອບ",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "ເບິ່ງ",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "ພຣະອົງ",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "ສອງ",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ມີ",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "ເບິ່ງ",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "ຫຼາຍ",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "ມື້",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "ສາມາດເຮັດໄດ້",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "ໄປ",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "ມາ",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "ໄດ້",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "ຈໍານວນ",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "ສຽງ",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ບໍ່ມີ",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "ຫຼາຍທີ່ສຸດ",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "ປະຊາຊົນ",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "ຂອງຂ້າພະເຈົ້າ",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "ໃນໄລຍະ",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "ຮູ້",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ນ້ໍາ",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "ກ່ວາ",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "ໂທ",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "ຄັ້ງທໍາອິດ",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "ຜູ້ທີ່",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "ອາດຈະ",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "ລົງ",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "ຂ້າງ",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "ໄດ້",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "ໃນປັດຈຸບັນ",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "ຊອກຫາ",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "ຫົວ",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "ຢືນ",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "ຂອງຕົນເອງ",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "ຫນ້າ",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "ຄວນ",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "ປະເທດ",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "ພົບ",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "ຄໍາຕອບ",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "ໂຮງຮຽນ",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "ການຂະຫຍາຍຕົວ",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "ການສຶກສາ",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "ຍັງ",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "ຮຽນຮູ້",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "ພືດ",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "ການປົກຫຸ້ມຂອງ",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "ອາຫານ",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "ແສງຕາເວັນ",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "ສີ່",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "ລະຫວ່າງ",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "ລັດ",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "ຮັກສາ",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "ຕາ",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "ບໍ່ເຄີຍ",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "ສຸດທ້າຍ",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "ໃຫ້",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "ຄິດວ່າ",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "ນະຄອນ",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "ເປັນໄມ້ຢືນຕົ້ນ",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "ກາ",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ການກະສິກໍາ",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "ຍາກ",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "ການເລີ່ມຕົ້ນ",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "ອາດຈະ",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "ເລື່ອງ",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "ເຫັນ",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "ໄກ",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "ທະເລ",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "ແຕ້ມ",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "ໄວ້",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "ທ້າຍ",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "ການດໍາເນີນງານ",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ເຮັດບໍ່ໄດ້",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "ໃນຂະນະທີ່",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "ຫນັງສືພິມ",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "ໃກ້ຊິດ",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "ໃນຕອນກາງຄືນ",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "ແທ້ຈິງ",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "ຊີວິດ",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "ບໍ່ຫຼາຍປານໃດ",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "ພາກເຫນືອ",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "ປື້ມບັນ",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "ປະຕິບັດການ",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "ໄດ້",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "ວິທະຍາສາດ",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "ກິນອາຫານ",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "ຫ້ອງການ",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "ຫມູ່ເພື່ອນ",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "ເລີ່ມຕົ້ນ",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ແນວຄວາມຄິດ",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ປາ",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "ພູ",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "ຢຸດເຊົາການ",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "ຄັ້ງ",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "ຖານ",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "ຍິນ",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ມ້າ",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "ການຕັດ",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "ໃຫ້ແນ່ໃຈວ່າ",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "ສັງເກດເບິ່ງ",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "ສີ",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "ໃບຫນ້າ",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "ໄມ້",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "ຕົ້ນຕໍ",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "ເປີດ",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "ເບິ່ງຄືວ່າ",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "ຮ່ວມກັນ",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "ຕໍ່ໄປ",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "ສີຂາວ",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "ເດັກນ້ອຍ",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "ເລີ່ມຕົ້ນ",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "ໄດ້ຮັບ",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "ຍ່າງ",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "ການຍົກຕົວຢ່າງ",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ຄວາມງ່າຍຂອງ",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "ເຈ້ຍ",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "ກຸ່ມ",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "ສະເຫມີໄປ",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "ດົນຕີ",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ຜູ້",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "ທັງສອງ",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "ເຄື່ອງຫມາຍ",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "ມັກ",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "ຈົດຫມາຍສະບັບ",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "ຈົນກ່ວາ",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "ໄມ",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "ນ້ໍາ",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "ລົດ",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "ຕີນ",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "ການດູແລ",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "ຄັ້ງທີສອງ",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "ພຽງພໍ",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "ທົ່ງພຽງ",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "ສາວ",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "ປົກກະຕິ",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "ຫນຸ່ມ",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "ພ້ອມ",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "ຂ້າງເທິງ",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "ເຄີຍ",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "ສີແດງ",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "ບັນຊີລາຍຊື່",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "ເຖິງແມ່ນວ່າ",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "ຄວາມຮູ້ສຶກ",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "ການສົນທະນາ",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "ນົກຊະນິດ",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "ໄວເທົ່າທີ່ຈະ",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "ຮ່າງກາຍ",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "ຫມາ",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "ຄອບຄົວ",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "ໂດຍກົງ",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "ສ້າງ",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "ອອກຈາກ",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "ເພງ",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "ການວັດແທກ",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "ປະຕູ",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "ຜະລິດຕະພັນ",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "ສີດໍາ",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "ສັ້ນ",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "ຈໍານວນຫລາຍ",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "ຫ້ອງຮຽນ",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "ພະລັງງານລົມ",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "ຄໍາຖາມ",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "ມີຫຍັງເກີດຂຶ້ນ",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "ສໍາເລັດສົມບູນ",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "ການຂົນສົ່ງ",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "ເຂດພື້ນທີ່",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "ເຄິ່ງຫນຶ່ງ",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "ຫີນ",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "ຄໍາສັ່ງ",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "ໄຟ",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "ເຂດພາກໃຕ້",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "ບັນຫາ",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "ສິ້ນ",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "ບອກ",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "ຮູ້",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "ຜ່ານ",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "ນັບຕັ້ງແຕ່",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "ທາງເທີງ",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "ທັງຫມົດ",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "ຄົນ",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "ຖະຫນົນຫົນທາງ",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "ນິ້ວ",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "ວີຜົນປະໂຫຍດ",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "ບໍ່ມີຫຍັງ",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "ແນ່ນອນ",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "ຢູ່",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "ຂັບລົດ",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "ຢ່າງເຕັມທີ່",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "ຜົນບັງຄັບໃຊ້",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "ສີຟ້າ",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "ຈຸດປະສົງ",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "ຕັດສິນໃຈ",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "ດ້ານ",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "ເລິກ",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "ວົງເດືອນ",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "ເກາະ",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "ຕີນ",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "ລະບົບ",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "ທຸລະກິດ",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "ການທົດສອບ",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "ການບັນທຶກ",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "ເຮືອ",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "ທົ່ວໄປ",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "ຄໍາ",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "ເປັນໄປໄດ້",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "ຍົນ",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "ສິ່ງທີ່ສາມາດນໍາກັບມາ",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "ແຫ້ງແລ້ງ",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "ສິ່ງມະຫັດ",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "ຫົວຫລິ້ນ",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "ພັນ",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "ກ່ອນຫນ້ານີ້",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "ໄດ້ແລ່ນ",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "ໃຫ້ກວດເບິ່ງ",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "ເກມ",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "ຮູບຮ່າງ",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "ເວັນອອກ",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "ຮ້ອນ",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "ພາດ",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "ໄດ້ນໍາເອົາ",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "ຄວາມຮ້ອນ",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "ຫິມະ",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "ເມື່ອຍ",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "ເອົາມາໃຫ້",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ແມ່ນແລ້ວ",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "ຫ່າງໄກ",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "ຕື່ມຂໍ້ມູນໃສ່",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "ພາກຕາເວັນອອກ",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "ທາສີ",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "ພາສາ",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "ໃນບັນດາ",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "ຫນ່ວຍບໍລິການ",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "ພະລັງງານ",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "ຕົວເມືອງ",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "ອັນດີງາມ",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "ສະເພາະໃດຫນຶ່ງ",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "ບິນ",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "ຕົກລົງ",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "ນໍາໄປສູ່ການ",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "ໄຫ້",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "ຊ້ໍາ",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "ເຄື່ອງ",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "ຫມາຍເຫດ",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "ລໍຖ້າ",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "ແຜນການ",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "ຮູບ",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "ດາວ",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "ຫມາຍໃສ່ໃນປ່ອງ",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "ພາສາ",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "ພາກສະຫນາມ",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "ສ່ວນທີ່ເຫຼືອ",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "ໄປ",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "ສາມາດ",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "ປອນກັບ",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "ເຮັດ",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "ຄວາມງາມ",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "ຂັບ",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "ໄດ້ຢືນຢູ່",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "ບັນຈຸ",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "ຫນ້າ",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "ສອນ",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "ອາທິດ",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "ສຸດທ້າຍ",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "ໃຫ້",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "ສີຂຽວ",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "ໂອ້ຍ",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "ໄວ",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "ການພັດທະນາ",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "ມະຫາສະຫມຸດ",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "ອົບອຸ່ນ",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "ອອນໄລນ",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "ນາທີ",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "ທີ່ເຂັ້ມແຂງ",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "ພິເສດ",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "ໃຈ",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "ຫລັງ",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "ຈະແຈ້ງ",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "ຫາງ",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "ຜະລິດຕະພັນ",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "ຄວາມຈິງ",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "ຊ່ອງ",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "ໄດ້ຍິນ",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "ທີ່ດີທີ່ສຸດ",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "ຊົ່ວໂມງ",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "ດີກວ່າ",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "ຄວາມຈິງ",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "ໃນລະຫວ່າງການ",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "ຮ້ອຍ",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "ຫ້າ",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "ຈື່",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "ຂັ້ນຕອນ",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "ຕົ້ນ",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "ຖື",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "ພາກຕາເວັນຕົກ",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "ດິນ",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "ມີຄວາມສົນໃຈ",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "ສາມາດບັນລຸ",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "ໄວ",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "ພາ",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "ຮ້ອງ",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "ຮັບຟັງ",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "ຫົກ",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "ຕາຕະລາງ",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "ການເດີນທາງ",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "ຫນ້ອຍ",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "ໃນຕອນເຊົ້າ",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "ສິບ",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "ງ່າຍດາຍ",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "ຫຼາຍ",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "ສະຫລະສຽງ",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "ໄປສູ່ການຕອບ",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "ສົງຄາມ",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "ການຈັດວາງ",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "ຕໍ່",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "ຮູບແບບ",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "ຊ້າ",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "ສູນກາງ",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "ຄວາມຮັກ",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "ບຸກຄົນ",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "ເງິນ",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "ບໍລິການ",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "ປະກົດວ່າ",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "ຖະຫນົນຫົນທາງ",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "ແຜນທີ່",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "ຝົນຕົກຫນັກ",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "ກົດລະບຽບ",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "ລັດຖະບານ",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "ດຶງ",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "ເຢັນ",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "ແຈ້ງການ",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "ສຽງ",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "ພະລັງງານ",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "ການລ່າສັດ",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "ອາດຈະ",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "ນອນ",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "ອ້າຍ",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ໄຂ່",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "ຂັບເຄື່ອນ",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "ຫ້ອງ",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "ເຊື່ອ",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "ບາງທີອາດມີ",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "ເອົາ",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "ຢ່າງກະທັນຫັນ",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "ນັບ",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "ມົນທົນ",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "ເຫດຜົນ",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "ຄວາມຍາວ",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "ເປັນຕົວແທນຂອງ",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "ສິນລະປະ",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "ວິຊາ",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "ພາກພື້ນ",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "ຂະຫນາດ",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "ແຕກຕ່າງກັນ",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "ແກ້ໄຂ",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "ເວົ້າ",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "ນ້ໍາ",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "ໂດຍທົ່ວໄປ",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "ກ້ອນ",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "ເລື່ອງ",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "ແຜ່ນປ້າຍວົງກົມ",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "ຄູ່",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "ປະກອບມີ",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "ແບ່ງ",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "ສູງສຸດ",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "ຮູ້ສຶກວ່າ",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "ຂອງປູ່",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "ບານ",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ທັນ",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "ຄື້ນ",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "ລົງ",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "ຫົວໃຈ",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "ເຈົ້າ",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "ປະຈຸບັນ",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "ຢ່າງຮຸນແຮງ",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "ການເຕັ້ນ",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "ເຄື່ອງຈັກ",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "ຕໍາແຫນ່ງ",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "ແຂນ",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "ກ້ວາງ",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "ປ່ອຍ",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "ອຸປະກອນການ",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "ແຕ່ສ່ວນຫນຶ່ງ,",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "ປ່າໄມ້",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "ນັ່ງ",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "ເຊື້ອຊາດ",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "ປ່ອງຢ້ຽມ",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "ຮ້ານ",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "ຮ້ອນ",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "ການຝຶກອົບຮົມ",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "ນອນ",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "ພິສູດ",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "ການ",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "ຂາ",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ອອກກໍາລັງກາຍ",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "ກໍາແພງ",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "ຈັບ",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "ຍັງພູ",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "ຕ້ອງການ",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "ເຄົ້າ",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "ຄະນະ",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "ຄວາມສຸກ",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "ລະດູຫນາວ",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "ແລ້ງ",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "ລາຍລັກອັກສອນ",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "ປ່າທໍາມະຊາດ",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "ເຄື່ອງມື",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "ເກັບຮັກສາໄວ້",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "ແກ້ວ",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "ຫຍ້າ",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "ງົວ",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "ວຽກເຮັດງານທໍາ",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "ແຂບ",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "ອາການ",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "ການຢ້ຽມຢາມ",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "ໄລຍະຜ່ານມາ",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "ອ່ອນຂອງປາ",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "ມ່ວນ",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "ສົດໃສ",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "ອາຍແກັສ",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "ດິນຟ້າອາກາດ",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "ເດືອນ",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "ລ້ານ",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "ຮັບຜິດຊອບ",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "ສໍາເລັດຮູບ",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "ມີຄວາມສຸກ",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "ຫວັງວ່າ",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "ດອກ",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "ເຄື່ອງນຸ່ງຫົ່ມ",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "ເປັ",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "ຫມົດ",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "ການຄ້າ",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "ໄວ້ເພື່ອ",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "ການເດີນທາງ",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "ຫ້ອງການ",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ໄດ້ຮັບ",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "ການຕິດຕໍ່ກັນ",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "ປາກ",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "ຄືກັນອ້ອຍຕ້ອຍ",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "ສັນຍາລັກ",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "ເສຍຊີວິດ",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "ຢ່າງຫນ້ອຍ",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "ບັນຫາໃນການ",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "ສຽງໂຮ່ຮ້ອງ",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "ຍົກເວັ້ນ",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "ຂຽນ",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "ເມັດພັນ",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "ໂຕນ",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "ເຂົ້າຮ່ວມ",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "ແນະນໍາ",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "ສະອາດ",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "ການພັກຜ່ອນ",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "ເປັນ",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "ເດີ່ນ",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "ເພີ່ມຂຶ້ນ",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "ບໍ່ດີ",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "ສ້າງຄວາມເສຍຫາຍ",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "ນ້ໍາ",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "ເລືອດ",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "ແຕະ",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "ເພີ່ມຂຶ້ນ",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "ເປີເຊັນ",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "ປະສົມ",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "ທີມງານ",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "ສາຍ",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "ຄ່າໃຊ້ຈ່າຍ",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "ການສູນເສຍ",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "ສີນ້ໍາ",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "ໃສ່",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "ການເຮັດສວນ",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "ເທົ່າທຽມກັນ",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "ສົ່ງ",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "ເລືອກ",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "ໄດ້ຫຼຸດລົງ",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "ເຫມາະ",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "ໄຫຼ",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "ຄວາມຍຸຕິທໍາ",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "ທະນາຄານ",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "ເກັບກໍາຂໍ້",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "ຊ່ວຍປະຢັດ",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "ການຄວບຄຸມ",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "ອັດຕານິຍົມ",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "ຫູ",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "ອື່ນ",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "ທີ່ຂ້ອນຂ້າງ",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "ຫັກ",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "ກໍລະນີ",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "ກາງ",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "ຂ້າ",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "ລູກຊາຍ",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "lake",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "ປັດຈຸບັນ",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "ຂະຫນາດ",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "ດັງ",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "ພາກຮຽນ",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "ສັງເກດເບິ່ງການ",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "ເດັກ",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "ຊື່",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "ພະຍັນຊະນະ",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "ປະເທດຊາດ",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "ການຄົ້ນຫາ",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "້ໍານົມ",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "ຄວາມໄວ",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "ວິທີການ",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "ອະໄວຍະວະ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "ຈ່າຍ",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "ອາຍຸສູງສຸດ",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "ພາກ",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "ລາຍລະອຽດ",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "ຟັງ",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "ແປກໃຈ",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "ງຽບ",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "ກ້ອນຫີນ",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "ຂະຫນາດນ້ອຍ",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "ຮູ້ສຶກເມື່ອຍ",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "ເຢັນ",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "ການອອກແບບ",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "ທຸກຍາກ",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "ຫຼາຍ",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "ການທົດລອງ",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "ທາງລຸ່ມ",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "ທີ່ສໍາຄັນ",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "ທາດເຫຼັກ",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "ດຽວ",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "ໄມ້",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "ຮາບພຽງຢູ່",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "ຊາວ",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "ຜິວຫນັງ",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "ຍິ້ມ",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "ເພີ່ມທະວີຂຶ້ນ",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "ຂຸມ",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "ເຕັ້ນໄປຫາ",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "ເດັກນ້ອຍ",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "ແປດ",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "ບ້ານ",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "ກອງປະຊຸມ",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "ຮາກ",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "ຊື້",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "ຍົກສູງບົດບາດ",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "ການແກ້ໄຂ",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "ໂລຫະ",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "ບໍ່ວ່າຈະເປັນ",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "ການຊຸກຍູ້",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "ເຈັດ",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "ວັກ",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "ທີສາມ",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "ຈະ",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "ຈັດຂຶ້ນໃນວັນ",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "ຜົມ",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "ອະທິບາຍ",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "ການຄົວກິນ",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "ຊັ້ນ",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "ບໍ່ວ່າຈະ",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "ຜົນໄດ້ຮັບ",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "ໄຫມ້",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "ພູ",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "ຄວາມປອດໄພ",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "ແລ້ງ",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "ສະຕະວັດທີ",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "ພິຈາລະນາ",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "ປະເພດ",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "ກົດຫມາຍ",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "ນ້ອຍ",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "ແຄມຝັ່ງທະເລ",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "ສໍາເນົາ",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "ປະໂຫຍກ",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "ງຽບ",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "ມ",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "ຊາຍ",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "ດິນ",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "ມ້ວນ",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "ອຸນຫະພູມ",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "ນິ້ວມືຂອງ",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "ອຸດສາຫະກໍາ",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "ມູນຄ່າ",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "ການຕໍ່ສູ້",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "ນອນ",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "ຫຼິ້ນໃຫ້ເກີນແມ່ນ",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "ຕື່ນເຕັ້ນ",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "ທໍາມະຊາດ",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "ເບິ່ງ",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "ຄວາມຮູ້ສຶກ",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "ນະຄອນຫຼວງ",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "ຈະບໍ່ໄດ້",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "ປະທານ",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "ອັນຕະລາຍ",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "ຫມາກໄມ້",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "ອຸດົມສົມບູນ",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": ", ເປືອກຫນາ",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "ສປປລ",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "ຂະບວນການ",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "ປະຕິບັດງານ",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "ການປະຕິບັດ",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "ແຍກຕ່າງຫາກ",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "ມີຄວາມຫຍຸ້ງຍາກ",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "ທ່ານຫມໍ",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "ກະລຸນາ",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "ປົກປັກຮັກສາ",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "ຕອນທ່ຽງ",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "ການປູກພືດ",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "ທີ່ທັນສະໄຫມ",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "ອົງປະກອບຂອງ",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "ມົນຕີ",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "ນັກສຶກສາ",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "ແຈ",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "ພັກ",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "ການສະຫນອງ",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "ທີ່",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "ສະຖານທີ່",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "ວົງ",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "ລັກສະນະ",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "ແມງໄມ້",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "ຈັບໄດ້",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "ໄລຍະເວລາ",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "ຊີ້ບອກ",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "ວິທະຍຸ",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "ໄດ້ເວົ້າເຖິງ",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "ປະລໍາມະນູ",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "ມະນຸດ",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "ປະຫວັດສາດ",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "ຜົນກະທົບ",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "ໄຟຟ້າ",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "ຄາດຫວັງວ່າການ",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "ກະດູກ",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "ລາງລົດໄຟ",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "ຈິນຕະນາການ",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ສະຫນອງການ",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "ຕົກລົງເຫັນດີ",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "ດັ່ງນັ້ນການ",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "ອ່ອນນ້ອມ",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "ແມ່ຍິງ",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "ນາຍເຮືອ",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "ຮີດ",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "ມີຄວາມຈໍາເປັນ",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "ແຫຼມ",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "ປີກ",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "ສ້າງ",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "ບ້ານໃກ້ເຮືອນຄຽງ",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "ການລ້າງ",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "ເຈຍ",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "ແທນທີ່ຈະ",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "ທີ່ແອອັດ",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "ສາລີ",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "ສົມທຽບ",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "ເດີ້",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "ຊ່ອຍແນ່",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "ລະຄັງ",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "ຂຶ້ນ",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "ຊີ້ນ",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "ຖູ",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "ທໍ່",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "ມີຊື່ສຽງ",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ເງິນໂດລາ",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "ນ້ໍາ",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "ຄວາມຢ້ານກົວ",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ສາຍຕາ",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "ບາງ",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "ສາມຫຼ່ຽມ",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "ດາວ",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "ໄດ້",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "ຫົວຫນ້າ",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "ກວ້າງ",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "ໂມງ",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "ຂຸດຄົ້ນບໍ່ແຮ່",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "ວັດ",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "ເຂົ້າ",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "ທີ່ສໍາຄັນ",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "ສົດ",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "ການຄົ້ນຫາ",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "ສົ່ງ",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "ສີເຫຼືອງ",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ປືນ",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "ອະນຸຍາດໃຫ້",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "ການພິມ",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "ການຕາຍ",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "ຈຸດ",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "ທະເລຊາຍ",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "ຊຸດ",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "ໃນປະຈຸບັນ",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "ຍົກ",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ເພີ່ມຂຶ້ນ",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "ມາຮອດ",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "ແມ່ບົດ",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "ການຕິດຕາມ",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "ພໍ່ແມ່",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "ແຄມຝັ່ງ",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "ພະແນກ",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "ເອກະສານ",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "ສານເສບຕິດ",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "ເອື້ອອໍານວຍ",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "ເຊື່ອມຕໍ່",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "ຕອບ",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "ໃຊ້ເວລາ",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "ການ",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "ໄຂມັນ",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "ດີໃຈ",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "ຕົ້ນສະບັບ",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "ຮຸ້ນ",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "ສະຖານີ",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "ພໍ່",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "ເຂົ້າຈີ່",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "ໄລ່ເອົາ",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "ທີ່ເຫມາະສົມ",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "ພາທະນາຍຄວາມ",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "ການສະເຫນີ",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "ຕອນ",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "ລອງ",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "ເປັດ",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "ຕົວ",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "ການຕະຫຼາດ",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "ລະດັບ",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "າລະນາ",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "ທັງຫລາຍ Chick",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "ຮັກແພງ",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "ສັດຕູ",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "ຕອບ",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "ເຄື່ອງດື່ມ",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "ເກີດຂຶ້ນ",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "ສະຫນັບສະຫນູນ",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "ປາກເວົ້າ, ຂີດ",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "ລັກສະນະ",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "ລະດັບ",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "ຄອມ",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "ການ",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "ເສັ້ນທາງ",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "ຂອງແຫຼວ",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "ເຂົ້າ",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "ຫມາຍຄວາມວ່າ",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "ປັດໄຈ",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "ແຂ້ວ",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "ຫອຍ",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "ຄໍ",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "ອົກຊີເຈນທີ່",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "້ໍາຕານ",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "ການເສຍຊີວິດ",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "ະເພາະແມ່ນ",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "ສີມືແຮງງານ",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "ແມ່ຍິງ",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "ລະດູການ",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "ການແກ້ໄຂ",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "ການສະກົດຈິດ",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "ເງິນ",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "ຂໍຂອບໃຈ",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "ສາຂາ",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "ຄໍາວ່າ",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "suffix",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "ໂດຍສະເພາະແມ່ນ",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "ຊາວ",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "ຄວາມຢ້ານກົວ",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ເປັ",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "ເອື້ອຍ",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "ເຫຼັກ",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ປຶກສາຫາລື",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "ຕໍ່",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "ທີ່ຄ້າຍຄືກັນ",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "ນໍາ",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "ປະສົບການ",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "ຄະແນນ",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "ຈາກຫນາກແອບເປີ",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "ຊື້",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "ການນໍາພາ",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "pitch",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "ເປືອກຫຸ້ມນອກ",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "ຕັ້ງມະຫາຊົນ",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "ບັດ",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "ແຖບ",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "ເຊືອກ",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "ຄວາມຜິດພາດພຽງ",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "ໄຊຊະນະ",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "ຝັນ",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "ຕອນແລງ",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "ສະພາບການ",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "ອາຫານ",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "ເຄື່ອງມື",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "ຈໍານວນທັງຫມົດ",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "ຂັ້ນພື້ນຖານ",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "ການມີກິ່ນຫອມ",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "ຮ່ອມພູ",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ຫຼື",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "ສອງ",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "ບ່ອນນັ່ງ",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "ສືບຕໍ່",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "ຕັນ",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "ຕາຕະລາງ",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "ຫລີກ",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "ຂາຍ",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "ຜົນສໍາເລັດ",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "ບໍລິສັດ",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "ການຫັກລົບ",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "ກໍລະນີທີ່",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "ໂດຍສະເພາະ",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "deal",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "ເນື້ອທີ່ເຫືອກ",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "ໃນໄລຍະ",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "ກົງກັນຂ້າມ",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "ພັນລະຍາຂອງ",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "ນາມ",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ບ່າ",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "ການແຜ່ກະຈາຍ",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "ຈັດ",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "ຄ້າຍ",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "ໄດ້ປັ້ນ",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "ຝ້າຍ",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "ເກີດ",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "ການກໍານົດ",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "ຂອງ",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "ເກົ້າ",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "ລົດ",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "ສິ່ງລົບກວນ",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "ລະດັບ",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "ໂອກາດ",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "ເກັບ",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "ບໍລິການຜ່ານ",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "ຍາວ",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "ຖິ້ມ",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "ຂອງ",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "ຊັບສົມບັດ",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "ຖັນ",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "ການ molecule",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "ເລືອກ",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "ຜິດພາດ",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "ສີຂີ້ເຖົ່າ",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ເຮັດເລື້ມຄືນ",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "ຮຽກຮ້ອງໃຫ້ມີ",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "ຢ່າງກວ້າງຂວາງ",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "ການກະກຽມ",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "ເກືອ",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "ດັງ",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "ສຽງ",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "ຄວາມໃຈຮ້າຍ",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "ການຮ້ອງຂໍ",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "ທະວີບ",
+      "englishWord": "continent"
+    }
+  ]
+}

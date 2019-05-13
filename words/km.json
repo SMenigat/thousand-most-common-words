@@ -1,0 +1,5007 @@
+{
+  "languageCode": "km",
+  "languageName": "Khmer",
+  "languageNativeName": "ខេមរភាសា",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "ដូចជា",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "ខ្ញុំ",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "របស់គាត់",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ថា",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "លោកបាន",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "គឺ",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "សម្រាប់",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "នៅលើ",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "មាន",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "ជាមួយនឹង",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ពួកគេ",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "ជាការ",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "នៅ",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "មួយ",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "មាន",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "នេះ",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "ពី",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "ដោយ",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "ក្តៅ",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "ពាក្យ",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "ប៉ុន្តែការ",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "អ្វីដែល",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "មួយចំនួន",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "គឺ",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "វា",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "អ្នក",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "ឬ",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "មាន",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "នេះ",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "នៃ",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "ដើម្បី",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "និង",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "មួយ",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "នៅក្នុង",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "យើង",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "អាច",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ចេញ",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "ផ្សេងទៀត",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "នាក់",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "ដែល",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "ធ្វើបាន",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "របស់ពួកគេ",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "ពេលវេលា",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "ប្រសិនបើ",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "នឹង",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "របៀប",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "និយាយថា:",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "មួយ",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "គ្នា",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "ប្រាប់",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "មិន",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "សំណុំ",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "បីនាក់",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "ចង់បាន",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "ខ្យល់",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "ល្អ",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "ក៏",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "លេង",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "តូច",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "ចុងបញ្ចប់",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "ដាក់",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "ផ្ទះ",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "អាន",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "ដៃ",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "កំពង់ផែ",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "ដែលមានទំហំធំ",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "អក្ខរាវិរុទ្ធ",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "បន្ថែម",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "សូម្បីតែ",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "ដី",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "នៅទីនេះ",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "ត្រូវ",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "ធំ",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "ខ្ពស់",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "ដូច",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "តាម",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "សកម្មភាព",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "ហេតុអ្វីបានជា",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "សួរ",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "បុរស",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "ការផ្លាស់ប្តូរ",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "បានទៅ",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "ពន្លឺ",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "ប្រភេទ",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "បិទ",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "ត្រូវការ",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "ផ្ទះ",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "រូបភាព",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "ព្យាយាម",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "ពួកយើង",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "ជាថ្មីម្តងទៀត",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "សត្វ",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "ចំណុច",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "ម្តាយ",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "ពិភពលោក",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "នៅក្បែរ",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "កសាង",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "ដោយខ្លួនឯង",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "ផែនដី",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "ឪពុក",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "ណាមួយឡើយ",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "ថ្មី",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "ការងារធ្វើ",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "ជាផ្នែកមួយ",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "យក",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "ទទួលបាន",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "កន្លែង",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "បានធ្វើ",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "រស់នៅ",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "ដែលជាកន្លែងដែល",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "បន្ទាប់ពី",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "ត្រឡប់មកវិញ",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "តិចតួច",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "តែមួយគត់",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "ជុំ",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "បុរសម្នាក់",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "កាលពីឆ្នាំ",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "បានមក",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "ការបង្ហាញ",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ជារៀងរាល់",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "ល្អ",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "រូបខ្ញុំ",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "ផ្តល់ឱ្យ",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "របស់យើង",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "ក្រោមការ",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "ឈ្មោះ",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "យ៉ាងខ្លាំង",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "តាមរយៈការ",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "គ្រាន់តែ",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "សំណុំបែបបទ",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "ការកាត់ទោស",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "ដ៏អស្ចារ្យ",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "គិត",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "និយាយ",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "ជួយ",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "ទាប",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "បន្ទាត់",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "ខុសគ្នា",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "វេន",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "មូលហេតុ",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "ច្រើន",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "មានន័យថា",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "មុនពេល",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "ការផ្លាស់ប្តូរ",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "សិទ្ធិ",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "ក្មេងប្រុសម្នាក់",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "អាយុ",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "ផងដែរ",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "ដូចគ្នា",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "នាងបាន",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "ទាំងអស់",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "នៅទីនោះ",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "ពេល",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "ឡើង",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "ប្រើ",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "របស់អ្នក",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "វិធី",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "អំពី",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "ជាច្រើន",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "បន្ទាប់មក",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "ពួកគេ",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "សរសេរ",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "នឹង",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "ដូចជា",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "ដូច្នេះ",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "ទាំងនេះ",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "របស់នាង",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "ជាយូរមកហើយ",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "ធ្វើឱ្យ",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "រឿង",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "សូមមើល",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "គាត់ថា",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "ពីរនាក់",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "មាន",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "មើល",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "ច្រើនទៀត",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "ថ្ងៃ",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "អាចធ្វើបាន",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "ចូលទៅ",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "មក",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "ធ្វើ",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "ចំនួន",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "សំឡេង",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "គ្មាន",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "ច្រើនបំផុត",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "មានមនុស្ស",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "របស់ខ្ញុំ",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "ជាង",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "ដឹង",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ទឹក",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "ជាង",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "ការហៅ",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "ជាលើកដំបូង",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "ដែល",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "អាច",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "ចុះ",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "ភាគីម្ខាង",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "បាន",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "ឥឡូវនេះ",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "ស្វែងរក",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "ក្បាល",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "ឈរ",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "ផ្ទាល់ខ្លួន",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "ទំព័រ",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "គួរ",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "ប្រទេស",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "បានរកឃើញ",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "ចម្លើយ",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "សាលារៀន",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "ការកើនឡើង",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "ការសិក្សា",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "នៅតែមាន",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "រៀន",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "រោងចក្រ",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "គម្រប",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "អាហារ",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "ព្រះអាទិត្យ",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "បួននាក់",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "រវាង",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "រដ្ឋ",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "រក្សា",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "ភ្នែក",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "មិនដែល",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "ចុងក្រោយ",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "អនុញ្ញាតឱ្យ",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "គិតថា",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "ទីក្រុង",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "ដើម",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "ឆ្លងកាត់",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "កសិដ្ឋាន",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "ការលំបាក",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "ការចាប់ផ្តើម",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "អាច",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "រឿង",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "ឃើញ",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "ឆ្ងាយ",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "សមុទ្រ",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "គូរ",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "ចាកចេញ",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "ចុង",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "ការរត់",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ធ្វើមិនបាន",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "ខណៈពេលដែល",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "សារពត៌មាន",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "ជិតស្និទ្ធ",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "យប់",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "ពិតប្រាកដ",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "ជីវិត",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "ប៉ុន្មាន",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "ភាគខាងជើង",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "សៀវភៅ",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "អនុវត្ត",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "បានយក",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "វិទ្យាសាស្រ្ត",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "បរិភោគ",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "បន្ទប់",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "មិត្តភក្តិ",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "ចាប់ផ្តើម",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "គំនិត",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ត្រី",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "ភ្នំ",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "បញ្ឈប់",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "ម្តង",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "មូលដ្ឋាន",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "ឮ",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "សេះ",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "កាត់",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "ប្រាកដថា",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "មើល",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "ពណ៌",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "មុខ",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "ឈើ",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "ដ៏សំខាន់",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "ការបើកចំហរ",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "ហាក់ដូចជា",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "រួមគ្នា",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "បន្ទាប់ទៀត",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "ពណ៌ស",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "កុមារ",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "ចាប់ផ្តើម",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "ទទួលបាន",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "ដើរ",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "ឧទាហរណ៏",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "បន្ធូរបន្ថយ",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "ក្រដាស",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "ក្រុម",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "តែងតែ",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "តន្ត្រី",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "អ្នកដែល",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "ទាំងពីរ",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "សញ្ញា",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "ជាញឹកញាប់",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "លិខិត",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "រហូតដល់",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "ម៉ា",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "ទឹកទន្លេ",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "រថយន្ត",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "ជើង",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "ការថែរក្សា",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "លើកទីពីរ",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "គ្រប់គ្រាន់",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "ធម្មតា",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "ក្មេងស្រី",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "ធម្មតា",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "វ័យក្មេង",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "ត្រៀមខ្លួនជាស្រេច",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "ខាងលើ",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "មិនធ្លាប់មាន",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "ពណ៌ក្រហម",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "បញ្ជី",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "ទោះបីជា",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "មានអារម្មណ៍ថា",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "ការពិភាក្សា",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "បក្សី",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "ឆាប់",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "រាងកាយ",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "ឆ្កែ",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "ក្រុមគ្រួសារ",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "ដោយផ្ទាល់",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "បង្ក",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "ទុកឱ្យ",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "បទចម្រៀង",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "វាស់",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "ទ្វារ",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "ផលិតផល",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "ពណ៌ខ្មៅ",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "ខ្លី",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "លេខ",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "ថ្នាក់",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "ខ្យល់",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "សំណួរ",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "កើតឡើង",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "ពេញលេញ",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "នាវា",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "តំបន់",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "ពាក់កណ្តាល",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "រ៉ុក",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "ការបញ្ជាទិញ",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "ភ្លើង",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "ភាគខាងត្បូង",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "បញ្ហា",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "ដុំ",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "បានប្រាប់",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "បានដឹងថា",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "ហុច",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "ចាប់តាំងពី",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "កំពូល",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "ទាំងមូល",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "ស្តេច",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "តាមផ្លូវ",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "អ៊ីញ",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "គុណ",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "គ្មានអ្វី",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "ពិតណាស់",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "ស្នាក់",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "កង់",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "ពេញលេញ",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "កម្លាំង",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "ខៀវ",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "វត្ថុ",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "សម្រេចចិត្ត",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "ផ្ទៃ",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "ជ្រៅ",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "ព្រះច័ន្ទ",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "កោះ",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "ជើង",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "ប្រព័ន្ធ",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "រវល់",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "ការធ្វើតេស្ត",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "កំណត់ត្រា",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "ទូក",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "ជារឿងធម្មតា",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "មាស",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "អាចធ្វើបាន",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "យន្តហោះ",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "ជំនួស",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "ស្ងួត",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "ឆ្ងល់",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "សើច",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "ពាន់នាក់",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "មុន",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "រត់",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "ពិនិត្យមើល",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "ការលេងហ្គេម",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "រូបរាង",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "ស្មើ",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "ក្តៅ",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "បាត់",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "នាំយក",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "កំដៅ",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "ព្រិល",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "សំបកកង់",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "នាំយក",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "បាទ",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "ឆ្ងាយ",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "បំពេញ",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "ខាងកើត",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "គូរ",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "ភាសា",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "ក្នុងចំណោម",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "អង្គភាព",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "អំណាច",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "ទីក្រុង",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "ការផាកពិន័យ",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "ជាក់លាក់",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "ការហោះហើរ",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "ធ្លាក់ចុះ",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "នាំ",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "យំ",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "ងងឹត",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "ម៉ាស៊ីន",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "ចំណាំ",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "រង់ចាំ",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "ផែនការ",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "តួលេខ",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "តារា",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "ប្រអប់",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "នាម",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "វាល",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "នៅសល់",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "ត្រឹមត្រូវ",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "អាច",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "ផោន",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "ធ្វើ",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "សម្រស់",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "ដ្រាយ",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "ឈរ",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "មាន",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "ផ្នែកខាងមុខ",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "បង្រៀន",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "សប្តាហ៍",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "ចុងក្រោយ",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "បានផ្ដល់ឱ្យ",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "ពណ៌បៃតង",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "អូ!",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "រហ័ស",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "ការអភិវឌ្ឍ",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "សមុទ្រ",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "ក្តៅ",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "ដោយឥតគិតថ្លៃ",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "នាទី",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "យ៉ាងខ្លាំង",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "ពិសេស",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "ចិត្ត",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "នៅពីក្រោយ",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "ច្បាស់លាស់",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "កន្ទុយ",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "ផលិត",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "ជាការពិត",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "ចន្លោះ",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "ឮ",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "ល្អបំផុត",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "ម៉ោង",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "កាន់តែប្រសើរឡើង",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "ជាការពិត",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "ក្នុងអំឡុងពេល",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "រយ",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "ប្រាំ",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "ចងចាំ",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "ជំហាន",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "ដើម",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "កាន់",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "ភាគខាងលិច",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "ដី",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "ការប្រាក់",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "ឈានដល់",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "មានល្បឿនលឿន",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "កិរិយាសព្ទ",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "ច្រៀង",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "ស្តាប់",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "ប្រាំមួយ",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "តារាង",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "ការធ្វើដំណើរ",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "តិច",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "ព្រឹក",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "ដប់",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "សាមញ្ញ",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "ជាច្រើន",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "ស្រៈ",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "ឆ្ពោះទៅកាន់",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "សង្រ្គាម",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "ដាក់",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "ប្រឆាំងនឹង",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "គំរូ",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "យឺត",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "កណ្តាល",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "ក្ដីស្រឡាញ់",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "មនុស្សម្នាក់",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "លុយ",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "បម្រើ",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "លេចឡើង",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "ផ្លូវ",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "ផែនទី",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "ភ្លៀង",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "ច្បាប់",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "គ្រប់គ្រង",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "ទាញ",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "ជំងឺផ្តាសាយ",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "សេចក្តីជូនដំណឹង",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "សំលេង",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "ថាមពល",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "ប្រមាញ់",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "ទំនង",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "គ្រែ",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "ប្អូនប្រុស",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ស៊ុត",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "ជិះ",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "កោសិកា",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "ជឿ",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "ប្រហែលជា",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "យក",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "រំពេច",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "រាប់",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "ការ៉េ",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "មូលហេតុ",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "ប្រវែង",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "តំណាង",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "សិល្បៈ",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "ប្រធានបទ",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "តំបន់",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "ទំហំ",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "ខុសគ្នា",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "ដោះស្រាយ",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "និយាយ",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "ទំងន់",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "ទូទៅ",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "ទឹកកក",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "បញ្ហា",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "រង្វង់",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "គូ",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "រួមបញ្ចូល",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "ចេក",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "ព្យាង្គ",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "មានអារម្មណ៍ថា",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "ធំ",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "បាល់",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "នៅឡើយទេ",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "រលក",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "ធ្លាក់ចុះ",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "បេះដូង",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "ព្រឹក",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "បច្ចុប្បន្ន",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "ធ្ងន់",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "ការរាំ",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "ម៉ាស៊ីន",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "ទីតាំង",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "ដៃ",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "ទូលាយ",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "បើកក្ដោង",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "សម្ភារៈ",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "ប្រភាគ",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "ព្រៃឈើ",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "អង្គុយ",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "ការប្រណាំង",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "បង្អួច",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "ហាង",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "នៅរដូវក្តៅ",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "រថភ្លើង",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "ការដេក",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "បង្ហាញ",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "តែ",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "ជើង",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ការធ្វើលំហាត់ប្រាណ",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "ជញ្ជាំង",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "ចាប់",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "ភ្នំ",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "មានបំណងចង់",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "មេឃ",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "ក្រុមប្រឹក្សាភិបាល",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "សេចក្ដីអំណរ",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "រដូវរងារ",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "រ៏",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "បានសរសេរ",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "ព្រៃ",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "ឧបករណ៍",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "រក្សាទុក",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "កញ្ចក់",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "ស្មៅ",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "គោ",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "ការងារ",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "គែម",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "សញ្ញា",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "ដំណើរទស្សនកិច្ច",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "អតីតកាល",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "ទន់",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "ភាពសប្បាយរីករាយ",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "ភ្លឺ",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "ឧស្ម័ន",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "អាកាសធាតុ",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "ខែ",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "លាននាក់",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "សូមថ្លែង",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "បញ្ចប់",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "រីករាយ",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "សង្ឃឹម",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "ផ្កា",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "ទំនុកបំរុង",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "ចម្លែក",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "បានយាងចាកចេញទៅ",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "ពាណិជ្ជកម្ម",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "បត",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "ការធ្វើដំណើរ",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "ការិយាល័",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ទទួលបាន",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "ជួរដេក",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "មាត់",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "ពិតប្រាកដ",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "និមិត្តសញ្ញា",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "ស្លាប់",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "យ៉ាងហោចណាស់",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "បញ្ហា",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "ការស្រែក",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "លើកលែងតែ",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "សរសេរ",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "ពូជ",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "សម្លេង",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "ចូលរួម",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "ផ្ដល់យោបល់",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "ស្អាត",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "សម្រាក",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "ស្ត្រី",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "ក្នុង yard",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "កើនឡើង",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "អាក្រក់",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "ខ្លែងហើរ",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "ប្រេង",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "ឈាម",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "ប៉ះ",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "បានកើនឡើង",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "រយ",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "លាយ",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "ក្រុមការងារ",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "លួស",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "ការចំណាយ",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "បាត់បង់",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "ត្នោត",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "ពាក់",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "សួន",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "ស្មើ",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "បានផ្ញើរ",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "ជ្រើសយក",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "បានធ្លាក់ចុះ",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "សម",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "ហូរ",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "យុត្តិធម៌",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "ធនាគារ",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "ប្រមូល",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "រក្សាទុក",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "ការត្រួតពិនិត្យ",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "ទសភាគ",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "ត្រចៀក",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "ផ្សេងទៀត",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "ជាការពិត",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "បាក់",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "ករណី",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "កណ្តាល",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "សម្លាប់",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "កូនប្រុស",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "បឹង",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "ពេល",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "ខ្នាត",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "ខ្លាំង",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "និទាឃរដូវ",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "សង្កេត",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "កូនក្មេង",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "ត្រង់",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "ព្យញ្ជនៈ",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "ប្រទេស",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "វចនានុក្រម",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "ទឹកដោះគោ",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "ល្បឿន",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "វិធីសាស្រ្ត",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "សរីរាង្គ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "បង់",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "អាយុ",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "ផ្នែក",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "សម្លៀកបំពាក់",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "ពពក",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "ការភ្ញាក់ផ្អើល",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "ស្ងាត់",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "ដុំថ្ម",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "តូច",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "ឡើង",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "ត្រជាក់",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "ការរចនា",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "ជនក្រីក្រ",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "ច្រើន",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "ពិសោធន៍",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "បាត",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "គន្លឹះ",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "ជាតិដែក",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "នៅលីវ",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "ឈើ",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "ផ្ទះល្វែង",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "ម្ភៃ",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "ស្បែក",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "ស្នាមញញឹម",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "ផ្នត់",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "រន្ធ",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "លោត",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "ទារក",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "ប្រាំបី",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "ភូមិ",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "ជួប",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "ជា root",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "ទិញ",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "បង្កើន",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "ដោះស្រាយ",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "ដែក",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "ថាតើ",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "ការជំរុញ",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "ចំនួនប្រាំពីរ",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "កថាខ័ណ្ឌ",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "ទីបី",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "នឹង",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "លើក",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "សក់",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "ពិពណ៌នា",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "ចំអិន",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "ជាន់",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "ទាំង",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "លទ្ធផល",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "ដុត",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "ភ្នំ",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "សុវត្ថភាព",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "ឆ្មា",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "សតវត្សរ៍",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "ពិចារណា",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "ប្រភេទ",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "ច្បាប់",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "បន្តិច",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "ឆ្នេរ",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "ច្បាប់ចម្លង",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "ឃ្លា",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "ស្ងៀម",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "កម្ពស់",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "ការបូមខ្សាច់",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "ដី",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "វិលជុំ",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "សីតុណ្ហាភាព",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "ម្រាមដៃ",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "ឧស្សាហកម្ម",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "តម្លៃ",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "ការប្រយុទ្ធ",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "កុហក",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "ផ្តួល",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "រំភើប",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "ធម្មជាតិ",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "ទិដ្ឋភាព",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "យល់",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "មូលធន",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "នឹងមិន",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "កៅអី",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "ះថាក់",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "ផ្លែឈើ",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "សំបូរបែប",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "ក្រាស់",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "ទាហាន",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "ដំណើរការ",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "ប្រតិបត្តិការ",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "ការអនុវត្តន៍",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "ដោយឡែក",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "ការលំបាក",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "គ្រូពេទ្យ",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "សូម",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "ការពារ",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "ថ្ងៃត្រង់",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "ដំណាំ",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "សម័យទំនើប",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "ធាតុ",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "បុក",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "សិស្ស",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "ជ្រុង",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "គណបក្ស",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "ការផ្គត់ផ្គង់",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "ដែល",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "ទីតាំង",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "ចិញ្ចៀន",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "តួអក្សរ",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "សត្វល្អិត",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "ចាប់បាន",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "អំឡុងពេល",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "បង្ហាញថា",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "វិទ្យុ",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "និយាយ",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "អាតូម",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "មនុស្ស",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "ប្រវត្តិសាស្រ្ត",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "ផលប៉ះពាល់",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "អគ្គិសនី",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "រំពឹងថានឹងមាន",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "ឆ្អឹង",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "ផ្លូវរថភ្លើង",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "ស្រមៃ",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ផ្តល់នូវការ",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "យល់ព្រម",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "ដូច្នេះ",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "សុភាពរាប",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "ស្រ្តីម្នាក់",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "ប្រធានក្រុម",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "ទាយ",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "ចាំបាច់",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "ស្រួច",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "ស្លាប",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "បង្កើត",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "អ្នកជិតខាង",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "លាងសមាត",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "ក្រុមហ៊ុនថ្នាំជក់",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "ជា",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "ហ្វូងមនុស្ស",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "ពោត",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "ប្រៀបធៀប",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "កំណាព្យ",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "ខ្សែអក្សរ",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "កណ្ដឹង",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "អាស្រ័យ",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "សាច់",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "លុប",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "បំពង់",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "ដ៏ល្បីល្បាញ",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ប្រាក់ដុល្លារ",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "ស្ទ្រីម",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "ការភ័យខ្លាច",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "មើលឃើញ",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "ស្តើង",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "ត្រីកោណ",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "ភពផែនដី",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "ប្រញាប់",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "ប្រធាន",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "អាណានិគម",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "នាឡិកា",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "អណ្តូងរ៉ែ",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "ស្មើ",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "ចូល",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "ដ៏សំខាន់មួយ",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "ស្រស់",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "ស្វែងរក",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "ផ្ញើ",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "លឿង",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "កាំភ្លើង",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "អនុញ្ញាតឱ្យ",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "បោះពុម្ព",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "ស្លាប់",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "កន្លែង",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "វាលខ្សាច់",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "ឈុត",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "បច្ចុប្បន្ន",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "ការលើក",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "បានកើនឡើង",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "មកដល់",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "មេ",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "បទ",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "មេ",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "ច្រាំង",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "ផ្នែក",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "សន្លឹក",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "សារធាតុ",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "អនុគ្រោះ",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "ការតភ្ជាប់",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "ក្រោយ",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "ចំណាយ",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "អង្កត់ធ្នូ",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "ជាតិខ្លាញ់",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "រីករាយ",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "ដើម",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "ចំណែក",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "ស្ថានីយ៍",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "ឪពុក",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "នំបុ័ង",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "សាក",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "បានត្រឹមត្រូវ",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "របារ",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "ការផ្តល់ជូន",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "ចម្រៀក",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "ទាសករ",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "ទា",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "បន្ទាន់",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "ទីផ្សារ",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "សញ្ញាប័ត្រ",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "ផ្ទុក",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "chick",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "ជាទីស្រឡាញ់",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "សត្រូវ",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "ឆ្លើយតប",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "ភេសជ្ជៈ",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "កើតមានឡើង",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "ការគាំទ្រ",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "សុន្ទរកថា",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "ធម្មជាតិ",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "ជួរ",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "ចំហាយ",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "ចលនា",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "ផ្លូវ",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "រាវ",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "ចូល",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "មានន័យថា",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "ផលចែក",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "ធ្មេញ",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "សែល",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "ក",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "អុកស៊ីសែន",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "ជាតិស្ករ",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "ការស្លាប់",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "ស្អាត",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "ជំនាញ",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "ស្ត្រី",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "រដូវកាល",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "ដំណោះស្រាយ",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "មេដែក",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "ប្រាក់",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "ថ្លែងអំណរគុណ",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "សាខា",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "ការប្រកួត",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "បច្ច័យ",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "ជាពិសេស",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "ល្វា",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "ខ្លាច",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ដ៏ធំ",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "បងស្រី",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "ដែកថែប",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ពិភាក្សា",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "ទៅមុខ",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "ស្រដៀងគ្នា",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "ណែនាំ",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "បទពិសោធន៏",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "ពិន្ទុ",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "ផ្លែប៉ោម",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "ទិញ",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "ដឹកនាំ",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "ទីលានប្រកួត",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "ថ្នាំកូត",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "ដ៏ធំ",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "កាត",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "ក្រុម",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "មិនទាន់មានច្បាប់ប្រឆាំង",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "ប័ណ្ណ",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "ជ័យជម្នះ",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "សុបិន្ត",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "ល្ងាច",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "លក្ខខណ្ឌ",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "មតិព័ត៌មាន",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "ឧបករណ៍",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "ចំនួនសរុប",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "មូលដ្ឋាន",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "ក្លិន",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "ជ្រលងភ្នំ",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ក៏មិនមែនជា",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "ពីរដង",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "កៅអី",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "បន្ត",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "ប្លុក",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "តារាង",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "មួក",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "លក់",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "ភាពជោគជ័យ",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "ក្រុមហ៊ុន",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "ដក",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "ព្រឹត្តិការណ៍",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "ពិសេស",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "កិច្ចព្រមព្រៀង",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "ហែលទឹក",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "រយៈពេល",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "ផ្ទុយ",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "ប្រពន្ធ",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "ស្បែកជើង",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ស្មា",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "ការរីករាលដាល",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "រៀបចំ",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "ជំរំ",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "ប្រឌិត",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "កប្បាស",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "កើត",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "កំណត់",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "quart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "ប្រាំបួន",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "ឡាន",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "សំលេងរំខាន",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "កម្រិត",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "ឱកាស",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "ប្រមូលផ្តុំ",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "ហាង",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "កំណាត់",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "បោះ",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "ចែងចាំង",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "ទ្រព្យសម្បត្ដិ",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "ជួរឈរ",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "ម៉ូលេគុល",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "ជ្រើស",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "ខុស",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "ពណ៌ប្រផេះ",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ម្តងទៀត",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "តម្រូវឱ្យមាន",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "ទូលំទូលាយ",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "រៀបចំ",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "អំបិល",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "ច្រមុះ",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "ពហុវចនៈ",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "កំហឹង",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "ពាក្យបណ្តឹង",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "ទ្វីប",
+      "englishWord": "continent"
+    }
+  ]
+}

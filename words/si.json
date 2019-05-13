@@ -1,0 +1,5007 @@
+{
+  "languageCode": "si",
+  "languageName": "Sinhala",
+  "languageNativeName": "සිංහල",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "ලෙස",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "මම",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "ඔහුගේ",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "බව",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ඔහු",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "විය",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "සඳහා",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "මත",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "ඇත",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "සමග",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ඔවුන්",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "විය",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "දී",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "එක්",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "ඇති",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "මෙම",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "සිට",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "විසින්",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "උණුසුම්",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "වචනය",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "නමුත්",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "කුමක් ද",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "සමහර",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "වේ",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "එය",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "ඔබ",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "හෝ",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "තිබූ",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "මෙම",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "පිළිබඳ",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "කිරීමට",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "හා",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "වූ",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "දී",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "අපි",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "පුළුවන්",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "පිටතට",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "වෙනත්",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "වූහ",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "වන",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "කරන්න",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "ඔවුන්ගේ",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "කාලය",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "නම්",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "ඇත",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "කොහොමද",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "පවසයි",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "ක",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "එක් එක්",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "කියන්න",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "කරන්නේ",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "කට්ටලය",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "තුනක්",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "අවශ්ය",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "ගුවන්",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "හොඳින්",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "ද",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "නාට්යයේ",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "කුඩා",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "අවසානය",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "Put",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "මුල් පිටුව",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "කියවන්න",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "අත",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "වරාය",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "විශාල",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "අක්ෂර වින්යාස",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "එකතු",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "පවා",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "ඉඩම්",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "මෙතැන",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "කල යුතු",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "විශාල",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "ඉහළ",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "එවැනි",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "අනුගමනය",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "පනත",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "ඇයි",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "අහන්න",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "මිනිසුන්",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "වෙනස්",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "ගිය",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "ආලෝකය",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "කාරුණික",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "කපා",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "අවශ්යතාව",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "නිවසක්",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "පින්තූරයක්",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "උත්සාහ",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "අපට",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "නැවත",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "සත්ව",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "පේදුරු",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "මව",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "ලෝකයේ",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "අසල",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "ඉදි",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "ස්වයං",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "පොළොව",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "පියා",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "ඕනෑම",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "නව",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "වැඩ",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "කොටසක්",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "ගත",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "ලබා",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "ස්ථානය",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "සිදු",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "සජීවී",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "එහිදී",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "පසු",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "ආපසු",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "කුඩා",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "පමණක්",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "වටයේ",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "මිනිසා",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "වසර",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "පැමිණි",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "පෙන්වන්න",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "සෑම",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "හොඳ",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "මට",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "දෙන්න",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "අපගේ",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "යටතේ",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "නම",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "ඉතා",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "හරහා",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "පමණක්",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "ආකෘති පත්රය",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "දඬුවම",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "මහා",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "හිතන්න",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "කියන්න",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "උදව්",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "අඩු",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "මාර්ගය",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "වෙනස්",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "අනෙක් අතට",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "හේතුව",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "බොහෝ",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "අදහස්",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "පෙර",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "පියවර",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "අයිතිය",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "පිරිමි ළමයා",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "පැරණි",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "ද",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "එම",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ඇය",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "සියලු",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "එතන",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "කවදා ද",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "දක්වා",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "භාවිතය",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "ඔබගේ",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "මාර්ගය",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "ගැන",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "බොහෝ",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "එවකට",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "ඔවුන්",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "ලියන්න",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "බවත්",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "වැනි",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "එසේ",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "මෙම",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ඇය",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "දිගු",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "කරන්න",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "දෙයක්",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "බලන්න",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "ඔහු",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "දෙකක්",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ඇත",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "බලන්න",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "තව",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "දින",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "හැකි",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "යන්න",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "පැමිණ",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "කළා",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "සංඛ්යාව",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "ශබ්ද",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "කිසිදු",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "බොහෝ",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "ජනතාව",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "මගේ",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "කට",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "දැන",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ජල",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "වඩා",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "ඇමතුම්",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "පළමු",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "කරන",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "හැකිය",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "වසා",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "පැත්ත",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "වී",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "දැන්",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "සොයා",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "හිස",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "ස්ථාවරය",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "ම",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "පිටුව",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "කළ යුත්තේ",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "රට",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "සොයා",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "පිළිතුර",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "පාසල්",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "වර්ධනය",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "අධ්යයනය",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "තවමත්",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "ඉගෙන",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "බලාගාරය",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "ආවරණය",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "ආහාර",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "හිරු",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "හතර",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "අතර",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "රාජ්ය",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "තබා",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "ඇස",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "කවදාවත්",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "පසුගිය",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "ඉඩ දෙන්න",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "කල්පනා",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "නගරය",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "ගසක්",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "හරස්",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ගොවිපල",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "වෙහෙස මහන්සි වී",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "ආරම්භයක්",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "සමහරවිට",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "කතාව",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "කියත්",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "දුර",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "මුහුදු",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "දිනුම් ඇදීම",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "වම්",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "අග",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "ලකුණු",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "නෑ",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "අතර",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "මාධ්ය",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "සමීප",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "රාත්රී",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "සැබෑ",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "ජීවිතය",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "කිහිපයක්",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "උතුරු",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "පොත",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "රැගෙන",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "ගත්",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "විද්යාව",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "කන්න",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "කාමරය",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "මිතුරා",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "ආරම්භ",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "අදහස",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "මාළු",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "කඳු",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "නවත්වන්න",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "වරක්",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "පදනම",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "සවන්",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "අශ්වයා",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "සැපයුම අත්හිටුවන",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "වග බලා ගන්න",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "වොච්",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "වර්ණ",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "මුහුණ",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "ලී",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "ප්රධාන",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "විවෘත",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "පෙනේ",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "එකට",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "ඊළඟ",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "සුදු",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "දරුවන්",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "ආරම්භය",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "වී",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "ඇවිදින්න",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "උදාහරණයක්",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "පහසුවෙන්",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "කඩදාසි",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "පිරිසක්",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "සෑම විටම",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "සංගීතය",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "එම",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "දෙකම",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "ලකුණ",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "බොහෝ විට",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "ලිපිය",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "දක්වා",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "සැතපුම්",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "ගඟ",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "මෝටර් රථ",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "අඩි",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "සත්කාර",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "දෙවන",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "ඇති",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "තැනිතලා",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "දැරිය",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "සුපුරුදු",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "තරුණ",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "සූදානම්",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "ඉහත",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "මෙතෙක්",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "රතු",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "ලැයිස්තුව",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "නමුත්",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "හිතෙනවා",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "සාකච්ඡාව",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "පක්ෂි",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "ඉක්මනින්",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "ශරීරය",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "බල්ලා",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "පවුලේ",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "සෘජු",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "මතු",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "නිවාඩු",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "ගීතය",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "පියවරක්",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "දොර",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "නිෂ්පාදන",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "කළු",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "කෙටි",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "ඉලක්කම",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "පන්ති",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "සුළං",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "ප්රශ්නය",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "සිදු",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "සම්පූර්ණ",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "නෞකාව",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "ප්රදේශයේ",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "අර්ධ",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "ගල්",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "නියෝගයක්",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "ගිනි",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "දකුණු",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "ප්රශ්නය",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "කෑල්ලක්",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "පවසා",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "දැන",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "සාමාර්ථයක්",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "සිට",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "ඉහළ",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "මුළු",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "රජු",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "වීදි",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "අඟල්",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "ගුණ",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "කිසිවක්",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "පාඨමාලාව",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "ඉන්න",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "රෝද",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "පූර්ණ",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "බලය",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "නිල්",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "වස්තුව",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "තීරණය",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "මතුපිට",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "ගැඹුරු",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "සඳ",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "දිවයින",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "අඩි",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "පද්ධතිය",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "කාර්යබහුල",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "ටෙස්ට්",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "වාර්තා",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "බෝට්ටු",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "පොදු",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "රන්",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "හැකි",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "තලය",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "වෙනුවට",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "වියළි",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "පුදුමයක්",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "සිනහ",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "දහසක්",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "පෙර",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "රන්",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "චෙක්පත",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "ක්රීඩාව",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "හැඩය",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "සමාන",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "උණුසුම්",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "මම ඔයාට ආදරේ",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "ගෙන එන",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "තාපය",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "හිම",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "ටයර්",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "ගෙන ඒමට",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ඔව්",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "ඈත",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "පිරවීම",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "නැගෙනහිර",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "තීන්ත",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "භාෂාව",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "අතර",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "ඒකකය",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "බලය",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "නගරයේ",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "දඩ",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "ඇතැම්",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "පියාසර තහනම්",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "වැටීම",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "පෙරමුණ",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "ගැස්මට",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "අඳුරු",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "යන්ත්රය",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "සටහන",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "ඉන්න",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "සැලැස්ම",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "චරිතයක්",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "තරු",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "කොටුව",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "නාම පදයක්",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "ක්ෂේත්රයේ",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "ඉතිරි",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "නිවැරදි",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "හැකි",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "රාත්තල්",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "සිදු",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "රූපලාවන්ය",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "තැටිය",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "සිටගෙන",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "අඩංගු",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "ඉදිරිපස",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "ඉගැන්වීමට",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "සතියේ",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "අවසන්",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "දුන්",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "හරිත",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "අයියෝ",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "ඉක්මන්",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "සංවර්ධනය",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "සාගර",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "උණුසුම්",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "නිදහස්",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "විනාඩි",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "ශක්තිමත්",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "විශේෂ",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "මනස",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "පිටුපස",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "පැහැදිලි",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "වලිගය",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "නිපැයුම",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "ඇත්ත",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "අවකාශය",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "අසා",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "හොඳම",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "පැය",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "වඩා හොඳ",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "සැබෑ",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "තුළ",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "සියයක්",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "පස්",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "මතක තබා",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "පියවර",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "මුල්",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "පැවැත්වීමට",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "බටහිර",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "බිම",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "පොලී",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "ළඟා",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "වේගයෙන්",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "ක්රියා පදයෙන්",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "ගී ගයන්න",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "සවන්",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "හය",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "වගුව",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "සංචාරක",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "අඩු",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "අද උදෑසන",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "දස",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "සරල",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "කිහිපයක්",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "ස්වර",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "දෙසට",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "යුද්ධය",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "ගිහි",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "එරෙහිව",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "රටාව",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "මන්දගාමී",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "මධ්යස්ථානයක්",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "ආදරය",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "පුද්ගලයා",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "මුදල්",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "සේවය",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "පෙනී",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "මාර්ග",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "සිතියම",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "වැසි",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "පාලනය",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "පාලනය",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "අදින්න",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "සීතල",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "දැනුම් දීමකින්",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "හඬ",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "බලශක්ති",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "දඩයම",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "අනුමාන",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "ඇඳ",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "සහෝදරයා",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "බිත්තර",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "සවාරියක් යෑමේ",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "සෛල",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "විශ්වාස",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "සමහර විට",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "පික්",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "හදිසි",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "ගණන්",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "වර්ග",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "හේතුව",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "දිග",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "නියෝජනය",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "කලා",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "විෂය",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "කලාපයේ",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "විශාලත්වය",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "වෙනස් විය",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "පදිංචි",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "කතා",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "සිරුරේ බර",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "පොදු",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "අයිස්",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "කාරණය",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "රවුම",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "යුගල",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "ඇතුළත්",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "බෙදීම්",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "Syllable",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "දැනුණේ",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "මහා",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "ක්රීඞා",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "තවමත්",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "රැල්ල",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "පහත",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "හදවත",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "වර්තමාන",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "බර",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "නැටුම්",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "එන්ජිම",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "තත්ත්වය",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "අත",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "පුරා",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "රුවල්",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "ද්රව්ය",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "භාගය",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "වනාන්තර",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "වාඩි",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "ජාතිය",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "කවුළුව",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "ගබඩා",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "ගිම්හාන",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "දුම්රිය",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "නින්ද",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "ඔප්පු",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "තනි වූ",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "කකුලක්",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ව්යායාම",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "වෝල්",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "අතට උඩ පන්දුවක්",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "කන්ද",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "ප්රාර්ථනය",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "අහස",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "මණ්ඩලය",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "ප්රීතිය",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "ශීත",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "සෙන",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "ලිඛිත",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "වල්",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "මෙවලමක්",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "තබා",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "වීදුරු",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "තෘණ",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "ගව",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "රැකියා",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "වෝටර්ස් එජ්",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "ලකුණක්",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "සංචාරය",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "පසුගිය",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "මෘදු",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "විනෝද",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "දීප්තිමත්",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "ගෑස්",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "කාලගුණය",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "මාසය",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "මිලියන",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "වලසා",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "නිමි",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "සතුටු",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "බලාපොරොත්තුව",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "මල්",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "ඇදුම්",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "අමුතු",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "ගිහින්",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "වෘත්තීය",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "තනු නිර්මාණය",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "චාරිකාව",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "කාර්යාලය",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "හිමි",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "පේළි",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "මුඛයෙන්",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "හරියටම",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "සංකේතය",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "මිය",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "අවම වශයෙන්",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "කරදර",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "ඝෝෂා කරනවා",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "හැර",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "මෙසේ ලිවීය",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "බීජ",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "ස්වරය",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "එක්වන",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "යෝජනා",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "පිරිසිදු",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "විවේකයක්",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "කාන්තාව",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "අංගනයක්",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "නැගීම",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "නරක",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "පහරක්",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "තෙල්",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "ලේ",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "ස්පර්ශ",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "වර්ධනය වී",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "සියයට",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "මිශ්ර",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "කණ්ඩායම",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "කම්බි",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "පිරිවැය",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "අහිමි",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "දුඹුරු",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "ඇඳීමට",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "වත්ත",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "සමාන",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "එවා",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "තෝරා",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "රැයකින්",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "සුදුසු",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "ප්රවාහය",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "සාධාරණ",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "බැංකු",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "එකතු",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "බේරා",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "පාලනය",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "දශම",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "කණ",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "වෙන",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "තරමක්",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "කඩා",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "නඩුව",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "මධ්යම",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "මරා",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "පුතා",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "විල",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "මොහොතක්",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "පරිමාණ",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "ශබ්ද විකාශන යන්ත්ර",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "වසන්ත",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "නිරීක්ෂණය",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "ළමා",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "කෙලින්ම",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "යෙදෙන ව්යාංජනාක්ෂර",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "ජාතිය",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "ශබ්ද කෝෂය",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "කිරි",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "වේගය",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "ක්රමය",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "ඉන්ද්රිය",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "වැටුප්",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "වයස අවුරුදු",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "කොටස",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "ඇඳුම",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "වලාකුළක්",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "පුදුම",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "නිහඬව",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "ගල්",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "ඉතා කුඩා",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "ක්ලයිම්බ්",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "සිසිල්",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "නිර්මාණ",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "දුප්පත්",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "ගොඩක්",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "අත්හදා බැලීම",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "පහළ",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "ප්රධාන",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "යකඩ",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "තනි",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "කෙවිටේ",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "පැතලි",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "විසි",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "සම",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "සිනහව",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "තණතීරුව",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "කුහරය",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "වෙත පනින්න",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "බබා",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "අට",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "ගමේ",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "තරග",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "මූල",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "මිලදී",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "මතු",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "විසඳීමට",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "ලෝහ",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "යන්න",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "තල්ලු කරනවා",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "හත",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "ඡේදය",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "තුන්වන",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "යුතුය",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "පැවති",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "කෙස්",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "විස්තර",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "කුක්",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "බිම",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "එක්කෝ",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "ප්රතිඵලය",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "පිළිස්සුම්",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "කඳු",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "ආරක්ෂිත",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "බළලා",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "සියවසේ",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "සලකා",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "වර්ගය",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "නීතිය",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "ටිකක්",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "වෙරළ",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "පිටපතක්",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "වැකිය",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "නිහඬ",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "උස",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "වැලි",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "පස",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "රෝල්",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "උෂ්ණත්වය",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "ඇඟිල්ල",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "කර්මාන්තය",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "වටිනාකම",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "සටන",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "බොරුවක්",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "ගුටි",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "උද්දීපනය",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "ස්වාභාවික",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "දැක්ම",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "හැඟීමක්",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "ප්රාග්ධන",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "නෑ",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "පුටුවක්",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "අනතුර",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "පළතුරු",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "පොහොසත්",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "ඝන",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "යුද හමුදා සෙබලෙකු",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "ක්රියාවලිය",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "ක්රියාත්මක",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "ප්රායෝගික",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "වෙනම",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "දුෂ්කර",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "වෛද්යවරයා",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "කරුණාකර",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "ආරක්ෂා",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "දහවල්",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "බෝග",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "නවීන",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "මූලද්රව්යය",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "ඝාතකයා",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "ශිෂ්ය",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "කෙළවරේ",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "පක්ෂ",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "සැපයුම",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "කාගේ",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "සොයා",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "මුද්ද",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "චරිත",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "කෘමි",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "අල්ලා",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "කාලය",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "සඳහන්",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "ගුවන් විදුලි",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "කථා",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "පරමාණුවක්",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "මානව",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "ඉතිහාසය",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "ක්රියාත්මක",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "විදුලි",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "බලාපොරොත්තු",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "අස්ථි",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "දුම්රිය",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "හිතාගන්න",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ලබා",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "එකඟ",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "මෙසේ",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "මෘදු",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "කාන්තාව",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "නායක",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "අනුමානය",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "අවශ්ය",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "තියුණු",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "වාමාංශික",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "නිර්මාණය",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "අසල්වැසියා",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "වොෂ්",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "පන්දුවට පහර දුන්",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "ඒ වෙනුවට",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "සමූහයා",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "ඉරිඟු",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "සංසන්දනය",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "කවිය",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "සංගීත",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "සීනුව",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "රඳා පවතී",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "මස්",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "එතැනයි",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "නළ",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "ප්රසිද්ධ",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ඩොලර්",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "විෂය ධාරාව",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "බිය",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "පෙනීම",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "සිහින්",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "ත්රිකෝණය",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "ග්රහ",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "කඩිමුඩියේ",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "ප්රධාන",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "යටත් විජිතයක්",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "ඔරලෝසුව",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "බිම් බෝම්බ",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "ටයි පටියක්",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "ඇතුළු",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "ප්රධාන",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "නැවුම්",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "සොයන්න",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "එවන",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "කහ",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "තුවක්කුවක්",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "ඉඩ",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "මුද්රණය",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "මිය ගිය",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "ස්ථානයේදීම",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "කාන්තාර",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "ඇඳුම",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "වත්මන්",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "විදුලි සෝපානය",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "රෝස",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "පැමිණීමට",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "ස්වාමියා",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "මාර්ගය",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "මව්",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "වෙරළ",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "අංශය",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "පත්රය",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "ද්රව්යයක්",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "පක්ෂව",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "සම්බන්ධ",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "පශ්චාත්",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "වැය",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "හැඟීම් ඇවිස්සුවේ",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "මේදය",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "සතුටු",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "මුල්",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "කොටස",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "ස්ථානය",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "තාත්තා",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "පාන්",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "භාර",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "නිසි",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "තීරුව",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "ඉල්ලුමට",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "කොටස",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "වහල්",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "තාරාවා",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "ක්ෂණික",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "වෙළෙඳපොළ",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "උපාධිය",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "පිරවිය",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "කෑල්ල",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "ආදරණීය",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "සතුරා",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "පිළිතුරු",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "බීම",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "සිදු",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "සහාය",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "කතාව",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "ස්වභාවය",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "පරාසයක",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "වාෂ්ප",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "යෝජනාව",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "මාර්ගය",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "දියර",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "ලඝු-සටහන",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "අදහස්",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "ලබ්ධිය",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "දත්",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "ෂෙල්",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "ගෙල",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "ඔක්සිජන්",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "සීනි",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "මරණය",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "ලස්සන",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "නිපුණතා",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "කාන්තාවන්",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "කන්නයේ",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "විසඳුමක්",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "චුම්භකයක්",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "රිදී",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "ස්තුති",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "ශාඛා",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "තරගය",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "ෙපර ෙයදුම",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "විශේෂයෙන්",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "රූපය",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "බිය",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "විශාල",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "සහෝදරිය",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "වානේ",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "සාකච්ඡා",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "ඉදිරියට",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "සමාන",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "Guide",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "අත්දැකීම්",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "ස්කෝර්",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "ඇපල්",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "මිලදී ගත්",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "led",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "තණතීරුව",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "කබාය",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "මහා",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "කාඩ්",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "සංගීත කණ්ඩායම",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "කඹය",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "ස්ලිප්",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "ජය",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "සිහිනය",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "සවස",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "තත්ත්වය",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "ආහාර",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "මෙවලමක්",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "මුළු",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "මූලික",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "සුවඳ",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "නිම්නය",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "වත්,",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "ද්විත්ව",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "ආසන",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "දිගටම",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "දරන ඉඩම් ෙකොටස්ෙලස ෙපන්නුම් ෙකොට ඇත්තා",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "සටහන",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "තොප්පිය",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "විකුණා",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "සාර්ථකත්වය",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "සමාගම",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "අඩු",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "උත්සවය",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "විශේෂයෙන්",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "ගනුදෙනුව",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "පිහිනීම",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "කාලීන",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "ප්රතිවිරුද්ධ",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "බිරිඳ",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "සපත්තු",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "උරහිස්",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "පැතිරීම",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "සූදානම්",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "කඳවුරේ",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "නිර්මාණය",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "කපු",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "උපත",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "තීරණය",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "නැළියකට විකිණීම",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "නවය",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "ට්රක් රථ",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "ශබ්ද",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "මට්ටමින්",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "අවස්ථාවක්",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "රැස්",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "වෙළඳ සැලක්",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "දුර",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "විසි",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "ඔප දමන",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "දේපල",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "තීරුව",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "අණුවක්",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "තෝරා",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "වැරදි",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "අළු",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "නැවත",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "අවශ්ය",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "පුළුල්",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "සූදානම්",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "ලුණු",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "නාසය",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "බහු වචන",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "කෝපය",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "හිමිකම",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "මහාද්වීපය",
+      "englishWord": "continent"
+    }
+  ]
+}

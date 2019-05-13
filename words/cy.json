@@ -1,0 +1,5007 @@
+{
+  "languageCode": "cy",
+  "languageName": "Welsh",
+  "languageNativeName": "Cymraeg",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "fel",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "Yr wyf yn",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "ei",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "bod",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ef",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "oedd",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "gyfer",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "ar",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "yn",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "gyda",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "maent",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "fod yn",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "yn",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "un",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "wedi",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "hwn",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "o",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "gan",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "poeth",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "gair",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "ond",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "beth",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "rhai",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "yw",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "mae’n",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "chi",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "neu",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "Roedd gan",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "â’r",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "yr",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "i’r",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "a’r",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "mae",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "yn",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "rydym",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "gall",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "allan",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "arall",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "Roedd",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "sy’n",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "wneud",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "eu",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "amser",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "os",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "bydd",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "sut",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "Dywedodd",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "mae",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "pob un",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "dweud",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "gwneud",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "set",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "tri",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "eisiau",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "aer",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "yn dda",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "hefyd",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "chwarae",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "bach",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "pen",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "rhoi",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "cartref",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "darllen",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "llaw",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "porthladd",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "mawr",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "sillafu",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "ychwanegu",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "hyd yn oed",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "tir",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "yma",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "rhaid",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "mawr",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "uchel",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "fath",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "dilyn",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "gweithredu",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "pam",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "gofyn",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "dynion",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "newid",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "aeth",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "golau",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "fath",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "off",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "angen",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "tŷ",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "llun",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "ceisiwch",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "ni",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "eto",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "anifail",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "pwynt",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "mam",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "byd",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "ger",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "adeiladu",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "hunan",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "ddaear",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "tad",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "unrhyw",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "newydd",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "gwaith",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "rhan",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "cymryd",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "cael",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "lle",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "wnaed",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "byw",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "lle",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "ar ôl",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "yn ôl",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "bach",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "yn unig",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "rownd",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "dyn",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "flwyddyn",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "Daeth",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "sioe",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "bob",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "dda",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "mi",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "rhoi",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "ein",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "o dan",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "enw",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "iawn",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "trwy",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "yn unig",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "ffurflen",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "dedfryd",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "mawr",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "meddwl",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "dweud",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "helpu",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "isel",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "llinell",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "yn wahanol",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "dro",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "achos",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "llawer",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "golygu",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "cyn",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "symud",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "hawl",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "bachgen",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "oed",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "rhy",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "un fath",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "hi",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "gyd",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "yno",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "pan",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "i fyny",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "defnydd",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "eich",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "ffordd",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "tua",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "llawer",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "yna,",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "nhw",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "ysgrifennu",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "byddai",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "hoffi",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "felly",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "rhain",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "hi",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "hir",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "gwneud",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "beth",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "gweld",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "iddo",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "dau",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "Mae gan",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "edrych",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "mwy",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "diwrnod",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "gallai",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "fynd",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "dod",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "wnaeth",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "rhif",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "sain",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "dim",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "y rhan fwyaf",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "pobl",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "fy",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "dros",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "gwybod",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "dŵr",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "nag",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "alwad",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "yn gyntaf",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "pwy",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "gall",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "i lawr",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "ochr",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "bod",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "awr",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "dod o hyd i",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "pen",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "sefyll",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "eu hunain",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "dudalen",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "Dylai",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "gwlad",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "dod o hyd i",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "ateb",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "ysgol",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "tyfu",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "astudiaeth",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "dal",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "dysgu",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "planhigion",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "clawr",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "bwyd",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "haul",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "pedwar",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "rhwng",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "cyflwr",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "cadw",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "llygad",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "byth",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "diwethaf",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "gadewch",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "meddwl",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "ddinas",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "goeden",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "croesi",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "fferm",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "caled",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "cychwyn",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "allai",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "stori",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "welodd",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "yn hyn",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "môr",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "tynnu",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "Gadawodd",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "hwyr",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "rhedeg",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "peidiwch â",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "tra",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "wasg",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "agos",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "nos",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "go iawn",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "bywyd",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "ychydig",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "gogledd",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "llyfr",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "cario",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "cymerodd",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "gwyddoniaeth",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "bwyta",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "ystafell",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "ffrind",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "dechreuodd",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "syniad",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "pysgod",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "mynydd",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "rhoi’r gorau i",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "unwaith",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "sylfaen",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "clywed",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ceffyl",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "torri",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "siwr",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "gwylio",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "lliw",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "wyneb",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "pren",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "prif",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "agored",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "ymddangos",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "gyda’i gilydd",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "nesaf",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "gwyn",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "plant",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "dechrau",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "got",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "cerdded",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "enghraifft",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "leddfu",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "papur",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "grŵp",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "bob amser",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "cerddoriaeth",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "y rhai",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "ddau",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "marc",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "yn aml",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "llythyr",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "nes",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "milltir",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "afon",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "car",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "traed",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "gofal",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "yn ail",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "ddigon",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "plaen",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "merch",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "arferol",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "ifanc",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "barod",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "uchod",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "erioed",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "coch",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "rhestr",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "er bod",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "teimlo",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "sgwrs",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "adar",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "yn fuan",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "corff",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "ci",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "teulu",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "uniongyrchol",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "peri",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "gadael",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "cân",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "mesur",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "drws",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "cynnyrch",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "du",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "byr",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "rhifolyn",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "dosbarth",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "gwynt",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "cwestiwn",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "yn digwydd",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "cwblhau",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "llong",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "ardal",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "hanner",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "graig",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "gorchymyn",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "tân",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "de",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problem",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "darn",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "gwybod",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "gwybod",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "pasio",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "ers",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "top",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "cyfan",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "brenin",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "stryd",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "modfedd",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "lluosi",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "dim byd",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "cwrs",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "aros",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "olwyn",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "llawn",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "grym",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "glas",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "gwrthrych",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "penderfynu",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "wyneb",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "dwfn",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "lleuad",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "ynys",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "droed",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "system",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "brysur",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "prawf",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "cofnod",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "cwch",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "gyffredin",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "aur",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "bosibl",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "awyren",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "le ef",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "sych",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "Tybed",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "chwerthin",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "mil",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "yn ôl",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "rhedodd",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "gwirio",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "gêm",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "siâp",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "cyfateb",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "poeth",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "dwyn",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "gwres",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "eira",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "teiars",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "dod â",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ie",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "bell",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "llenwi",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "ddwyrain",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "paent",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "iaith",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "ymhlith",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "uned",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "pŵer",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "dref",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "dirwy",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "penodol",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "hedfan",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "disgyn",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "arwain",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "crio",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "tywyll",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "peiriant",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "nodyn",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "aros",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "cynllun",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "ffigur",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "seren",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "blwch",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "enw",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "maes",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "gorffwys",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "gywir",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "gallu",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "punt",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "Da",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "harddwch",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "gyriant",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "sefyll",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "cynnwys",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "blaen",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "dysgu",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "wythnos",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "terfynol",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "Rhoddodd",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "gwyrdd",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "cyflym",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "datblygu",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "cefnfor",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "gynnes",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "rhad ac am ddim",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "munud",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "gryf",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "arbennig",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "meddwl",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "y tu ôl i",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "glir",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "gynffon",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "cynhyrchu",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "ffaith",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "gofod",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "clywed",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "gorau",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "awr",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "gwell",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "yn wir",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "yn ystod",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "cant",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "pump",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "cofio",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "cam",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "gynnar",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "dal",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "orllewin",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "ddaear",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "llog",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "cyrraedd",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "cyflym",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "berf",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "canu",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "gwrando",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "chwech",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "tabl",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "teithio",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "llai",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "bore",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "deg",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "syml",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "nifer",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "llafariad",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "tuag",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "rhyfel",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "lleyg",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "erbyn",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "patrwm",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "araf",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "canolfan",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "wrth eu bodd",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "person",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "arian",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "gwasanaethu",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "ymddangos",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "ffordd",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "fap",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "glaw",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "rheol",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "llywodraethu",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "tynnu",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "oer",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "rhybudd",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "llais",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "ynni",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "helfa",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "tebygol",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "gwely",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "brawd",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "wy",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "taith",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "cell",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "yn credu",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "efallai",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "ddewis",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "sydyn",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "cyfrif",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "sgwâr",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "rheswm",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "hyd",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "cynrychioli",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "celf",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "pwnc",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "rhanbarth",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "maint y",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "amrywio",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "setlo",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "siarad",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "pwysau",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "gyffredinol",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "iâ",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "mater",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "cylch",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "pâr",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "cynnwys",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "rhaniad",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "sillaf",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "Teimlwyd",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "mawreddog",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "pêl",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "eto",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "don",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "gollwng",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "galon",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "wyf",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "bresennol",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "trwm",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "dawns",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "peiriant",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "sefyllfa",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "braich",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "eang",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "hwylio",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "deunydd",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "ffracsiwn",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "goedwig",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "eistedd",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "hil",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "ffenestr",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "siop",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "haf",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "trên",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "cysgu",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "profi",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "eich pen eich hun",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "goes",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ymarfer corff",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "wal",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "dal",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "mynydd",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "dymuno",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "awyr",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "bwrdd",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "llawenydd",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "gaeaf",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "ysgrifenedig",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "gwyllt",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "offeryn",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "cadw",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "gwydr",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "glaswellt",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "buwch",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "swydd",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "ymyl",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "arwydd",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "ymweliad",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "gorffennol",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "meddal",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "hwyl",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "llachar",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "nwy",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "tywydd",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "mis",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "miliwn",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "arth",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "gorffen",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "hapus",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "gobeithio",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "blodyn",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "dilladu",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "rhyfedd",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "wedi mynd",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "masnach",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "alaw",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "daith",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "swyddfa",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "derbyn",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "rhes",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "geg",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "union",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "arwydd",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "marw",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "lleiaf",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "trafferth",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "gweiddi",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "ac eithrio",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "ysgrifennodd",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "hadau",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tôn",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "ymuno",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "awgrymu",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "lân",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "egwyl",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "wraig",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "iard",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "codi",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "drwg",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "ergyd",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "olew",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "gwaed",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "cyffwrdd",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "Tyfodd",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "cant",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "cymysgu",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "tîm",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "gwifren",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "chost",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "gollwyd",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "brown",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "gwisgo",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "gardd",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "gyfartal",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "anfon",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "dewis",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "syrthiodd",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "ffitio",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "llif",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "deg",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "banc",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "casglu",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "arbed",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "rheoli",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "degol",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "clust",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "arall",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "eithaf",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "torrodd",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "achos",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "canol",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "lladd",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "mab",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "llyn",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "hyn o bryd",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "graddfa",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "uchel",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "gwanwyn",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "arsylwi",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "plentyn",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "syth",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "cytseiniaid",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "cenedl",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "geiriadur",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "llaeth",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "cyflymder",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "dull",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "talu",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "oedran",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "adran",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "gwisg",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "cwmwl",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "syndod",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "dawel",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "cerrig",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "bach",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "dringo",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "oer",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "dylunio",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "gwael",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "llawer",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "arbrawf",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "gwaelod",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "allweddol",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "haearn",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "sengl",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "ffon",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "fflat",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "ugain",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "croen",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "gwenu",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "cris",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "twll",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "neidio",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "babi",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "wyth",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "pentref",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "cwrdd",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "gwraidd",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "prynu",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "codi",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "datrys",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metel",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "p’un a",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "gwthio",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "saith",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "paragraff",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "trydydd",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "rhaid",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "a gedwir yn",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "gwallt",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "disgrifio",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "cogydd",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "llawr",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "naill ai",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "canlyniad",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "llosgi",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "bryn",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "yn ddiogel",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "cath",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "ganrif",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "ystyried",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "math",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "gyfraith",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "arfordir",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "copi",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "ymadrodd",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "dawel",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "tal",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "tywod",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "pridd",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "gofrestr",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "tymheredd",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "bys",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "diwydiant",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "gwerth",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "frwydr",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "gorwedd",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "guro",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "cyffroi",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "naturiol",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "barn",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "synnwyr",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "cyfalaf",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "Ni fydd",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "gadeirydd",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "perygl",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "ffrwythau",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "gyfoethog",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "trwchus",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "milwr",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "broses",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "gweithredu",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "ymarfer",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "ar wahân",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "anodd",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "meddyg",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "os gwelwch yn dda",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "amddiffyn",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "canol dydd",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "cnwd",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "modern",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "elfen",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "taro",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "myfyriwr",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "cornel",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "parti",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "cyflenwad",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "y mae ei",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "o hyd",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "ffoniwch",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "cymeriad",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "pryfed",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "dal",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "cyfnod",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "dangos",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "Cymru",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "Siaradodd",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atom",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "dynol",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "hanes",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "effaith",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "trydan",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "disgwyl",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "esgyrn",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "rheilffyrdd",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "dychmygu",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "darparu",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "cytuno",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "felly",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "ysgafn",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "fenyw",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "capten",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "dyfalu",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "angenrheidiol",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "miniog",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "adain",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "creu",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "cymydog",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "golchi",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "ystlumod",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "yn hytrach",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "dorf",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "corn",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "cymharu",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "cerdd",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "llinyn",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "cloch",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "dibynnu",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "cig",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "rhwbio",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "tiwb",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "enwog",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "doler",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "nant",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "ofn",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "golwg",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "tenau",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "triongl",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "blaned",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "frys",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "prif",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "nythfa",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "cloc",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "mwynglawdd",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "tei",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "fynd i mewn",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "mawr",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "ffres",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "chwilio",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "anfon",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "melyn",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "gwn",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "caniatáu",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "print",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "marw",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "fan a’r lle",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "anialwch",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "siwt",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "ar hyn o bryd",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "lifft",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "rhosyn",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "cyrraedd",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "meistr",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "trac",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "rhiant",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "lan",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "is-adran",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "taflen",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "sylweddau",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "ffafrio",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "cysylltu",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "swydd",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "gwario",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "tant",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "braster",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "falch",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "gwreiddiol",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "rhannu",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "orsaf",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "dad",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "bara",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "codi tâl",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "briodol",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "cynnig",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "gylchran",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "gaethweision",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "hwyaden",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "amrantiad",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "farchnad",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "gradd",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "boblogi",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "cyw",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "annwyl",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "gelyn",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "ateb",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "diod",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "yn digwydd",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "cymorth",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "lleferydd",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "natur",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "amrediad",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "stêm",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "cynnig",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "llwybr",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "hylif",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "log",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "golygu",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "cyniferydd",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "dannedd",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "cragen",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "gwddf",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "ocsigen",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "siwgr",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "marwolaeth",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "‘n bert",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "sgiliau",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "menywod",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "tymor",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "ateb",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnet",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "arian",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "diolch",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "gangen",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "gêm",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "ôl-ddodiad",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "yn enwedig",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "ffig",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "ofn",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "enfawr",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "chwaer",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "dur",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "trafod",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "ymlaen",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "tebyg",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "arwain",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "profiad",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "sgôr",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "afal",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "brynwyd",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "arweinir",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "traw",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "côt",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "màs",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "cerdyn",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "mand",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "rhaff",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "slip",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "ennill",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "freuddwyd",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "gyda’r nos",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "cyflwr",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "porthiant",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "offeryn",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "cyfanswm",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "sylfaenol",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "arogl",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "dyffryn",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "nac",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "dwbl",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "sedd",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "parhau",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "bloc",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "siart",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "het",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "gwerthu",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "llwyddiant",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "cwmni",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "tynnu",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "digwyddiad",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "penodol",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "delio",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "nofio",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "dymor",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "gyferbyn",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "gwraig",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "esgid",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ysgwydd",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "lledaenu",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "trefnu",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "gwersyll",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "dyfeisio",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "cotwm",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "anwyd",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "penderfynu",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "chwart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "naw",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "lori",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "sŵn",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "lefel",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "cyfle",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "casglu",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "siop",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "ymestyn",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "taflu",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "disgleirio",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "eiddo",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "colofn",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "moleciwl",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "dewis",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "anghywir",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "llwyd",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ailadrodd",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "ei gwneud yn ofynnol",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "eang",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "paratoi",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "halen",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "trwyn",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "lluosog",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "dicter",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "hawliad",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "cyfandir",
+      "englishWord": "continent"
+    }
+  ]
+}

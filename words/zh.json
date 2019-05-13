@@ -1,0 +1,5007 @@
+{
+  "languageCode": "zh",
+  "languageName": "Chinese",
+  "languageNativeName": "中文",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "一",
+      "englishWord": "A"
+    },
+    {
+      "rank": 2,
+      "targetWord": "人",
+      "englishWord": "People"
+    },
+    {
+      "rank": 3,
+      "targetWord": "里",
+      "englishWord": "In"
+    },
+    {
+      "rank": 4,
+      "targetWord": "会",
+      "englishWord": "Can"
+    },
+    {
+      "rank": 5,
+      "targetWord": "没",
+      "englishWord": "Not"
+    },
+    {
+      "rank": 6,
+      "targetWord": "她",
+      "englishWord": "She"
+    },
+    {
+      "rank": 7,
+      "targetWord": "吗",
+      "englishWord": "Do"
+    },
+    {
+      "rank": 8,
+      "targetWord": "去",
+      "englishWord": "Go"
+    },
+    {
+      "rank": 9,
+      "targetWord": "也",
+      "englishWord": "Also"
+    },
+    {
+      "rank": 10,
+      "targetWord": "有",
+      "englishWord": "Have"
+    },
+    {
+      "rank": 11,
+      "targetWord": "这",
+      "englishWord": "This"
+    },
+    {
+      "rank": 12,
+      "targetWord": "那",
+      "englishWord": "That"
+    },
+    {
+      "rank": 13,
+      "targetWord": "不",
+      "englishWord": "Not"
+    },
+    {
+      "rank": 14,
+      "targetWord": "什",
+      "englishWord": "Even"
+    },
+    {
+      "rank": 15,
+      "targetWord": "个",
+      "englishWord": "A"
+    },
+    {
+      "rank": 16,
+      "targetWord": "来",
+      "englishWord": "Come"
+    },
+    {
+      "rank": 17,
+      "targetWord": "要",
+      "englishWord": "Wish"
+    },
+    {
+      "rank": 18,
+      "targetWord": "就",
+      "englishWord": "On"
+    },
+    {
+      "rank": 19,
+      "targetWord": "我",
+      "englishWord": "I"
+    },
+    {
+      "rank": 20,
+      "targetWord": "你",
+      "englishWord": "You"
+    },
+    {
+      "rank": 21,
+      "targetWord": "的",
+      "englishWord": "Of"
+    },
+    {
+      "rank": 22,
+      "targetWord": "是",
+      "englishWord": "Be"
+    },
+    {
+      "rank": 23,
+      "targetWord": "了",
+      "englishWord": "The"
+    },
+    {
+      "rank": 24,
+      "targetWord": "他",
+      "englishWord": "He"
+    },
+    {
+      "rank": 25,
+      "targetWord": "么",
+      "englishWord": "What"
+    },
+    {
+      "rank": 26,
+      "targetWord": "们",
+      "englishWord": "They"
+    },
+    {
+      "rank": 27,
+      "targetWord": "在",
+      "englishWord": "In"
+    },
+    {
+      "rank": 28,
+      "targetWord": "说",
+      "englishWord": "Say"
+    },
+    {
+      "rank": 29,
+      "targetWord": "为",
+      "englishWord": "For"
+    },
+    {
+      "rank": 30,
+      "targetWord": "好",
+      "englishWord": "Good"
+    },
+    {
+      "rank": 31,
+      "targetWord": "吧",
+      "englishWord": "It"
+    },
+    {
+      "rank": 32,
+      "targetWord": "知道",
+      "englishWord": "Know"
+    },
+    {
+      "rank": 33,
+      "targetWord": "我的",
+      "englishWord": "My"
+    },
+    {
+      "rank": 34,
+      "targetWord": "和",
+      "englishWord": "And"
+    },
+    {
+      "rank": 35,
+      "targetWord": "你的",
+      "englishWord": "Your"
+    },
+    {
+      "rank": 36,
+      "targetWord": "想",
+      "englishWord": "Want"
+    },
+    {
+      "rank": 37,
+      "targetWord": "只",
+      "englishWord": "Only"
+    },
+    {
+      "rank": 38,
+      "targetWord": "很",
+      "englishWord": "Very"
+    },
+    {
+      "rank": 39,
+      "targetWord": "都",
+      "englishWord": "Both"
+    },
+    {
+      "rank": 40,
+      "targetWord": "对",
+      "englishWord": "To"
+    },
+    {
+      "rank": 41,
+      "targetWord": "把",
+      "englishWord": "To"
+    },
+    {
+      "rank": 42,
+      "targetWord": "啊",
+      "englishWord": "Ah"
+    },
+    {
+      "rank": 43,
+      "targetWord": "怎",
+      "englishWord": "How"
+    },
+    {
+      "rank": 44,
+      "targetWord": "得",
+      "englishWord": "Get"
+    },
+    {
+      "rank": 45,
+      "targetWord": "还",
+      "englishWord": "Also"
+    },
+    {
+      "rank": 46,
+      "targetWord": "过",
+      "englishWord": "Cross"
+    },
+    {
+      "rank": 47,
+      "targetWord": "不是",
+      "englishWord": "No"
+    },
+    {
+      "rank": 48,
+      "targetWord": "到",
+      "englishWord": "To"
+    },
+    {
+      "rank": 49,
+      "targetWord": "样",
+      "englishWord": "Sample"
+    },
+    {
+      "rank": 50,
+      "targetWord": "飞",
+      "englishWord": "Fly"
+    },
+    {
+      "rank": 51,
+      "targetWord": "远",
+      "englishWord": "Far"
+    },
+    {
+      "rank": 52,
+      "targetWord": "身",
+      "englishWord": "Body"
+    },
+    {
+      "rank": 53,
+      "targetWord": "任何",
+      "englishWord": "Any"
+    },
+    {
+      "rank": 54,
+      "targetWord": "生活",
+      "englishWord": "Life"
+    },
+    {
+      "rank": 55,
+      "targetWord": "够",
+      "englishWord": "Enough"
+    },
+    {
+      "rank": 56,
+      "targetWord": "号",
+      "englishWord": "Number"
+    },
+    {
+      "rank": 57,
+      "targetWord": "兰",
+      "englishWord": "Orchid"
+    },
+    {
+      "rank": 58,
+      "targetWord": "瑞",
+      "englishWord": "Swiss"
+    },
+    {
+      "rank": 59,
+      "targetWord": "达",
+      "englishWord": "Reach"
+    },
+    {
+      "rank": 60,
+      "targetWord": "或",
+      "englishWord": "Or"
+    },
+    {
+      "rank": 61,
+      "targetWord": "愿",
+      "englishWord": "Willing"
+    },
+    {
+      "rank": 62,
+      "targetWord": "蒂",
+      "englishWord": "Stem"
+    },
+    {
+      "rank": 63,
+      "targetWord": "別",
+      "englishWord": "Do not"
+    },
+    {
+      "rank": 64,
+      "targetWord": "军",
+      "englishWord": "Military"
+    },
+    {
+      "rank": 65,
+      "targetWord": "正",
+      "englishWord": "Positive"
+    },
+    {
+      "rank": 66,
+      "targetWord": "是不是",
+      "englishWord": "Is not"
+    },
+    {
+      "rank": 67,
+      "targetWord": "证",
+      "englishWord": "Certificate"
+    },
+    {
+      "rank": 68,
+      "targetWord": "不用",
+      "englishWord": "Need not"
+    },
+    {
+      "rank": 69,
+      "targetWord": "三",
+      "englishWord": "Three"
+    },
+    {
+      "rank": 70,
+      "targetWord": "乐",
+      "englishWord": "Music"
+    },
+    {
+      "rank": 71,
+      "targetWord": "吉",
+      "englishWord": "Lucky"
+    },
+    {
+      "rank": 72,
+      "targetWord": "男人",
+      "englishWord": "Man"
+    },
+    {
+      "rank": 73,
+      "targetWord": "告訴",
+      "englishWord": "Tell"
+    },
+    {
+      "rank": 74,
+      "targetWord": "路",
+      "englishWord": "Road"
+    },
+    {
+      "rank": 75,
+      "targetWord": "搞",
+      "englishWord": "Do"
+    },
+    {
+      "rank": 76,
+      "targetWord": "可是",
+      "englishWord": "But"
+    },
+    {
+      "rank": 77,
+      "targetWord": "与",
+      "englishWord": "And"
+    },
+    {
+      "rank": 78,
+      "targetWord": "次",
+      "englishWord": "Secondary"
+    },
+    {
+      "rank": 79,
+      "targetWord": "狗",
+      "englishWord": "Dog"
+    },
+    {
+      "rank": 80,
+      "targetWord": "决",
+      "englishWord": "Decide"
+    },
+    {
+      "rank": 81,
+      "targetWord": "金",
+      "englishWord": "Gold"
+    },
+    {
+      "rank": 82,
+      "targetWord": "史",
+      "englishWord": "History"
+    },
+    {
+      "rank": 83,
+      "targetWord": "姆",
+      "englishWord": "Governess"
+    },
+    {
+      "rank": 84,
+      "targetWord": "部",
+      "englishWord": "Department"
+    },
+    {
+      "rank": 85,
+      "targetWord": "正在",
+      "englishWord": "Are"
+    },
+    {
+      "rank": 86,
+      "targetWord": "活",
+      "englishWord": "Live"
+    },
+    {
+      "rank": 87,
+      "targetWord": "刚",
+      "englishWord": "Just"
+    },
+    {
+      "rank": 88,
+      "targetWord": "回家",
+      "englishWord": "Return home"
+    },
+    {
+      "rank": 89,
+      "targetWord": "贝",
+      "englishWord": "Shellfish"
+    },
+    {
+      "rank": 90,
+      "targetWord": "如何",
+      "englishWord": "How"
+    },
+    {
+      "rank": 91,
+      "targetWord": "须",
+      "englishWord": "Must"
+    },
+    {
+      "rank": 92,
+      "targetWord": "战",
+      "englishWord": "War"
+    },
+    {
+      "rank": 93,
+      "targetWord": "不會",
+      "englishWord": "Will not"
+    },
+    {
+      "rank": 94,
+      "targetWord": "夫",
+      "englishWord": "Husband"
+    },
+    {
+      "rank": 95,
+      "targetWord": "喂",
+      "englishWord": "Feed"
+    },
+    {
+      "rank": 96,
+      "targetWord": "父",
+      "englishWord": "Father"
+    },
+    {
+      "rank": 97,
+      "targetWord": "亚",
+      "englishWord": "Inferior"
+    },
+    {
+      "rank": 98,
+      "targetWord": "肯定",
+      "englishWord": "Sure"
+    },
+    {
+      "rank": 99,
+      "targetWord": "女孩",
+      "englishWord": "Girl"
+    },
+    {
+      "rank": 100,
+      "targetWord": "世界",
+      "englishWord": "World"
+    },
+    {
+      "rank": 101,
+      "targetWord": "不要",
+      "englishWord": "Must not"
+    },
+    {
+      "rank": 102,
+      "targetWord": "些",
+      "englishWord": "Some"
+    },
+    {
+      "rank": 103,
+      "targetWord": "不知道",
+      "englishWord": "Do not know"
+    },
+    {
+      "rank": 104,
+      "targetWord": "不能",
+      "englishWord": "Can not"
+    },
+    {
+      "rank": 105,
+      "targetWord": "因",
+      "englishWord": "Because"
+    },
+    {
+      "rank": 106,
+      "targetWord": "觉",
+      "englishWord": "Feel"
+    },
+    {
+      "rank": 107,
+      "targetWord": "发",
+      "englishWord": "Hair"
+    },
+    {
+      "rank": 108,
+      "targetWord": "像",
+      "englishWord": "Image"
+    },
+    {
+      "rank": 109,
+      "targetWord": "太",
+      "englishWord": "Too"
+    },
+    {
+      "rank": 110,
+      "targetWord": "但是",
+      "englishWord": "But"
+    },
+    {
+      "rank": 111,
+      "targetWord": "多",
+      "englishWord": "Multi-"
+    },
+    {
+      "rank": 112,
+      "targetWord": "打",
+      "englishWord": "Fight"
+    },
+    {
+      "rank": 113,
+      "targetWord": "机",
+      "englishWord": "Machine"
+    },
+    {
+      "rank": 114,
+      "targetWord": "來",
+      "englishWord": "Come"
+    },
+    {
+      "rank": 115,
+      "targetWord": "好了",
+      "englishWord": "Well"
+    },
+    {
+      "rank": 116,
+      "targetWord": "用",
+      "englishWord": "Use"
+    },
+    {
+      "rank": 117,
+      "targetWord": "他的",
+      "englishWord": "His"
+    },
+    {
+      "rank": 118,
+      "targetWord": "诉",
+      "englishWord": "Appeal"
+    },
+    {
+      "rank": 119,
+      "targetWord": "德",
+      "englishWord": "Moral"
+    },
+    {
+      "rank": 120,
+      "targetWord": "叫",
+      "englishWord": "Call"
+    },
+    {
+      "rank": 121,
+      "targetWord": "什麼",
+      "englishWord": "What"
+    },
+    {
+      "rank": 122,
+      "targetWord": "真",
+      "englishWord": "SANT"
+    },
+    {
+      "rank": 123,
+      "targetWord": "干",
+      "englishWord": "Dry"
+    },
+    {
+      "rank": 124,
+      "targetWord": "心",
+      "englishWord": "Heart"
+    },
+    {
+      "rank": 125,
+      "targetWord": "走",
+      "englishWord": "Go"
+    },
+    {
+      "rank": 126,
+      "targetWord": "比",
+      "englishWord": "Ratio"
+    },
+    {
+      "rank": 127,
+      "targetWord": "死",
+      "englishWord": "Dead"
+    },
+    {
+      "rank": 128,
+      "targetWord": "嘿",
+      "englishWord": "Hey"
+    },
+    {
+      "rank": 129,
+      "targetWord": "出",
+      "englishWord": "Out"
+    },
+    {
+      "rank": 130,
+      "targetWord": "车",
+      "englishWord": "Car"
+    },
+    {
+      "rank": 131,
+      "targetWord": "一下",
+      "englishWord": "About"
+    },
+    {
+      "rank": 132,
+      "targetWord": "中",
+      "englishWord": "In"
+    },
+    {
+      "rank": 133,
+      "targetWord": "好吧",
+      "englishWord": "Well"
+    },
+    {
+      "rank": 134,
+      "targetWord": "需要",
+      "englishWord": "Need"
+    },
+    {
+      "rank": 135,
+      "targetWord": "经",
+      "englishWord": "After"
+    },
+    {
+      "rank": 136,
+      "targetWord": "妈",
+      "englishWord": "Mom"
+    },
+    {
+      "rank": 137,
+      "targetWord": "候",
+      "englishWord": "Wait"
+    },
+    {
+      "rank": 138,
+      "targetWord": "长",
+      "englishWord": "Long"
+    },
+    {
+      "rank": 139,
+      "targetWord": "而",
+      "englishWord": "And"
+    },
+    {
+      "rank": 140,
+      "targetWord": "错",
+      "englishWord": "Wrong"
+    },
+    {
+      "rank": 141,
+      "targetWord": "好的",
+      "englishWord": "Good"
+    },
+    {
+      "rank": 142,
+      "targetWord": "间",
+      "englishWord": "Between"
+    },
+    {
+      "rank": 143,
+      "targetWord": "又",
+      "englishWord": "And"
+    },
+    {
+      "rank": 144,
+      "targetWord": "国",
+      "englishWord": "Country"
+    },
+    {
+      "rank": 145,
+      "targetWord": "起",
+      "englishWord": "Start"
+    },
+    {
+      "rank": 146,
+      "targetWord": "动",
+      "englishWord": "Move"
+    },
+    {
+      "rank": 147,
+      "targetWord": "杀",
+      "englishWord": "Kill"
+    },
+    {
+      "rank": 148,
+      "targetWord": "于",
+      "englishWord": "At"
+    },
+    {
+      "rank": 149,
+      "targetWord": "种",
+      "englishWord": "Seed"
+    },
+    {
+      "rank": 150,
+      "targetWord": "去了",
+      "englishWord": "Go"
+    },
+    {
+      "rank": 151,
+      "targetWord": "担",
+      "englishWord": "Dan"
+    },
+    {
+      "rank": 152,
+      "targetWord": "名",
+      "englishWord": "Name"
+    },
+    {
+      "rank": 153,
+      "targetWord": "混蛋",
+      "englishWord": "Asshole"
+    },
+    {
+      "rank": 154,
+      "targetWord": "礼",
+      "englishWord": "Ceremony"
+    },
+    {
+      "rank": 155,
+      "targetWord": "幹",
+      "englishWord": "Dry"
+    },
+    {
+      "rank": 156,
+      "targetWord": "不了",
+      "englishWord": "Not"
+    },
+    {
+      "rank": 157,
+      "targetWord": "有些",
+      "englishWord": "Some"
+    },
+    {
+      "rank": 158,
+      "targetWord": "過",
+      "englishWord": "Cross"
+    },
+    {
+      "rank": 159,
+      "targetWord": "後",
+      "englishWord": "After"
+    },
+    {
+      "rank": 160,
+      "targetWord": "击",
+      "englishWord": "Strike"
+    },
+    {
+      "rank": 161,
+      "targetWord": "漂亮",
+      "englishWord": "Beautiful"
+    },
+    {
+      "rank": 162,
+      "targetWord": "神",
+      "englishWord": "God"
+    },
+    {
+      "rank": 163,
+      "targetWord": "多少",
+      "englishWord": "How much"
+    },
+    {
+      "rank": 164,
+      "targetWord": "海",
+      "englishWord": "Sea"
+    },
+    {
+      "rank": 165,
+      "targetWord": "每",
+      "englishWord": "Each"
+    },
+    {
+      "rank": 166,
+      "targetWord": "哥",
+      "englishWord": "Brother"
+    },
+    {
+      "rank": 167,
+      "targetWord": "教",
+      "englishWord": "Teach"
+    },
+    {
+      "rank": 168,
+      "targetWord": "走吧",
+      "englishWord": "Go"
+    },
+    {
+      "rank": 169,
+      "targetWord": "好像",
+      "englishWord": "Like"
+    },
+    {
+      "rank": 170,
+      "targetWord": "单",
+      "englishWord": "Single"
+    },
+    {
+      "rank": 171,
+      "targetWord": "公",
+      "englishWord": "Public"
+    },
+    {
+      "rank": 172,
+      "targetWord": "林",
+      "englishWord": "Forest"
+    },
+    {
+      "rank": 173,
+      "targetWord": "女",
+      "englishWord": "Female"
+    },
+    {
+      "rank": 174,
+      "targetWord": "忙",
+      "englishWord": "Busy"
+    },
+    {
+      "rank": 175,
+      "targetWord": "火",
+      "englishWord": "Fire"
+    },
+    {
+      "rank": 176,
+      "targetWord": "钟",
+      "englishWord": "Bell"
+    },
+    {
+      "rank": 177,
+      "targetWord": "家伙",
+      "englishWord": "Guy"
+    },
+    {
+      "rank": 178,
+      "targetWord": "科",
+      "englishWord": "Branch"
+    },
+    {
+      "rank": 179,
+      "targetWord": "回去",
+      "englishWord": "Go back"
+    },
+    {
+      "rank": 180,
+      "targetWord": "最后",
+      "englishWord": "Last"
+    },
+    {
+      "rank": 181,
+      "targetWord": "水",
+      "englishWord": "Water"
+    },
+    {
+      "rank": 182,
+      "targetWord": "不管",
+      "englishWord": "Regardless of"
+    },
+    {
+      "rank": 183,
+      "targetWord": "麦",
+      "englishWord": "Wheat"
+    },
+    {
+      "rank": 184,
+      "targetWord": "泻",
+      "englishWord": "Diarrhea"
+    },
+    {
+      "rank": 185,
+      "targetWord": "鬼",
+      "englishWord": "Ghost"
+    },
+    {
+      "rank": 186,
+      "targetWord": "還",
+      "englishWord": "Also"
+    },
+    {
+      "rank": 187,
+      "targetWord": "船",
+      "englishWord": "Ship"
+    },
+    {
+      "rank": 188,
+      "targetWord": "永",
+      "englishWord": "Forever"
+    },
+    {
+      "rank": 189,
+      "targetWord": "安全",
+      "englishWord": "Security"
+    },
+    {
+      "rank": 190,
+      "targetWord": "那個",
+      "englishWord": "That"
+    },
+    {
+      "rank": 191,
+      "targetWord": "爾",
+      "englishWord": "Seoul"
+    },
+    {
+      "rank": 192,
+      "targetWord": "這麼",
+      "englishWord": "So"
+    },
+    {
+      "rank": 193,
+      "targetWord": "满",
+      "englishWord": "Full"
+    },
+    {
+      "rank": 194,
+      "targetWord": "风",
+      "englishWord": "Wind"
+    },
+    {
+      "rank": 195,
+      "targetWord": "皮",
+      "englishWord": "Skin"
+    },
+    {
+      "rank": 196,
+      "targetWord": "威",
+      "englishWord": "Prestige"
+    },
+    {
+      "rank": 197,
+      "targetWord": "据",
+      "englishWord": "According to"
+    },
+    {
+      "rank": 198,
+      "targetWord": "鲁",
+      "englishWord": "Lu"
+    },
+    {
+      "rank": 199,
+      "targetWord": "转",
+      "englishWord": "Turn"
+    },
+    {
+      "rank": 200,
+      "targetWord": "相",
+      "englishWord": "Phase"
+    },
+    {
+      "rank": 201,
+      "targetWord": "地方",
+      "englishWord": "Local"
+    },
+    {
+      "rank": 202,
+      "targetWord": "沒有",
+      "englishWord": "No"
+    },
+    {
+      "rank": 203,
+      "targetWord": "有人",
+      "englishWord": "Some"
+    },
+    {
+      "rank": 204,
+      "targetWord": "嗨",
+      "englishWord": "Hi"
+    },
+    {
+      "rank": 205,
+      "targetWord": "看看",
+      "englishWord": "Look"
+    },
+    {
+      "rank": 206,
+      "targetWord": "自己",
+      "englishWord": "Oneself"
+    },
+    {
+      "rank": 207,
+      "targetWord": "一定",
+      "englishWord": "Certainly"
+    },
+    {
+      "rank": 208,
+      "targetWord": "事情",
+      "englishWord": "Thing"
+    },
+    {
+      "rank": 209,
+      "targetWord": "屑",
+      "englishWord": "Scrap"
+    },
+    {
+      "rank": 210,
+      "targetWord": "希望",
+      "englishWord": "Hope"
+    },
+    {
+      "rank": 211,
+      "targetWord": "所",
+      "englishWord": "The"
+    },
+    {
+      "rank": 212,
+      "targetWord": "褉",
+      "englishWord": "Aspx."
+    },
+    {
+      "rank": 213,
+      "targetWord": "感",
+      "englishWord": "Sense"
+    },
+    {
+      "rank": 214,
+      "targetWord": "气",
+      "englishWord": "Gas"
+    },
+    {
+      "rank": 215,
+      "targetWord": "不想",
+      "englishWord": "Do not want to"
+    },
+    {
+      "rank": 216,
+      "targetWord": "嘛",
+      "englishWord": "Well"
+    },
+    {
+      "rank": 217,
+      "targetWord": "实",
+      "englishWord": "Real"
+    },
+    {
+      "rank": 218,
+      "targetWord": "始",
+      "englishWord": "Beginning"
+    },
+    {
+      "rank": 219,
+      "targetWord": "給",
+      "englishWord": "To"
+    },
+    {
+      "rank": 220,
+      "targetWord": "然后",
+      "englishWord": "Then"
+    },
+    {
+      "rank": 221,
+      "targetWord": "個",
+      "englishWord": "A"
+    },
+    {
+      "rank": 222,
+      "targetWord": "相信",
+      "englishWord": "Believe"
+    },
+    {
+      "rank": 223,
+      "targetWord": "结",
+      "englishWord": "Bear"
+    },
+    {
+      "rank": 224,
+      "targetWord": "今天",
+      "englishWord": "Today"
+    },
+    {
+      "rank": 225,
+      "targetWord": "几",
+      "englishWord": "A few"
+    },
+    {
+      "rank": 226,
+      "targetWord": "题",
+      "englishWord": "Title"
+    },
+    {
+      "rank": 227,
+      "targetWord": "放",
+      "englishWord": "Put"
+    },
+    {
+      "rank": 228,
+      "targetWord": "讓",
+      "englishWord": "Let"
+    },
+    {
+      "rank": 229,
+      "targetWord": "确",
+      "englishWord": "Indeed"
+    },
+    {
+      "rank": 230,
+      "targetWord": "意思",
+      "englishWord": "Meaning"
+    },
+    {
+      "rank": 231,
+      "targetWord": "成",
+      "englishWord": "Become"
+    },
+    {
+      "rank": 232,
+      "targetWord": "所有",
+      "englishWord": "All"
+    },
+    {
+      "rank": 233,
+      "targetWord": "喜",
+      "englishWord": "Happy"
+    },
+    {
+      "rank": 234,
+      "targetWord": "對",
+      "englishWord": "To"
+    },
+    {
+      "rank": 235,
+      "targetWord": "之",
+      "englishWord": "The"
+    },
+    {
+      "rank": 236,
+      "targetWord": "一切",
+      "englishWord": "Everything"
+    },
+    {
+      "rank": 237,
+      "targetWord": "记",
+      "englishWord": "Remember"
+    },
+    {
+      "rank": 238,
+      "targetWord": "抱歉",
+      "englishWord": "Sorry"
+    },
+    {
+      "rank": 239,
+      "targetWord": "一直",
+      "englishWord": "Has been"
+    },
+    {
+      "rank": 240,
+      "targetWord": "天",
+      "englishWord": "Day"
+    },
+    {
+      "rank": 241,
+      "targetWord": "褌",
+      "englishWord": "Drawers"
+    },
+    {
+      "rank": 242,
+      "targetWord": "钱",
+      "englishWord": "Money"
+    },
+    {
+      "rank": 243,
+      "targetWord": "面",
+      "englishWord": "Surface"
+    },
+    {
+      "rank": 244,
+      "targetWord": "更",
+      "englishWord": "More"
+    },
+    {
+      "rank": 245,
+      "targetWord": "学",
+      "englishWord": "Learn"
+    },
+    {
+      "rank": 246,
+      "targetWord": "現在",
+      "englishWord": "Now"
+    },
+    {
+      "rank": 247,
+      "targetWord": "边",
+      "englishWord": "Side"
+    },
+    {
+      "rank": 248,
+      "targetWord": "你們",
+      "englishWord": "You"
+    },
+    {
+      "rank": 249,
+      "targetWord": "不起",
+      "englishWord": "Can not afford to"
+    },
+    {
+      "rank": 250,
+      "targetWord": "脑",
+      "englishWord": "Brain"
+    },
+    {
+      "rank": 251,
+      "targetWord": "呃",
+      "englishWord": "Uh"
+    },
+    {
+      "rank": 252,
+      "targetWord": "论",
+      "englishWord": "Theory"
+    },
+    {
+      "rank": 253,
+      "targetWord": "曼",
+      "englishWord": "Man"
+    },
+    {
+      "rank": 254,
+      "targetWord": "點",
+      "englishWord": "Point"
+    },
+    {
+      "rank": 255,
+      "targetWord": "普",
+      "englishWord": "General"
+    },
+    {
+      "rank": 256,
+      "targetWord": "第一",
+      "englishWord": "First"
+    },
+    {
+      "rank": 257,
+      "targetWord": "通",
+      "englishWord": "Through"
+    },
+    {
+      "rank": 258,
+      "targetWord": "棒",
+      "englishWord": "Stick"
+    },
+    {
+      "rank": 259,
+      "targetWord": "线",
+      "englishWord": "Line"
+    },
+    {
+      "rank": 260,
+      "targetWord": "很高",
+      "englishWord": "High"
+    },
+    {
+      "rank": 261,
+      "targetWord": "买",
+      "englishWord": "Buy"
+    },
+    {
+      "rank": 262,
+      "targetWord": "求",
+      "englishWord": "Request"
+    },
+    {
+      "rank": 263,
+      "targetWord": "束",
+      "englishWord": "Bundle"
+    },
+    {
+      "rank": 264,
+      "targetWord": "哇",
+      "englishWord": "Wow"
+    },
+    {
+      "rank": 265,
+      "targetWord": "指",
+      "englishWord": "Finger"
+    },
+    {
+      "rank": 266,
+      "targetWord": "张",
+      "englishWord": "Zhang"
+    },
+    {
+      "rank": 267,
+      "targetWord": "文",
+      "englishWord": "Culture"
+    },
+    {
+      "rank": 268,
+      "targetWord": "锌",
+      "englishWord": "Zinc"
+    },
+    {
+      "rank": 269,
+      "targetWord": "重",
+      "englishWord": "Weight"
+    },
+    {
+      "rank": 270,
+      "targetWord": "菲",
+      "englishWord": "Philippines"
+    },
+    {
+      "rank": 271,
+      "targetWord": "目",
+      "englishWord": "Eye"
+    },
+    {
+      "rank": 272,
+      "targetWord": "根本",
+      "englishWord": "Fundamental"
+    },
+    {
+      "rank": 273,
+      "targetWord": "联",
+      "englishWord": "Join"
+    },
+    {
+      "rank": 274,
+      "targetWord": "丹",
+      "englishWord": "Red"
+    },
+    {
+      "rank": 275,
+      "targetWord": "愛",
+      "englishWord": "Love"
+    },
+    {
+      "rank": 276,
+      "targetWord": "不到",
+      "englishWord": "Less than"
+    },
+    {
+      "rank": 277,
+      "targetWord": "這些",
+      "englishWord": "These"
+    },
+    {
+      "rank": 278,
+      "targetWord": "自己的",
+      "englishWord": "Own"
+    },
+    {
+      "rank": 279,
+      "targetWord": "笑",
+      "englishWord": "Laugh"
+    },
+    {
+      "rank": 280,
+      "targetWord": "闭",
+      "englishWord": "Close"
+    },
+    {
+      "rank": 281,
+      "targetWord": "基",
+      "englishWord": "Base"
+    },
+    {
+      "rank": 282,
+      "targetWord": "唯一",
+      "englishWord": "Unique"
+    },
+    {
+      "rank": 283,
+      "targetWord": "要是",
+      "englishWord": "If"
+    },
+    {
+      "rank": 284,
+      "targetWord": "提",
+      "englishWord": "Mention"
+    },
+    {
+      "rank": 285,
+      "targetWord": "调",
+      "englishWord": "Tune"
+    },
+    {
+      "rank": 286,
+      "targetWord": "丽",
+      "englishWord": "Korea"
+    },
+    {
+      "rank": 287,
+      "targetWord": "女士",
+      "englishWord": "Ms."
+    },
+    {
+      "rank": 288,
+      "targetWord": "校",
+      "englishWord": "School"
+    },
+    {
+      "rank": 289,
+      "targetWord": "公司",
+      "englishWord": "Company"
+    },
+    {
+      "rank": 290,
+      "targetWord": "况",
+      "englishWord": "Condition"
+    },
+    {
+      "rank": 291,
+      "targetWord": "烦",
+      "englishWord": "Bother"
+    },
+    {
+      "rank": 292,
+      "targetWord": "停",
+      "englishWord": "Stop"
+    },
+    {
+      "rank": 293,
+      "targetWord": "英",
+      "englishWord": "Britain"
+    },
+    {
+      "rank": 294,
+      "targetWord": "警",
+      "englishWord": "Police"
+    },
+    {
+      "rank": 295,
+      "targetWord": "险",
+      "englishWord": "Risk"
+    },
+    {
+      "rank": 296,
+      "targetWord": "東西",
+      "englishWord": "Thing"
+    },
+    {
+      "rank": 297,
+      "targetWord": "不可能",
+      "englishWord": "Impossible"
+    },
+    {
+      "rank": 298,
+      "targetWord": "坐",
+      "englishWord": "Sit"
+    },
+    {
+      "rank": 299,
+      "targetWord": "区",
+      "englishWord": "Area"
+    },
+    {
+      "rank": 300,
+      "targetWord": "果",
+      "englishWord": "Fruit"
+    },
+    {
+      "rank": 301,
+      "targetWord": "伙",
+      "englishWord": "Partner"
+    },
+    {
+      "rank": 302,
+      "targetWord": "哈",
+      "englishWord": "Ha"
+    },
+    {
+      "rank": 303,
+      "targetWord": "罗",
+      "englishWord": "Luo"
+    },
+    {
+      "rank": 304,
+      "targetWord": "难",
+      "englishWord": "Difficult"
+    },
+    {
+      "rank": 305,
+      "targetWord": "两",
+      "englishWord": "Both"
+    },
+    {
+      "rank": 306,
+      "targetWord": "一些",
+      "englishWord": "Some"
+    },
+    {
+      "rank": 307,
+      "targetWord": "這樣",
+      "englishWord": "So"
+    },
+    {
+      "rank": 308,
+      "targetWord": "自",
+      "englishWord": "From"
+    },
+    {
+      "rank": 309,
+      "targetWord": "女人",
+      "englishWord": "Woman"
+    },
+    {
+      "rank": 310,
+      "targetWord": "向",
+      "englishWord": "To"
+    },
+    {
+      "rank": 311,
+      "targetWord": "最好",
+      "englishWord": "The best"
+    },
+    {
+      "rank": 312,
+      "targetWord": "走了",
+      "englishWord": "Go"
+    },
+    {
+      "rank": 313,
+      "targetWord": "褬",
+      "englishWord": "Sang"
+    },
+    {
+      "rank": 314,
+      "targetWord": "胁",
+      "englishWord": "Threaten"
+    },
+    {
+      "rank": 315,
+      "targetWord": "明",
+      "englishWord": "Next"
+    },
+    {
+      "rank": 316,
+      "targetWord": "理",
+      "englishWord": "Reason"
+    },
+    {
+      "rank": 317,
+      "targetWord": "加",
+      "englishWord": "Plus"
+    },
+    {
+      "rank": 318,
+      "targetWord": "枪",
+      "englishWord": "Gun"
+    },
+    {
+      "rank": 319,
+      "targetWord": "万",
+      "englishWord": "Ten thousand"
+    },
+    {
+      "rank": 320,
+      "targetWord": "员",
+      "englishWord": "Member"
+    },
+    {
+      "rank": 321,
+      "targetWord": "妳",
+      "englishWord": "You"
+    },
+    {
+      "rank": 322,
+      "targetWord": "玩",
+      "englishWord": "Play"
+    },
+    {
+      "rank": 323,
+      "targetWord": "分",
+      "englishWord": "Minute"
+    },
+    {
+      "rank": 324,
+      "targetWord": "作",
+      "englishWord": "Make"
+    },
+    {
+      "rank": 325,
+      "targetWord": "巴",
+      "englishWord": "Pakistan"
+    },
+    {
+      "rank": 326,
+      "targetWord": "而且",
+      "englishWord": "And"
+    },
+    {
+      "rank": 327,
+      "targetWord": "物",
+      "englishWord": "Matter"
+    },
+    {
+      "rank": 328,
+      "targetWord": "伤",
+      "englishWord": "Hurt"
+    },
+    {
+      "rank": 329,
+      "targetWord": "官",
+      "englishWord": "Official"
+    },
+    {
+      "rank": 330,
+      "targetWord": "道",
+      "englishWord": "Road"
+    },
+    {
+      "rank": 331,
+      "targetWord": "出去",
+      "englishWord": "Out"
+    },
+    {
+      "rank": 332,
+      "targetWord": "力",
+      "englishWord": "Force"
+    },
+    {
+      "rank": 333,
+      "targetWord": "总",
+      "englishWord": "Total"
+    },
+    {
+      "rank": 334,
+      "targetWord": "者",
+      "englishWord": "Person"
+    },
+    {
+      "rank": 335,
+      "targetWord": "先",
+      "englishWord": "First"
+    },
+    {
+      "rank": 336,
+      "targetWord": "最",
+      "englishWord": "Most"
+    },
+    {
+      "rank": 337,
+      "targetWord": "很多",
+      "englishWord": "Many"
+    },
+    {
+      "rank": 338,
+      "targetWord": "医",
+      "englishWord": "Treatment"
+    },
+    {
+      "rank": 339,
+      "targetWord": "一次",
+      "englishWord": "Once"
+    },
+    {
+      "rank": 340,
+      "targetWord": "报",
+      "englishWord": "Report"
+    },
+    {
+      "rank": 341,
+      "targetWord": "名字",
+      "englishWord": "Name"
+    },
+    {
+      "rank": 342,
+      "targetWord": "将",
+      "englishWord": "Will"
+    },
+    {
+      "rank": 343,
+      "targetWord": "迪",
+      "englishWord": "Di"
+    },
+    {
+      "rank": 344,
+      "targetWord": "到了",
+      "englishWord": "To"
+    },
+    {
+      "rank": 345,
+      "targetWord": "解",
+      "englishWord": "Solution"
+    },
+    {
+      "rank": 346,
+      "targetWord": "新",
+      "englishWord": "New"
+    },
+    {
+      "rank": 347,
+      "targetWord": "队",
+      "englishWord": "Team"
+    },
+    {
+      "rank": 348,
+      "targetWord": "识",
+      "englishWord": "Knowledge"
+    },
+    {
+      "rank": 349,
+      "targetWord": "死了",
+      "englishWord": "Dead"
+    },
+    {
+      "rank": 350,
+      "targetWord": "眼",
+      "englishWord": "Eye"
+    },
+    {
+      "rank": 351,
+      "targetWord": "媽的",
+      "englishWord": "Damn"
+    },
+    {
+      "rank": 352,
+      "targetWord": "第一次",
+      "englishWord": "First"
+    },
+    {
+      "rank": 353,
+      "targetWord": "離開",
+      "englishWord": "Leave"
+    },
+    {
+      "rank": 354,
+      "targetWord": "忘",
+      "englishWord": "Forget"
+    },
+    {
+      "rank": 355,
+      "targetWord": "我自己",
+      "englishWord": "Myself"
+    },
+    {
+      "rank": 356,
+      "targetWord": "谐",
+      "englishWord": "Harmonious"
+    },
+    {
+      "rank": 357,
+      "targetWord": "严",
+      "englishWord": "Strict"
+    },
+    {
+      "rank": 358,
+      "targetWord": "且",
+      "englishWord": "And"
+    },
+    {
+      "rank": 359,
+      "targetWord": "帶",
+      "englishWord": "Band"
+    },
+    {
+      "rank": 360,
+      "targetWord": "赶",
+      "englishWord": "Rush"
+    },
+    {
+      "rank": 361,
+      "targetWord": "太棒",
+      "englishWord": "Great"
+    },
+    {
+      "rank": 362,
+      "targetWord": "佛",
+      "englishWord": "Buddha"
+    },
+    {
+      "rank": 363,
+      "targetWord": "直",
+      "englishWord": "Straight"
+    },
+    {
+      "rank": 364,
+      "targetWord": "認為",
+      "englishWord": "Think"
+    },
+    {
+      "rank": 365,
+      "targetWord": "老婆",
+      "englishWord": "Wife"
+    },
+    {
+      "rank": 366,
+      "targetWord": "索",
+      "englishWord": "Search"
+    },
+    {
+      "rank": 367,
+      "targetWord": "除了",
+      "englishWord": "In addition to"
+    },
+    {
+      "rank": 368,
+      "targetWord": "承",
+      "englishWord": "By Order of the"
+    },
+    {
+      "rank": 369,
+      "targetWord": "泰",
+      "englishWord": "Thai"
+    },
+    {
+      "rank": 370,
+      "targetWord": "建",
+      "englishWord": "Build"
+    },
+    {
+      "rank": 371,
+      "targetWord": "欧",
+      "englishWord": "Europe"
+    },
+    {
+      "rank": 372,
+      "targetWord": "然後",
+      "englishWord": "Then"
+    },
+    {
+      "rank": 373,
+      "targetWord": "级",
+      "englishWord": "Level"
+    },
+    {
+      "rank": 374,
+      "targetWord": "昨晚",
+      "englishWord": "Last night"
+    },
+    {
+      "rank": 375,
+      "targetWord": "石",
+      "englishWord": "Stone"
+    },
+    {
+      "rank": 376,
+      "targetWord": "有了",
+      "englishWord": "With"
+    },
+    {
+      "rank": 377,
+      "targetWord": "都有",
+      "englishWord": "Have"
+    },
+    {
+      "rank": 378,
+      "targetWord": "磲",
+      "englishWord": "Clams"
+    },
+    {
+      "rank": 379,
+      "targetWord": "差",
+      "englishWord": "Poor"
+    },
+    {
+      "rank": 380,
+      "targetWord": "思",
+      "englishWord": "Think"
+    },
+    {
+      "rank": 381,
+      "targetWord": "啥",
+      "englishWord": "What"
+    },
+    {
+      "rank": 382,
+      "targetWord": "過來",
+      "englishWord": "Come"
+    },
+    {
+      "rank": 383,
+      "targetWord": "努力",
+      "englishWord": "Strive"
+    },
+    {
+      "rank": 384,
+      "targetWord": "丈夫",
+      "englishWord": "Husband"
+    },
+    {
+      "rank": 385,
+      "targetWord": "任何人",
+      "englishWord": "Anyone"
+    },
+    {
+      "rank": 386,
+      "targetWord": "城市",
+      "englishWord": "City"
+    },
+    {
+      "rank": 387,
+      "targetWord": "死亡",
+      "englishWord": "Death"
+    },
+    {
+      "rank": 388,
+      "targetWord": "全部",
+      "englishWord": "Whole"
+    },
+    {
+      "rank": 389,
+      "targetWord": "组",
+      "englishWord": "Group"
+    },
+    {
+      "rank": 390,
+      "targetWord": "i",
+      "englishWord": "i"
+    },
+    {
+      "rank": 391,
+      "targetWord": "也許",
+      "englishWord": "Perhaps"
+    },
+    {
+      "rank": 392,
+      "targetWord": "最近",
+      "englishWord": "Recently"
+    },
+    {
+      "rank": 393,
+      "targetWord": "倒",
+      "englishWord": "Inverted"
+    },
+    {
+      "rank": 394,
+      "targetWord": "领",
+      "englishWord": "Collar"
+    },
+    {
+      "rank": 395,
+      "targetWord": "顾",
+      "englishWord": "Gu"
+    },
+    {
+      "rank": 396,
+      "targetWord": "市",
+      "englishWord": "City"
+    },
+    {
+      "rank": 397,
+      "targetWord": "六",
+      "englishWord": "Six"
+    },
+    {
+      "rank": 398,
+      "targetWord": "行了",
+      "englishWord": "The line"
+    },
+    {
+      "rank": 399,
+      "targetWord": "滚",
+      "englishWord": "Roll"
+    },
+    {
+      "rank": 400,
+      "targetWord": "好嗎",
+      "englishWord": "Okay"
+    },
+    {
+      "rank": 401,
+      "targetWord": "师",
+      "englishWord": "Division"
+    },
+    {
+      "rank": 402,
+      "targetWord": "高",
+      "englishWord": "High"
+    },
+    {
+      "rank": 403,
+      "targetWord": "莉",
+      "englishWord": "Li"
+    },
+    {
+      "rank": 404,
+      "targetWord": "坏",
+      "englishWord": "Bad"
+    },
+    {
+      "rank": 405,
+      "targetWord": "电",
+      "englishWord": "Electricity"
+    },
+    {
+      "rank": 406,
+      "targetWord": "警察",
+      "englishWord": "Police"
+    },
+    {
+      "rank": 407,
+      "targetWord": "件",
+      "englishWord": "Item"
+    },
+    {
+      "rank": 408,
+      "targetWord": "誰",
+      "englishWord": "Who"
+    },
+    {
+      "rank": 409,
+      "targetWord": "兄弟",
+      "englishWord": "Brothers"
+    },
+    {
+      "rank": 410,
+      "targetWord": "之前",
+      "englishWord": "Before"
+    },
+    {
+      "rank": 411,
+      "targetWord": "谈",
+      "englishWord": "Talk"
+    },
+    {
+      "rank": 412,
+      "targetWord": "送",
+      "englishWord": "Send"
+    },
+    {
+      "rank": 413,
+      "targetWord": "森",
+      "englishWord": "Forest"
+    },
+    {
+      "rank": 414,
+      "targetWord": "伊",
+      "englishWord": "He"
+    },
+    {
+      "rank": 415,
+      "targetWord": "以前",
+      "englishWord": "Previous"
+    },
+    {
+      "rank": 416,
+      "targetWord": "房",
+      "englishWord": "Room"
+    },
+    {
+      "rank": 417,
+      "targetWord": "婚",
+      "englishWord": "Marriage"
+    },
+    {
+      "rank": 418,
+      "targetWord": "喝",
+      "englishWord": "Drink"
+    },
+    {
+      "rank": 419,
+      "targetWord": "怎麼",
+      "englishWord": "How"
+    },
+    {
+      "rank": 420,
+      "targetWord": "今晚",
+      "englishWord": "Tonight"
+    },
+    {
+      "rank": 421,
+      "targetWord": "兴",
+      "englishWord": "Interest"
+    },
+    {
+      "rank": 422,
+      "targetWord": "疯",
+      "englishWord": "Crazy"
+    },
+    {
+      "rank": 423,
+      "targetWord": "因為",
+      "englishWord": "Because"
+    },
+    {
+      "rank": 424,
+      "targetWord": "住",
+      "englishWord": "Live"
+    },
+    {
+      "rank": 425,
+      "targetWord": "内",
+      "englishWord": "Within"
+    },
+    {
+      "rank": 426,
+      "targetWord": "轻",
+      "englishWord": "Light"
+    },
+    {
+      "rank": 427,
+      "targetWord": "约",
+      "englishWord": "Approximately"
+    },
+    {
+      "rank": 428,
+      "targetWord": "声",
+      "englishWord": "Sound"
+    },
+    {
+      "rank": 429,
+      "targetWord": "或者",
+      "englishWord": "Or"
+    },
+    {
+      "rank": 430,
+      "targetWord": "不行",
+      "englishWord": "Not work"
+    },
+    {
+      "rank": 431,
+      "targetWord": "到底",
+      "englishWord": "In the end"
+    },
+    {
+      "rank": 432,
+      "targetWord": "雷",
+      "englishWord": "Mine"
+    },
+    {
+      "rank": 433,
+      "targetWord": "维",
+      "englishWord": "Dimension"
+    },
+    {
+      "rank": 434,
+      "targetWord": "条",
+      "englishWord": "Article"
+    },
+    {
+      "rank": 435,
+      "targetWord": "明天",
+      "englishWord": "Tomorrow"
+    },
+    {
+      "rank": 436,
+      "targetWord": "不好",
+      "englishWord": "Bad"
+    },
+    {
+      "rank": 437,
+      "targetWord": "已經",
+      "englishWord": "Already"
+    },
+    {
+      "rank": 438,
+      "targetWord": "天啊",
+      "englishWord": "God"
+    },
+    {
+      "rank": 439,
+      "targetWord": "洛",
+      "englishWord": "Rockwell"
+    },
+    {
+      "rank": 440,
+      "targetWord": "护",
+      "englishWord": "Protect"
+    },
+    {
+      "rank": 441,
+      "targetWord": "塔",
+      "englishWord": "Tower"
+    },
+    {
+      "rank": 442,
+      "targetWord": "运",
+      "englishWord": "Transport"
+    },
+    {
+      "rank": 443,
+      "targetWord": "接",
+      "englishWord": "Meet"
+    },
+    {
+      "rank": 444,
+      "targetWord": "球",
+      "englishWord": "Ball"
+    },
+    {
+      "rank": 445,
+      "targetWord": "得到",
+      "englishWord": "Get"
+    },
+    {
+      "rank": 446,
+      "targetWord": "穿",
+      "englishWord": "Wear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "音",
+      "englishWord": "Sound"
+    },
+    {
+      "rank": 448,
+      "targetWord": "從",
+      "englishWord": "From"
+    },
+    {
+      "rank": 449,
+      "targetWord": "為",
+      "englishWord": "For"
+    },
+    {
+      "rank": 450,
+      "targetWord": "生",
+      "englishWord": "Raw"
+    },
+    {
+      "rank": 451,
+      "targetWord": "回",
+      "englishWord": "Return"
+    },
+    {
+      "rank": 452,
+      "targetWord": "可",
+      "englishWord": "Can"
+    },
+    {
+      "rank": 453,
+      "targetWord": "东",
+      "englishWord": "East"
+    },
+    {
+      "rank": 454,
+      "targetWord": "尔",
+      "englishWord": "Seoul"
+    },
+    {
+      "rank": 455,
+      "targetWord": "欢",
+      "englishWord": "Happy"
+    },
+    {
+      "rank": 456,
+      "targetWord": "很好",
+      "englishWord": "Well"
+    },
+    {
+      "rank": 457,
+      "targetWord": "他們",
+      "englishWord": "They"
+    },
+    {
+      "rank": 458,
+      "targetWord": "进",
+      "englishWord": "Enter"
+    },
+    {
+      "rank": 459,
+      "targetWord": "地",
+      "englishWord": "Ground"
+    },
+    {
+      "rank": 460,
+      "targetWord": "孩子",
+      "englishWord": "Children"
+    },
+    {
+      "rank": 461,
+      "targetWord": "帮",
+      "englishWord": "Help"
+    },
+    {
+      "rank": 462,
+      "targetWord": "离",
+      "englishWord": "From"
+    },
+    {
+      "rank": 463,
+      "targetWord": "找",
+      "englishWord": "Look for"
+    },
+    {
+      "rank": 464,
+      "targetWord": "尼",
+      "englishWord": "Nigeria"
+    },
+    {
+      "rank": 465,
+      "targetWord": "从",
+      "englishWord": "From"
+    },
+    {
+      "rank": 466,
+      "targetWord": "下",
+      "englishWord": "Under"
+    },
+    {
+      "rank": 467,
+      "targetWord": "马",
+      "englishWord": "Horse"
+    },
+    {
+      "rank": 468,
+      "targetWord": "以",
+      "englishWord": "With"
+    },
+    {
+      "rank": 469,
+      "targetWord": "利",
+      "englishWord": "Profit"
+    },
+    {
+      "rank": 470,
+      "targetWord": "所以",
+      "englishWord": "So"
+    },
+    {
+      "rank": 471,
+      "targetWord": "关",
+      "englishWord": "Close"
+    },
+    {
+      "rank": 472,
+      "targetWord": "哪",
+      "englishWord": "Which"
+    },
+    {
+      "rank": 473,
+      "targetWord": "懈",
+      "englishWord": "Negligent"
+    },
+    {
+      "rank": 474,
+      "targetWord": "行",
+      "englishWord": "Row"
+    },
+    {
+      "rank": 475,
+      "targetWord": "家",
+      "englishWord": "Home"
+    },
+    {
+      "rank": 476,
+      "targetWord": "拉",
+      "englishWord": "Pull"
+    },
+    {
+      "rank": 477,
+      "targetWord": "才",
+      "englishWord": "Only"
+    },
+    {
+      "rank": 478,
+      "targetWord": "看到",
+      "englishWord": "See"
+    },
+    {
+      "rank": 479,
+      "targetWord": "說",
+      "englishWord": "Say"
+    },
+    {
+      "rank": 480,
+      "targetWord": "手",
+      "englishWord": "Hand"
+    },
+    {
+      "rank": 481,
+      "targetWord": "法",
+      "englishWord": "Law"
+    },
+    {
+      "rank": 482,
+      "targetWord": "噢",
+      "englishWord": "Oh"
+    },
+    {
+      "rank": 483,
+      "targetWord": "谁",
+      "englishWord": "Who"
+    },
+    {
+      "rank": 484,
+      "targetWord": "头",
+      "englishWord": "Head"
+    },
+    {
+      "rank": 485,
+      "targetWord": "无",
+      "englishWord": "No"
+    },
+    {
+      "rank": 486,
+      "targetWord": "嗯",
+      "englishWord": "Ah"
+    },
+    {
+      "rank": 487,
+      "targetWord": "工作",
+      "englishWord": "Work"
+    },
+    {
+      "rank": 488,
+      "targetWord": "可能",
+      "englishWord": "May"
+    },
+    {
+      "rank": 489,
+      "targetWord": "薪",
+      "englishWord": "Salary"
+    },
+    {
+      "rank": 490,
+      "targetWord": "朋友",
+      "englishWord": "Friend"
+    },
+    {
+      "rank": 491,
+      "targetWord": "请",
+      "englishWord": "Please"
+    },
+    {
+      "rank": 492,
+      "targetWord": "许",
+      "englishWord": "Promise"
+    },
+    {
+      "rank": 493,
+      "targetWord": "年",
+      "englishWord": "Years"
+    },
+    {
+      "rank": 494,
+      "targetWord": "那些",
+      "englishWord": "Those"
+    },
+    {
+      "rank": 495,
+      "targetWord": "一個",
+      "englishWord": "A"
+    },
+    {
+      "rank": 496,
+      "targetWord": "一起",
+      "englishWord": "Together"
+    },
+    {
+      "rank": 497,
+      "targetWord": "然",
+      "englishWord": "However"
+    },
+    {
+      "rank": 498,
+      "targetWord": "吃",
+      "englishWord": "Eat"
+    },
+    {
+      "rank": 499,
+      "targetWord": "写",
+      "englishWord": "Write"
+    },
+    {
+      "rank": 500,
+      "targetWord": "带",
+      "englishWord": "Band"
+    },
+    {
+      "rank": 501,
+      "targetWord": "我喜",
+      "englishWord": "I am pleased to"
+    },
+    {
+      "rank": 502,
+      "targetWord": "弗",
+      "englishWord": "Eph."
+    },
+    {
+      "rank": 503,
+      "targetWord": "尽",
+      "englishWord": "Exhausted"
+    },
+    {
+      "rank": 504,
+      "targetWord": "耶",
+      "englishWord": "Yeah"
+    },
+    {
+      "rank": 505,
+      "targetWord": "喔",
+      "englishWord": "Oh"
+    },
+    {
+      "rank": 506,
+      "targetWord": "褍",
+      "englishWord": "Tuan"
+    },
+    {
+      "rank": 507,
+      "targetWord": "掉",
+      "englishWord": "Fall"
+    },
+    {
+      "rank": 508,
+      "targetWord": "书",
+      "englishWord": "Book"
+    },
+    {
+      "rank": 509,
+      "targetWord": "其他",
+      "englishWord": "Other"
+    },
+    {
+      "rank": 510,
+      "targetWord": "派",
+      "englishWord": "Send"
+    },
+    {
+      "rank": 511,
+      "targetWord": "士",
+      "englishWord": "Scholar"
+    },
+    {
+      "rank": 512,
+      "targetWord": "器",
+      "englishWord": "Implement"
+    },
+    {
+      "rank": 513,
+      "targetWord": "松",
+      "englishWord": "Loose"
+    },
+    {
+      "rank": 514,
+      "targetWord": "数",
+      "englishWord": "Number"
+    },
+    {
+      "rank": 515,
+      "targetWord": "光",
+      "englishWord": "Light"
+    },
+    {
+      "rank": 516,
+      "targetWord": "其",
+      "englishWord": "Its"
+    },
+    {
+      "rank": 517,
+      "targetWord": "想我",
+      "englishWord": "Think I"
+    },
+    {
+      "rank": 518,
+      "targetWord": "极",
+      "englishWord": "Pole"
+    },
+    {
+      "rank": 519,
+      "targetWord": "合",
+      "englishWord": "Close"
+    },
+    {
+      "rank": 520,
+      "targetWord": "完全",
+      "englishWord": "Entirely"
+    },
+    {
+      "rank": 521,
+      "targetWord": "做了",
+      "englishWord": "Done"
+    },
+    {
+      "rank": 522,
+      "targetWord": "影",
+      "englishWord": "Shadow"
+    },
+    {
+      "rank": 523,
+      "targetWord": "室",
+      "englishWord": "Room"
+    },
+    {
+      "rank": 524,
+      "targetWord": "受",
+      "englishWord": "Be subject"
+    },
+    {
+      "rank": 525,
+      "targetWord": "奇",
+      "englishWord": "Odd"
+    },
+    {
+      "rank": 526,
+      "targetWord": "试",
+      "englishWord": "Test"
+    },
+    {
+      "rank": 527,
+      "targetWord": "装",
+      "englishWord": "Dress"
+    },
+    {
+      "rank": 528,
+      "targetWord": "晚上",
+      "englishWord": "At night"
+    },
+    {
+      "rank": 529,
+      "targetWord": "恶",
+      "englishWord": "Evil"
+    },
+    {
+      "rank": 530,
+      "targetWord": "应",
+      "englishWord": "Should"
+    },
+    {
+      "rank": 531,
+      "targetWord": "小姐",
+      "englishWord": "Miss"
+    },
+    {
+      "rank": 532,
+      "targetWord": "整",
+      "englishWord": "Whole"
+    },
+    {
+      "rank": 533,
+      "targetWord": "强",
+      "englishWord": "Strength"
+    },
+    {
+      "rank": 534,
+      "targetWord": "业",
+      "englishWord": "Industry"
+    },
+    {
+      "rank": 535,
+      "targetWord": "类",
+      "englishWord": "Class"
+    },
+    {
+      "rank": 536,
+      "targetWord": "复",
+      "englishWord": "Complex"
+    },
+    {
+      "rank": 537,
+      "targetWord": "奥",
+      "englishWord": "Austrian"
+    },
+    {
+      "rank": 538,
+      "targetWord": "梦",
+      "englishWord": "Dream"
+    },
+    {
+      "rank": 539,
+      "targetWord": "曾",
+      "englishWord": "Once"
+    },
+    {
+      "rank": 540,
+      "targetWord": "嘴",
+      "englishWord": "Mouth"
+    },
+    {
+      "rank": 541,
+      "targetWord": "认",
+      "englishWord": "Recognize"
+    },
+    {
+      "rank": 542,
+      "targetWord": "如此",
+      "englishWord": "So"
+    },
+    {
+      "rank": 543,
+      "targetWord": "爸",
+      "englishWord": "Dad"
+    },
+    {
+      "rank": 544,
+      "targetWord": "照",
+      "englishWord": "Photo"
+    },
+    {
+      "rank": 545,
+      "targetWord": "杰",
+      "englishWord": "Outstanding"
+    },
+    {
+      "rank": 546,
+      "targetWord": "為什麼",
+      "englishWord": "Why"
+    },
+    {
+      "rank": 547,
+      "targetWord": "入",
+      "englishWord": "Enter"
+    },
+    {
+      "rank": 548,
+      "targetWord": "睡",
+      "englishWord": "Sleep"
+    },
+    {
+      "rank": 549,
+      "targetWord": "都不",
+      "englishWord": "Not"
+    },
+    {
+      "rank": 550,
+      "targetWord": "服",
+      "englishWord": "Clothes"
+    },
+    {
+      "rank": 551,
+      "targetWord": "节",
+      "englishWord": "Festival"
+    },
+    {
+      "rank": 552,
+      "targetWord": "顿",
+      "englishWord": "Dayton"
+    },
+    {
+      "rank": 553,
+      "targetWord": "了解",
+      "englishWord": "Understand"
+    },
+    {
+      "rank": 554,
+      "targetWord": "根",
+      "englishWord": "Root"
+    },
+    {
+      "rank": 555,
+      "targetWord": "蛋",
+      "englishWord": "Egg"
+    },
+    {
+      "rank": 556,
+      "targetWord": "紧",
+      "englishWord": "Tight"
+    },
+    {
+      "rank": 557,
+      "targetWord": "麻",
+      "englishWord": "Hemp"
+    },
+    {
+      "rank": 558,
+      "targetWord": "很快",
+      "englishWord": "Quickly"
+    },
+    {
+      "rank": 559,
+      "targetWord": "游",
+      "englishWord": "Tour"
+    },
+    {
+      "rank": 560,
+      "targetWord": "忘了",
+      "englishWord": "Forget"
+    },
+    {
+      "rank": 561,
+      "targetWord": "戴",
+      "englishWord": "Wear"
+    },
+    {
+      "rank": 562,
+      "targetWord": "莎",
+      "englishWord": "Shakespeare"
+    },
+    {
+      "rank": 563,
+      "targetWord": "故事",
+      "englishWord": "Story"
+    },
+    {
+      "rank": 564,
+      "targetWord": "视",
+      "englishWord": "Regard"
+    },
+    {
+      "rank": 565,
+      "targetWord": "真正",
+      "englishWord": "Real"
+    },
+    {
+      "rank": 566,
+      "targetWord": "蟹",
+      "englishWord": "Crab"
+    },
+    {
+      "rank": 567,
+      "targetWord": "费",
+      "englishWord": "Fee"
+    },
+    {
+      "rank": 568,
+      "targetWord": "靠",
+      "englishWord": "By"
+    },
+    {
+      "rank": 569,
+      "targetWord": "全",
+      "englishWord": "Whole"
+    },
+    {
+      "rank": 570,
+      "targetWord": "反",
+      "englishWord": "Anti-"
+    },
+    {
+      "rank": 571,
+      "targetWord": "字",
+      "englishWord": "Word"
+    },
+    {
+      "rank": 572,
+      "targetWord": "度",
+      "englishWord": "Degree"
+    },
+    {
+      "rank": 573,
+      "targetWord": "甚至",
+      "englishWord": "Even"
+    },
+    {
+      "rank": 574,
+      "targetWord": "局",
+      "englishWord": "Bureau"
+    },
+    {
+      "rank": 575,
+      "targetWord": "莫",
+      "englishWord": "Mo"
+    },
+    {
+      "rank": 576,
+      "targetWord": "命",
+      "englishWord": "Life"
+    },
+    {
+      "rank": 577,
+      "targetWord": "语",
+      "englishWord": "Language"
+    },
+    {
+      "rank": 578,
+      "targetWord": "性",
+      "englishWord": "Sex"
+    },
+    {
+      "rank": 579,
+      "targetWord": "常",
+      "englishWord": "Often"
+    },
+    {
+      "rank": 580,
+      "targetWord": "莱",
+      "englishWord": "Levin"
+    },
+    {
+      "rank": 581,
+      "targetWord": "之后",
+      "englishWord": "After"
+    },
+    {
+      "rank": 582,
+      "targetWord": "可不",
+      "englishWord": "From time to"
+    },
+    {
+      "rank": 583,
+      "targetWord": "母",
+      "englishWord": "Mother"
+    },
+    {
+      "rank": 584,
+      "targetWord": "留下",
+      "englishWord": "Stay"
+    },
+    {
+      "rank": 585,
+      "targetWord": "外",
+      "englishWord": "Outside"
+    },
+    {
+      "rank": 586,
+      "targetWord": "當",
+      "englishWord": "When the"
+    },
+    {
+      "rank": 587,
+      "targetWord": "此",
+      "englishWord": "This"
+    },
+    {
+      "rank": 588,
+      "targetWord": "惊",
+      "englishWord": "Shock"
+    },
+    {
+      "rank": 589,
+      "targetWord": "伯",
+      "englishWord": "Bo"
+    },
+    {
+      "rank": 590,
+      "targetWord": "口",
+      "englishWord": "Mouth"
+    },
+    {
+      "rank": 591,
+      "targetWord": "喜歡",
+      "englishWord": "Like"
+    },
+    {
+      "rank": 592,
+      "targetWord": "the",
+      "englishWord": "the"
+    },
+    {
+      "rank": 593,
+      "targetWord": "在做",
+      "englishWord": "Doing"
+    },
+    {
+      "rank": 594,
+      "targetWord": "那麼",
+      "englishWord": "Then"
+    },
+    {
+      "rank": 595,
+      "targetWord": "請",
+      "englishWord": "Please"
+    },
+    {
+      "rank": 596,
+      "targetWord": "五",
+      "englishWord": "Five"
+    },
+    {
+      "rank": 597,
+      "targetWord": "标",
+      "englishWord": "Mark"
+    },
+    {
+      "rank": 598,
+      "targetWord": "画",
+      "englishWord": "Painting"
+    },
+    {
+      "rank": 599,
+      "targetWord": "身上",
+      "englishWord": "Body"
+    },
+    {
+      "rank": 600,
+      "targetWord": "以后",
+      "englishWord": "After"
+    },
+    {
+      "rank": 601,
+      "targetWord": "主",
+      "englishWord": "Main"
+    },
+    {
+      "rank": 602,
+      "targetWord": "謝謝",
+      "englishWord": "Thank you"
+    },
+    {
+      "rank": 603,
+      "targetWord": "應該",
+      "englishWord": "Should"
+    },
+    {
+      "rank": 604,
+      "targetWord": "静",
+      "englishWord": "Quiet"
+    },
+    {
+      "rank": 605,
+      "targetWord": "弹",
+      "englishWord": "Bomb"
+    },
+    {
+      "rank": 606,
+      "targetWord": "改",
+      "englishWord": "Change"
+    },
+    {
+      "rank": 607,
+      "targetWord": "酒",
+      "englishWord": "Wine"
+    },
+    {
+      "rank": 608,
+      "targetWord": "伦",
+      "englishWord": "Lun"
+    },
+    {
+      "rank": 609,
+      "targetWord": "裏",
+      "englishWord": "In"
+    },
+    {
+      "rank": 610,
+      "targetWord": "花",
+      "englishWord": "Flower"
+    },
+    {
+      "rank": 611,
+      "targetWord": "续",
+      "englishWord": "Continue"
+    },
+    {
+      "rank": 612,
+      "targetWord": "天哪",
+      "englishWord": "Gosh"
+    },
+    {
+      "rank": 613,
+      "targetWord": "這裡",
+      "englishWord": "Here"
+    },
+    {
+      "rank": 614,
+      "targetWord": "房子",
+      "englishWord": "House"
+    },
+    {
+      "rank": 615,
+      "targetWord": "何",
+      "englishWord": "What"
+    },
+    {
+      "rank": 616,
+      "targetWord": "由",
+      "englishWord": "By"
+    },
+    {
+      "rank": 617,
+      "targetWord": "药",
+      "englishWord": "Drug"
+    },
+    {
+      "rank": 618,
+      "targetWord": "同",
+      "englishWord": "With"
+    },
+    {
+      "rank": 619,
+      "targetWord": "早上",
+      "englishWord": "Morning"
+    },
+    {
+      "rank": 620,
+      "targetWord": "波",
+      "englishWord": "Wave"
+    },
+    {
+      "rank": 621,
+      "targetWord": "弄",
+      "englishWord": "Get"
+    },
+    {
+      "rank": 622,
+      "targetWord": "务",
+      "englishWord": "Business"
+    },
+    {
+      "rank": 623,
+      "targetWord": "原",
+      "englishWord": "Original"
+    },
+    {
+      "rank": 624,
+      "targetWord": "失",
+      "englishWord": "Lose"
+    },
+    {
+      "rank": 625,
+      "targetWord": "考",
+      "englishWord": "Test"
+    },
+    {
+      "rank": 626,
+      "targetWord": "岁",
+      "englishWord": "Years"
+    },
+    {
+      "rank": 627,
+      "targetWord": "统",
+      "englishWord": "Collectively"
+    },
+    {
+      "rank": 628,
+      "targetWord": "斜",
+      "englishWord": "Oblique"
+    },
+    {
+      "rank": 629,
+      "targetWord": "拜托",
+      "englishWord": "Please"
+    },
+    {
+      "rank": 630,
+      "targetWord": "跑",
+      "englishWord": "Run"
+    },
+    {
+      "rank": 631,
+      "targetWord": "不在",
+      "englishWord": "Absence"
+    },
+    {
+      "rank": 632,
+      "targetWord": "害",
+      "englishWord": "Harm"
+    },
+    {
+      "rank": 633,
+      "targetWord": "麽",
+      "englishWord": "What"
+    },
+    {
+      "rank": 634,
+      "targetWord": "日",
+      "englishWord": "Day"
+    },
+    {
+      "rank": 635,
+      "targetWord": "妮",
+      "englishWord": "Ni"
+    },
+    {
+      "rank": 636,
+      "targetWord": "凯",
+      "englishWord": "Triumphant"
+    },
+    {
+      "rank": 637,
+      "targetWord": "衣服",
+      "englishWord": "Clothes"
+    },
+    {
+      "rank": 638,
+      "targetWord": "治",
+      "englishWord": "Rule"
+    },
+    {
+      "rank": 639,
+      "targetWord": "便",
+      "englishWord": "Then"
+    },
+    {
+      "rank": 640,
+      "targetWord": "客",
+      "englishWord": "Passenger"
+    },
+    {
+      "rank": 641,
+      "targetWord": "议",
+      "englishWord": "Discuss"
+    },
+    {
+      "rank": 642,
+      "targetWord": "好好",
+      "englishWord": "Good"
+    },
+    {
+      "rank": 643,
+      "targetWord": "們",
+      "englishWord": "They"
+    },
+    {
+      "rank": 644,
+      "targetWord": "覺得",
+      "englishWord": "Feel"
+    },
+    {
+      "rank": 645,
+      "targetWord": "谢谢",
+      "englishWord": "Thank you"
+    },
+    {
+      "rank": 646,
+      "targetWord": "托",
+      "englishWord": "Entrust"
+    },
+    {
+      "rank": 647,
+      "targetWord": "赛",
+      "englishWord": "Game"
+    },
+    {
+      "rank": 648,
+      "targetWord": "任",
+      "englishWord": "Office"
+    },
+    {
+      "rank": 649,
+      "targetWord": "色",
+      "englishWord": "Color"
+    },
+    {
+      "rank": 650,
+      "targetWord": "独",
+      "englishWord": "Independent"
+    },
+    {
+      "rank": 651,
+      "targetWord": "眼睛",
+      "englishWord": "Eye"
+    },
+    {
+      "rank": 652,
+      "targetWord": "黑",
+      "englishWord": "Black"
+    },
+    {
+      "rank": 653,
+      "targetWord": "华",
+      "englishWord": "China"
+    },
+    {
+      "rank": 654,
+      "targetWord": "放在",
+      "englishWord": "On the"
+    },
+    {
+      "rank": 655,
+      "targetWord": "城",
+      "englishWord": "City"
+    },
+    {
+      "rank": 656,
+      "targetWord": "的時候",
+      "englishWord": "When"
+    },
+    {
+      "rank": 657,
+      "targetWord": "站",
+      "englishWord": "Station"
+    },
+    {
+      "rank": 658,
+      "targetWord": "小孩",
+      "englishWord": "Child"
+    },
+    {
+      "rank": 659,
+      "targetWord": "住在",
+      "englishWord": "Lives in"
+    },
+    {
+      "rank": 660,
+      "targetWord": "咖啡",
+      "englishWord": "Coffee"
+    },
+    {
+      "rank": 661,
+      "targetWord": "换",
+      "englishWord": "Change"
+    },
+    {
+      "rank": 662,
+      "targetWord": "才是",
+      "englishWord": "Is"
+    },
+    {
+      "rank": 663,
+      "targetWord": "褕",
+      "englishWord": "Yu"
+    },
+    {
+      "rank": 664,
+      "targetWord": "周",
+      "englishWord": "Week"
+    },
+    {
+      "rank": 665,
+      "targetWord": "控制",
+      "englishWord": "Control"
+    },
+    {
+      "rank": 666,
+      "targetWord": "言",
+      "englishWord": "Speech"
+    },
+    {
+      "rank": 667,
+      "targetWord": "敢",
+      "englishWord": "Dare"
+    },
+    {
+      "rank": 668,
+      "targetWord": "赢",
+      "englishWord": "Win"
+    },
+    {
+      "rank": 669,
+      "targetWord": "半",
+      "englishWord": "Half"
+    },
+    {
+      "rank": 670,
+      "targetWord": "白",
+      "englishWord": "White"
+    },
+    {
+      "rank": 671,
+      "targetWord": "释",
+      "englishWord": "Release"
+    },
+    {
+      "rank": 672,
+      "targetWord": "能不能",
+      "englishWord": "Can"
+    },
+    {
+      "rank": 673,
+      "targetWord": "生了",
+      "englishWord": "Health"
+    },
+    {
+      "rank": 674,
+      "targetWord": "而已",
+      "englishWord": "Nothing more"
+    },
+    {
+      "rank": 675,
+      "targetWord": "图",
+      "englishWord": "Map"
+    },
+    {
+      "rank": 676,
+      "targetWord": "該",
+      "englishWord": "That"
+    },
+    {
+      "rank": 677,
+      "targetWord": "怪",
+      "englishWord": "Strange"
+    },
+    {
+      "rank": 678,
+      "targetWord": "字幕",
+      "englishWord": "Subtitle"
+    },
+    {
+      "rank": 679,
+      "targetWord": "對不起",
+      "englishWord": "I am sorry"
+    },
+    {
+      "rank": 680,
+      "targetWord": "去看",
+      "englishWord": "To see"
+    },
+    {
+      "rank": 681,
+      "targetWord": "像是",
+      "englishWord": "Like"
+    },
+    {
+      "rank": 682,
+      "targetWord": "保持",
+      "englishWord": "Keeping"
+    },
+    {
+      "rank": 683,
+      "targetWord": "替",
+      "englishWord": "For"
+    },
+    {
+      "rank": 684,
+      "targetWord": "拜",
+      "englishWord": "Worship"
+    },
+    {
+      "rank": 685,
+      "targetWord": "一件",
+      "englishWord": "A"
+    },
+    {
+      "rank": 686,
+      "targetWord": "錢",
+      "englishWord": "Money"
+    },
+    {
+      "rank": 687,
+      "targetWord": "想知道",
+      "englishWord": "Want to know"
+    },
+    {
+      "rank": 688,
+      "targetWord": "時",
+      "englishWord": "Time"
+    },
+    {
+      "rank": 689,
+      "targetWord": "讲",
+      "englishWord": "Speak"
+    },
+    {
+      "rank": 690,
+      "targetWord": "新的",
+      "englishWord": "New"
+    },
+    {
+      "rank": 691,
+      "targetWord": "希",
+      "englishWord": "Hope"
+    },
+    {
+      "rank": 692,
+      "targetWord": "炸",
+      "englishWord": "Fry"
+    },
+    {
+      "rank": 693,
+      "targetWord": "择",
+      "englishWord": "Choose"
+    },
+    {
+      "rank": 694,
+      "targetWord": "知",
+      "englishWord": "Know"
+    },
+    {
+      "rank": 695,
+      "targetWord": "說的",
+      "englishWord": "Said"
+    },
+    {
+      "rank": 696,
+      "targetWord": "码",
+      "englishWord": "Code"
+    },
+    {
+      "rank": 697,
+      "targetWord": "戏",
+      "englishWord": "Play"
+    },
+    {
+      "rank": 698,
+      "targetWord": "塞",
+      "englishWord": "Stopper"
+    },
+    {
+      "rank": 699,
+      "targetWord": "碰",
+      "englishWord": "Touch"
+    },
+    {
+      "rank": 700,
+      "targetWord": "放下",
+      "englishWord": "Put down"
+    },
+    {
+      "rank": 701,
+      "targetWord": "一樣",
+      "englishWord": "Equally"
+    },
+    {
+      "rank": 702,
+      "targetWord": "害怕",
+      "englishWord": "Be afraid"
+    },
+    {
+      "rank": 703,
+      "targetWord": "杰克",
+      "englishWord": "Jack"
+    },
+    {
+      "rank": 704,
+      "targetWord": "迎",
+      "englishWord": "Welcome"
+    },
+    {
+      "rank": 705,
+      "targetWord": "绝",
+      "englishWord": "Absolutely"
+    },
+    {
+      "rank": 706,
+      "targetWord": "開始",
+      "englishWord": "Start"
+    },
+    {
+      "rank": 707,
+      "targetWord": "生命",
+      "englishWord": "Life"
+    },
+    {
+      "rank": 708,
+      "targetWord": "王",
+      "englishWord": "King"
+    },
+    {
+      "rank": 709,
+      "targetWord": "助",
+      "englishWord": "Help"
+    },
+    {
+      "rank": 710,
+      "targetWord": "乔",
+      "englishWord": "Joe"
+    },
+    {
+      "rank": 711,
+      "targetWord": "义",
+      "englishWord": "Justice"
+    },
+    {
+      "rank": 712,
+      "targetWord": "回到",
+      "englishWord": "Back to"
+    },
+    {
+      "rank": 713,
+      "targetWord": "救",
+      "englishWord": "Save"
+    },
+    {
+      "rank": 714,
+      "targetWord": "清楚",
+      "englishWord": "Clear"
+    },
+    {
+      "rank": 715,
+      "targetWord": "冷",
+      "englishWord": "Cold"
+    },
+    {
+      "rank": 716,
+      "targetWord": "原因",
+      "englishWord": "Reason"
+    },
+    {
+      "rank": 717,
+      "targetWord": "却",
+      "englishWord": "But"
+    },
+    {
+      "rank": 718,
+      "targetWord": "付",
+      "englishWord": "Pay"
+    },
+    {
+      "rank": 719,
+      "targetWord": "管",
+      "englishWord": "Tube"
+    },
+    {
+      "rank": 720,
+      "targetWord": "狂",
+      "englishWord": "Mad"
+    },
+    {
+      "rank": 721,
+      "targetWord": "早",
+      "englishWord": "Early"
+    },
+    {
+      "rank": 722,
+      "targetWord": "一天",
+      "englishWord": "One day"
+    },
+    {
+      "rank": 723,
+      "targetWord": "超",
+      "englishWord": "Exceed"
+    },
+    {
+      "rank": 724,
+      "targetWord": "怀",
+      "englishWord": "Bosom"
+    },
+    {
+      "rank": 725,
+      "targetWord": "使",
+      "englishWord": "Make"
+    },
+    {
+      "rank": 726,
+      "targetWord": "断",
+      "englishWord": "Break"
+    },
+    {
+      "rank": 727,
+      "targetWord": "演",
+      "englishWord": "Play"
+    },
+    {
+      "rank": 728,
+      "targetWord": "外面",
+      "englishWord": "Outside"
+    },
+    {
+      "rank": 729,
+      "targetWord": "四",
+      "englishWord": "Four"
+    },
+    {
+      "rank": 730,
+      "targetWord": "楼",
+      "englishWord": "Floor"
+    },
+    {
+      "rank": 731,
+      "targetWord": "另一",
+      "englishWord": "Another"
+    },
+    {
+      "rank": 732,
+      "targetWord": "玩笑",
+      "englishWord": "Joke"
+    },
+    {
+      "rank": 733,
+      "targetWord": "好啊",
+      "englishWord": "Well"
+    },
+    {
+      "rank": 734,
+      "targetWord": "裡",
+      "englishWord": "In"
+    },
+    {
+      "rank": 735,
+      "targetWord": "院",
+      "englishWord": "Hospital"
+    },
+    {
+      "rank": 736,
+      "targetWord": "空",
+      "englishWord": "Air"
+    },
+    {
+      "rank": 737,
+      "targetWord": "娜",
+      "englishWord": "Na"
+    },
+    {
+      "rank": 738,
+      "targetWord": "將",
+      "englishWord": "Will"
+    },
+    {
+      "rank": 739,
+      "targetWord": "下去",
+      "englishWord": "Go on"
+    },
+    {
+      "rank": 740,
+      "targetWord": "传",
+      "englishWord": "Pass"
+    },
+    {
+      "rank": 741,
+      "targetWord": "時間",
+      "englishWord": "Time"
+    },
+    {
+      "rank": 742,
+      "targetWord": "感到",
+      "englishWord": "Feel"
+    },
+    {
+      "rank": 743,
+      "targetWord": "懂",
+      "englishWord": "Understand"
+    },
+    {
+      "rank": 744,
+      "targetWord": "血",
+      "englishWord": "Blood"
+    },
+    {
+      "rank": 745,
+      "targetWord": "失去",
+      "englishWord": "Lose"
+    },
+    {
+      "rank": 746,
+      "targetWord": "终",
+      "englishWord": "End"
+    },
+    {
+      "rank": 747,
+      "targetWord": "還是",
+      "englishWord": "Or"
+    },
+    {
+      "rank": 748,
+      "targetWord": "价",
+      "englishWord": "Price"
+    },
+    {
+      "rank": 749,
+      "targetWord": "包",
+      "englishWord": "Package"
+    },
+    {
+      "rank": 750,
+      "targetWord": "等",
+      "englishWord": "Wait"
+    },
+    {
+      "rank": 751,
+      "targetWord": "变",
+      "englishWord": "Change"
+    },
+    {
+      "rank": 752,
+      "targetWord": "准",
+      "englishWord": "Quasi-"
+    },
+    {
+      "rank": 753,
+      "targetWord": "查",
+      "englishWord": "Check"
+    },
+    {
+      "rank": 754,
+      "targetWord": "阿",
+      "englishWord": "A"
+    },
+    {
+      "rank": 755,
+      "targetWord": "卡",
+      "englishWord": "Card"
+    },
+    {
+      "rank": 756,
+      "targetWord": "這個",
+      "englishWord": "This"
+    },
+    {
+      "rank": 757,
+      "targetWord": "在哪",
+      "englishWord": "Where"
+    },
+    {
+      "rank": 758,
+      "targetWord": "定",
+      "englishWord": "Fixed"
+    },
+    {
+      "rank": 759,
+      "targetWord": "处",
+      "englishWord": "Place"
+    },
+    {
+      "rank": 760,
+      "targetWord": "真是",
+      "englishWord": "Really"
+    },
+    {
+      "rank": 761,
+      "targetWord": "保",
+      "englishWord": "Insurance"
+    },
+    {
+      "rank": 762,
+      "targetWord": "想要",
+      "englishWord": "Want"
+    },
+    {
+      "rank": 763,
+      "targetWord": "安",
+      "englishWord": "Safe"
+    },
+    {
+      "rank": 764,
+      "targetWord": "并",
+      "englishWord": "And"
+    },
+    {
+      "rank": 765,
+      "targetWord": "拿",
+      "englishWord": "Take"
+    },
+    {
+      "rank": 766,
+      "targetWord": "情",
+      "englishWord": "Love"
+    },
+    {
+      "rank": 767,
+      "targetWord": "爸爸",
+      "englishWord": "Father"
+    },
+    {
+      "rank": 768,
+      "targetWord": "褋",
+      "englishWord": "Die"
+    },
+    {
+      "rank": 769,
+      "targetWord": "您",
+      "englishWord": "You"
+    },
+    {
+      "rank": 770,
+      "targetWord": "美",
+      "englishWord": "U.S."
+    },
+    {
+      "rank": 771,
+      "targetWord": "非常",
+      "englishWord": "Very"
+    },
+    {
+      "rank": 772,
+      "targetWord": "办",
+      "englishWord": "Do"
+    },
+    {
+      "rank": 773,
+      "targetWord": "前",
+      "englishWord": "Ago"
+    },
+    {
+      "rank": 774,
+      "targetWord": "格",
+      "englishWord": "Grid"
+    },
+    {
+      "rank": 775,
+      "targetWord": "场",
+      "englishWord": "Field"
+    },
+    {
+      "rank": 776,
+      "targetWord": "体",
+      "englishWord": "Body"
+    },
+    {
+      "rank": 777,
+      "targetWord": "大家",
+      "englishWord": "Everyone"
+    },
+    {
+      "rank": 778,
+      "targetWord": "呀",
+      "englishWord": "Yeah"
+    },
+    {
+      "rank": 779,
+      "targetWord": "系",
+      "englishWord": "System"
+    },
+    {
+      "rank": 780,
+      "targetWord": "后",
+      "englishWord": "After"
+    },
+    {
+      "rank": 781,
+      "targetWord": "亲",
+      "englishWord": "Parent"
+    },
+    {
+      "rank": 782,
+      "targetWord": "明白",
+      "englishWord": "Understand"
+    },
+    {
+      "rank": 783,
+      "targetWord": "备",
+      "englishWord": "Equipment"
+    },
+    {
+      "rank": 784,
+      "targetWord": "布",
+      "englishWord": "Cloth"
+    },
+    {
+      "rank": 785,
+      "targetWord": "计",
+      "englishWord": "Meter"
+    },
+    {
+      "rank": 786,
+      "targetWord": "恩",
+      "englishWord": "Grace"
+    },
+    {
+      "rank": 787,
+      "targetWord": "找到",
+      "englishWord": "Find"
+    },
+    {
+      "rank": 788,
+      "targetWord": "她的",
+      "englishWord": "Her"
+    },
+    {
+      "rank": 789,
+      "targetWord": "老",
+      "englishWord": "Old"
+    },
+    {
+      "rank": 790,
+      "targetWord": "艾",
+      "englishWord": "Ai"
+    },
+    {
+      "rank": 791,
+      "targetWord": "意",
+      "englishWord": "Meaning"
+    },
+    {
+      "rank": 792,
+      "targetWord": "门",
+      "englishWord": "Door"
+    },
+    {
+      "rank": 793,
+      "targetWord": "啦",
+      "englishWord": "La"
+    },
+    {
+      "rank": 794,
+      "targetWord": "米",
+      "englishWord": "Meter"
+    },
+    {
+      "rank": 795,
+      "targetWord": "本",
+      "englishWord": "This"
+    },
+    {
+      "rank": 796,
+      "targetWord": "问",
+      "englishWord": "Ask"
+    },
+    {
+      "rank": 797,
+      "targetWord": "上帝",
+      "englishWord": "God"
+    },
+    {
+      "rank": 798,
+      "targetWord": "必",
+      "englishWord": "Must"
+    },
+    {
+      "rank": 799,
+      "targetWord": "沒",
+      "englishWord": "Not"
+    },
+    {
+      "rank": 800,
+      "targetWord": "等等",
+      "englishWord": "Etc."
+    },
+    {
+      "rank": 801,
+      "targetWord": "不過",
+      "englishWord": "But"
+    },
+    {
+      "rank": 802,
+      "targetWord": "猜",
+      "englishWord": "Guess"
+    },
+    {
+      "rank": 803,
+      "targetWord": "福",
+      "englishWord": "Blessing"
+    },
+    {
+      "rank": 804,
+      "targetWord": "打算",
+      "englishWord": "Plan"
+    },
+    {
+      "rank": 805,
+      "targetWord": "适",
+      "englishWord": "Suitable"
+    },
+    {
+      "rank": 806,
+      "targetWord": "危",
+      "englishWord": "Danger"
+    },
+    {
+      "rank": 807,
+      "targetWord": "连",
+      "englishWord": "Even"
+    },
+    {
+      "rank": 808,
+      "targetWord": "怕",
+      "englishWord": "Fear"
+    },
+    {
+      "rank": 809,
+      "targetWord": "化",
+      "englishWord": "Of"
+    },
+    {
+      "rank": 810,
+      "targetWord": "不需要",
+      "englishWord": "Do not need to"
+    },
+    {
+      "rank": 811,
+      "targetWord": "争",
+      "englishWord": "Fight"
+    },
+    {
+      "rank": 812,
+      "targetWord": "则",
+      "englishWord": "Then"
+    },
+    {
+      "rank": 813,
+      "targetWord": "狱",
+      "englishWord": "Prison"
+    },
+    {
+      "rank": 814,
+      "targetWord": "越",
+      "englishWord": "More"
+    },
+    {
+      "rank": 815,
+      "targetWord": "小子",
+      "englishWord": "Brat"
+    },
+    {
+      "rank": 816,
+      "targetWord": "有趣",
+      "englishWord": "Interesting"
+    },
+    {
+      "rank": 817,
+      "targetWord": "喜歡",
+      "englishWord": "Like"
+    },
+    {
+      "rank": 818,
+      "targetWord": "the",
+      "englishWord": "the"
+    },
+    {
+      "rank": 819,
+      "targetWord": "在做",
+      "englishWord": "Doing"
+    },
+    {
+      "rank": 820,
+      "targetWord": "那麼",
+      "englishWord": "Then"
+    },
+    {
+      "rank": 821,
+      "targetWord": "請",
+      "englishWord": "Please"
+    },
+    {
+      "rank": 822,
+      "targetWord": "五",
+      "englishWord": "Five"
+    },
+    {
+      "rank": 823,
+      "targetWord": "标",
+      "englishWord": "Mark"
+    },
+    {
+      "rank": 824,
+      "targetWord": "画",
+      "englishWord": "Painting"
+    },
+    {
+      "rank": 825,
+      "targetWord": "身上",
+      "englishWord": "Body"
+    },
+    {
+      "rank": 826,
+      "targetWord": "以后",
+      "englishWord": "After"
+    },
+    {
+      "rank": 827,
+      "targetWord": "至少",
+      "englishWord": "At least"
+    },
+    {
+      "rank": 828,
+      "targetWord": "亞",
+      "englishWord": "Inferior"
+    },
+    {
+      "rank": 829,
+      "targetWord": "脱",
+      "englishWord": "Take off"
+    },
+    {
+      "rank": 830,
+      "targetWord": "消息",
+      "englishWord": "News"
+    },
+    {
+      "rank": 831,
+      "targetWord": "不喜",
+      "englishWord": "Do not like"
+    },
+    {
+      "rank": 832,
+      "targetWord": "块",
+      "englishWord": "Block"
+    },
+    {
+      "rank": 833,
+      "targetWord": "快走",
+      "englishWord": "Brisk walking"
+    },
+    {
+      "rank": 834,
+      "targetWord": "著",
+      "englishWord": "With"
+    },
+    {
+      "rank": 835,
+      "targetWord": "各位",
+      "englishWord": "Everybody"
+    },
+    {
+      "rank": 836,
+      "targetWord": "算",
+      "englishWord": "Count"
+    },
+    {
+      "rank": 837,
+      "targetWord": "問題",
+      "englishWord": "Problem"
+    },
+    {
+      "rank": 838,
+      "targetWord": "沒事",
+      "englishWord": "All right"
+    },
+    {
+      "rank": 839,
+      "targetWord": "导",
+      "englishWord": "Guide"
+    },
+    {
+      "rank": 840,
+      "targetWord": "州",
+      "englishWord": "State"
+    },
+    {
+      "rank": 841,
+      "targetWord": "老兄",
+      "englishWord": "Brother"
+    },
+    {
+      "rank": 842,
+      "targetWord": "抓",
+      "englishWord": "Catch"
+    },
+    {
+      "rank": 843,
+      "targetWord": "代",
+      "englishWord": "On behalf of"
+    },
+    {
+      "rank": 844,
+      "targetWord": "蒙",
+      "englishWord": "Mongolian"
+    },
+    {
+      "rank": 845,
+      "targetWord": "抓住",
+      "englishWord": "Catch"
+    },
+    {
+      "rank": 846,
+      "targetWord": "山",
+      "englishWord": "Mountain"
+    },
+    {
+      "rank": 847,
+      "targetWord": "拍",
+      "englishWord": "Beat"
+    },
+    {
+      "rank": 848,
+      "targetWord": "沙",
+      "englishWord": "Sand"
+    },
+    {
+      "rank": 849,
+      "targetWord": "妻子",
+      "englishWord": "Wife"
+    },
+    {
+      "rank": 850,
+      "targetWord": "脸",
+      "englishWord": "Face"
+    },
+    {
+      "rank": 851,
+      "targetWord": "责",
+      "englishWord": "Responsibility"
+    },
+    {
+      "rank": 852,
+      "targetWord": "你自己",
+      "englishWord": "Yourself"
+    },
+    {
+      "rank": 853,
+      "targetWord": "回來",
+      "englishWord": "Come back"
+    },
+    {
+      "rank": 854,
+      "targetWord": "歌",
+      "englishWord": "Song"
+    },
+    {
+      "rank": 855,
+      "targetWord": "星",
+      "englishWord": "Star"
+    },
+    {
+      "rank": 856,
+      "targetWord": "权",
+      "englishWord": "Right"
+    },
+    {
+      "rank": 857,
+      "targetWord": "术",
+      "englishWord": "Technique"
+    },
+    {
+      "rank": 858,
+      "targetWord": "显",
+      "englishWord": "Show"
+    },
+    {
+      "rank": 859,
+      "targetWord": "幸",
+      "englishWord": "Fortunately"
+    },
+    {
+      "rank": 860,
+      "targetWord": "交",
+      "englishWord": "Cross"
+    },
+    {
+      "rank": 861,
+      "targetWord": "不同",
+      "englishWord": "Different"
+    },
+    {
+      "rank": 862,
+      "targetWord": "聪",
+      "englishWord": "Clever"
+    },
+    {
+      "rank": 863,
+      "targetWord": "随",
+      "englishWord": "Follow"
+    },
+    {
+      "rank": 864,
+      "targetWord": "登",
+      "englishWord": "Ascend"
+    },
+    {
+      "rank": 865,
+      "targetWord": "班",
+      "englishWord": "Class"
+    },
+    {
+      "rank": 866,
+      "targetWord": "二",
+      "englishWord": "Two"
+    },
+    {
+      "rank": 867,
+      "targetWord": "录",
+      "englishWord": "Record"
+    },
+    {
+      "rank": 868,
+      "targetWord": "武器",
+      "englishWord": "Weapon"
+    },
+    {
+      "rank": 869,
+      "targetWord": "热",
+      "englishWord": "Hot"
+    },
+    {
+      "rank": 870,
+      "targetWord": "才能",
+      "englishWord": "Ability"
+    },
+    {
+      "rank": 871,
+      "targetWord": "當然",
+      "englishWord": "Of course"
+    },
+    {
+      "rank": 872,
+      "targetWord": "晚",
+      "englishWord": "Night"
+    },
+    {
+      "rank": 873,
+      "targetWord": "晚安",
+      "englishWord": "Good night"
+    },
+    {
+      "rank": 874,
+      "targetWord": "成功",
+      "englishWord": "Success"
+    },
+    {
+      "rank": 875,
+      "targetWord": "未",
+      "englishWord": "Not"
+    },
+    {
+      "rank": 876,
+      "targetWord": "参",
+      "englishWord": "Participate"
+    },
+    {
+      "rank": 877,
+      "targetWord": "瓦",
+      "englishWord": "Tile"
+    },
+    {
+      "rank": 878,
+      "targetWord": "饭",
+      "englishWord": "Rice"
+    },
+    {
+      "rank": 879,
+      "targetWord": "殺",
+      "englishWord": "Kill"
+    },
+    {
+      "rank": 880,
+      "targetWord": "帕",
+      "englishWord": "Handkerchief"
+    },
+    {
+      "rank": 881,
+      "targetWord": "待",
+      "englishWord": "To be"
+    },
+    {
+      "rank": 882,
+      "targetWord": "是否",
+      "englishWord": "Whether"
+    },
+    {
+      "rank": 883,
+      "targetWord": "勒",
+      "englishWord": "Le"
+    },
+    {
+      "rank": 884,
+      "targetWord": "射",
+      "englishWord": "Shoot"
+    },
+    {
+      "rank": 885,
+      "targetWord": "表",
+      "englishWord": "Table"
+    },
+    {
+      "rank": 886,
+      "targetWord": "卫",
+      "englishWord": "Guard"
+    },
+    {
+      "rank": 887,
+      "targetWord": "太太",
+      "englishWord": "Wife"
+    },
+    {
+      "rank": 888,
+      "targetWord": "接受",
+      "englishWord": "Accepted"
+    },
+    {
+      "rank": 889,
+      "targetWord": "跳",
+      "englishWord": "Jump"
+    },
+    {
+      "rank": 890,
+      "targetWord": "象",
+      "englishWord": "Elephant"
+    },
+    {
+      "rank": 891,
+      "targetWord": "灵",
+      "englishWord": "Spirit"
+    },
+    {
+      "rank": 892,
+      "targetWord": "真不",
+      "englishWord": "I really do not"
+    },
+    {
+      "rank": 893,
+      "targetWord": "破",
+      "englishWord": "Break"
+    },
+    {
+      "rank": 894,
+      "targetWord": "夫人",
+      "englishWord": "Mrs."
+    },
+    {
+      "rank": 895,
+      "targetWord": "操",
+      "englishWord": "Exercise"
+    },
+    {
+      "rank": 896,
+      "targetWord": "诺",
+      "englishWord": "Promise"
+    },
+    {
+      "rank": 897,
+      "targetWord": "萨",
+      "englishWord": "Bodhisattva"
+    },
+    {
+      "rank": 898,
+      "targetWord": "卖",
+      "englishWord": "Sell"
+    },
+    {
+      "rank": 899,
+      "targetWord": "选",
+      "englishWord": "Selected"
+    },
+    {
+      "rank": 900,
+      "targetWord": "注意",
+      "englishWord": "Note"
+    },
+    {
+      "rank": 901,
+      "targetWord": "历",
+      "englishWord": "Calendar"
+    },
+    {
+      "rank": 902,
+      "targetWord": "脚",
+      "englishWord": "Foot"
+    },
+    {
+      "rank": 903,
+      "targetWord": "丝",
+      "englishWord": "Wire"
+    },
+    {
+      "rank": 904,
+      "targetWord": "少",
+      "englishWord": "Less"
+    },
+    {
+      "rank": 905,
+      "targetWord": "工",
+      "englishWord": "Work"
+    },
+    {
+      "rank": 906,
+      "targetWord": "密",
+      "englishWord": "Close"
+    },
+    {
+      "rank": 907,
+      "targetWord": "鱼",
+      "englishWord": "Fish"
+    },
+    {
+      "rank": 908,
+      "targetWord": "验",
+      "englishWord": "Test"
+    },
+    {
+      "rank": 909,
+      "targetWord": "不再",
+      "englishWord": "No longer"
+    },
+    {
+      "rank": 910,
+      "targetWord": "检",
+      "englishWord": "Check"
+    },
+    {
+      "rank": 911,
+      "targetWord": "骗",
+      "englishWord": "Cheat"
+    },
+    {
+      "rank": 912,
+      "targetWord": "必須",
+      "englishWord": "Must"
+    },
+    {
+      "rank": 913,
+      "targetWord": "a",
+      "englishWord": "a"
+    },
+    {
+      "rank": 914,
+      "targetWord": "自由",
+      "englishWord": "Free"
+    },
+    {
+      "rank": 915,
+      "targetWord": "杯",
+      "englishWord": "Cup"
+    },
+    {
+      "rank": 916,
+      "targetWord": "馆",
+      "englishWord": "Shop"
+    },
+    {
+      "rank": 917,
+      "targetWord": "完",
+      "englishWord": "Complete"
+    },
+    {
+      "rank": 918,
+      "targetWord": "追",
+      "englishWord": "Chase"
+    },
+    {
+      "rank": 919,
+      "targetWord": "际",
+      "englishWord": "Occasion"
+    },
+    {
+      "rank": 920,
+      "targetWord": "产",
+      "englishWord": "Yield"
+    },
+    {
+      "rank": 921,
+      "targetWord": "想到",
+      "englishWord": "Think"
+    },
+    {
+      "rank": 922,
+      "targetWord": "收",
+      "englishWord": "Income"
+    },
+    {
+      "rank": 923,
+      "targetWord": "探",
+      "englishWord": "Explore"
+    },
+    {
+      "rank": 924,
+      "targetWord": "直到",
+      "englishWord": "Until"
+    },
+    {
+      "rank": 925,
+      "targetWord": "酷",
+      "englishWord": "Cool"
+    },
+    {
+      "rank": 926,
+      "targetWord": "乱",
+      "englishWord": "Random"
+    },
+    {
+      "rank": 927,
+      "targetWord": "资",
+      "englishWord": "Capital"
+    },
+    {
+      "rank": 928,
+      "targetWord": "毁",
+      "englishWord": "Ruin"
+    },
+    {
+      "rank": 929,
+      "targetWord": "要求",
+      "englishWord": "Claim"
+    },
+    {
+      "rank": 930,
+      "targetWord": "急",
+      "englishWord": "Urgent"
+    },
+    {
+      "rank": 931,
+      "targetWord": "玛",
+      "englishWord": "Mary"
+    },
+    {
+      "rank": 932,
+      "targetWord": "方",
+      "englishWord": "Square"
+    },
+    {
+      "rank": 933,
+      "targetWord": "完成",
+      "englishWord": "Complete"
+    },
+    {
+      "rank": 934,
+      "targetWord": "照片",
+      "englishWord": "Photo"
+    },
+    {
+      "rank": 935,
+      "targetWord": "收到",
+      "englishWord": "Receive"
+    },
+    {
+      "rank": 936,
+      "targetWord": "所有人",
+      "englishWord": "Everyone"
+    },
+    {
+      "rank": 937,
+      "targetWord": "博士",
+      "englishWord": "Doctor"
+    },
+    {
+      "rank": 938,
+      "targetWord": "媽媽",
+      "englishWord": "Mom"
+    },
+    {
+      "rank": 939,
+      "targetWord": "you",
+      "englishWord": "you"
+    },
+    {
+      "rank": 940,
+      "targetWord": "父母",
+      "englishWord": "Parents"
+    },
+    {
+      "rank": 941,
+      "targetWord": "奇怪",
+      "englishWord": "Strange"
+    },
+    {
+      "rank": 942,
+      "targetWord": "男孩",
+      "englishWord": "Boy"
+    },
+    {
+      "rank": 943,
+      "targetWord": "攻",
+      "englishWord": "Attack"
+    },
+    {
+      "rank": 944,
+      "targetWord": "店",
+      "englishWord": "Shop"
+    },
+    {
+      "rank": 945,
+      "targetWord": "埃",
+      "englishWord": "Angstrom"
+    },
+    {
+      "rank": 946,
+      "targetWord": "多久",
+      "englishWord": "How long"
+    },
+    {
+      "rank": 947,
+      "targetWord": "红",
+      "englishWord": "Red"
+    },
+    {
+      "rank": 948,
+      "targetWord": "太多",
+      "englishWord": "Too"
+    },
+    {
+      "rank": 949,
+      "targetWord": "咱",
+      "englishWord": "We"
+    },
+    {
+      "rank": 950,
+      "targetWord": "能",
+      "englishWord": "Can"
+    },
+    {
+      "rank": 951,
+      "targetWord": "事",
+      "englishWord": "Thing"
+    },
+    {
+      "rank": 952,
+      "targetWord": "看",
+      "englishWord": "See"
+    },
+    {
+      "rank": 953,
+      "targetWord": "我們",
+      "englishWord": "We"
+    },
+    {
+      "rank": 954,
+      "targetWord": "上",
+      "englishWord": "On"
+    },
+    {
+      "rank": 955,
+      "targetWord": "给",
+      "englishWord": "To"
+    },
+    {
+      "rank": 956,
+      "targetWord": "可以",
+      "englishWord": "Can"
+    },
+    {
+      "rank": 957,
+      "targetWord": "现",
+      "englishWord": "Present"
+    },
+    {
+      "rank": 958,
+      "targetWord": "斯",
+      "englishWord": "Sri Lanka"
+    },
+    {
+      "rank": 959,
+      "targetWord": "做",
+      "englishWord": "Do"
+    },
+    {
+      "rank": 960,
+      "targetWord": "儿",
+      "englishWord": "Child"
+    },
+    {
+      "rank": 961,
+      "targetWord": "时",
+      "englishWord": "Time"
+    },
+    {
+      "rank": 962,
+      "targetWord": "点",
+      "englishWord": "Point"
+    },
+    {
+      "rank": 963,
+      "targetWord": "开",
+      "englishWord": "Open"
+    },
+    {
+      "rank": 964,
+      "targetWord": "让",
+      "englishWord": "Let"
+    },
+    {
+      "rank": 965,
+      "targetWord": "就是",
+      "englishWord": "Is"
+    },
+    {
+      "rank": 966,
+      "targetWord": "但",
+      "englishWord": "But"
+    },
+    {
+      "rank": 967,
+      "targetWord": "呢",
+      "englishWord": "It"
+    },
+    {
+      "rank": 968,
+      "targetWord": "着",
+      "englishWord": "With"
+    },
+    {
+      "rank": 969,
+      "targetWord": "它",
+      "englishWord": "It"
+    },
+    {
+      "rank": 970,
+      "targetWord": "這",
+      "englishWord": "This"
+    },
+    {
+      "rank": 971,
+      "targetWord": "如果",
+      "englishWord": "If"
+    },
+    {
+      "rank": 972,
+      "targetWord": "跟",
+      "englishWord": "With"
+    },
+    {
+      "rank": 973,
+      "targetWord": "邪",
+      "englishWord": "Evil"
+    },
+    {
+      "rank": 974,
+      "targetWord": "听",
+      "englishWord": "Listen"
+    },
+    {
+      "rank": 975,
+      "targetWord": "克",
+      "englishWord": "Gram"
+    },
+    {
+      "rank": 976,
+      "targetWord": "再",
+      "englishWord": "Again"
+    },
+    {
+      "rank": 977,
+      "targetWord": "快",
+      "englishWord": "Fast"
+    },
+    {
+      "rank": 978,
+      "targetWord": "嗎",
+      "englishWord": "Do"
+    },
+    {
+      "rank": 979,
+      "targetWord": "被",
+      "englishWord": "Be"
+    },
+    {
+      "rank": 980,
+      "targetWord": "是的",
+      "englishWord": "Yes"
+    },
+    {
+      "rank": 981,
+      "targetWord": "大",
+      "englishWord": "Large"
+    },
+    {
+      "rank": 982,
+      "targetWord": "先生",
+      "englishWord": "Mr."
+    },
+    {
+      "rank": 983,
+      "targetWord": "别",
+      "englishWord": "Do not"
+    },
+    {
+      "rank": 984,
+      "targetWord": "告",
+      "englishWord": "Tell"
+    },
+    {
+      "rank": 985,
+      "targetWord": "真的",
+      "englishWord": "Really"
+    },
+    {
+      "rank": 986,
+      "targetWord": "谢",
+      "englishWord": "Thank"
+    },
+    {
+      "rank": 987,
+      "targetWord": "哦",
+      "englishWord": "Oh"
+    },
+    {
+      "rank": 988,
+      "targetWord": "话",
+      "englishWord": "Words"
+    },
+    {
+      "rank": 989,
+      "targetWord": "械",
+      "englishWord": "Instrument"
+    },
+    {
+      "rank": 990,
+      "targetWord": "见",
+      "englishWord": "See"
+    },
+    {
+      "rank": 991,
+      "targetWord": "当",
+      "englishWord": "When the"
+    },
+    {
+      "rank": 992,
+      "targetWord": "芯",
+      "englishWord": "Core"
+    },
+    {
+      "rank": 993,
+      "targetWord": "该",
+      "englishWord": "That"
+    },
+    {
+      "rank": 994,
+      "targetWord": "西",
+      "englishWord": "Western"
+    },
+    {
+      "rank": 995,
+      "targetWord": "子",
+      "englishWord": "Child"
+    },
+    {
+      "rank": 996,
+      "targetWord": "已",
+      "englishWord": "Already"
+    },
+    {
+      "rank": 997,
+      "targetWord": "會",
+      "englishWord": "Can"
+    },
+    {
+      "rank": 998,
+      "targetWord": "小",
+      "englishWord": "Small"
+    },
+    {
+      "rank": 999,
+      "targetWord": "爱",
+      "englishWord": "Love"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "特",
+      "englishWord": "Special"
+    }
+  ]
+}

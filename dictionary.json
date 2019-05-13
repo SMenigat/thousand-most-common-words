@@ -1,0 +1,492 @@
+[
+  {
+    "code": "af",
+    "name": "Afrikaans",
+    "wordFilePath": "words/af.json"
+  },
+  {
+    "code": "ar",
+    "name": "Arabic",
+    "wordFilePath": "words/ar.json"
+  },
+  {
+    "code": "az",
+    "name": "Azerbaijani",
+    "wordFilePath": "words/az.json"
+  },
+  {
+    "code": "be",
+    "name": "Belarusian",
+    "wordFilePath": "words/be.json"
+  },
+  {
+    "code": "bg",
+    "name": "Bulgarian",
+    "wordFilePath": "words/bg.json"
+  },
+  {
+    "code": "bn",
+    "name": "Bengali",
+    "wordFilePath": "words/bn.json"
+  },
+  {
+    "code": "bs",
+    "name": "Bosnian",
+    "wordFilePath": "words/bs.json"
+  },
+  {
+    "code": "ca",
+    "name": "Catalan",
+    "wordFilePath": "words/ca.json"
+  },
+  {
+    "code": "ceb",
+    "name": "Cebuano",
+    "wordFilePath": "words/ceb.json"
+  },
+  {
+    "code": "co",
+    "name": "Corsican",
+    "wordFilePath": "words/co.json"
+  },
+  {
+    "code": "cs",
+    "name": "Czech",
+    "wordFilePath": "words/cs.json"
+  },
+  {
+    "code": "cy",
+    "name": "Welsh",
+    "wordFilePath": "words/cy.json"
+  },
+  {
+    "code": "da",
+    "name": "Danish",
+    "wordFilePath": "words/da.json"
+  },
+  {
+    "code": "de",
+    "name": "German",
+    "wordFilePath": "words/de.json"
+  },
+  {
+    "code": "el",
+    "name": "Greek",
+    "wordFilePath": "words/el.json"
+  },
+  {
+    "code": "en",
+    "name": "English",
+    "wordFilePath": "words/en.json"
+  },
+  {
+    "code": "eo",
+    "name": "Esperanto",
+    "wordFilePath": "words/eo.json"
+  },
+  {
+    "code": "es",
+    "name": "Spanish",
+    "wordFilePath": "words/es.json"
+  },
+  {
+    "code": "et",
+    "name": "Estonian",
+    "wordFilePath": "words/et.json"
+  },
+  {
+    "code": "eu",
+    "name": "Basque",
+    "wordFilePath": "words/eu.json"
+  },
+  {
+    "code": "fa",
+    "name": "Persian",
+    "wordFilePath": "words/fa.json"
+  },
+  {
+    "code": "fi",
+    "name": "Finnish",
+    "wordFilePath": "words/fi.json"
+  },
+  {
+    "code": "fr",
+    "name": "French",
+    "wordFilePath": "words/fr.json"
+  },
+  {
+    "code": "fry",
+    "name": "Frisian",
+    "wordFilePath": "words/fry.json"
+  },
+  {
+    "code": "ga",
+    "name": "Irish",
+    "wordFilePath": "words/ga.json"
+  },
+  {
+    "code": "gl",
+    "name": "Galician",
+    "wordFilePath": "words/gl.json"
+  },
+  {
+    "code": "gu",
+    "name": "Gujarati",
+    "wordFilePath": "words/gu.json"
+  },
+  {
+    "code": "ha",
+    "name": "Hausa",
+    "wordFilePath": "words/ha.json"
+  },
+  {
+    "code": "haw",
+    "name": "Hawaiian",
+    "wordFilePath": "words/haw.json"
+  },
+  {
+    "code": "he",
+    "name": "Hebrew",
+    "wordFilePath": "words/he.json"
+  },
+  {
+    "code": "hi",
+    "name": "Hindi",
+    "wordFilePath": "words/hi.json"
+  },
+  {
+    "code": "hr",
+    "name": "Croatian",
+    "wordFilePath": "words/hr.json"
+  },
+  {
+    "code": "ht",
+    "name": "Haitian",
+    "wordFilePath": "words/ht.json"
+  },
+  {
+    "code": "hu",
+    "name": "Hungarian",
+    "wordFilePath": "words/hu.json"
+  },
+  {
+    "code": "hy",
+    "name": "Armenian",
+    "wordFilePath": "words/hy.json"
+  },
+  {
+    "code": "id",
+    "name": "Indonesian",
+    "wordFilePath": "words/id.json"
+  },
+  {
+    "code": "ig",
+    "name": "Igbo",
+    "wordFilePath": "words/ig.json"
+  },
+  {
+    "code": "is",
+    "name": "Icelandic",
+    "wordFilePath": "words/is.json"
+  },
+  {
+    "code": "it",
+    "name": "Italian",
+    "wordFilePath": "words/it.json"
+  },
+  {
+    "code": "ja",
+    "name": "Japanese",
+    "wordFilePath": "words/ja.json"
+  },
+  {
+    "code": "jv",
+    "name": "Javanese",
+    "wordFilePath": "words/jv.json"
+  },
+  {
+    "code": "ka",
+    "name": "Georgian",
+    "wordFilePath": "words/ka.json"
+  },
+  {
+    "code": "kk",
+    "name": "Kazakh",
+    "wordFilePath": "words/kk.json"
+  },
+  {
+    "code": "km",
+    "name": "Khmer",
+    "wordFilePath": "words/km.json"
+  },
+  {
+    "code": "kn",
+    "name": "Kannada",
+    "wordFilePath": "words/kn.json"
+  },
+  {
+    "code": "ko",
+    "name": "Korean",
+    "wordFilePath": "words/ko.json"
+  },
+  {
+    "code": "ku",
+    "name": "Kurdish",
+    "wordFilePath": "words/ku.json"
+  },
+  {
+    "code": "ky",
+    "name": "Kyrgyz",
+    "wordFilePath": "words/ky.json"
+  },
+  {
+    "code": "la",
+    "name": "Latin",
+    "wordFilePath": "words/la.json"
+  },
+  {
+    "code": "lb",
+    "name": "Luxembourgish",
+    "wordFilePath": "words/lb.json"
+  },
+  {
+    "code": "lo",
+    "name": "Lao",
+    "wordFilePath": "words/lo.json"
+  },
+  {
+    "code": "lt",
+    "name": "Lithuanian",
+    "wordFilePath": "words/lt.json"
+  },
+  {
+    "code": "lv",
+    "name": "Latvian",
+    "wordFilePath": "words/lv.json"
+  },
+  {
+    "code": "mg",
+    "name": "Malagasy",
+    "wordFilePath": "words/mg.json"
+  },
+  {
+    "code": "mi",
+    "name": "Maori",
+    "wordFilePath": "words/mi.json"
+  },
+  {
+    "code": "mk",
+    "name": "Macedonian",
+    "wordFilePath": "words/mk.json"
+  },
+  {
+    "code": "ml",
+    "name": "Malayalam",
+    "wordFilePath": "words/ml.json"
+  },
+  {
+    "code": "mn",
+    "name": "Mongolian",
+    "wordFilePath": "words/mn.json"
+  },
+  {
+    "code": "mr",
+    "name": "Marathi",
+    "wordFilePath": "words/mr.json"
+  },
+  {
+    "code": "mt",
+    "name": "Maltese",
+    "wordFilePath": "words/mt.json"
+  },
+  {
+    "code": "mww",
+    "name": "Hmong",
+    "wordFilePath": "words/mww.json"
+  },
+  {
+    "code": "my",
+    "name": "Myanmar (Burmese)",
+    "wordFilePath": "words/my.json"
+  },
+  {
+    "code": "ne",
+    "name": "Nepali",
+    "wordFilePath": "words/ne.json"
+  },
+  {
+    "code": "nl",
+    "name": "Dutch",
+    "wordFilePath": "words/nl.json"
+  },
+  {
+    "code": "no",
+    "name": "Norwegian",
+    "wordFilePath": "words/no.json"
+  },
+  {
+    "code": "ny",
+    "name": "Chichewa",
+    "wordFilePath": "words/ny.json"
+  },
+  {
+    "code": "pa",
+    "name": "Punjabi",
+    "wordFilePath": "words/pa.json"
+  },
+  {
+    "code": "pl",
+    "name": "Polish",
+    "wordFilePath": "words/pl.json"
+  },
+  {
+    "code": "ps",
+    "name": "Pashto",
+    "wordFilePath": "words/ps.json"
+  },
+  {
+    "code": "pt",
+    "name": "Portuguese",
+    "wordFilePath": "words/pt.json"
+  },
+  {
+    "code": "ro",
+    "name": "Romanian",
+    "wordFilePath": "words/ro.json"
+  },
+  {
+    "code": "ru",
+    "name": "Russian",
+    "wordFilePath": "words/ru.json"
+  },
+  {
+    "code": "si",
+    "name": "Sinhala",
+    "wordFilePath": "words/si.json"
+  },
+  {
+    "code": "sk",
+    "name": "Slovak",
+    "wordFilePath": "words/sk.json"
+  },
+  {
+    "code": "sl",
+    "name": "Slovenian",
+    "wordFilePath": "words/sl.json"
+  },
+  {
+    "code": "so",
+    "name": "Somali",
+    "wordFilePath": "words/so.json"
+  },
+  {
+    "code": "sq",
+    "name": "Albanian",
+    "wordFilePath": "words/sq.json"
+  },
+  {
+    "code": "sr",
+    "name": "Serbian",
+    "wordFilePath": "words/sr.json"
+  },
+  {
+    "code": "st",
+    "name": "Sesotho",
+    "wordFilePath": "words/st.json"
+  },
+  {
+    "code": "su",
+    "name": "Sundanese",
+    "wordFilePath": "words/su.json"
+  },
+  {
+    "code": "sv",
+    "name": "Swedish",
+    "wordFilePath": "words/sv.json"
+  },
+  {
+    "code": "sw",
+    "name": "Swahili",
+    "wordFilePath": "words/sw.json"
+  },
+  {
+    "code": "ta",
+    "name": "Tamil",
+    "wordFilePath": "words/ta.json"
+  },
+  {
+    "code": "te",
+    "name": "Telugu",
+    "wordFilePath": "words/te.json"
+  },
+  {
+    "code": "tg",
+    "name": "Tajik",
+    "wordFilePath": "words/tg.json"
+  },
+  {
+    "code": "th",
+    "name": "Thai",
+    "wordFilePath": "words/th.json"
+  },
+  {
+    "code": "",
+    "name": "Filipino",
+    "wordFilePath": "words/tl.json"
+  },
+  {
+    "code": "tr",
+    "name": "Turkish",
+    "wordFilePath": "words/tr.json"
+  },
+  {
+    "code": "uk",
+    "name": "Ukrainian",
+    "wordFilePath": "words/uk.json"
+  },
+  {
+    "code": "ur",
+    "name": "Urdu",
+    "wordFilePath": "words/ur.json"
+  },
+  {
+    "code": "uz",
+    "name": "Uzbek",
+    "wordFilePath": "words/uz.json"
+  },
+  {
+    "code": "vi",
+    "name": "Vietnamese",
+    "wordFilePath": "words/vi.json"
+  },
+  {
+    "code": "xh",
+    "name": "Xhosa",
+    "wordFilePath": "words/xh.json"
+  },
+  {
+    "code": "yi",
+    "name": "Yiddish",
+    "wordFilePath": "words/yi.json"
+  },
+  {
+    "code": "yo",
+    "name": "Yoruba",
+    "wordFilePath": "words/yo.json"
+  },
+  {
+    "code": "zh",
+    "name": "Chinese",
+    "wordFilePath": "words/zh.json"
+  },
+  {
+    "code": "zsm",
+    "name": "Malaysian",
+    "wordFilePath": "words/zsm.json"
+  },
+  {
+    "code": "zu",
+    "name": "Zulu",
+    "wordFilePath": "words/zu.json"
+  }
+]

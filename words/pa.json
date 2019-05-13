@@ -1,0 +1,5007 @@
+{
+  "languageCode": "pa",
+  "languageName": "Punjabi",
+  "languageNativeName": "ਪੰਜਾਬੀ",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "ਦੇ ਤੌਰ ਤੇ",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "ਮੈਨੂੰ",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "ਉਸ ਦੇ",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": ", ਜੋ ਕਿ",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ਉਸ ਨੇ",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "ਸੀ,",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "ਲਈ",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "‘ਤੇ",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "ਹਨ",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "ਦੇ ਨਾਲ",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ਉਹ",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "ਹੋ",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "‘ਤੇ",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "ਇੱਕ",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "ਹੈ",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "ਇਸ ਨੂੰ",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "ਤੱਕ",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "ਕੇ",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "ਗਰਮ",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "ਸ਼ਬਦ ਨੂੰ",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "ਪਰ",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "ਕੀ ਹੈ",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "ਨੂੰ ਕੁਝ",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "ਹੈ",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "ਇਸ ਨੂੰ",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "ਤੁਹਾਨੂੰ",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "ਜ",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "ਸੀ,",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "The",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "ਦੇ",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "ਨੂੰ",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "ਹੈ ਅਤੇ",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "ਇੱਕ",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "ਵਿੱਚ",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "ਸਾਨੂੰ",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "ਕਰ ਸਕਦੇ ਹੋ",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ਬਾਹਰ",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "ਨੂੰ ਹੋਰ",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "ਸਨ",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": ", ਜੋ ਕਿ",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "ਕਰਦੇ",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "ਆਪਣੇ",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "ਵਾਰ",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "ਜੇ",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "ਕਰੇਗਾ",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "ਕਿੰਨੇ",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "ਨੇ ਕਿਹਾ ਕਿ",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "ਇੱਕ",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "ਹਰ ਇੱਕ",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "ਨੂੰ ਦੱਸ",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "ਕਰਦਾ ਹੈ",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "ਸੈੱਟ ਹੈ",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "ਤਿੰਨ",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "ਚਾਹੁੰਦੇ",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "ਹਵਾ",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "ਨਾਲ ਨਾਲ",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "ਇਹ ਵੀ",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "ਖੇਡਣ",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "ਛੋਟੇ ਛੋਟੇ",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "ਅੰਤ ਵਿੱਚ",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "ਪਾ",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "ਘਰ ਦੇ",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "ਨੂੰ ਪੜ੍ਹ",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "ਦਾ ਹੱਥ",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "ਪੋਰਟ ਨੂੰ",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "ਵੱਡੇ",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "ਜੋੜ",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "ਸ਼ਾਮਿਲ",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "ਵੀ",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "ਜ਼ਮੀਨ ਦੀ",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "ਇਥੇ",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "ਲਾਜ਼ਮੀ ਹੈ ਕਿ",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "ਵੱਡੇ",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "ਉੱਚ",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "ਅਜਿਹੇ",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "ਦੀ ਪਾਲਣਾ ਕਰੋ",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "ਕੰਮ",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "ਇਸੇ",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "ਪੁੱਛੋ",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "ਲੋਕ",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "ਤਬਦੀਲੀ",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "ਚਲਾ ਗਿਆ",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "ਹਲਕਾ",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "ਦਿਆਲੂ",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "ਬੰਦ",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "ਦੀ ਲੋੜ ਹੈ",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "ਦੇ ਘਰ",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "ਤਸਵੀਰ",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "ਸਾਡੇ ਨਾਲ",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "ਨੂੰ ਫਿਰ",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "ਜਾਨਵਰ",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "ਬਿੰਦੂ",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "ਮਾਤਾ",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "ਸੰਸਾਰ ਨੂੰ",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "ਦੇ ਨੇੜੇ",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "ਨੂੰ ਬਣਾਉਣ",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "ਸਵੈ",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "ਧਰਤੀ ਨੂੰ",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "ਪਿਤਾ ਨੂੰ",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "ਕੋਈ ਵੀ",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "ਨਵ",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "ਕੰਮ ਦਾ",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "ਹਿੱਸਾ ਹੈ",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "ਲੈ",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "ਪ੍ਰਾਪਤ",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "ਸਥਾਨ",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "ਕੀਤੀ ਸੀ",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "ਰਹਿੰਦੇ",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "ਜਿੱਥੇ ਕਿ",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "ਦੇ ਬਾਅਦ",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "ਵਾਪਸ",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "ਥੋੜਾ",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "ਸਿਰਫ",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "ਦੌਰ",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "ਆਦਮੀ ਨੂੰ",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "ਸਾਲ ਦੇ",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "ਆਇਆ ਸੀ",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "ਪ੍ਰਦਰਸ਼ਨ",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ਨੂੰ ਹਰ",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "ਚੰਗਾ",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "ਮੈਨੂੰ",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "ਦੇਣ",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "ਸਾਡੇ",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "ਹੇਠ",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "ਨਾਮ",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "ਬਹੁਤ ਹੀ",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "ਦੁਆਰਾ",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "ਹੁਣੇ ਹੀ",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "ਫਾਰਮ ਨੂੰ",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "ਦੀ ਸਜ਼ਾ",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "ਮਹਾਨ",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "ਸੋਚਦੇ",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "ਦਾ ਕਹਿਣਾ ਹੈ",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "ਦੀ ਮਦਦ",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "ਖੋਜੋ",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "ਲਾਈਨ",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "ਵੱਖਰੇ ਹਨ",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "ਵਾਰੀ",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "ਕਾਰਨ",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "ਬਹੁਤ ਕੁਝ",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "ਦਾ ਮਤਲਬ ਹੈ",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "ਅੱਗੇ",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "ਮੂਵ",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "ਦਾ ਹੱਕ",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "ਉਹ ਮੁੰਡਾ",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "ਪੁਰਾਣੀ",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "ਨੂੰ ਵੀ",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "ਉਸੇ ਹੀ",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ਉਸ ਨੇ",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "ਸਾਰੇ",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "ਉੱਥੇ",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "ਜਦ",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "ਅਪ",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "ਵਰਤਣ",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "ਤੁਹਾਡੇ",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "ਤਰੀਕਾ ਹੈ",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "ਬਾਰੇ",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "ਬਹੁਤ ਸਾਰੇ",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "ਫਿਰ",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "ਨੂੰ",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "ਲਿਖਣ ਦੀ",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "ਸੀ",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "ਵਰਗੇ",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "ਇਸ ਲਈ",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "ਇਹ",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ਉਸ ਨੂੰ",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "ਲੰਬੇ",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "ਕਰ",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "ਗੱਲ ਇਹ ਹੈ ਕਿ",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "ਵੇਖੋ,",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "ਨੇ ਉਸ ਨੂੰ",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "ਦੇ ਦੋ",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ਹੈ",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "ਦੇਖ",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "ਹੋਰ",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "ਦਿਨ ਦੇ",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "ਹੋ ਸਕਦਾ ਸੀ",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "ਜਾਣ",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "ਆ",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "ਨੇ ਕੀਤਾ",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "ਦਾ ਨੰਬਰ",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "ਆਵਾਜ਼",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ਕੋਈ ਵੀ",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "ਸਭ",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "ਲੋਕ",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "ਮੇਰੇ",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "ਵੱਧ",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "ਪਤਾ ਹੈ",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ਪਾਣੀ ਦੀ",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "ਵੱਧ",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "ਕਾਲ ਦਾ",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "ਪਹਿਲੀ",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "ਜੋ",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "ਹੋ ਸਕਦਾ ਹੈ",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "ਡਾਊਨ",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "ਪਾਸੇ",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "ਕੀਤਾ ਗਿਆ",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "ਨੂੰ ਹੁਣ",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "ਲੱਭਣ ਲਈ",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "ਸਿਰ ‘",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "ਖੜ੍ਹੇ",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "ਆਪਣੇ ਹੀ",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "ਸਫ਼ਾ",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "ਦੇਸ਼ ‘",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "ਪਾਇਆ",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "ਇਸ ਦਾ ਜਵਾਬ",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "ਸਕੂਲ ਦੇ",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "ਵਾਧਾ",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "ਦਾ ਅਧਿਐਨ",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "ਅਜੇ ਵੀ",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "ਸਿੱਖਣ",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "ਬੂਟਾ",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "ਦੇ ਕਵਰ",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "ਭੋਜਨ",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "ਸੂਰਜ ਦੀ",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "ਨੂੰ ਚਾਰ",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "ਦੇ ਵਿਚਕਾਰ",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "ਰਾਜ ਦੇ",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "ਰੱਖਣ",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "ਅੱਖ",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "ਕਦੇ ਵੀ",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "ਪਿਛਲੇ",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "ਦਿਉ",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "ਸੋਚਿਆ",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "ਸ਼ਹਿਰ ਦੀ",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "ਰੁੱਖ ਨੂੰ",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "ਪਾਰ",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ਫਾਰਮ ‘",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "ਹਾਰਡ",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "ਸ਼ੁਰੂ ਕਰਨ",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "ਸ਼ਾਇਦ",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "ਕਹਾਣੀ",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "ਆਰਾ",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "ਦੂਰ",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "ਸਮੁੰਦਰ ਦੇ",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "ਖਿੱਚਣ",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "ਨੂੰ ਛੱਡ",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "ਦੇਰ",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "ਰਨ",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ਨਾਂ ਕਰੋ",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "ਜਦਕਿ",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "ਪ੍ਰੈੱਸ",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "ਬੰਦ ਕਰੋ",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "ਰਾਤ ਨੂੰ",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "ਦਾ ਅਸਲੀ",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "ਜ਼ਿੰਦਗੀ ਨੂੰ",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "ਕੁਝ",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "ਉੱਤਰ",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "ਦੀ ਕਿਤਾਬ",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "ਲੈ",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "ਲੈ ਲਿਆ",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "ਵਿਗਿਆਨ ਦੇ",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "ਨੂੰ ਖਾਣ",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "ਕਮਰੇ",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "ਦੋਸਤ",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "ਸ਼ੁਰੂ ਕੀਤਾ",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ਇਹ ਵਿਚਾਰ",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ਮੱਛੀ",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "ਪਹਾੜ",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "ਰੂਕੋ",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "ਇੱਕ ਵਾਰ",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "ਅਧਾਰ",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "ਸੁਣਦੇ",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ਘੋੜਾ",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "ਕੱਟ",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "ਇਹ ਯਕੀਨੀ",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "ਜਾਗ",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "ਰੰਗ ਹੈ",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "ਦਾ ਚਿਹਰਾ",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "ਲੱਕੜ ਦੇ",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "ਮੁੱਖ",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "ਖੁੱਲ੍ਹਾ",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "ਲੱਗਦਾ ਹੈ",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "ਇਕੱਠੇ ਹੋ ਕੇ",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "ਨੂੰ ਅਗਲੇ",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "ਚਿੱਟੇ,",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "ਬੱਚੇ",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "ਸ਼ੁਰੂ",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "ਮਿਲੀ",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "ਤੁਰ",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "ਉਦਾਹਰਨ",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ਸੌਖਾ",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "ਪੇਪਰ",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "ਗਰੁੱਪ ਨੂੰ",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "ਨੂੰ ਹਮੇਸ਼ਾ",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "ਸੰਗੀਤ ਨੂੰ",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ਜਿਹੜੇ",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "ਦੋਨੋ",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "ਨਿਸ਼ਾਨ",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "ਅਕਸਰ",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "ਪੱਤਰ ‘",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "ਜਦ ਤੱਕ",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "ਮੀਲ",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "ਨਦੀ",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "ਕਾਰ ਨੂੰ",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "ਪੈਰ",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "ਦੀ ਦੇਖਭਾਲ",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "ਨੂੰ ਦੂਜੀ",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "ਕਾਫ਼ੀ",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "ਸਮਤਲ",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "ਕੁੜੀ ਨੂੰ",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "ਆਮ",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "ਨੌਜਵਾਨ",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "ਤਿਆਰ",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "ਉਪਰੋਕਤ",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "ਕਦੇ",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "ਲਾਲ",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "ਸੂਚੀ ਵਿੱਚ",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "ਪਰ",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "ਲੱਗਦਾ ਹੈ",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "ਦੇ ਭਾਸ਼ਣ",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "ਪੰਛੀ",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "ਜਲਦੀ ਹੀ",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "ਸਰੀਰ ਨੂੰ",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "ਕੁੱਤੇ",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "ਪਰਿਵਾਰ ਨੂੰ",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "ਸਿੱਧੀ",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "ਪੈਦਾ",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "ਨੂੰ ਛੱਡ",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "ਗੀਤ",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "ਮਾਪ",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "ਦਾ ਦਰਵਾਜ਼ਾ",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "ਉਤਪਾਦ",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "ਕਾਲਾ",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "ਛੋਟਾ",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "ਅੰਕ",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "ਕਲਾਸ ਦੇ",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "ਹਵਾ",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "ਸਵਾਲ ਦਾ",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "ਕੀ ਹੋ",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "ਮੁਕੰਮਲ ਹੋ",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "ਜਹਾਜ਼",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "ਖੇਤਰ ਦੇ",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "ਅੱਧੇ",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "ਚੱਟਾਨ",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "ਕ੍ਰਮ",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "ਨੂੰ ਅੱਗ",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "ਦੱਖਣ",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "ਸਮੱਸਿਆ ਦਾ",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "ਟੁਕੜੇ",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "ਨੂੰ ਦੱਸਿਆ ਕਿ",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "ਪਤਾ ਸੀ",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "ਪਾਸ",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "ਦੇ ਬਾਅਦ",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "ਚੋਟੀ ਦੇ",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "ਸਾਰੀ",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "ਰਾਜੇ ਨੇ",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "ਗਲੀ ‘",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "ਇੰਚ",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "ਗੁਣਾ",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "ਕੁਝ ਵੀ",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "ਦਾ ਕੋਰਸ",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "ਰਹਿਣ",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "ਚੱਕਰ",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "ਪੂਰੇ",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "ਫੋਰਸ",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "ਨੀਲਾ",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "ਇਕਾਈ",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "ਇਹ ਫੈਸਲਾ",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "ਸਤਹ",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "ਡੂੰਘੇ",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "ਚੰਦ",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "ਟਾਪੂ ‘",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "ਪੈਰ",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "ਸਿਸਟਮ ਨੂੰ",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "ਵਿਅਸਤ",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "ਦਾ ਟੈਸਟ",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "ਦਾ ਰਿਕਾਰਡ",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "ਕਿਸ਼ਤੀ",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "ਆਮ",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "ਸੋਨੇ ਦਾ",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "ਸੰਭਵ ਹੋ ਸਕੇ",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "ਜਹਾਜ਼",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "ਬੈਠ",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "ਖੁਸ਼ਕ",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "ਹੈਰਾਨ",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "ਹੱਸ",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "ਹਜ਼ਾਰ",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "ਸਾਲ",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "ਭੱਜ",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "ਚੈੱਕ ਕਰੋ",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "ਖੇਡ ਹੈ",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "ਸ਼ਕਲ",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "ਜ਼ਿੱਲਤ",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "ਗਰਮ",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "ਮਿਸ",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "ਲੈ ਆਏ",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "ਗਰਮੀ ਦੇ",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "ਬਰਫ ਦੀ",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "ਟਾਇਰ",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "ਲਿਆਉਣ",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ਜੀ",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "ਦੂਰ",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "ਨੂੰ ਭਰਨ",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "ਪੂਰਬ",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "ਚਿੱਤਰਕਾਰੀ",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "ਭਾਸ਼ਾ ਦੀ",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "ਆਪਸ ਵਿੱਚ",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "ਯੂਨਿਟ ਨੂੰ",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "ਬਿਜਲੀ ਦੀ",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "ਕਸਬੇ",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "ਜੁਰਮਾਨਾ",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "ਕੁਝ ਖਾਸ",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "ਉੱਡਦੀ",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "ਡਿੱਗ",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "ਦੀ ਅਗਵਾਈ",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "ਪੁਕਾਰ",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "ਹਨੇਰੇ",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "ਮਸ਼ੀਨ ਨੂੰ",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "ਨੋਟ",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "ਉਡੀਕ ਕਰੋ",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "ਯੋਜਨਾ ਨੂੰ",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "ਇਹ ਅੰਕੜਾ",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "ਸਿਤਾਰਾ",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "ਬਾਕਸ ਨੂੰ",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "ਨਾਮ",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "ਖੇਤਰ",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "ਬਾਕੀ ਦੇ",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "ਨੂੰ ਸਹੀ",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "ਯੋਗ",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "ਸੇਰ",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "ਸਮਾਪਤ",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "ਸੁੰਦਰਤਾ",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "ਡਰਾਈਵ ਨੂੰ",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "ਖੜ੍ਹੇ ਸਨ",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "ਸ਼ਾਮਿਲ ਹਨ",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "ਸਾਹਮਣੇ",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "ਨੂੰ ਸਿੱਖਿਆ",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "ਹਫ਼ਤੇ ਦੇ",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "ਫਾਈਨਲ",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "ਦੇ ਦਿੱਤੀ ਹੈ",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "ਹਰੇ",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "ਓਹੁ",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "ਤੇਜ਼",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "ਦਾ ਵਿਕਾਸ",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "ਸਮੁੰਦਰ",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "ਨਿੱਘਾ",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "ਮੁਫ਼ਤ",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "ਮਿੰਟ",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "ਮਜ਼ਬੂਤ",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "ਵਿਸ਼ੇਸ਼",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "ਮਨ",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "ਪਿੱਛੇ",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "ਆਸਮਾਨ ਸਾਫ",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "ਪੂਛ",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "ਉਤਪਾਦਨ",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "ਅਸਲ ‘",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "ਸਪੇਸ",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "ਸੁਣਿਆ",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "ਵਧੀਆ",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "ਘੰਟੇ",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "ਬਿਹਤਰ",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "ਸੱਚ ਹੈ,",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "ਦੇ ਦੌਰਾਨ",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "ਸੌ",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "ਪੰਜ",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "ਯਾਦ ਹੈ",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "ਕਦਮ ਹੈ",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "ਦੇ ਸ਼ੁਰੂ",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "ਕੇ ਰੱਖੋ",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "ਪੱਛਮ",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "ਜ਼ਮੀਨ",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "ਵਿਆਜ",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "ਤੱਕ ਪਹੁੰਚਣ",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "ਫਾਸਟ",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "ਕ੍ਰਿਆ",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "ਦਾ ਗਾਇਨ",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "ਗੱਲ ਸੁਣੋ",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "ਛੇ",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "ਸਾਰਣੀ ਵਿੱਚ",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "ਯਾਤਰਾ",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "ਘੱਟ",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "ਸਵੇਰ ਦੇ",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "ਦਸ",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "ਸਧਾਰਨ",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "ਕਈ ਕਈ",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "ਸ੍ਵਰ",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "ਵੱਲ",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "ਜੰਗ ਦੇ",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "ਰੱਖਣਗੇ",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "ਦੇ ਖਿਲਾਫ",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "ਪੈਟਰਨ",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "ਹੌਲੀ",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "ਕਦਰ",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "ਪਿਆਰ ਦੀ",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "ਵਿਅਕਤੀ ਨੂੰ",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "ਪੈਸੇ ਨੂੰ",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "ਦੀ ਸੇਵਾ",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "ਵਿਖਾਈ",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "ਸੜਕ ‘",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "ਨਕਸ਼ਾ,",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": ", ਮੈਸਿਡੋਨਿਆ,",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "ਨਿਯਮ ਦੇ",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "ਰਾਜ",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "ਖਿੱਚੋ",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "ਠੰਡੇ",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "ਨੂੰ ਨੋਟਿਸ",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "ਦੀ ਆਵਾਜ਼",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "ਊਰਜਾ",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "ਸ਼ਿਕਾਰ",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "ਸੰਭਵ",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "ਮੰਜੇ",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "ਭਰਾ ਨੂੰ",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ਅੰਡੇ",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "ਸਫ਼ਰ",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "ਸੈੱਲ",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "ਤੇ ਵਿਸ਼ਵਾਸ",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "ਸ਼ਾਇਦ",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "ਚੁੱਕਣ",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "ਅਚਾਨਕ",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "ਗਿਣੋ",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "ਵਰਗ",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "ਇਸ ਦਾ ਕਾਰਨ",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "ਲੰਬਾਈ",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "ਦੀ ਨੁਮਾਇੰਦਗੀ",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "ਕਲਾ",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "ਵਿਸ਼ੇ",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "ਇਸ ਖੇਤਰ",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "ਦਾ ਆਕਾਰ",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "ਵੱਖ ਵੱਖ",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "ਵਸਣ",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "ਗੱਲ ਕਰੋ",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "ਦਾ ਭਾਰ",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "ਆਮ ਤੌਰ ‘ਤੇ",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "ਆਈਸ",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "ਇਸ ਮਾਮਲੇ",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "ਚੱਕਰ",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "ਜੋੜਾ",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "ਸ਼ਾਮਲ ਹਨ",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "ਪਾੜਾ",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "ਿਸਹਾਰੀ",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "ਮਹਿਸੂਸ ਕੀਤਾ",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "ਸ਼ਾਨਦਾਰ",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "ਬਾਲ",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ਹਾਲੇ ਤੱਕ",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "ਲਹਿਰ",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "ਡ੍ਰੌਪ",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "ਦਿਲ ਦੇ",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "ਮੌਜੂਦ",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "ਭਾਰੀ",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "ਨਾਚ",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "ਇੰਜਣ ਨੂੰ",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "ਸਥਿਤੀ",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "ਆਰਮ",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "ਚੌੜਾ",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "ਜਹਾਜ਼",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "ਸਮੱਗਰੀ",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "ਬਾਗ,",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "ਜੰਗਲ",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "ਬੈਠ",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "ਦੀ ਦੌੜ",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "ਵਿੰਡੋ ਨੂੰ",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "ਸਟੋਰ",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "ਗਰਮੀ ਦੇ",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "ਰੇਲ ਗੱਡੀ",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "ਨ ਦ",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "ਸਾਬਤ",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "ਇਕੋ",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "ਲੱਤ",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ਕਸਰਤ",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "ਕੰਧ",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "ਕੈਚ",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "ਮਾਊਟ",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "ਚਾਹੁੰਦੇ ਹੋ,",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "ਅਸਮਾਨ",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "ਬੋਰਡ",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "ਦੀ ਖ਼ੁਸ਼ੀ",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "ਸਰਦੀ",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "ਨੂੰ ਸਤਿ",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "ਲਿਖਿਆ",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "ਜੰਗਲੀ",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "ਸਾਧਨ",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "ਰੱਖਿਆ",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "ਗਲਾਸ",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "ਘਾਹ",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "ਗਊ",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "ਦੀ ਨੌਕਰੀ",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "ਕਿਨਾਰੇ",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "ਨਿਸ਼ਾਨ ਨੂੰ",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "ਦੌਰੇ ਨੂੰ",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "ਪਿਛਲੇ",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "ਸਾਫਟ",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "ਮਜ਼ੇਦਾਰ",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "ਚਮਕਦਾਰ",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "ਗੈਸ",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "ਮੌਸਮ ‘",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "ਮਹੀਨੇ ਦੇ",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "ਲੱਖ",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "ਰੱਖਣਾ",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "ਤੇ ਮੁਕੰਮਲ",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "ਖੁਸ਼",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "ਆਸ ਹੈ",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "ਫੁੱਲ",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "ਸਜਾਵੇਗਾ",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "ਅਜੀਬ",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "ਚੁੱਕਾ",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "ਵਪਾਰ",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "ਭਜਨ",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "ਦਾ ਦੌਰਾ",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "ਦੇ ਦਫ਼ਤਰ",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ਪ੍ਰਾਪਤ",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "ਕਤਾਰ",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "ਦੇ ਮੂੰਹ",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "ਸਹੀ",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "ਪ੍ਰਤੀਕ",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "ਮਰ",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "ਘੱਟ",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "ਸਮੱਸਿਆ ਹੈ",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "ਦੇਵੇਤੇ",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "ਨੂੰ ਛੱਡ ਕੇ",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "ਨੇ ਲਿਖਿਆ",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "ਬੀਜ",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "ਟੋਨ",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "ਵਿੱਚ ਸ਼ਾਮਲ",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "ਸੁਝਾਅ",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "ਨੂੰ ਸਾਫ਼",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "ਬ੍ਰੇਕ",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "ਔਰਤ",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "ਯਾਰਡ",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "ਵਧ",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "ਬੁਰਾ",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "ਉੱਡਿਆ",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "ਤੇਲ ਦੀ",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "ਖੂਨ ਦੇ",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "ਨੂੰ ਛੂਹ",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "ਦਾ ਵਾਧਾ ਹੋਇਆ",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "ਫੀਸਦੀ",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "ਮਿਕਸ",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "ਦੀ ਟੀਮ",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "ਤਾਰ",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "ਲਾਗਤ",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "ਹਾਰ ਦਾ",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "ਭੂਰਾ",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "ਪਹਿਨਣ",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "ਬਾਗ",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "ਬਰਾਬਰ",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "ਨੂੰ ਭੇਜਿਆ",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "ਦੀ ਚੋਣ",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "ਡਿੱਗ",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "ਫਿੱਟ",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "ਵਹਿਣਾ",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "ਮੇਲਾ",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "ਬਕ",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "ਇਕੱਠਾ ਕਰਦੇ",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "ਨੂੰ ਬਚਾ",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "ਦਾ ਕੰਟਰੋਲ",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "ਦਸ਼ਮਲਵ",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "ਕੰਨ",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "ਕਿਸੇ ਹੋਰ ਨੂੰ",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "ਕਾਫ਼ੀ",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "ਤੋੜ",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "ਕੇਸ ਦੀ",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "ਮੱਧ",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "ਨੂੰ ਮਾਰਨ",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "ਪੁੱਤਰ ਨੂੰ",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "ਝੀਲ",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "ਪਲ",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "ਪੈਮਾਨੇ",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "ਉੱਚੀ",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "ਬਸੰਤ",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "ਦੀ ਪਾਲਣਾ",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "ਬੱਚੇ ਨੂੰ",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "ਸਿੱਧਾ",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "ਅੱਖਰ ਦੇ",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "ਕੌਮ ਨੂੰ",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "ਕੋਸ਼",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "ਦੁੱਧ",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "ਦੀ ਗਤੀ",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "ਢੰਗ ਹੈ",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "ਅੰਗ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "ਦਾ ਭੁਗਤਾਨ",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "ਉਮਰ ਦੇ",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "ਅਨੁਭਾਗ",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "ਪਹਿਰਾਵਾ",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "ਦੇ ਬੱਦਲ",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "ਹੈਰਾਨੀ",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "ਚੁੱਪ",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "ਪੱਥਰ ਨੂੰ",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "ਛੋਟੇ",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "ਚੜ੍ਹਨਾ",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "ਠੰਡਾ",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "ਡਿਜ਼ਾਇਨ",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "ਗਰੀਬ",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "ਬਹੁਤ ਕੁਝ",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "ਤਜਰਬੇ",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "ਤਲ",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "ਕੁੰਜੀ ਨੂੰ",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "ਲੋਹੇ",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "ਇੱਕਲੇ",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "ਸਟਿੱਕ",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "ਫਲੈਟ",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "ਵੀਹ",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "ਚਮੜੀ ਨੂੰ",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "ਮੁਸਕਾਨ",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "ਕ੍ਰੀਜ਼",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "ਮੋਰੀ",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "ਛਾਲ",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "ਬੱਚੇ ਨੂੰ",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "ਅੱਠ",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "ਪਿੰਡ ਦੇ",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "ਮਿਲਦੇ ਹਨ",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "ਰੂਟ",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "ਖਰੀਦਣ",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "ਚੁੱਕਣ",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "ਨੂੰ ਹੱਲ",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "ਮੈਟਲ",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "ਕੀ",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "ਧੱਕਾ",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "ਸੱਤ",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "ਪੈਰਾ",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "ਤੀਜਾ,",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "ਦੇਣਗੇ",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "ਚਾਰ",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "ਵਾਲ",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "ਦਾ ਵਰਣਨ",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "ਕੁੱਕ",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "ਮੰਜ਼ਿਲ",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "ਕੋਈ",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "ਨਤੀਜਾ",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "ਨੂੰ ਸਾੜ",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "ਪਹਾੜੀ",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "ਸੁਰੱਖਿਅਤ",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "ਬਿੱਲੀ",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "ਸਦੀ",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "ਤੇ ਵਿਚਾਰ",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "ਦੀ ਕਿਸਮ",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "ਕਾਨੂੰਨ ਨੂੰ",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "ਬਿੱਟ",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "ਤਟ",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "ਕਾਪੀ",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "ਵਾਕੰਸ਼",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "ਚੁੱਪ",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "ਲੰਬਾ",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "ਰੇਤ",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "ਮਿੱਟੀ",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "ਰੋਲ",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "ਤਾਪਮਾਨ ਦਾ",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "ਫਿੰਗਰ",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "ਉਦਯੋਗ ਨੂੰ",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "ਮੁੱਲ ਨੂੰ",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "ਲੜਾਈ",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "ਝੂਠ",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "ਹਰਾਇਆ",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "ਉਤਸਾਹਿਤ",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "ਕੁਦਰਤੀ",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "ਝਲਕ",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "ਭਾਵਨਾ",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "ਦੀ ਰਾਜਧਾਨੀ",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "ਨਾ ਕਰੇਗਾ",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "ਕੁਰਸੀ",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "ਖ਼ਤਰਾ",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "ਫਲ ਨੂੰ",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "ਅਮੀਰ",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "ਮੋਟੀ",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "ਸਿਪਾਹੀ",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "ਕਾਰਜ ਨੂੰ",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "ਨੂੰ ਸੰਚਲਿਤ",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "ਅਭਿਆਸ",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "ਵੱਖਰੇ",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "ਮੁਸ਼ਕਲ ਹੈ",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "ਡਾਕਟਰ ਨੂੰ",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "ਕ੍ਰਿਪਾ",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "ਦੀ ਰੱਖਿਆ",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "ਦੁਪਹਿਰ",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "ਦੀ ਫਸਲ",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "ਆਧੁਨਿਕ",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "ਤੱਤ",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "ਹਿੱਟ",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "ਵਿਦਿਆਰਥੀ ਦੀ",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "ਕੋਨੇ",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "ਪਾਰਟੀ ਦੇ",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "ਦੀ ਸਪਲਾਈ",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "ਜਿਸ ਦੇ",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "ਲੱਭਣ",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "ਰਿੰਗ",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "ਅੱਖਰ ਨੂੰ",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "ਕੀੜੇ",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "ਫੜਿਆ",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "ਦੀ ਮਿਆਦ",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "ਪਤਾ ਲੱਗਦਾ ਹੈ",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "ਰੇਡੀਓ",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "ਗੱਲ",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "ਐਟਮ",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "ਮਨੁੱਖੀ",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "ਇਤਿਹਾਸ ਨੂੰ",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "ਪ੍ਰਭਾਵ ਨੂੰ",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "ਬਿਜਲੀ ਦੇ",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "ਉਮੀਦ ਹੈ",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "ਹੱਡੀ",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "ਰੇਲ",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "ਕਲਪਨਾ ਕਰੋ",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ਮੁਹੱਈਆ",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "ਸਹਿਮਤ",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "ਇਸ ਪ੍ਰਕਾਰ",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "ਕੋਮਲ",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "ਔਰਤ ਨੂੰ",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "ਕਪਤਾਨ",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "guess",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "ਦੀ ਲੋੜ",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "ਤਿੱਖੀ",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "ਵਿੰਗ",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "ਨੂੰ ਬਣਾਉਣ",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "ਨੇੜਲਾ",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "ਧੋਣ",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "ਬੱਲੇਬਾਜ਼ੀ",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "ਨਾ ਕਿ",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "ਭੀੜ",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "ਮਕਈ",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "ਦੀ ਤੁਲਨਾ ਕਰੋ",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "ਕਵਿਤਾ",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "ਸਤਰ",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "ਘੰਟੀ",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "ਨਿਰਭਰ",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "ਮੀਟ",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "ਰੱਬ ਦੀ",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "ਟਿਊਬ",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "ਮਸ਼ਹੂਰ",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ਡਾਲਰ ਦੇ",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "ਸਟਰੀਮ",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "ਡਰ ਹੈ",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ਨਜ਼ਰ",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "ਪਤਲੇ",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "ਤਿਕੋਣ",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "ਗ੍ਰਹਿ",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "ਛੇਤੀ ਖਿਝ",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "ਦੇ ਮੁਖੀ",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "ਬਸਤੀ",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "ਘੜੀ ਦੀ",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "ਮੇਰੇ ਲਈ",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "ਟਾਈ",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "ਦਿਓ,",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "ਮੁੱਖ",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "ਤਾਜ਼ਾ",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "ਖੋਜ ਨੂੰ",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "ਭੇਜਣ",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "ਪੀਲੇ",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ਬੰਦੂਕ",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "ਦੀ ਇਜਾਜ਼ਤ",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "ਪ੍ਰਿੰਟ",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "ਮਰੇ",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "ਸਪਾਟ",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "ਮਾਰੂਥਲ",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "ਮੁਕੱਦਮੇ",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "ਮੌਜੂਦਾ",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "ਲਿਫਟ",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ਉੱਠਿਆ",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "ਪਹੁੰਚਦੇ",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "ਮਾਸਟਰ",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "ਟਰੈਕ",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "ਮਾਤਾ",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "ਕੰਢੇ",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "ਵੰਡ",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "ਸ਼ੀਟ",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "ਪਦਾਰਥ",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "ਦੇ ਪੱਖ ‘",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "ਨਾਲ ਜੁੜਨ",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "ਪੋਸਟ",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "ਖਰਚ",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "ਕੋਰਿਜ਼",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "ਚਰਬੀ",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "ਖੁਸ਼",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "ਅਸਲੀ",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "ਸ਼ੇਅਰ",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "ਸਟੇਸ਼ਨ",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "ਡੈਡੀ",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "ਰੋਟੀ ਦਾ",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "ਚਾਰਜ",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "ਸਹੀ",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "ਪੱਟੀ ਦੇ",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "ਪੇਸ਼ਕਸ਼ ਨੂੰ",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "ਸਿਗਮਿੰਟ",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "ਨੌਕਰ ਨੂੰ",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "ਬਤਖ਼",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "ਤੁਰੰਤ",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "ਮਾਰਕੀਟ ਨੂੰ",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "ਦੀ ਡਿਗਰੀ",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "ਤਿਆਰ",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "ਮਟਰੀ",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "ਪਿਆਰੇ",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "ਦੁਸ਼ਮਣ",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "ਜਵਾਬ",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "ਪੀਣ ਨੂੰ",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "ਆ",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "ਸਹਿਯੋਗ ਨੂੰ",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "ਬੋਲਣ ਦੀ",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "ਸੁਭਾਅ ਨੂੰ",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "ਸੀਮਾ ਹੈ,",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "ਭਾਫ਼",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "ਮੋਸ਼ਨ",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "ਮਾਰਗ ‘",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "ਤਰਲ",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "ਲਾਗਇਨ ਕਰਨਾ",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "ਦਾ ਮਤਲਬ ਸੀ",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "ਸਮਰੱਥਾ",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "ਦੰਦ",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "ਸ਼ੈੱਲ",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "ਗਰਦਨ",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "ਆਕਸੀਜਨ",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "ਖੰਡ",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "ਦੀ ਮੌਤ",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "ਪਰੈਟੀ",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "ਹੁਨਰ",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "ਮਹਿਲਾ",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "ਸੀਜ਼ਨ",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "ਹੱਲ ਹੈ",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "ਚੁੰਬਕ",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "ਸਿਲਵਰ",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "ਧੰਨਵਾਦ",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "ਸ਼ਾਖਾ",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "ਮੈਚ",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "ਪਿਛੇਤਰ",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "ਖਾਸ ਕਰਕੇ",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "ਅੰਜੀਰ",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "ਡਰ",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ਵੱਡੇ",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "ਭੈਣ ਨੂੰ",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "ਸਟੀਲ",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ਤੇ ਚਰਚਾ",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "ਅੱਗੇ",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "ਇਸੇ",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "ਦੀ ਅਗਵਾਈ",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "ਦਾ ਤਜਰਬਾ",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "ਸਕੋਰ",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "ਸੇਬ",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "ਖਰੀਦੀ",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "ਦੀ ਅਗਵਾਈ",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "ਪਿੱਚ",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "ਕੋਟ",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "ਜਨਤਕ",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "ਕਾਰਡ",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "ਪਹਿਰੇਦਾਰ",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "ਰੱਸੀ",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "ਸਿਲੱਪ",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "ਜਿੱਤ",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "ਸੁਪਨੇ",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "ਸ਼ਾਮ ਨੂੰ",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "ਹਾਲਤ",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "| ਜੂਨ",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "ਸੰਦ ਹੈ",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "ਕੁੱਲ",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "ਬੁਨਿਆਦੀ",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "ਗੰਧ",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "ਘਾਟੀ",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ਅਤੇ ਨਾ ਹੀ",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "ਡਬਲ",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "ਸੀਟ",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "ਨੂੰ ਜਾਰੀ",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "ਬਲਾਕ",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "ਚਾਰਟ",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "ਟੋਪੀ",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "ਵੇਚਣ",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "ਦੀ ਸਫਲਤਾ",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "ਕੰਪਨੀ ਨੇ",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "ਘਟਾਓ",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "ਘਟਨਾ",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "ਖਾਸ",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "ਸੌਦਾ",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "ਤੈਰਾਕੀ",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "ਦੀ ਮਿਆਦ",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "ਇਸ ਦੇ ਉਲਟ",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "ਪਤਨੀ ਨੂੰ",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "ਜੁੱਤੀ",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ਮੋਢੇ",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "ਫੈਲਣ",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "ਦਾ ਪ੍ਰਬੰਧ",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "ਡੇਰੇ",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "ਕਾਢ",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "ਕਪਾਹ",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "ਜਨਮ",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "ਪਤਾ ਕਰਨ",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "ਕਵਾਟਰ",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "ਨੌ",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "ਟਰੱਕ",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "ਰੌਲਾ",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "ਦਾ ਪੱਧਰ",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "ਮੌਕਾ",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "ਇਕੱਠਾ",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "ਦੁਕਾਨ",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "ਤਣਾਅ ਨੂੰ",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "ਸੁੱਟ",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "ਚਾਨਣ",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "ਸੰਪਤੀ ਨੂੰ",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "ਕਾਲਮ",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "ਅਣੂ",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "ਦੀ ਚੋਣ ਕਰੋ",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "ਗਲਤ ਹੈ",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "ਸਲੇਟੀ",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ਦੁਹਰਾਉ",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "ਦੀ ਲੋੜ ਹੈ",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "ਵਿਆਪਕ",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "ਨੂੰ ਤਿਆਰ",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "ਲੂਣ",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "ਨੱਕ",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "ਬਹੁਵਚਨ",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "ਗੁੱਸੇ ‘",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "ਦਾਅਵਾ",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "ਮਹਾਦੀਪ",
+      "englishWord": "continent"
+    }
+  ]
+}

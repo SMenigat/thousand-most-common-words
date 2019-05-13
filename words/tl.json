@@ -1,0 +1,5007 @@
+{
+  "languageCode": "",
+  "languageName": "Filipino",
+  "languageNativeName": "",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "bilang",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "ako",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "kanyang",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "na",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "siya",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "noon ay",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "para sa",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "sa",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "ay",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "may",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "sila",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "maging",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "sa",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "isa",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "mayroon",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "ito",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "mula sa",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "sa pamamagitan ng",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "mainit",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "salita",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "ngunit",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "kung ano",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "ilang",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "ay",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "ito",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "sa iyo",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "o",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "nagkaroon",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "ang",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "ng",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "sa",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "at",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "isang",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "sa",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "namin",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "maaari",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "out",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "ibang",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "ay",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "kung saan",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "gawin",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "ang kanilang",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "oras",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "kung",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "pamanahan",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "kung paano",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "sinabi",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "isang",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "bawat",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "sabihin",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "gumagana",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "hanay",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "tatlong",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "gusto",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "naka",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "na rin",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "ring",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "maglaro",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "maliit",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "pagtatapos",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "ilagay",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "tahanan",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "basahin",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "kamay",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "port",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "malaki",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "oras ng paggawa",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "magdagdag",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "kahit na",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "lupa",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "dito",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "kailangan",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "malaki",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "mataas",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "tulad",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "sundin",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "kumilos",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "bakit",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "magtanong",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "mga lalaki",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "pagbabago",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "nagpunta",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "liwanag",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "uri",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "mula sa",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "kailangan",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "bahay",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "larawan",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "subukan",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "atin",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "muli",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "hayop",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "punto",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "nanay",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "mundo",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "malapit",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "magtayo",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "sarili",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "lupa",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "ama",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "anumang",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "bago",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "trabaho",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "bahagi",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "kumuha",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "kumuha",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "lugar",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "ginawa",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "mabuhay",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "saan",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "pagkatapos",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "likod",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "maliit",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "lamang",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "pag-ikot",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "tao",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "taon",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "dumating",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "palabas",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "bawat",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "mabuti",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "sa akin",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "magbigay",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "ang aming",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "sa ilalim",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "pangalan",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "napaka",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "sa pamamagitan ng",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "lamang",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "paraan",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "pangungusap",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "mahusay",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "palagay",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "sabihin",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "tulungan",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "mababa",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "linya",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "mag-iba",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "pagliko",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "dahilan",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "magkano",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "ibig sabihin",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "bago",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "paglipat",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "karapatan",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "batang lalaki",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "luma",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "masyado",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "pareho",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "siya",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "lahat",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "doon",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "kapag",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "up",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "gamitin",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "iyong",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "paraan",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "tungkol sa",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "marami",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "pagkatapos",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "sila",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "sumulat",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "ibig",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "tulad ng",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "kaya",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "mga",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "sa kanya",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "mahaba",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "gumawa",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "bagay",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "tingnan",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "sa kanya",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "dalawang",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "may",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "tumingin",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "higit pa",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "araw",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "ng dati",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "pumunta",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "dumating",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "ginawa",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "numero",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "tunog",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "walang",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "karamihan",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "mga tao",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "ko",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "sa ibabaw",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "alam",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "tubig",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "kaysa",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "tawag",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "unang",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "kung sino",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "maaari",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "pababa",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "gilid",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "naging",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "ngayon",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "hanapin",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "ulo",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "tumayo",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "sarili",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "pahina",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "dapat",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "bansa",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "natagpuan",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "sagot",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "paaralan",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "lumaki",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "pag-aaral",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "pa rin",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "malaman",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "halaman",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "pabalat",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "pagkain",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "sun",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "apat",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "sa pagitan ng",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "estado",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "panatilihin",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "mata",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "hindi kailanman",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "huli",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "ipaalam",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "pag-iisip",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "lungsod",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "puno",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "tumawid",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "sakahan",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "matapang",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "simula",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "lakas",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "kuwento",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "nakita",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "malayo",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "dagat",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "gumuhit",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "ang natitira",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "late",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "tumakbo",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "hindi",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "habang",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "pindutin ang",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "malapit",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "gabi",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "tunay",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "buhay",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "ilan",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "hilaga",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "aklat",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "Nagtitinda",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "kinuha",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "agham",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "kumain",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "room",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "kaibigan",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "Sinimulan ni",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "idea",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "isda",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "bundok",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "itigil",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "sabay-sabay",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "base",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "pakinggan",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "kabayo",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "hiwa",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "sigurado",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "panoorin",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "kulay",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "mukha",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "wood",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "pangunahin",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "bukas",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "mukhang",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "magkasama",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "susunod",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "puting",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "mga bata",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "simulan",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "Nakakuha",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "lumakad",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "halimbawa",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "luwag",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "papel",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "pangkat",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "palagi",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "musika",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "iyon",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "kapwa",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "mark",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "madalas",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "sulat",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "hanggang sa",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "milya",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "ilog",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "kotse",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "paa",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "pag-aalaga",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "pangalawa",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "sapat",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "plain",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "batang babae",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "karaniwan",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "batang",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "handa",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "sa itaas",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "kailanman",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "pula",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "listahan",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "bagaman",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "pakiramdam",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "talk",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "ibon",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "sa lalong madaling panahon",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "katawan",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "aso",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "pamilya",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "direct",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "imungkahi",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "mag-iwan",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "kanta",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "sukatin",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "pinto",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "produkto",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "itim",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "maikling",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "numeral",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "klase",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "hangin",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "tanong",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "mangyari",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "kumpleto na ang",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "barko",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "lugar",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "kalahati",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "rock",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "pagkakasunud-sunod",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "sunog",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "timog",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problema",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "piraso",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "sinabi",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "alam",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "pumasa",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "mula noong",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "tuktok",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "kabuuan",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "king",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "kalye",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "inch",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "paramihin",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "walang anuman",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "Siyempre",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "manatili",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "gulong",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "ganap",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "puwersa",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "asul",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "bagay",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "magpasiya",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "pang-ibabaw",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "malalim",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "gumala",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "isla",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "paa",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistema",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "maraming ginagawa",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "pagsubok",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "talaan",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "bangka",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "karaniwan",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "ginto",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "posible",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "eroplano",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "stead",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "dry",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "Wonder",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "patawanin",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "libo",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "nakaraan",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "Pinatatakbo ng",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "suriin",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "laro",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "hugis",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "Tutumbas",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "mainit",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "tamaan",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "nagdala",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "init",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "snow",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "gulong",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "dalhin",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "yes",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "malayo",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "punuin",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "silangan",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "pintahan",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "wika",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "kasama ng",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "yunit",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "kapangyarihan",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "bayan",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "mainam",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "tiyak",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "lumipad",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "mahulog",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "pangunahan",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "sigaw",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "dark",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "makina",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "tala",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "maghintay",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "plano",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "pigura",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "star",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "kahon",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "pangngalan",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "patlang",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "pahinga",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "tama",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "magagawa",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "pound",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "tapos",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "beauty",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "biyahe",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "nakatayo",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "may",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "front",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "magturo",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "linggo",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "panghuling",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "ibinigay",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "berde",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "mabilis",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "bumuo",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "karagatan",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "mainit-init",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "libre",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minutong",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "malakas",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "espesyal na",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "isip",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "sa likod ng",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "malinaw",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "buntot",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "gumawa",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "katunayan",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "puwang",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "narinig",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "pinakamahusay",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "oras",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "mas mabuti",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "totoo",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "sa panahon ng",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "daang",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "lima",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "tandaan",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "hakbang",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "maagang",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "matagalan",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "kanluran",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "lupa",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "interes",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "maabot",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "mabilis",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "pandiwa",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "kantahin",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "makinig",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "anim",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "talahanayan",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "paglalakbay",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "mas",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "umaga",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "sampu",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "simple",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "ilang",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "patinig",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "patungo",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "digmaan",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "mag-ipon",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "laban",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "pattern",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "mabagal",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "center",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "pag-ibig",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "tao",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "pera",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "maghatid",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "lumitaw",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "kalsada",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "mapa",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "ulan",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "panuntunan",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "namamahala sa",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "hilahin",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "malamig",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "notice",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "boses",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "enerhiya",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "Hunt",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "malamang",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "kama",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "kapatid na lalaki",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "itlog",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "pagsakay",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "cell",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "maniwala",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "marahil",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "pumili",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "walang anu-ano",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "bilangin",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "parisukat",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "dahilan",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "haba",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "katawanin",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "sining",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "paksa",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "rehiyon",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "laki",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "mag-iba",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "tumira",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "magsalita",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "timbang",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "pangkalahatan",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "yelo",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "bagay",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "lupon",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "pares",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "isama",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "hatiin",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "pantig",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "pyeltro",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "malaki at maganda",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "ball",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "pa",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "alon",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "drop",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "puso",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "kasalukuyan",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "mabigat",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "sayaw",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "engine",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "posisyon",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "braso",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "malawak",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "layag",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materyal",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "maliit na bahagi",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "gubat",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "umupo",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "lahi",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "window",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "tindahan",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "tag-araw",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "tren",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "tulog",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "patunayan",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "kaisa-isa",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "binti",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "pagsasanay",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "pader",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "catch",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "may kabit",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "nais",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "langit",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "board",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "kagalakan",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "taglamig",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "Sab",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "nakasulat",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "ligaw",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrumento",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "pinananatiling",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "salamin",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "damo",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "baka",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "trabaho",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "gilid",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "lagdaan",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "pagbisita",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "nakalipas",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "malambot",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "magsaya",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "maliwanag",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gas",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "lagay ng panahon",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "buwan",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "milyon",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "madala",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "tapusin",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "masaya",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "Umaasa",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "bulaklak",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "damitan",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "kakaiba",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "nawala",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "kalakalan",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "Melody",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "paglalakbay",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "opisina",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "tumanggap",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "hilera",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "bibig",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "eksaktong",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "simbolo",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "mamatay",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "hindi bababa sa",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "pag-",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "sigaw",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "maliban sa",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "Isinulat ni",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "buto",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tono",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "sumali",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "iminumungkahi",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "malinis",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "bakasyon",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "ginang ng bansa",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "bakuran",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "tumaas",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "masama",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "pumutok",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "langis",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "dugo",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "kalabitin",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "lumago",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "sentimo",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "paghaluin",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "koponan",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "wire",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "gastos",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "nawala",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "kayumanggi",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "magsuot",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "hardin",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "kapantay",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "ipinadala",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "piliin",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "patumbahin",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "umangkop",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "dumaloy",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "makatarungan",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bangko",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "mangolekta",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "i-save ang",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kontrol",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "decimal",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "tainga",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "iba pa",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "medyo",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "sinira",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "kaso",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "gitna",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "pumatay",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "anak",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "dagat-dagatan",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "sandali",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "iskala",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "malakas",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "tagsibol",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "obserbahan",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "anak",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "tuwid",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "katinig",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "bansa",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "diksyunaryo",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "gatas",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "bilis",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "pamamaraan",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "bayaran",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "edad",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "seksyon",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "damit",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "cloud",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "sorpresa",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "tahimik",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "bato",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "maliit na maliit",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "umakyat",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "malamig",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "disenyo",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "mahirap",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "marami",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "eksperimento",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "ilalim",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "key",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "bakal",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "single",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "stick",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "flat",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "dalawampu’t",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "balat",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "ngiti",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "crease",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "butas",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "tumalon",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "sanggol",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "walo",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "nayon",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "matugunan",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "ugat",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "bumili",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "taasan",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "malutas",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metal",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "kung",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "push",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "pito",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "talata",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "ikatlong",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "tiyak",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "pinigilang",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "buhok",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "ilarawan",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "tagaluto",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "palapag",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "alinman sa",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "resulta",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "sumunog",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "burol",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "ligtas",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "pusa",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "siglo",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "isaalang-alang",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "uri ng",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "batas",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "baybayin",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopya",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "parirala",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "walang sinasabi",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "matangkad",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "ng buhangin",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "lupa",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "roll",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatura",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "daliri",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "industriya",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "halaga",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "lumaban",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "kasinungalingan",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "matalo",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "gumising",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "natural",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "pagtingin",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "pakiramdam",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "kapital",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "hindi maaari",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "silya",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "panganib",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "prutas",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "mayaman",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "makapal",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "kawal",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "proseso",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "magpatakbo",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "kasanayan",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "hiwalay",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "mahirap",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "manggagamot",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "mangyaring",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "ipagtanggol",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "tanghali",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "crop",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "modernong",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "elemento",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "pindutin ang",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "mag-aaral",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "sulok",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "partido",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "panustos",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "kung saan ang",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "hanapin",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "singsing",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "katangian",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "insekto",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "nahuli",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "panahon",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "ipahiwatig",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radyo",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "nagsalita",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atom",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "pantao",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "kasaysayan",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "epekto",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "de-kuryenteng",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "inaasahan",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "buto",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "rail",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "isipin",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "magbigay",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "Sumasang-ayon",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "kaya",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "magiliw",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "babae",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapitan",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "hulaan",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "kinakailangan",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "matalim",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "wing",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "lumikha",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "kapit-bahay",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "wash",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "bat",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "sa lalong maliwanag",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "karamihan ng tao",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "mais",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "ihambing",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "tula",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "string",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "kampanilya",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "depende",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "karne",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "kuskusin",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "tube",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "sikat",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dollar",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "stream",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "takot",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "paningin",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "manipis",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "tatsulok",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planeta",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "magmadali",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "mahalaga sa lahat",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "kolonya",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "orasan",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "minahan",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "itali",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "magpasok",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "pangunahing",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "sariwa",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "paghahanap",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "magpadala ng",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "dilaw",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "gun",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "pumayag",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "naka-print",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "patay",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "spot",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "disyerto",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "suit",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "kasalukuyan",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "pag-angat",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "tumaas",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "dumating",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "master",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "track",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "magulang",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "baybayin",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "dibisyon",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "sheet",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "bagay",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "paboran",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "ikonekta",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "post",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "gumastos",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "chord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "taba",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "natutuwa",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "orihinal",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "magbahagi",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "station",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "ama",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "tinapay",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "sumingil",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "mga pangngalang",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "alok",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segment",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "alipin",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "pato",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "instant",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "merkado",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "digri",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "mapuno",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "Chick",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "mahal",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "kaaway",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "sumagot",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "inumin",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "maganap",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "suporta",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "na salita",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "likas na katangian",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "hanay",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "steam",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "galaw",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "landas",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "likido",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "mag-log",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "nakalaan lamang ito",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "quotient",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "ngipin",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "shell",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "leeg",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "oxygen",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "asukal",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "kamatayan",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "medyo",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "kasanayan",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "kababaihan",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "season",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "solusyon",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magneto",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "pilak",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "pasasalamat",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "sangay",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "pagtutugma",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "suffix",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "lalo na",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "fig",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "takot",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "malaking",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "kapatid na babae",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "asero",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "talakayin",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "pasulong",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "katulad",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "patnubayan",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "karanasan",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "iskor",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "mansanas",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "bumili",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "humantong",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "pitch",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "amerikana",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "masa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kard",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "band",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "ng lubid",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "isuot na madali",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "panalo",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "mangarap",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "gabi",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "kalagayan",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "feed",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "kasangkapan",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "kabuuan",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "pangunahing",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "amoy",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "lambak",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "at hindi rin",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "double",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "upuan",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "magpatuloy",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "bloke",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "tsart",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "sumbrero",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "ibenta",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "tagumpay",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "kompanya",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "ibawas",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "kaganapan",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "partikular na",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "deal",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "lumangoy",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "taning",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "sa tapat ng",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "asawa",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "sapatos",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "balikat",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "pagkalat",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "mag-ayos",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "kampo",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "imbentuhin",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "koton",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "isinilang",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "matukoy",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "quart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "siyam",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "trak",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "ingay",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "antas",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "pagkakataon",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "magtipon",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "shop",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "banatin",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "magtapon",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "kinang",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "ari-arian",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "haligi",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "Molekyul",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "piliin",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "mali",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "kulay-abo",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "paulit-ulit na",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "nangangailangan ng",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "malawak",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "maghanda",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "asin",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "ilong",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "pangmaramihang",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "galit",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "ang claim",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontinente",
+      "englishWord": "continent"
+    }
+  ]
+}

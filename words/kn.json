@@ -1,0 +1,5007 @@
+{
+  "languageCode": "kn",
+  "languageName": "Kannada",
+  "languageNativeName": "ಕನ್ನಡ",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "ಮಾಹಿತಿ",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "ನಾನು",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "ಅವರ",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ಆ",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ಅವರು",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "ಆಗಿತ್ತು",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "ಫಾರ್",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "ಮೇಲೆ",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "ಇವೆ",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "ಜೊತೆ",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ಅವರು",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "ಎಂದು",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "ನಲ್ಲಿ",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "ಒಂದು",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "ಹೊಂದಿವೆ",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "ಈ",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "ರಿಂದ",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "ಮೂಲಕ",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "ಬಿಸಿ",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "ಪದ",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "ಆದರೆ",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "ಏನು",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "ಕೆಲವು",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "ಆಗಿದೆ",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "ಇದು",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "ನೀವು",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "ಅಥವಾ",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "ಹೊಂದಿತ್ತು",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "ದಿ",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "ನ",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "ಗೆ",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "ಮತ್ತು",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "ಒಂದು",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "ರಲ್ಲಿ",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "ನಾವು",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "ಮಾಡಬಹುದು",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ಔಟ್",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "ಇತರ",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "ಎಂದು",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "ಇದು",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "ಹಾಗೆ",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "ತಮ್ಮ",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "ಸಮಯ",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "ವೇಳೆ",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "ತಿನ್ನುವೆ",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "ಹೇಗೆ",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "ಹೇಳಿದರು",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "ಒಂದು",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "ಪ್ರತಿ",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "ಹೇಳಲು",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "ಮಾಡುತ್ತದೆ",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "ಸೆಟ್",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "ಮೂರು",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "ಬಯಸುವ",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "ಗಾಳಿ",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "ಹಾಗೂ",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "ಸಹ",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "ಆಡಲು",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "ಸಣ್ಣ",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "ಕೊನೆಯಲ್ಲಿ",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "ಪುಟ್",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "ಮನೆ",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "ಓದಲು",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "ಕೈ",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "ಬಂದರು",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "ದೊಡ್ಡ",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "ಕಾಗುಣಿತ",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "ಸೇರಿಸಬಹುದು",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "ಸಹ",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "ಭೂಮಿ",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "ಇಲ್ಲಿ",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "ಮಾಡಬೇಕಾಗುತ್ತದೆ",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "ದೊಡ್ಡ",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "ಹೆಚ್ಚಿನ",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "ಇಂತಹ",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "ಅನುಸರಿಸಿ",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "ಆಕ್ಟ್",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "ಏಕೆ",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "ಕೇಳಿ",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "ಪುರುಷರು",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "ಬದಲಾವಣೆ",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "ಹೋದರು",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "ಬೆಳಕಿನ",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "ರೀತಿಯ",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "ಆಫ್",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "ಅಗತ್ಯವಿದೆ",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "ಮನೆ",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "ಚಿತ್ರ",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "ಪ್ರಯತ್ನಿಸಿ",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "ನಮಗೆ",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "ಮತ್ತೆ",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "ಪ್ರಾಣಿ",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "ಪಾಯಿಂಟ್",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "ತಾಯಿ",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "ವಿಶ್ವದ",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "ಬಳಿ",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "ನಿರ್ಮಿಸಲು",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "ಸ್ವಯಂ",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "ಭೂಮಿಯ",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "ತಂದೆ",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "ಯಾವುದೇ",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "ಹೊಸ",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "ಕೆಲಸ",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "ಭಾಗ",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "ತೆಗೆದುಕೊಳ್ಳಲು",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "ಪಡೆಯಲು",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "ಸ್ಥಾನ",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "ಮಾಡಿದ",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "ಲೈವ್",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "ಎಲ್ಲಿ",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "ನಂತರ",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "ಮತ್ತೆ",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "ಕಡಿಮೆ",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "ಮಾತ್ರ",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "ಸುತ್ತಿನಲ್ಲಿ",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "ವ್ಯಕ್ತಿ",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "ವರ್ಷ",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "ಬಂದರು",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "ಪ್ರದರ್ಶನ",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ಪ್ರತಿ",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "ಉತ್ತಮ",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "ನನಗೆ",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "ನೀಡಿ",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "ನಮ್ಮ",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "ಅಡಿಯಲ್ಲಿ",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "ಹೆಸರು",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "ಅತ್ಯಂತ",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "ಮೂಲಕ",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "ಕೇವಲ",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "ರೂಪ",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "ವಾಕ್ಯ",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "ಮಹಾನ್",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "ನಗರದ",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "ಹೇಳಲು",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "ಸಹಾಯ",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "ಕಡಿಮೆ",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "ಸಾಲು",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "ಭಿನ್ನವಾಗಿರುತ್ತವೆ",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "ತಿರುವು",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "ಕಾರಣ",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "ಹೆಚ್ಚು",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "ಅರ್ಥ",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "ಮೊದಲು",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "ನಡೆಸುವಿಕೆಯನ್ನು",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "ಬಲ",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "ಹುಡುಗ",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "ಹಳೆಯ",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "ತುಂಬಾ",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "ಅದೇ",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ಅವರು",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "ಎಲ್ಲಾ",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "ಇಲ್ಲ",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "ಯಾವಾಗ",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "ಅಪ್",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "ಬಳಕೆ",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "ನಿಮ್ಮ",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "ರೀತಿಯಲ್ಲಿ",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "ಬಗ್ಗೆ",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "ಅನೇಕ",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "ನಂತರ",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "ಅವುಗಳನ್ನು",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "ಬರೆಯಲು",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "ಎಂದು",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "ಹಾಗೆ",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "ಆದ್ದರಿಂದ",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "ಈ",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ತನ್ನ",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "ಉದ್ದ",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "ಮಾಡಲು",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "ವಿಷಯ",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "ನೋಡಿ",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "ಅವರಿಗೆ",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "ಎರಡು",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ಹೊಂದಿದೆ",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "ನೋಡಲು",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "ಹೆಚ್ಚು",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "ದಿನ",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "ಸಾಧ್ಯವೋ",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "ಹೋಗಿ",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "ಬಂದು",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "ಮಾಡಿದರು",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "ಸಂಖ್ಯೆ",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "ಧ್ವನಿ",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ಯಾವುದೇ",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "ಅತ್ಯಂತ",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "ಜನರು",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "ನನ್ನ",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "ಮೇಲೆ",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "ಗೊತ್ತು",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ನೀರಿನ",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "ಕ್ಕಿಂತ",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "ಕರೆ",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "ಮೊದಲ",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "ಯಾರು",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "ಮೇ",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "ಕೆಳಗೆ",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "ಅಡ್ಡ",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "ಬಂದಿದೆ",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "ಈಗ",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "ಹೇಗೆ",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "ತಲೆ",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "ನಿಲ್ಲಲು",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "ಶಾಲೆ",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "ಪುಟ",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "ಮಾಡಬೇಕಾದುದು",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "ದೇಶದ",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "ಕಂಡುಬಂದಿಲ್ಲ",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "ಉತ್ತರ",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "ಶಾಲೆಯ",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "ಬೆಳೆಯಲು",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "ಅಧ್ಯಯನ",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "ಇನ್ನೂ",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "ತಿಳಿಯಲು",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "ಸಸ್ಯ",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "ಕವರ್",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "ಆಹಾರ",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "ಸೂರ್ಯ",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "ನಾಲ್ಕು",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "ನಡುವೆ",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "ರಾಜ್ಯ",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "ಇರಿಸಿಕೊಳ್ಳಲು",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "ಕಣ್ಣಿನ",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "ಎಂದಿಗೂ",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "ಕಳೆದ",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "ಅವಕಾಶ",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "ಭಾವಿಸಲಾಗಿದೆ",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "ನಗರದ",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "ಮರ",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "ದಾಟಲು",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ಕೃಷಿ",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "ಹಾರ್ಡ್",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "ಆರಂಭ",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "ಅಧಿಕಬಲ",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "ಕಥೆ",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "ಗರಗಸದ",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "ದೂರದ",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "ಸಮುದ್ರ",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "ಡ್ರಾ",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "ಬಿಟ್ಟು",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "ಕೊನೆಯ",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "ರನ್",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ಹಾಗೆ",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "ಹಾಗೆಯೇ",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "ಪತ್ರಿಕಾ",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "ಹತ್ತಿರ",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "ರಾತ್ರಿ",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "ನಿಜವಾದ",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "ಜೀವನ",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "ಕೆಲವು",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "ಉತ್ತರ",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "ಪುಸ್ತಕ",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "ಸಾಗಿಸುವ",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "ತೆಗೆದುಕೊಂಡಿತು",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "ವಿಜ್ಞಾನ",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "ತಿನ್ನಲು",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "ಕೊಠಡಿ",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "ಸ್ನೇಹಿತ",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "ಆರಂಭಿಸಿದರು",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ಕಲ್ಪನೆ",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ಮೀನು",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "ಪರ್ವತ",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "ನಿಲ್ಲಿಸಲು",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "ಒಮ್ಮೆ",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "ಮೂಲ",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "ಕೇಳಲು",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ಕುದುರೆ",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "ಕಟ್",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "ಖಚಿತವಾಗಿ",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "ವೀಕ್ಷಿಸಲು",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "ಬಣ್ಣ",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "ಮುಖ",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "ಮರದ",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "ಮುಖ್ಯ",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "ತೆರೆದ",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "ತೋರುತ್ತದೆ",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "ಒಟ್ಟಿಗೆ",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "ಮುಂದಿನ",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "ಬಿಳಿ",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "ಮಕ್ಕಳ",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "ಆರಂಭಿಸಲು",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "ಸಿಕ್ಕಿತು",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "ನಡೆಯಲು",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "ಉದಾಹರಣೆಗೆ",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ಸರಾಗಗೊಳಿಸುವ",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "ಕಾಗದದ",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "ಗುಂಪು",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "ಯಾವಾಗಲೂ",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "ಸಂಗೀತ",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ಆ",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "ಎರಡೂ",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "ಮಾರ್ಕ್",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "ಸಾಮಾನ್ಯವಾಗಿ",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "ಪತ್ರ",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "ರವರೆಗೆ",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "ಮೈಲಿ",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "ನದಿ",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "ಕಾರು",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "ಅಡಿ",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "ಆರೈಕೆ",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "ಎರಡನೇ",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "ಸಾಕಷ್ಟು",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "ಸರಳ",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "ಹುಡುಗಿ",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "ಸಾಮಾನ್ಯ",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "ಯುವ",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "ಸಿದ್ಧ",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "ಮೇಲೆ",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "ಇದುವರೆಗೆ",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "ಕೆಂಪು",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "ಪಟ್ಟಿ",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "ಆದರೂ",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "ಅಭಿಪ್ರಾಯ",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "ಚರ್ಚೆ",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "ಹಕ್ಕಿ",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "ಶೀಘ್ರದಲ್ಲೇ",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "ದೇಹದ",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "ನಾಯಿ",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "ಕುಟುಂಬ",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "ನೇರ",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "ಭಂಗಿ",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "ಬಿಟ್ಟು",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "ಹಾಡು",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "ಅಳೆಯಲು",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "ಬಾಗಿಲು",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "ಉತ್ಪನ್ನ",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "ಕಪ್ಪು",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "ಸಣ್ಣ",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "ಸಂಖ್ಯಾವಾಚಕ",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "ವರ್ಗ",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "ಗಾಳಿ",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "ಪ್ರಶ್ನೆ",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "ಸಂಭವಿಸಿ",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "ಸಂಪೂರ್ಣ",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "ಹಡಗು",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "ಪ್ರದೇಶ",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "ಅರ್ಧ",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "ರಾಕ್",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "ಆದೇಶ",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "ಬೆಂಕಿ",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "ದಕ್ಷಿಣ",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "ಸಮಸ್ಯೆ",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "ತುಣುಕು",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "ಹೇಳಿದರು",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "ತಿಳಿದಿತ್ತು",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "ಪಾಸ್",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "ರಿಂದ",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "ಟಾಪ್",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "ಇಡೀ",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "ರಾಜ",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "ರಸ್ತೆ",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "ಇಂಚು",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "ಗುಣಿಸಿ",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "ಏನೂ",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "ಕೋರ್ಸ್",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "ಉಳಿಯಲು",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "ಚಕ್ರ",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "ಪೂರ್ಣ",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "ಶಕ್ತಿ",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "ನೀಲಿ",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "ವಸ್ತು",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "ನಿರ್ಧರಿಸಲು",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "ಮೇಲ್ಮೈ",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "ಆಳವಾದ",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "ಚಂದ್ರ",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "ದ್ವೀಪದ",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "ಕಾಲು",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "ವ್ಯವಸ್ಥೆಯ",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "ಬಿಡುವಿಲ್ಲದ",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "ಟೆಸ್ಟ್",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "ದಾಖಲೆ",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "ದೋಣಿ",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "ಸಾಮಾನ್ಯ",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "ಚಿನ್ನದ",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "ಸಾಧ್ಯ",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "ವಿಮಾನ",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "ಮುಂದಿನ",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "ಒಣ",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "ಆಶ್ಚರ್ಯ",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "ನಗು",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "ಸಾವಿರ",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "ಹಿಂದೆ",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "ಓಡಿ",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "ಪರಿಶೀಲಿಸಿ",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "ಆಟದ",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "ಆಕಾರ",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "ಪೂರಕವಾಗಿಲ್ಲ",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "ಬಿಸಿ",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "ಮಿಸ್",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "ತಂದರು",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "ಶಾಖ",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "ಹಿಮ",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "ಟೈರ್",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "ತರಲು",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ಹೌದು",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "ದೂರದ",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "ತುಂಬಲು",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "ಪೂರ್ವ",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "ಬಣ್ಣ",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "ಭಾಷೆ",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "ನಡುವೆ",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "ಘಟಕ",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "ವಿದ್ಯುತ್",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "ಪಟ್ಟಣದ",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "ದಂಡ",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "ಕೆಲವು",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "ಹಾರುವ",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "ಬೀಳುತ್ತವೆ",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "ದಾರಿ",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "ಕೂಗು",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "ಡಾರ್ಕ್",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "ಯಂತ್ರ",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "ಟಿಪ್ಪಣಿ",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "ನಿರೀಕ್ಷಿಸಿ",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "ಯೋಜನೆ",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "ವ್ಯಕ್ತಿ",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "ನಕ್ಷತ್ರ",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "ಬಾಕ್ಸ್",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "ನಾಮಪದ",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "ಕ್ಷೇತ್ರ",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "ಉಳಿದ",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "ಸರಿಯಾದ",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "ಸಾಧ್ಯವಾಗುತ್ತದೆ",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "ಪೌಂಡ್",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "ಮಾಡಲಾಗುತ್ತದೆ",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "ಸೌಂದರ್ಯ",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "ಡ್ರೈವ್",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "ನಿಂತು",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "ಹೊಂದಿರಬೇಕು",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "ಮುಂದೆ",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "ಕಲಿಸಲು",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "ವಾರ",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "ಅಂತಿಮ",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "ನೀಡಿದರು",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "ಹಸುರು",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "ಓಹ್",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "ತ್ವರಿತ",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "ಅಭಿವೃದ್ಧಿ",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "ಸಾಗರ",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "ಬೆಚ್ಚಗಿನ",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "ಉಚಿತ",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "ನಿಮಿಷದ",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "ಪ್ರಬಲ",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "ವಿಶೇಷ",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "ಮನಸ್ಸು",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "ಹಿಂದೆ",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "ಸ್ಪಷ್ಟ",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "ಬಾಲ",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "ಉತ್ಪತ್ತಿ",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "ವಾಸ್ತವವಾಗಿ",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "ಸ್ಪೇಸ್",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "ಕೇಳಿದ",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "ಉತ್ತಮ",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "ಗಂಟೆ",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "ಉತ್ತಮ",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "ನಿಜ",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "ಸಮಯದಲ್ಲಿ",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "ನೂರು",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "ಐದು",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "ನೆನಪಿಡಿ",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "ಹಂತ",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "ಆರಂಭಿಕ",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "ಹಿಡಿದುಕೊಳ್ಳಿ",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "ಪಶ್ಚಿಮ",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "ನೆಲದ",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "ಆಸಕ್ತಿ",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "ತಲುಪಲು",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "ವೇಗವಾಗಿ",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "ಕ್ರಿಯಾಪದ",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "ಹಾಡಲು",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "ಕೇಳಲು",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "ಆರು",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "ಟೇಬಲ್",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "ಪ್ರವಾಸ",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "ಕಡಿಮೆ",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "ಬೆಳಿಗ್ಗೆ",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "ಹತ್ತು",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "ಸರಳ",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "ಹಲವಾರು",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "ಸ್ವರ",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "ಕಡೆಗೆ",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "ಯುದ್ಧ",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "ಲೇ",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "ವಿರುದ್ಧ",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "ಮಾದರಿ",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "ನಿಧಾನ",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "ಸೆಂಟರ್",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "ಪ್ರೀತಿ",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "ವ್ಯಕ್ತಿ",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "ಹಣ",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "ಸೇವೆ",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "ದೂರವಾಣಿ",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "ರಸ್ತೆ",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "ನಕ್ಷೆ",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "ಮಳೆ",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "ನಿಯಮ",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "ಆಡಳಿತ",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "ಪುಲ್",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "ಶೀತ",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "ಸೂಚನೆ",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "ಧ್ವನಿ",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "ಶಕ್ತಿ",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "ಬೇಟೆ",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "ಬಹುಶಃ",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "ಹಾಸಿಗೆ",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "ಸಹೋದರ",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ಮೊಟ್ಟೆ",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "ಸವಾರಿ",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "ಸೆಲ್",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "ನಂಬಿಕೆ",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "ಬಹುಶಃ",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "ಆಯ್ಕೆ",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "ಹಠಾತ್",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "ಎಣಿಕೆ",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "ಚದರ",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "ಕಾರಣ",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "ಉದ್ದ",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "ಪ್ರತಿನಿಧಿಸುತ್ತವೆ",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "ಕಲೆ",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "ವಿಷಯದ",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "ಪ್ರದೇಶದಲ್ಲಿ",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "ಗಾತ್ರ",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "ಬದಲಾಗುತ್ತವೆ",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "ಇತ್ಯರ್ಥ",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "ಮಾತನಾಡಲು",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "ತೂಕದ",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "ಸಾಮಾನ್ಯ",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "ಐಸ್",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "ಮ್ಯಾಟರ್",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "ವೃತ್ತದ",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "ಜೋಡಿ",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "ಸೇರಿವೆ",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "ವಿಭಜನೆಯನ್ನು",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "ಉಚ್ಚಾರಗಳು",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "ಅಭಿಪ್ರಾಯ",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "ಮಹೋನ್ನತ",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "ಚೆಂಡನ್ನು",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ಇನ್ನೂ",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "ತರಂಗ",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "ಬಿಡಿ",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "ಹೃದಯ",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "ನಾನು",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "ಪ್ರಸ್ತುತ",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "ಭಾರೀ",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "ನೃತ್ಯ",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "ಎಂಜಿನ್",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "ಸ್ಥಾನ",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "ಕೈ",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "ವ್ಯಾಪಕ",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "ಪಟ",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "ವಸ್ತು",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "ಕ",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "ಅರಣ್ಯ",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "ಕುಳಿತು",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "ಓಟದ",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "ವಿಂಡೋ",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "ಅಂಗಡಿ",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "ಬೇಸಿಗೆ",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "ರೈಲು",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "ನಿದ್ರೆ",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "ಸಾಬೀತು",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "ಒಂಟಿ",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "ಲೆಗ್",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ವ್ಯಾಯಾಮ",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "ಗೋಡೆಯ",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "ಕ್ಯಾಚ್",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "ಆರೋಹಣ",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "ಬಯಸುವ",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "ಆಕಾಶ",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "ಬೋರ್ಡ್",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "ಸಂತೋಷ",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "ಚಳಿಗಾಲದ",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "ಶನಿ",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "ಬರೆದ",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "ಕಾಡು",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "ವಾದ್ಯ",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "ಇದ್ದರು",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "ಗಾಜಿನ",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "ಹುಲ್ಲು",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "ಹಸುವಿನ",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "ಕೆಲಸ",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "ಅಂಚಿನ",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "ಸೈನ್",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "ಭೇಟಿ",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "ಕಳೆದ",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "ಮೃದು",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "ಮೋಜಿನ",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "ಪ್ರಕಾಶಮಾನವಾದ",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "ಅನಿಲ",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "ಹವಾಮಾನ",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "ತಿಂಗಳು",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "ಮಿಲಿಯನ್",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "ಕರಡಿ",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "ಅಂತಿಮ",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "ಸಂತೋಷ",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "ಭಾವಿಸುತ್ತೇವೆ",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "ಹೂವಿನ",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "ಬಟ್ಟೆಗೆ",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "ವಿಚಿತ್ರ",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "ಹೋದ",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "ವ್ಯಾಪಾರ",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "ಮಧುರ",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "ಪ್ರವಾಸ",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "ಕಚೇರಿ",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ಸ್ವೀಕರಿಸಲು",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "ಸಾಲು",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "ಬಾಯಿ",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "ನಿಖರ",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "ಚಿಹ್ನೆ",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "ಸಾಯುವ",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "ಕನಿಷ್ಠ",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "ತೊಂದರೆ",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "ಕೂಗು",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "ಹೊರತುಪಡಿಸಿ",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "ಬರೆದ",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "ಬೀಜ",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "ಟೋನ್",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "ಸೇರಲು",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "ಸಲಹೆ",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "ಕ್ಲೀನ್",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "ಬ್ರೇಕ್",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "ಮಹಿಳೆ",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "ಹೊಲದಲ್ಲಿ",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "ಏರಿಕೆ",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "ಕೆಟ್ಟ",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "ಬ್ಲೋ",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "ತೈಲ",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "ರಕ್ತ",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "ಟಚ್",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "ಬೆಳೆಯಿತು",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "ಶೇ",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "ಮಿಶ್ರಣ",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "ತಂಡ",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "ತಂತಿ",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "ವೆಚ್ಚ",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "ಕಳೆದು",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "ಕಂದು",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "ಭಾಷೆಗಳು",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "ತೋಟದ",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "ಸಮಾನ",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "ಕಳುಹಿಸಿದ",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "ಆಯ್ಕೆ",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "ಕುಸಿಯಿತು",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "ಸರಿಹೊಂದದ",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "ಹರಿಯುವಂತೆ",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "ನ್ಯಾಯೋಚಿತ",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "ಬ್ಯಾಂಕ್",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "ಸಂಗ್ರಹಿಸಲು",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "ಉಳಿಸಲು",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "ನಿಯಂತ್ರಣ",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "ದಶಮಾಂಶ",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "ಕಿವಿ",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "ಬೇರೆ",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "ಸಾಕಷ್ಟು",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "ಮುರಿಯಿತು",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "ಸಂದರ್ಭದಲ್ಲಿ",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "ಮಧ್ಯಮ",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "ಕೊಲ್ಲಲು",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "ಮಗ",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "ಸರೋವರದ",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "ಕ್ಷಣ",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "ಪ್ರಮಾಣದ",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "ಜೋರಾಗಿ",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "ವಸಂತ",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "ಗಮನಿಸಿ",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "ಮಗು",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "ನೇರ",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "ವ್ಯಂಜನ",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "ರಾಷ್ಟ್ರದ",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "ನಿಘಂಟು",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "ಹಾಲು",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "ವೇಗ",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "ವಿಧಾನ",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "ಅಂಗ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "ಪಾವತಿ",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "ವಯಸ್ಸು",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "ವಿಭಾಗ",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "ಉಡುಗೆ",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "ಮೋಡದ",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "ಅನಿರೀಕ್ಷಿತ",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "ಸ್ತಬ್ಧ",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "ಕಲ್ಲು",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "ಸಣ್ಣ",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "ಏರಿಕೆಗೆ",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "ತಂಪಾಗಿದೆ",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "ವಿನ್ಯಾಸ",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "ಕಳಪೆ",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "ಬಹಳಷ್ಟು",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "ಪ್ರಯೋಗ",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "ಕೆಳಗೆ",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "ಪ್ರಮುಖ",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "ಕಬ್ಬಿಣದ",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "ಏಕ",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "ಸ್ಟಿಕ್",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "ಫ್ಲಾಟ್",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "ಇಪ್ಪತ್ತು",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "ಚರ್ಮದ",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "ಸ್ಮೈಲ್",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "ಕ್ರೀಸ್",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "ರಂಧ್ರ",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "ಜಿಗಿತವನ್ನು",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "ಬೇಬಿ",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "ಎಂಟು",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "ಹಳ್ಳಿಯ",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "ಭೇಟಿ",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "ಮೂಲ",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "ಖರೀದಿ",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "ಹೆಚ್ಚಿಸಲು",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "ಪರಿಹರಿಸಲು",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "ಲೋಹದ",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "ಎಂಬುದನ್ನು",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "ಪುಶ್",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "ಏಳು",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "ಪ್ಯಾರಾಗ್ರಾಫ್",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "ಮೂರನೇ",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "ಶಲ್",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "ನಡೆದ",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "ಕೂದಲು",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "ವಿವರಿಸಲು",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "ಅಡುಗೆ",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "ನೆಲದ",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "ಎರಡೂ",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "ಪರಿಣಾಮವಾಗಿ",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "ಬರ್ನ್",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "ಬೆಟ್ಟದ",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "ಸುರಕ್ಷಿತ",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "ಬೆಕ್ಕು",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "ಶತಮಾನದ",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "ಪರಿಗಣಿಸಲು",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "ಮಾದರಿ",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "ಕಾನೂನು",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "ಸ್ವಲ್ಪ",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "ಕರಾವಳಿ",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "ಪ್ರತಿಯನ್ನು",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "ನುಡಿಗಟ್ಟು",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "ಮೂಕ",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "ಎತ್ತರದ",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "ಮರಳು",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "ಮಣ್ಣಿನ",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "ರೋಲ್",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "ತಾಪಮಾನ",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "ಬೆರಳು",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "ಉದ್ಯಮ",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "ಮೌಲ್ಯ",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "ಹೋರಾಟ",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "ಸುಳ್ಳು",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "ಬೀಟ್",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "ಪ್ರಚೋದಿಸಲು",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "ನೈಸರ್ಗಿಕ",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "ವೀಕ್ಷಿಸಿ",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "ಅರ್ಥದಲ್ಲಿ",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "ಬಂಡವಾಳ",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "ತಿನ್ನುವೆ",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "ಕುರ್ಚಿ",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "ಅಪಾಯ",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "ಹಣ್ಣು",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "ಶ್ರೀಮಂತ",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "ದಪ್ಪ",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "ಸೈನಿಕ",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "ಪ್ರಕ್ರಿಯೆ",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "ಕೆಲಸ",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "ಅಭ್ಯಾಸ",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "ಪ್ರತ್ಯೇಕ",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "ಕಷ್ಟ",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "ವೈದ್ಯರು",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "ದಯವಿಟ್ಟು",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "ರಕ್ಷಿಸಲು",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "ಮಧ್ಯಾಹ್ನ",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "ಬೆಳೆ",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "ಆಧುನಿಕ",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "ಅಂಶ",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "ಹಿಟ್",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "ವಿದ್ಯಾರ್ಥಿ",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "ಮೂಲೆಯಲ್ಲಿ",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "ಪಕ್ಷದ",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "ಪೂರೈಕೆ",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "ಅವರ",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "ಪತ್ತೆ",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "ರಿಂಗ್",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "ರ",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "ಕೀಟ",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "ಕ್ಯಾಚ್",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "ಅವಧಿ",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "ಸೂಚಿಸುತ್ತದೆ",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "ರೇಡಿಯೋ",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "ಮಾತನಾಡಿದರು",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "ಪರಮಾಣು",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "ಮಾನವ",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "ಇತಿಹಾಸ",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "ಪರಿಣಾಮ",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "ವಿದ್ಯುತ್",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "ನಿರೀಕ್ಷೆ",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "ಮೂಳೆ",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "ರೈಲು",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "ಕಲ್ಪನೆ",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ಒದಗಿಸಲು",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "ಒಪ್ಪುತ್ತೇನೆ",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "ಹೀಗೆ",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "ಶಾಂತ",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "ಮಹಿಳೆ",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "ನಾಯಕ",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "ಊಹೆ",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "ಅಗತ್ಯ",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "ಚೂಪಾದ",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "ರೆಕ್ಕೆ",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "ರಚಿಸಲು",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "ನೆರೆಯ",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "ಮುಖ",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "ಬ್ಯಾಟ್",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "ಬದಲಿಗೆ",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "ಗುಂಪು",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "ಕಾರ್ನ್",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "ಹೋಲಿಸಿ",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "ಕವಿತೆಯ",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "ಸ್ಟ್ರಿಂಗ್",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "ಬೆಲ್",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "ಅವಲಂಬಿಸಿರುತ್ತದೆ",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "ಮಾಂಸ",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "ರಬ್",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "ಟ್ಯೂಬ್",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "ಪ್ರಸಿದ್ಧ",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ಡಾಲರ್",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "ಸ್ಟ್ರೀಮ್",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "ಭಯ",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ದೃಷ್ಟಿ",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "ತೆಳುವಾದ",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "ತ್ರಿಕೋನ",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "ಗ್ರಹದ",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "ಯದ್ವಾತದ್ವಾ",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "ಮುಖ್ಯ",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "ವಸಾಹತು",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "ಗಡಿಯಾರ",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "ಗಣಿ",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "ಟೈ",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "ನಮೂದಿಸಿ",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "ಪ್ರಮುಖ",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "ತಾಜಾ",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "ಹುಡುಕಾಟ",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "ಕಳುಹಿಸಿ",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "ಹಳದಿ",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ಗನ್",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "ಅವಕಾಶ",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "ಮುದ್ರಣ",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "ಸತ್ತ",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "ಸ್ಪಾಟ್",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "ಮರುಭೂಮಿಯ",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "ಸೂಟ್",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "ಪ್ರಸ್ತುತ",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "ಲಿಫ್ಟ್",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ಗುಲಾಬಿ",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "ಬರುವ",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "ಮಾಸ್ಟರ್",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "ಟ್ರ್ಯಾಕ್",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "ಮೂಲ",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "ತೀರದ",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "ವಿಭಾಗ",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "ಹಾಳೆ",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "ವಸ್ತುವಿನ",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "ಒಲವು",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "ಸಂಪರ್ಕ",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "ಪೋಸ್ಟ್",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "ಖರ್ಚು",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "ಸ್ವರಮೇಳ",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "ಕೊಬ್ಬು",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "ಸಂತೋಷವನ್ನು",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "ಮೂಲ",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "ಪಾಲು",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "ಕೇಂದ್ರ",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "ತಂದೆ",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "ಬ್ರೆಡ್",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "ಚಾರ್ಜ್",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "ಸರಿಯಾದ",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "ಬಾರ್",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "ಪ್ರಸ್ತಾಪವನ್ನು",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "ಭಾಗ",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "ಗುಲಾಮ",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "ಡಕ್",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "ತ್ವರಿತ",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "ಮಾರುಕಟ್ಟೆ",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "ಪದವಿ",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "ಜನಪ್ರಿಯಗೊಳಿಸುವುದಕ್ಕೆ",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "ಮರಿಯನ್ನು",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "ಪ್ರಿಯ",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "ಶತ್ರು",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "ಪ್ರತ್ಯುತ್ತರ",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "ಪಾನೀಯ",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "ಸಂಭವಿಸುತ್ತದೆ",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "ಬೆಂಬಲ",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "ಭಾಷಣ",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "ಪ್ರಕೃತಿ",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "ಶ್ರೇಣಿಯ",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "ಉಗಿ",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "ಚಲನೆಯ",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "ಮಾರ್ಗ",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "ದ್ರವ",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "ಲಾಗ್",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "ಅರ್ಥ",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "ಭಾಗಲಬ್ಧ",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "ಹಲ್ಲುಗಳು",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "ಚಿಪ್ಪು",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "ಕುತ್ತಿಗೆ",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "ಆಮ್ಲಜನಕ",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "ಸಕ್ಕರೆ",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "ಸಾವು",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "ಬಹಳ",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "ಕೌಶಲ್ಯ",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "ಮಹಿಳೆಯರು",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "ಋತುವಿನ",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "ಪರಿಹಾರ",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "ಮ್ಯಾಗ್ನೆಟ್",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "ಬೆಳ್ಳಿ",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "ಧನ್ಯವಾದ",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "ಶಾಖೆ",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "ಪಂದ್ಯದ",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "ಪ್ರತ್ಯಯ",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "ವಿಶೇಷವಾಗಿ",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "ಅಂಜೂರದ",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "ಹೆದರುತ್ತಿದ್ದರು",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ಬೃಹತ್",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "ಸಹೋದರಿ",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "ಉಕ್ಕಿನ",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ಚರ್ಚೆ",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "ಮುಂದೆ",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "ಇದೇ",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "ಮಾರ್ಗದರ್ಶನ",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "ಅನುಭವ",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "ಸ್ಕೋರ್",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "ಸೇಬು",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "ಖರೀದಿಸಿ",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "ಕಾರಣವಾಯಿತು",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "ಪಿಚ್",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "ಕೋಟ್",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "ಸಮೂಹ",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "ಕಾರ್ಡ್",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "ಬ್ಯಾಂಡ್",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "ಹಗ್ಗ",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "ಸ್ಲಿಪ್",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "ಗೆಲುವು",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "ಕನಸು",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "ಸಂಜೆ",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "ಸ್ಥಿತಿ",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "ಫೀಡ್",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "ಸಾಧನ",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "ಒಟ್ಟು",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "ಮೂಲ",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "ವಾಸನೆ",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "ಕಣಿವೆಯ",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ಅಥವಾ",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "ಡಬಲ್",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "ಸ್ಥಾನವನ್ನು",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "ಮುಂದುವರೆಯಲು",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "ಬ್ಲಾಕ್",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "ಚಾರ್ಟ್",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "ಹ್ಯಾಟ್",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "ಮಾರಾಟ",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "ಯಶಸ್ಸು",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "ಕಂಪನಿ",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "ಕಳೆಯಿರಿ",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "ಈವೆಂಟ್",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "ನಿರ್ದಿಷ್ಟ",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "ಒಪ್ಪಂದ",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "ಈಜು",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "ಪದ",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "ವಿರುದ್ಧ",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "ಪತ್ನಿ",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "ಶೂ",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ಭುಜದ",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "ಹರಡುವಿಕೆ",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "ವ್ಯವಸ್ಥೆ",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "ಶಿಬಿರದಲ್ಲಿ",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "ಆವಿಷ್ಕಾರ",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "ಹತ್ತಿ",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "ಜನನ",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "ನಿರ್ಧರಿಸಲು",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "ಕಾಲುಭಾಗ",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "ಒಂಬತ್ತು",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "ಟ್ರಕ್",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "ಶಬ್ದ",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "ಮಟ್ಟದ",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "ಅವಕಾಶ",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "ಸಂಗ್ರಹಿಸಲು",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "ಅಂಗಡಿ",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "ಏರಿಕೆಯ",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "ಎಸೆಯಲು",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "ಶೈನ್",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "ಆಸ್ತಿ",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "ಕಾಲಮ್",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "ಅಣು",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "ಆಯ್ಕೆ",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "ತಪ್ಪು",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "ಬೂದು",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ಮತ್ತೆ",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "ಅಗತ್ಯವಿರುತ್ತದೆ",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "ವಿಶಾಲ",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "ತಯಾರು",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "ಉಪ್ಪು",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "ಮೂಗು",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "ಬಹುವಚನ",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "ಕೋಪ",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "ಹಕ್ಕು",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "ಖಂಡದ",
+      "englishWord": "continent"
+    }
+  ]
+}

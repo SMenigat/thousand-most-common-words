@@ -1,0 +1,5007 @@
+{
+  "languageCode": "nl",
+  "languageName": "Dutch",
+  "languageNativeName": "Nederlands",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "als",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "I",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "zijn",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "dat",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "hij",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "was",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "voor",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "op",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "zijn",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "met",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ze",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "zijn",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "bij",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "een",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "hebben",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "deze",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "van",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "door",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "heet",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "woord",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "maar",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "wat",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "sommige",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "is",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "het",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "u",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "of",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "had",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "de",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "van",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "aan",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "en",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "een",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "in",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "we",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "kan",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "uit",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "andere",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "waren",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "die",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "doen",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "hun",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "tijd",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "indien",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "zal",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "hoe",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "zei",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "een",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "elk",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "vertellen",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "doet",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "set",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "drie",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "willen",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "lucht",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "goed",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "ook",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "spelen",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "klein",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "end",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "zetten",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "thuis",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "lezen",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "de hand",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "poort",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "grote",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "spell",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "toevoegen",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "zelfs",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "land",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "hier",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "moet",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "grote",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "hoog",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "dergelijke",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "volgen",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "act",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "waarom",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "vragen",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "mannen",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "verandering",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "ging",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "licht",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "soort",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "uitgeschakeld",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "nodig hebben",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "huis",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "afbeelding",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "proberen",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "ons",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "weer",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "dier",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "punt",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "moeder",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "wereld",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "dichtbij",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "bouwen",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "zelf",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "aarde",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "vader",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "een",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "nieuwe",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "werk",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "deel",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "nemen",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "krijgen",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "plaats",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "gemaakt",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "wonen",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "waar",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "na",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "terug",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "weinig",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "alleen",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "ronde",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "man",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "jaar",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "kwam",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "Show",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "elke",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "goed",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "mij",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "geven",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "onze",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "onder",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "naam",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "zeer",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "door",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "gewoon",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "vorm",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "zin",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "grote",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "denken",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "zeggen",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "helpen",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "laag",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "lijn",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "verschillen",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "beurt",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "oorzaak",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "veel",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "betekenen",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "voor",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "verhuizing",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "rechts",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "jongen",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "oude",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "ook",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "hetzelfde",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ze",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "alle",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "er",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "wanneer",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "omhoog",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "gebruiken",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "uw",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "manier",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "over",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "veel",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "dan",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "hen",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "schrijven",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "zou",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "zoals",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "dus",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "deze",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "haar",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "lang",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "maken",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "ding",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "zien",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "hem",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "twee",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "heeft",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "kijken",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "meer",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "dag",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "kon",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "gaan",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "komen",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "deed",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "aantal",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "klinken",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "geen",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "meest",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "mensen",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "mijn",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "meer dan",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "weten",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "water",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "dan",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "roep",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "eerste",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "die",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "kan",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "naar beneden",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "kant",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "geweest",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "nu",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "vinden",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "hoofd",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "staan",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "eigen",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "pagina",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "moeten",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "land",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "gevonden",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "antwoord",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "de school",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "groeien",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "studie",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "nog",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "leren",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "planten",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "afdekking",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "voedsel",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "zon",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "vier",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "tussen",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "staat",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "houden",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "oog",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "nooit",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "laatste",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "laten",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "gedachte",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "stad",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "boom",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "oversteken",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "boerderij",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "hard",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "begin",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "zou",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "verhaal",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "zaag",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "ver",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "zee",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "tekenen",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "links",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "laat",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "lopen",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "niet",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "terwijl",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "pers",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "dicht",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "nacht",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "echt",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "leven",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "weinig",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "noorden",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "boek",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "dragen",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "nam",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "wetenschap",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "eet",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "kamer",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "vriend",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "begon",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "idee",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "vis",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "berg",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "stop",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "eenmaal",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "base",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "hear",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "paard",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "gesneden",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "zeker",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "kijken",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "kleur",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "gezicht",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "hout",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "belangrijkste",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "geopend",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "lijken",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "samen",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "volgende",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "wit",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "kinderen",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "beginnen",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "kreeg",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "lopen",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "voorbeeld",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "gemak",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "papier",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "groep",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "altijd",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "muziek",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "die",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "beide",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "mark",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "vaak",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "brief",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "tot",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "mijl",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "rivier",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "auto",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "voeten",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "zorg",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "tweede",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "genoeg",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "vlakte",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "meisje",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "gebruikelijke",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "jonge",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "klaar",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "boven",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "ooit",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "rood",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "lijst",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "hoewel",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "voelen",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "Overleg",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "vogel",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "spoedig",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "lichaam",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "hond",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "familie",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "rechtstreeks",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "pose",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "vertrekken",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "lied",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "meten",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "deur",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "artikel",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "zwart",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "korte",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "cijfer",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "klasse",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "wind",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "vraag",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "gebeuren",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "compleet",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "schip",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "gebied",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "helft",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "rots",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "orde",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "brand",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "zuiden",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "probleem",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "stuk",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "vertelde",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "wist",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "passeren",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "sinds",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "boven",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "geheel",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "king",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "straat",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "inch",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "vermenigvuldigen",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "niets",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "cursus",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "blijven",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "wiel",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "volledige",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "kracht",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "blauw",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "object",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "beslissen",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "oppervlak",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "diepe",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "maan",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "eiland",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "voet",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "systeem",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "drukke",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "toets",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "opnemen",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "boot",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "gemeenschappelijke",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "goud",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "mogelijk",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "vliegtuig",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "plaats",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "droge",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "afvragen",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "lachen",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "duizend",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "geleden",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "ran",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "controleren",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "spel",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "vorm",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "gelijk",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "heet",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "bracht",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "warmte",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "sneeuw",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "band",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "brengen",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ja",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "verre",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "vullen",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "oosten",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "schilderen",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "taal",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "onder",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "eenheid",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "kracht",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "stad",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "fijne",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "bepaalde",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "vliegen",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "vallen",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "leiden",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "huilen",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "donker",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "apparaat",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "noot",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "wachten",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "plannen",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "figuur",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "ster",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "doos",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "zelfstandig naamwoord",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "veld",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "rest",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "juist",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "in staat",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "pond",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "gedaan",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "schoonheid",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "rijden",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "stond",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "bevatten",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "voorzijde",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "leren",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "week",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "finale",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "gaf",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "groen",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "snel",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "ontwikkelen",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "oceaan",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "warme",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "gratis",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minuut",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "sterke",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "speciaal",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "geest",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "achter",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "duidelijk",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "staart",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "produceren",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "feit",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "ruimte",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "gehoord",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "best",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "uur",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "beter",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "ware",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "tijdens",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "honderd",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "vijf",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "onthouden",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "stap",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "vroeg",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "houden",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "west",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "grond",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "rente",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "bereiken",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "snel",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "werkwoord",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "zingen",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "luisteren",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "zes",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "tafel",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "reizen",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "minder",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "ochtend",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "tien",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "eenvoudig",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "verscheidene",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "klinker",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "in de richting van",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "oorlog",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "leggen",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "tegen",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "patroon",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "langzaam",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "centrum",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "liefde",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "persoon",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "geld",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "dienen",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "verschijnen",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "weg",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "kaart",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "regen",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "regel",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "regeren",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "trek",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "koude",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "kennisgeving",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "stem",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energie",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "hunt",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "waarschijnlijk",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "bedden",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "broer",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ei",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "rit",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "cel",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "geloven",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "misschien",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "pick",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "plotseling",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "tellen",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "square",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "reden",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "lengte",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "vertegenwoordigen",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "kunst",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "onderwerp",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "regio",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "grootte",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "variëren",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "vestigen",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "spreken",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "gewicht",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "algemeen",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "ijs",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "aangelegenheid",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "cirkel",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "paar",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "omvatten",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "kloof",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "lettergreep",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "vilt",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "grand",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "bal",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "nog",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "wave",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "laten vallen",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "hart",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "ben",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "aanwezig",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "zwaar",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "dans",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "motor",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "positie",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "arm",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "breed",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "zeil",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materiaal",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "fractie",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "bos",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "zitten",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "ras",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "venster",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "winkel",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "zomer",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "trein",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "slaap",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "bewijzen",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "eenzame",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "been",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "oefening",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "muur",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "vangst",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "berg",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "wensen",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "hemel",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "boord",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "vreugde",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "de winter",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "zat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "geschreven",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "wild",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrument",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "gehouden",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "glas",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "gras",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "koe",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "werk",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "edge",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "teken",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "bezoek",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "verleden",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "zachte",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "lol",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "heldere",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gas",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "weer",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "maand",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "miljoen",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "dragen",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "afwerking",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "happy",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "hopen",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "bloem",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "kleden",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "vreemd",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "weg",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "handel",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodie",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "reis",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "kantoor",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ontvangen",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "rij",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "mond",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "exacte",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "symbool",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "sterven",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "minste",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "problemen",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "schreeuw",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "behalve",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "schreef",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "zaad",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "toon",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "toetreden tot",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "suggereren",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "schoon",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "break",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "dame",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "yard",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "stijgen",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "slecht",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "klap",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "olie",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "bloed",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "aanraken",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "groeide",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "procent",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "mengen",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "team",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "draad",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "kosten",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "verloren",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "bruin",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "dragen",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "tuin",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "gelijk",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "verzonden",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "kiezen",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "viel",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "passen",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "stromen",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "eerlijk",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bank",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "verzamelen",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "besparen",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "controle",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "decimaal",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "oor",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "anders",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "heel",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "brak",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "geval",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "midden",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "doden",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "zoon",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "meer",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "momenteel",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "schaal",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "luid",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "voorjaar",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "waarnemen",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "kind",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "straight",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "medeklinker",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "natie",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "woordenboek",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "melk",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "snelheid",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "methode",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "orgel",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "betalen",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "leeftijd",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "sectie",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "kleding",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "wolk",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "verrassing",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "rustig",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "steen",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "minuscuul",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "klimmen",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "koele",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "ontwerp",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "slechte",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "veel",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "experiment",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "onderzijde",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "sleutel",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "ijzer",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "enkelvoudige",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "stok",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "flat",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "twintig",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "huid",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "glimlach",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "vouw",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "gat",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "springen",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "kindje",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "acht",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "dorp",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "ontmoeten",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "wortel",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "kopen",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "verhogen",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "op te lossen",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metalen",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "of",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "duw",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "zeven",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "paragraaf",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "derde",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "zal",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "gehouden",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "haar",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "beschrijven",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "kok",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "vloer",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "ofwel",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "resultaat",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "verbranden",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "hill",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "veilig",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "kat",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "eeuw",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "overwegen",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "soort",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "wet",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "beetje",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "kust",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopie",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "zinsnede",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "stil",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "hoog",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "zand",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "bodem",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "rol",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatuur",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "vinger",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "industrie",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "waarde",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "strijd",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "leugen",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "verslaan",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "excite",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "natuurlijke",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "view",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "sense",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "hoofdstad",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "zal niet",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "stoel",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "gevaar",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "fruit",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "rijk",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "dikke",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "soldaat",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "proces",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "werken",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "praktijk",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "apart",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "moeilijk",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "arts",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "aub",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "beschermen",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "middag",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "gewas",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "moderne",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "onderdeel",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "hit",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "leerling",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "hoek",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "partij",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "levering",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "wiens",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "lokaliseren",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "kookplaten",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "karakter",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "insecten",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "gevangen",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "periode",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "geven",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radio In",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "sprak",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atoom",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "menselijk",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "geschiedenis",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "werking",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektrische",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "verwachten",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "bot",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "spoor",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "stel",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "bieden",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "instemmen",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "dus",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "zachte",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "vrouw",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapitein",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "denk",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "noodzakelijk",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "scherpe",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "vleugel",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "creëren",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "buurman",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "wassen",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "vleermuis",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "eerder",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "menigte",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "maïs",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "vergelijken",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "gedicht",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "koord",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "bell",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "afhangen",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "vlees",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "wrijven",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "buis",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "beroemde",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "deas",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "stroom",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "angst",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "zicht",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "dun",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "driehoek",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planeet",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "haast",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "chief",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "kolonie",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "klok",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "de mijne",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "stropdas",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "voeren",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "grote",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "vers",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "zoeken",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "sturen",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "geel",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "pistool",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "toelaten",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "afdrukken",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "dood",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "plek",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "woestijn",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "pak",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "huidige",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "lift",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "gestegen",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "aankomen",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "meester",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "spoor",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "ouder",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "oever",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "divisie",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "blad",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "stof",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "gunst",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "aansluiten",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "post",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "besteden",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "akkoord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "vet",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "blij",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "origineel",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "aandeel",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "station",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "dad",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "brood",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "rekenen",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "behoorlijk",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "aanbod",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segmenten",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "slaaf",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "eend",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "onmiddellijke",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "markt",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "graad",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "bevolken",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "kuiken",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "lieve",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "vijand",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "antwoorden",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "drankje",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "voorkomen",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "ondersteuning",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "spraak",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "natuur",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "reeks",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "stoom",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "beweging",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "pad",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "vloeistof",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "aanmelden",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "betekende",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "quotiënt",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "tanden",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "schelp",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "nek",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "zuurstof",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "suiker",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "dood",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "vrij",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "vaardigheid",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "vrouwen",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "seizoen",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "oplossing",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magneet",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "zilver",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "dank",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "tak",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "wedstrijd",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "achtervoegsel",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "vooral",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "vijg",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "bang",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "reusachtig",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "zus",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "staal",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "bespreken",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "vooruit",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "gelijkaardige",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "begeleiden",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "ervaring",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "partituur",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "appel",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "gekocht",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "geleid",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "toonhoogte",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "coat",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "massa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kaart",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "band",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "touw",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "slip",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "win",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "dromen",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "avond",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "voorwaarde",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "voer",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "gereedschap",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "totaal",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "elementaire",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "geur",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "dal",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "noch",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "dubbel",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "zitje",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "blijven",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "blokkeren",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "grafiek",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "hoed",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "verkopen",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "succes",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "bedrijf",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "aftrekken",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "evenement",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "bijzonder",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "deal",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "zwemmen",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "termijn",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "tegengesteld",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "vrouw",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "schoen",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "schouder",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "spreiding",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "regelen",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "kamp",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "uitvinden",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "katoen",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "geboren",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "bepalen",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "quart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "negen",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "vrachtwagen",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "geluidsoverlast",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "niveau",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "kans",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "verzamelen",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "winkel",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "rekken",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "gooien",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "glans",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "pand",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "column",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molecuul",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "selecteren",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "mis",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "grijs",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "herhaal",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "vereisen",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "brede",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "bereiden",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "zout",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "neus",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "meervoud",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "woede",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "vordering",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "werelddeel",
+      "englishWord": "continent"
+    }
+  ]
+}

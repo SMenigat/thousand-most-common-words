@@ -1,0 +1,5007 @@
+{
+  "languageCode": "ko",
+  "languageName": "Korean",
+  "languageNativeName": "한국어",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "로",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "나는",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "그의",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "그",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "그",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "했다",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "에 대한",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "에",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "아르",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "와",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "그들",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "있다",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "에",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "일",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "이",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "이",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "부터",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "에 의해",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "뜨거운",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "단어",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "하지만",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "무엇",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "다소",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "이다",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "그",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "당신",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "또는",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "했다",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "에",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "의",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "에",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "과",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "이",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "에",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "우리",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "수",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "아웃",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "다른",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "했다",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "하는",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "할",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "자신의",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "시간",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "면",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "것",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "방법",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "말했다",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "이",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "각",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "이야기",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "하지",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "세트",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "세",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "필요",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "공기",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "잘",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "또한",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "재생",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "작은",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "끝",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "넣어",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "홈",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "읽기",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "손",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "포트",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "큰",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "철자",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "추가",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "도",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "땅",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "여기",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "해야",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "큰",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "높은",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "이러한",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "따라",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "행위",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "이유",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "문의",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "남자",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "변경",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "갔다",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "빛",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "종류",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "오프",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "필요가있다",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "집",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "사진",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "시험",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "우리",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "다시",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "동물",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "포인트",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "어머니",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "세계",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "가까운",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "구축",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "자기",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "지구",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "아버지",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "모든",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "새로운",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "일",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "일부",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "소요",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "도착",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "장소",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "만든",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "살고있다",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "어디에",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "후",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "다시",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "작은",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "만",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "둥근",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "사람",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "년",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "온",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "쇼",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "모든",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "좋은",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "나를",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "제공",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "우리의",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "아래의",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "이름",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "대단히",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "를 통해",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "단지",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "양식",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "문장",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "큰",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "생각",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "말",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "도움",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "낮은",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "온라인",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "차이",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "회전",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "원인",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "많은",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "의미",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "이전",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "움직임",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "바로",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "소년",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "늙은",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "너무",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "동일",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "그녀",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "모든",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "그곳에",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "때",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "올라",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "사용",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "당신의",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "방법",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "에 대한",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "많은",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "다음",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "그",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "쓰기",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "것",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "같은",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "그래서",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "이들",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "그녀의",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "긴",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "확인",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "일",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "참조",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "그",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "두",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "이",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "봐",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "더",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "일",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "수",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "이동",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "올",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "한",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "수",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "소리",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "없음",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "가장",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "사람들",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "내",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "이상",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "알고",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "물",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "보다",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "통화",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "첫째",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "사람",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "수도",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "아래로",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "측면",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "하고",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "지금",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "발견",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "머리",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "서",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "자신의",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "페이지",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "해야",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "국가",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "발견",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "답변",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "학교",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "성장",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "연구",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "여전히",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "학습",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "공장",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "덮개",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "음식",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "일",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "네",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "사이",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "상태",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "유지",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "눈",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "결코",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "마지막",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "하자",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "생각",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "도시",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "트리",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "교차",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "농장",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "단단한",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "시작",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "수도",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "이야기",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "톱",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "까지",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "바다",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "그리",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "왼쪽",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "후반",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "실행",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "하지",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "반면",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "키를 누릅니다",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "가까이",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "밤",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "실제",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "생활",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "조금",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "북",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "책",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "수행",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "했다",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "과학",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "식사",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "방",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "친구",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "시작",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "아이디어",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "물고기",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "산",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "중지",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "한 번",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "기본",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "듣다",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "말",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "컷",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "확실한",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "손목 시계",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "색",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "얼굴",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "나무",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "주",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "오픈",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "것",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "함께",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "다음",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "흰색",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "어린이",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "시작",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "있어",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "도보",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "예",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "완화",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "종이",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "그룹",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "항상",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "음악",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "그",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "모두",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "마르크",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "자주",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "편지",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "까지",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "마일",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "강",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "자동차",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "피트",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "주의",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "초",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "충분히",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "일반",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "소녀",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "보통",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "젊은",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "준비된",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "위",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "지금까지",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "빨간색",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "표",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "그래도",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "느낌",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "이야기",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "조류",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "곧",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "몸",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "개",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "가족",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "직접",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "포즈",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "떠나",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "노래",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "측정",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "문",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "제품",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "블랙",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "짧은",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "숫자",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "클래스",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "바람",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "질문",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "일",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "완료",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "배",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "지역",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "반",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "바위",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "주문",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "화재",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "남쪽",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "문제",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "조각",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "이야기",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "알고",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "통과",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "이후",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "최고",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "전체",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "왕",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "거리",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "인치",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "곱",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "아무것도",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "물론",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "유지",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "휠",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "전체",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "힘",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "푸른",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "객체",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "결정",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "표면",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "깊은",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "달",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "섬",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "발",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "시스템",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "바쁜",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "테스트",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "기록",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "보트",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "공통의",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "금",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "가능한",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "비행기",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "대신",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "건조",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "궁금",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "웃음",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "천",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "전",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "실행",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "확인",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "게임",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "모양",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "동일시",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "뜨거운",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "미스",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "가져",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "열",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "눈",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "타이어",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "가져",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "예",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "먼",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "입력",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "동쪽",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "페인트",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "언어",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "중",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "단위",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "힘",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "마을",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "잘",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "어떤",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "비행",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "가을",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "지도",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "울음 소리",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "어두운",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "기계",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "주의",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "대기",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "계획",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "그림",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "스타",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "상자",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "명사",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "필드",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "나머지",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "정확한",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "수",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "파운드",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "완료",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "아름다움",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "드라이브",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "서",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "포함",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "앞",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "가르쳐",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "주",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "최종",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "준",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "녹색",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "오",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "빨리",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "개발",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "대양",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "따뜻한",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "무료",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "분",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "강한",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "특수",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "마음",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "뒤에",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "명확한",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "꼬리",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "생산",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "사실",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "공간",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "들어",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "가장",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "시간",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "더",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "사실",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "중",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "백",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "오",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "기억",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "단계",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "초기",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "개최",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "서쪽",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "지상",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "관심",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "범위",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "빠른",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "동사",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "노래",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "청취",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "육",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "나타난",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "여행",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "이하",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "아침",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "열",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "간단한",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "여러",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "모음",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "방향",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "전쟁",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "누워",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "에 대하여",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "패턴",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "느린",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "센터",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "사랑",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "사람",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "돈",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "봉사",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "표시",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "도로",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "지도",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "비",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "규칙",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "적용",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "당겨",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "감기",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "예고",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "음성",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "에너지",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "사냥",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "가능성",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "침대",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "형제",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "계란",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "타고",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "셀",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "생각",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "어쩌면",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "선택",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "갑자기",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "계산",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "광장",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "이유",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "길이",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "대표",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "예술",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "주제",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "지역",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "크기",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "다양",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "정착",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "이야기",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "무게",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "일반",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "얼음",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "문제",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "원",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "쌍",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "포함",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "분할",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "음절",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "느낌",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "그랜드",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "공",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "아직",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "파",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "드롭",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "마음",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "어디로",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "현재",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "무거운",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "댄스",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "엔진",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "위치",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "팔",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "폭",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "항해",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "재료",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "분수",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "숲",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "앉아",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "레이스",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "창",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "상점",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "여름",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "기차",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "잠",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "증명",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "고독한",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "다리",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "운동",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "벽",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "캐치",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "마운트",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "소원",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "하늘",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "판",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "즐거움",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "겨울",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "토",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "기록",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "야생",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "악기",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "유지",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "유리",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "잔디",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "소",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "작업",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "에지",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "로그인",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "방문",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "지난",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "소프트",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "재미",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "밝은",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "가스",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "날씨",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "개월",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "만",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "곰",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "끝",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "행복",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "기대",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "꽃",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "의복을 걸치다",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "기이 한",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "사라",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "무역",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "멜로디",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "여행",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "사무실",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "수신",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "행",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "입",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "정확한",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "기호",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "죽다",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "이상",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "수고",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "소리",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "제외",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "썼다",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "씨앗",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "톤",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "가입",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "제안",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "청소",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "단절",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "아가씨",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "야드",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "상승",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "나쁜",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "타격",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "기름",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "피",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "터치",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "성장",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "센트",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "혼합",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "팀",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "와이어",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "비용",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "손실",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "갈색",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "착용",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "정원",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "동일",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "전송",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "선택",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "하락",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "적합",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "흐름",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "박람회",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "은행",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "수집",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "저장",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "제어",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "소수점",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "귀",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "다른",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "아주",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "파산",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "경우",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "중간",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "죽",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "아들",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "호수",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "순간",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "규모",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "큰 소리로",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "봄",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "관찰",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "아이",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "직선",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "자음",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "국민",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "사전",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "우유",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "속도",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "방법",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "기관",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "지불",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "연령",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "섹션",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "드레스",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "구름",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "놀람",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "조용한",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "돌",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "작은",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "등반",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "멋진",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "디자인",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "가난한",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "많은",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "실험",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "바닥",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "키",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "철",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "단일",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "스틱",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "플랫",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "스물",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "피부",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "미소",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "주름",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "구멍",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "점프",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "아가",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "팔",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "마을",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "대회",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "루트",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "사기",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "인상",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "해결",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "금속",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "여부",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "푸시",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "일곱",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "단락",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "세번째",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "하여야한다",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "개최",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "머리",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "설명",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "요리",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "바닥",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "중",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "결과",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "구울",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "언덕",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "안전한",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "고양이",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "세기",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "고려",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "유형",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "법",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "비트",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "해안",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "복사",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "문구",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "침묵",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "키",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "모래",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "토양",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "롤",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "온도",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "손가락",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "산업",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "값",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "싸움",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "거짓말",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "이길",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "흥분",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "자연",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "보기",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "의미",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "자본",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "하지 않습니다",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "의자",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "위험",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "과일",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "풍부한",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "두께",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "군인",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "과정",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "운영",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "연습",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "별도의",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "어려운",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "의사",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "제발",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "보호",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "정오",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "작물",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "현대",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "요소",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "히트",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "학생",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "코너",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "파티",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "공급",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "누구의",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "위치",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "링",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "문자",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "곤충",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "적발",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "기간",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "표시",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "라디오",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "이야기",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "원자",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "인간",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "역사",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "효과",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "전기",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "기대",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "골",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "레일",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "상상",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "제공",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "동의",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "따라서",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "부드러운",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "여성",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "주장",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "추측",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "필요",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "날카로운",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "날개",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "작성",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "이웃",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "세척",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "박쥐",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "오히려",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "군중",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "옥수수",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "비교",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "시",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "문자열",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "벨",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "따라",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "고기",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "문지",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "튜브",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "유명한",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "달러",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "스트림",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "무서움",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "시력",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "얇은",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "삼각형",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "행성",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "서둘러",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "장",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "식민지",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "시계",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "내",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "넥타이",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "입력",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "주요",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "신선한",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "검색",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "보내",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "노란색",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "총",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "수",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "인쇄",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "죽은",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "자리",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "사막",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "정장",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "현재",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "리프트",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "장미",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "도착",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "마스터",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "트랙",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "부모",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "해안",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "부문",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "시트",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "물질",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "호의",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "연결",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "포스트",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "지출",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "코드",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "지방",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "다행",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "원래",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "주",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "역",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "아빠",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "빵",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "충전",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "적절한",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "바",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "제안",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "세그먼트",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "슬레이브",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "오리",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "인스턴트",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "시장",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "도",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "웁니다",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "병아리",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "친애",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "적",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "응답",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "한잔",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "발생",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "지원",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "음성",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "자연",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "범위",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "증기",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "모션",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "경로",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "액체",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "로그인",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "의미",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "지수",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "치아",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "쉘",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "목",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "산소",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "설탕",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "죽음",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "꽤",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "기술",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "여성",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "시즌",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "용액",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "자석",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "실버",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "감사",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "지점",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "경기",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "접미사",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "특히",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "그림",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "두려워",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "거대한",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "자매",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "스틸",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "논의",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "앞으로",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "비슷한",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "가이드",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "경험",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "점수",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "사과",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "구입",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "주도",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "피치",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "코트",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "질량",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "카드",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "밴드",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "로프",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "슬립",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "승리",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "꿈",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "저녁",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "조건",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "먹이",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "도구",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "총",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "기본",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "냄새",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "계곡",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "도",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "더블",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "좌석",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "계속",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "블록",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "차트",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "모자",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "판매",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "성공",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "회사",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "빼기",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "이벤트",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "특히",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "거래",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "수영",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "용어",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "정반대의",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "아내",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "신발",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "어깨",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "확산",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "준비",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "캠프",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "발명하다",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "면",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "태어난",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "결정",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "쿼트",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "구",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "트럭",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "잡음",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "수준",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "기회",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "수집",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "상점",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "스트레칭",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "던져",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "광택",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "등록",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "열",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "분자",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "선택",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "나쁜",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "회색",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "반복",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "필요",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "폭 넓은",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "준비",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "소금",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "코",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "복수",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "분노",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "제",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "대륙",
+      "englishWord": "continent"
+    }
+  ]
+}

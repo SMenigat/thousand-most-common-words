@@ -1,0 +1,5007 @@
+{
+  "languageCode": "yi",
+  "languageName": "Yiddish",
+  "languageNativeName": "ייִדיש",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "ווי",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "איך",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "זיין",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "אַז",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ער",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "איז געווען",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "פֿאַר",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "אויף",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "זענען",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "מיט",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "זיי",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "זיין",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "אין",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "איינער",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "האָבן",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "דעם",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "פון",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "דורך",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "וואַרעם",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "וואָרט",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "אָבער",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "וואָס",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "עטלעכע",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "איז",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "עס",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "איר",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "אָדער",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "האט",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "די",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "פון",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "צו",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "און",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "אַ",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "אין",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "מיר",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "קענען",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "אויס",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "אנדערע",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "זענען",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "וואָס",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "טאָן",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "זייער",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "צייַט",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "אויב",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "וועט",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "ווי",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "האט",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "אַן",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "יעדער",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "דערציילן",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "טוט",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "שטעלן",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "דרייַ",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "ווילן",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "לופט",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "געזונט",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "אויך",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "שפּילן",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "קליין",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "עק",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "שטעלן",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "היים",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "לייענען",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "האַנט",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "פּאָרט",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "גרויס",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "רעגע",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "לייגן",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "אפילו",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "לאַנד",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "דאָ",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "מוזן",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "גרויס",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "הויך",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "אַזאַ",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "נאָכפאָלגן",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "אַקט",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "פארוואס",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "פרעגן",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "מענער",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "טוישן",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "געגאנגען",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "ליכט",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "מין",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "אַוועק",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "דאַרפֿן",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "הויז",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "בילד",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "פּרובירן",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "אונדז",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "ווידער",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "כייַע",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "פונט",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "מוטער",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "וועלט",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "נעבן",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "בויען",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "זיך",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "ערד",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "פאטער",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "קיין",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "נייַ",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "אַרבעט",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "טייל",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "נעמען",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "באַקומען",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "אָרט",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "געמאכט",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "לעבן",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "ווו",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "נאָך",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "צוריק",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "ביסל",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "בלויז",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "קייַלעכיק",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "מענטש",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "יאָר",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "געקומען",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "ווייַזן",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "יעדער",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "גוט",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "מיר",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "געבן",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "אונדזער",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "אונטער",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "נאָמען",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "זייער",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "דורך",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "נאָר",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "פאָרעם",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "זאַץ",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "גרויס",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "טראַכטן",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "זאָגן",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "הילף",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "נידעריק",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "שורה",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "אַנדערש זייַן",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "קערן",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "גרונט",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "פיל",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "מיינען",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "איידער",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "מאַך",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "רעכט",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "יינגל",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "אַלט",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "אויך",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "זעלביקער",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "זי",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "אַלע",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "דאָרט",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "ווען",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "אַרויף",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "נוצן",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "דיין",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "וועג",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "וועגן",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "פילע",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "דעמאָלט",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "זיי",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "שרייַבן",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "וואָלט",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "ווי",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "אַזוי",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "די",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "זי",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "לאַנג",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "מאַכן",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "זאַך",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "זען",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "אים",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "צוויי",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "האט",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "קוקן",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "מער",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "טאָג",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "קען",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "גיין",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "קומען",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "האט",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "נומער",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "געזונט",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "קיין",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "מערסט",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "מען",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "מייַן",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "איבער",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "וויסן",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "וואַסער",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "ווי",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "רופן",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "ערשטער",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "וואס",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "קען",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "אַראָפּ",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "זייַט",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "געווען",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "איצט",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "געפינען",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "קאָפּ",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "שטיין",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "אייגן",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "Page",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "זאָל",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "לאַנד",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "געפונען",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "ענטפֿערן",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "שולע",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "וואַקסן",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "לערנען",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "נאָך",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "לערנען",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "געוויקס",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "דעקן",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "עסנוואַרג",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "זון",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "פיר",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "צווישן",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "שטאַט",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "האַלטן",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "אויג",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "קיינמאָל",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "לעצט",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "לאָזן",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "געדאַנק",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "שטאָט",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "בוים",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "קרייַז",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "פאַרם",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "שווער",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "אָנהייב",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "זאל",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "געשיכטע",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "געזען",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "ווייַט",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "ים",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "ציען",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "לינקס",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "שפּעט",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "לויפן",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "טאָן ניט",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "בשעת",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "דריקן",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "נאָענט",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "נאַכט",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "פאַקטיש",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "לעבן",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "ווייניק",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "צפון",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "בוך",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "פירן",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "גענומען",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "וויסנשאַפֿט",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "עסן",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "צימער",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "פרייַנד",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "אנגעהויבן",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "געדאַנק",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "פיש",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "באַרג",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "האַלטן",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "אַמאָל",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "באַזע",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "הערן",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "פערד",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "דורכשניט",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "זיכער",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "וואַך",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "קאָליר",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "פּנים",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "האָלץ",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "הויפּט",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "עפענען",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "ויסקומען",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "צוזאַמען",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "ווייַטער",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "ווייַס",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "קינדער",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "אָנהייבן",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "גאַט",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "גיין",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "בייַשפּיל",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "יז",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "פּאַפּיר",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "גרופּע",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "שטענדיק",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "מוזיק",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "יענע",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "ביידע",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "צייכן",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "אָפֿט",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "בריוו",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "ביז",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "מייל",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "טייַך",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "מאַשין",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "פֿיס",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "זאָרגן",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "רגע",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "גענוג",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "קלאָר",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "מיידל",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "געוויינטלעך",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "יונג",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "גרייט",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "אויבן",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "אלץ",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "רויט",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "רשימה",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "כאָטש",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "פילן",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "רעדן",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "פויגל",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "באַלד",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "גוף",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "הונט",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "משפּחה",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "דירעקט",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "פּאָזע",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "לאָזן",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "ליד",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "מאָס",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "טיר",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "פּראָדוקט",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "שוואַרץ",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "קורץ",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "ציפער",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "קלאַס",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "ווינט",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "קשיא",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "פּאַסירן",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "גאַנץ",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "שיף",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "געגנט",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "האַלב",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "שטיין",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "סדר",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "פייַער",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "דרום",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "פּראָבלעם",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "שטיק",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "דערציילט",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "געוואוסט",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "פאָרן",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "זינט",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "שפּיץ",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "גאַנץ",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "קעניג",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "גאַס",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "אינטש",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "מערן",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "גאָרנישט",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "קורס",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "בלייַבן",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "ראָד",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "פול",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "קראַפט",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "בלוי",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "כייפעץ",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "באַשליסן",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "ייבערפלאַך",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "טיף",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "לעוואָנע",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "אינזל",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "פֿיס",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "סיסטעם",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "פאַרנומען",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "פּרובירן",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "רעקאָרד",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "שיפל",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "פּראָסט",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "גאָלד",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "מעגלעך",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "פלאַך",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "סטעד",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "טרוקן",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "ווונדער",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "לאַכן",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "טויזנט",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "צוריק",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "געלאפן",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "טשעק",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "שפּיל",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "פאָרעם",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "יקווייט",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "וואַרעם",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "פאַרפירן",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "געבראכט",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "היץ",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "שניי",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "רייַף",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "ברענגען",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "יאָ",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "ווייַט",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "פּלאָמבירן",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "מזרח",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "פאַרב",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "שפּראַך",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "צווישן",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "אַפּאַראַט",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "מאַכט",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "שטאָט",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "פייַן",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "זיכער",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "פליען",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "פאַלן",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "פירן",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "וויינען",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "פינצטער",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "מאַשין",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "צעטל",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "וואַרטן",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "פּלאַן",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "פיגורע",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "שטערן",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "קעסטל",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "נאָון",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "פעלד",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "רו",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "ריכטיק",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "קענען",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "פונט",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "געשען",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "שיינקייט",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "פאָר",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "געשטאנען",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "אַנטהאַלטן",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "פראָנט",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "לערנען",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "וואָך",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "לעצט",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "האט",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "גרין",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "אוי",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "שנעל",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "אַנטוויקלען",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "אָקעאַן",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "וואַרעם",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "פֿרייַ",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "מינוט",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "שטאַרק",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "ספּעציעל",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "מיינונג",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "הינטער",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "קלאָר",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "עק",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "פּראָדוצירן",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "פאַקט",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "פּלאַץ",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "געהערט",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "בעסטער",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "שעה",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "בעסער",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "עמעס",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "בעשאַס",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "הונדערט",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "פינף",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "געדענקען",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "טרעטן",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "פרי",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "האַלטן",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "מייַרעוו",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "ערד",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "אינטערעס",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "דערגרייכן",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "פעסט",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "ווערב",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "זינגען",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "הערן",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "זעקס",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "טיש",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "אַרומפאָרן",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "ווייניקער",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "מאָרגן",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "צען",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "פּשוט",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "עטלעכע",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "וואַואַל",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "צו",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "מלחמה",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "לייגן",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "קעגן",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "מוסטער",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "פּאַמעלעך",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "צענטער",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "ליבע",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "מענטש",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "געלט",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "דינען",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "דערשייַנען",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "וועג",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "מאַפּע",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "רעגן",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "הערשן",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "רעגירן",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "ציען",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "קאַלט",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "באַמערקן",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "קול",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "ענערגיע",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "גיינ אַף",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "פּראַבאַבאַל",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "בעט",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "ברודער",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "יי",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "פאָר",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "צעל",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "גלויבן",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "טאָמער",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "פּיקן",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "פּלוצעמדיק",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "ציילן",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "קוואַדראַט",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "סיבה",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "לענג",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "פאָרשטעלן",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "קונסט",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "ונטערטעניק",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "געגנט",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "גרייס",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "בייַטן",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "פאַרענטפערן",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "רעדן",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "וואָג",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "אַלגעמיינע",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "ייַז",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "ענין",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "קרייַז",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "פּאָר",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "אַרייַננעמען",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "צעטיילן",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "סילאַבאַל",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "פּעלץ",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "גרויס",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "פּילקע",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "נאָך",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "כוואַליע",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "פאַלן",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "האַרץ",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "בין",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "פאָרשטעלן",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "שווער",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "טאַנצן",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "מאָטאָר",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "שטעלע",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "אָרעם",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "ברייט",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "זעגל",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "מאַטעריאַל",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "בראָכצאָל",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "וואַלד",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "זיצן",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "ראַסע",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "פֿענצטער",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "קראָם",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "זומער",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "באַן",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "שלאָפן",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "באַווייַזן",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "יינציק",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "פוס",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "געניטונג",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "וואַנט",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "כאַפּן",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "אָנקלאַפּן",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "ווינטשן",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "הימל",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "ברעט",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "פרייד",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "ווינטער",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "געזעצט",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "געשריבן",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "ווילד",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "קיילע",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "געהיט",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "גלאז",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "גראָז",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "קו",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "אַרבעט",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "ברעג",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "צייכן",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "באַזוכן",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "פאַרגאַנגענהייַט",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "ווייך",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "שפּאַס",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "ליכטיק",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "גאַז",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "וועטער",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "חודש",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "מיליאָן",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "בער",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "ענדיקן",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "גליקלעך",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "האָפענונג",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "בלום",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "אָנטאָן",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "מאָדנע",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "ניטאָ",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "האַנדל",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "ניגון",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "יאַזדע",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "אָפיס",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "באַקומען",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "רודערן",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "מויל",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "פּינקטלעך",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "סימבאָל",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "שטאַרבן",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "קלענסטער",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "קאָנפליקט",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "שרייַען",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "אַחוץ",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "געשריבן",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "זוימען",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "טאָן",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "פאַרבינדן",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "פֿאָרשלאָגן",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "ריין",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "ברעכן",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "דאַמע",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "הויף",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "העכערונג",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "שלעכט",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "קלאַפּ",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "ייל",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "בלוט",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "פאַרבינדן",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "געוואקסן",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "סענט",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "מישן",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "קאָלעקטיוו",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "דראָט",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "קאָסטן",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "פאַרפאַלן",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "ברוין",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "טראָגן",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "גאָרטן",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "גלייַך",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "געשיקט",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "קלייַבן",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "געפאלן",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "צופּאַסן",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "לויפן",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "יריד",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "באַנק",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "זאַמלען",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "ראַטעווען",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "קאָנטראָל",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "דעצימאַל",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "אויער",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "אַנדערש",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "גאַנץ",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "אָנ געלט",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "פאַל",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "מיטן",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "טייטן",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "זון",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "אָזערע",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "מאָמענט",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "וואָג",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "הויכן",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "פרילינג",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "אָבסערווירן",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "קינד",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "גלייַך",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "קאָנסאָנאַנט",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "פאָלק",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "ווערטערבוך",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "מילך",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "גיכקייַט",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "אופֿן",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "אָרגאַן",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "באַצאָלן",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "עלטער",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "אָפּטיילונג",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "קלייד",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "וואָלקן",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "יבערראַשן",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "שטיל",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "שטיין",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "קליינטשיק",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "קריכן",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "קילן",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "פּלאַן",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "נעבעך",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "פּלאַץ",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "עקספּערימענט",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "דנאָ",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "שליסל",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "פּרעסן",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "איין",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "שטעקן",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "פלאַך",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "צוואַנציק",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "הויט",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "שמייכל",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "קנייטש",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "לאָך",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "שפּרינגען",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "בעיבי",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "אַכט",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "דאָרף",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "טרעפן",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "וואָרצל",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "קויפן",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "כאַפּן",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "סאָלווע",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "מעטאַל",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "צי",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "שטופּן",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "זיבן",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "פּאַראַגראַף",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "דריט",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "וועט",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "געהאלטן",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "האָר",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "באַשרייַבן",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "קאָכן",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "פּאָדלאָגע",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "יעדער",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "רעזולטאַט",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "ברענען",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "בערגל",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "זיכער",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "קאַץ",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "יאָרהונדערט",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "באַטראַכטן",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "טיפּ",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "געזעץ",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "שטיקל",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "ברעג",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "קאָפּי",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "פראַזע",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "שטיל",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "הויך",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "זאַמד",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "באָדן",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "זעמל",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "טעמפּעראַטור",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "פינגער",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "אינדוסטריע",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "ווערט",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "קאַמף",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "ליגן",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "קלאַפּן",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "אָנצינדן",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "נאַטירלעך",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "View",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "זינען",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "קאפיטאל",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "וועט נישט",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "שטול",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "געפאַר",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "פרוכט",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "רייַך",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "דיק",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "זעלנער",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "פּראָצעס",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "אַרבעטן",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "פיר",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "באַזונדער",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "שווער",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "דאָקטער",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "ביטע",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "באַשיצן",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "מיטאָגצייַט",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "גערעטעניש",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "מאָדערן",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "עלעמענט",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "שלאָגן",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "תּלמיד",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "ווינקל",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "פּאַרטיי",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "צושטעלן",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "וועמענס",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "געפינען",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "רינג",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "פּאַרשוין",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "ינסעקט",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "געכאפט",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "צייַט",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "אָנווייַזן",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "ראַדיאָ",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "גערעדט",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "אַטאָם",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "מענטשלעך",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "געשיכטע",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "ווירקונג",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "עלעקטריש",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "דערוואַרטן",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "ביין",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "רעלס",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "ימאַדזשאַן",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "צושטעלן",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "שטימען",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "אַזוי אַרום",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "צאַרט",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "פרוי",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "קאַפּיטאַן",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "טרעפן",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "נייטיק",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "שאַרף",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "פליגל",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "שאַפֿן",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "שאָכן",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "וואַשן",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "פלעדערמויז",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "אלא",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "מאַסע",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "פּאַפּשוי",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "פאַרגלייַכן",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "פּאָעמע",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "שטריקל",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "גלאָק",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "אָפענגען",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "פלייש",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "רייַבן",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "רער",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "באַרימט",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "דאָלאַר",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "טייַך",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "מורא",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "דערזען",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "דין",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "דרייַעק",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "פּלאַנעט",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "ייַלן",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "ראשי",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "קאַלאַני",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "זייגער",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "מייַן",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "בינדן",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "אַרייַן",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "הויפּט",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "פריש",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "זוכן",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "שיקן",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "געל",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ביקס",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "לאָזן",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "דרוק",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "טויט",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "פלעק",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "מדבר",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "פּאַסן",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "קראַנט",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "הייב",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "רויז",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "אָנקומען",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "בעל",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "שפּור",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "פאָטער",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "ברעג",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "טיילונג",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "בויגן",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "מאַטעריע",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "טויווע",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "פאַרבינדן",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "פּאָסטן",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "פאַרברענגען",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "קאָרד",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "פעט",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "צופרידן",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "אָריגינעל",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "Share",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "סטאַנציע",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "טאַטע",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "ברויט",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "אָפּצאָל",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "געהעריק",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "באַר",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "פאָרשלאָגן",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "אָפּשניט",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "שקלאַף",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "קאַטשקע",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "רעגע",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "מאַרק",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "דיפּלאָם",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "באַפעלקערן",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "פייגעלע",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "ליב",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "פייַנט",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "ענטפער",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "טרינקען",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "פאַלן",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "שטיצן",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "רעדע",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "נאַטור",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "קייט",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "פּאַרע",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "באַוועגונג",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "דרך",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "פליסיק",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "קלאָץ",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "מענט",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "וויפלטער",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "ציין",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "שאָל",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "האַלדז",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "זויערשטאָף",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "צוקער",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "טויט",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "שיין",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "בקיעס",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "פרויען",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "צייַט",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "לייזונג",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "מאַגנעט",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "זילבער",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "דאַנקען",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "צווייַג",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "גלייַכן",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "סאַפיקס",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "ספּעציעל",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "פייַג",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "דערשראָקן",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ריזיק",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "שוועסטער",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "שטאָל",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "דיסקוטירן",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "פאָרויס",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "ענלעך",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "פירן",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "דערפאַרונג",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "כעזשבן",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "עפּל",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "געקויפט",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "געפירט",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "גראַד",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "מאַנטל",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "מאַסע",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "קאָרט",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "באַנדע",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "שטריק",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "צעטל",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "געווינען",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "חלום",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "אָוונט",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "צושטאַנד",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "פּאַטשן",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "געצייַג",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "גאַנץ",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "יקערדיק",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "שמעקן",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "טאָל",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "אדער",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "טאָפּל",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "אַוועקזעצן",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "פאָרזעצן",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "פאַרשפּאַרן",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "טשאַרט",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "קאַפּל",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "פאַרקויפן",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "הצלחה",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "פירמע",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "אַראָפּרעכענען",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "געשעעניש",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "באַזונדער",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "האַנדלען",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "שווימען",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "טערמין",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "פאַרקערט",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "פרוי",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "שוך",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "אַקסל",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "פאַרשפּרייטן",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "צולייגן",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "לאַגער",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "אויסטראַכטן",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "וואַטע",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "געבוירן",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "באַשטימען",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "קווארט",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "נייַן",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "טראָק",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "ראַש",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "גלייַך",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "געלעגנהייַט",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "דרינגען",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "קראָם",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "אויסשטרעקן",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "וואַרפן",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "שייַנען",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "פאַרמאָג",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "זייַל",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "מאַלאַקיול",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "אויסקלייַבן",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "קאַליע",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "גרוי",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "איבערחזרן",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "דאַרפן",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "ברייט",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "גרייטן",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "זאַלץ",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "נאָז",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "מערצאָל",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "קאַס",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "טענה",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "קאָנטינענט",
+      "englishWord": "continent"
+    }
+  ]
+}

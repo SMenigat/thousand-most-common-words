@@ -1,0 +1,5007 @@
+{
+  "languageCode": "ru",
+  "languageName": "Russian",
+  "languageNativeName": "Русский",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "как",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "Я",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "его",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "что",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "он",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "было",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "для",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "на",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "являются",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "с",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "они",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "быть",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "в",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "один",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "иметь",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "это",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "от",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "по",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "горячий",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "слово",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "но",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "что",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "некоторые",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "является",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "это",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "вы",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "или",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "было",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "площадь",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "из",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "гора",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "и",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "основной",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "взял",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "мы",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "может",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "из",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "другой",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "были",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "который",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "сделать",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "их",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "время",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "если",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "будет",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "как",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "указанный",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "назад",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "каждый",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "сказать",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "делает",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "набор",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "три",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "хочу",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "воздух",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "хорошо",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "также",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "играть",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "небольшой",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "конец",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "положить",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "домой",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "читать",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "рука",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "порт",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "большой",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "заклинание",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "добавлять",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "даже",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "земля",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "здесь",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "должны",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "большой",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "высокий",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "такие",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "следовать",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "акт",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "почему",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "спросите",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "люди",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "изменение",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "пошел",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "свет",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "вид",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "от",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "нуждаться",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "дом",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "картинка",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "пытаться",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "нам",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "снова",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "животных",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "точка",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "мать",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "мир",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "около",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "строить",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "самостоятельно",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "земля",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "отец",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "любой",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "новый",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "работа",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "часть",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "принимать",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "получать",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "место",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "сделал",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "жить",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "где",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "после",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "назад",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "немного",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "только",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "круглый",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "человек",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "год",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "пришел",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "шоу",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "каждый",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "хорошее",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "меня",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "давать",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "наш",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "под",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "название",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "очень",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "через",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "просто",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "форма",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "приговор",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "большой",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "думать",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "сказать",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "помощь",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "низкий",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "линия",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "отличаются",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "поворот",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "причиной",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "много",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "означать",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "до",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "движение",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "право",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "мальчик",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "старый",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "слишком",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "же",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "она",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "все",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "там",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "когда",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "вверх",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "использование",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "ваш",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "способ",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "о",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "многие",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "затем",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "их",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "запись",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "бы",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "подобно",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "так",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "эти",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ее",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "долго",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "сделать",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "вещь",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "посмотреть",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "его",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "два",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "имеет",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "искать",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "еще",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "день",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "мог",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "идти",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "приходят",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "сделал",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "число",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "звук",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "нет",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "наиболее",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "люди",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "мой",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "над",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "знать",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "вода",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "чем",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "вызов",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "первый",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "кто",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "может",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "вниз",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "сторона",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "был",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "сейчас",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "находить",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "руководитель",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "стоять",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "самостоятельно",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "страница",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "должны",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "страна",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "найдено",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "ответ",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "школа",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "расти",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "исследование",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "еще",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "учиться",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "завод",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "крышка",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "еда",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "солнце",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "четыре",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "между",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "состояние",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "держать",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "глаз",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "никогда не",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "Последнее",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "позволять",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "мысль",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "город",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "дерево",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "пересекают",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ферма",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "трудно",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "начало",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "мощи",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "история",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "пила",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "далеко",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "море",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "привлечь",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "слева",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "поздно",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "запустить",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "не",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "в то время как",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "нажмите",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "близко",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "ночь",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "реальный",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "жизнь",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "несколько",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "к северу",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "книга",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "нести",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "взял",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "наука",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "есть",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "номер",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "друг",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "начал",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "идея",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "рыба",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "гора",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "остановить",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "раз",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "база",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "слышать",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "лошадь",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "вырезать",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "уверен",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "смотреть",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "цвет",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "лицо",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "дерево",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "основной",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "открыт",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "кажется",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "вместе",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "следующий",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "белый",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "дети",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "начать",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "получил",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "ходить",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "пример",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "легкость",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "бумага",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "группа",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "всегда",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "музыка",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "тех,",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "как",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "знак",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "часто",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "письмо",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "до",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "км",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "река",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "автомобиль",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "футов",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "уход",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "Второй",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "достаточно",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "равнина",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "девушка",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "обычно",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "молодой",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "готовый",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "выше",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "когда-либо",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "красный",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "список",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "хотя",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "чувствовать",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "разговор",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "птица",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "скоро",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "тело",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "собака",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "семья",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "прямой",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "представляют",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "оставить",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "песня",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "измерять",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "дверь",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "продукт",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "черный",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "короткая",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "цифра",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "класс",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "ветер",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "вопрос",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "произойдет",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "полная",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "корабль",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "площадь",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "половина",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "рок",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "порядок",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "огонь",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "юг",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "проблема",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "кусок",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "сказал",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "знал",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "проходить",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "с",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "топ",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "весь",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "король",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "улица",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "дюйм",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "умножить",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "ничего",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "курс",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "оставаться",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "колеса",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "полный",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "сила",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "синий",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "объект",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "решать",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "поверхность",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "глубоко",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "луна",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "остров",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "фут",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "система",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "занято",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "тест",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "запись",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "лодка",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "общая",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "золото",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "возможно",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "самолет",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "вместо него",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "сухой",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "Интересно",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "смех",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "тыс",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "назад",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "побежал",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "проверять",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "игра",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "форма",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "приравнять",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "горячий",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "мисс",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "принес",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "тепло",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "снег",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "шина",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "приносить",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "да",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "удаленная",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "заполнить",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "восток",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "краска",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "язык",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "среди",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "блок",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "мощность",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "город",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "отлично",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "уверен",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "летать",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "падать",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "привести",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "крик",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "темно",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "машина",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "примечание",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "ждать",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "план",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "фигура",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "звезда",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "коробка",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "существительное",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "поле",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "остальные",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "верный",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "состоянии",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "фунт",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "сделано",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "красота",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "привод",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "стоял",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "содержать",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "передние",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "учить",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "неделя",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "окончательный",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "дал",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "зеленый",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "ой",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "быстро",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "развивать",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "океан",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "теплый",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "бесплатно",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "минут",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "сильный",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "специальный",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "ум",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "за",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "ясно",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "хвост",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "производить",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "факт",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "пространство",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "слышал",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "лучше",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "час",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "лучше",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "правда",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "во",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "сто",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "пять",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "запомнить",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "шаг",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "рано",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "удерживайте",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "запад",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "земля",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "интерес",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "достичь",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "быстро",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "глагол",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "петь",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "слушать",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "шесть",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "стол",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "поездки",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "меньше",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "утро",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "десять",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "простой",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "несколько",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "гласный",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "к",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "война",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "заложить",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "против",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "шаблон",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "медленно",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "центр",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "любовь",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "человек",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "деньги",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "служить",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "появляются",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "дорога",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "карта",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "дождь",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "правило",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "управлять",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "тянуть",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "холодный",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "уведомление",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "голос",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "энергия",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "охота",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "вероятный",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "кровать",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "брат",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "яйцо",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "поездка",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "клеток",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "верить",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "возможно,",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "выбрать",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "внезапный",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "считать",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "Квадратный",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "причина",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "длина",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "представлять",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "искусство",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "Заголовок",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "область",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "размер",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "меняться",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "урегулировать",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "говорить",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "вес",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "общий",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "лед",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "дело",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "круг",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "пара",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "включают",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "разделяй",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "слог",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "чувствовал",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "великий",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "мяч",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "еще",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "волна",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "падение",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "сердце",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "утра",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "присутствует",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "тяжелый",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "танец",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "двигатель",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "положение",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "рука",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "широкий",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "парус",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "материал",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "доля",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "лес",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "сидеть",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "гонка",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "окно",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "магазин",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "лето",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "поезд",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "сон",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "доказывать",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "одинокий",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "нога",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "упражнение",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "стена",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "улов",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "крепление",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "хотите",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "небо",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "доска",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "радость",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "зима",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "Сб",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "написанный",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "дикий",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "инструмент",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "хранится",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "стекло",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "трава",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "корова",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "работа",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "край",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "знак",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "визит",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "мимо",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "мягкая",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "весело",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "яркий",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "газа",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "погода",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "месяц",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "миллион",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "нести",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "отделка",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "счастливы",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "надеюсь",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "цветок",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "одевать",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "странный",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "ушел",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "торговля",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "мелодия",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "поездка",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "офис",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "получать",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "строка",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "рот",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "точный",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "символ",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "умереть",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "мере",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "беда",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "крик",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "кроме",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "писал",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "семян",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "тон",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "присоединиться",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "предложить",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "чистый",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "перерыв",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "леди",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "двор",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "подниматься",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "плохо",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "удар",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "масло",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "кровь",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "коснуться",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "выросла",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "цент",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "смешивать",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "команда",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "провод",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "Стоимость",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "потерянный",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "коричневый",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "носить",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "сад",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "равный",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "отправлено",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "выбирать",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "упал",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "соответствовать",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "течь",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "ярмарка",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "банк",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "собирать",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "сохранить",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "контроль",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "десятичной",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "ухо",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "еще",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "вполне",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "сломал",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "дело",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "средний",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "убивать",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "сын",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "озеро",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "момент",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "шкала",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "громко",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "весна",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "наблюдать",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "ребенок",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "прямо",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "согласный",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "нация",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "словарь",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "молоко",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "скорость",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "метод",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "орган",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "платить",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "возраст",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "раздел",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "платье",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "облако",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "сюрприз",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "тихо",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "камень",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "крошечный",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "подъем",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "круто",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "дизайн",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "бедный",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "много",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "эксперимент",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "снизу",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "ключ",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "железо",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "один",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "палка",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "плоским",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "двадцать",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "кожа",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "улыбка",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "складка",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "отверстие",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "прыжок",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "ребенок",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "восемь",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "деревня",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "Знакомства",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "корень",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "купить",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "поднимать",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "решить",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "металла",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "ли",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "толчок",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "семь",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "пункт",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "третий",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "должен",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "ручные",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "волосы",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "описывать",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "повар",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "этаж",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "или",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "результат",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "сжечь",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "холм",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "сейф",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "кошка",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "век",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "рассматривать",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "Тип",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "закон",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "немного",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "побережье",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "копия",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "фраза",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "тихий",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "высокий",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "песок",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "почвы",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "рулон",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "температура",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "палец",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "промышленность",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "значение",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "борьба",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "ложь",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "бить",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "возбуждать",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "естественный",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "вид",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "смысл",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "капитал",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "не будет",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "стул",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "опасность",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "фрукты",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "богатые",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "толщиной",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "солдат",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "процесс",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "работать",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "практика",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "отдельный",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "трудный",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "врач",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "пожалуйста",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "защищать",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "полдень",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "урожай",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "современный",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "элемент",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "хит",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "студент",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "угол",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "партия",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "поставка",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "чьи",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "разместить",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "кольцо",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "характер",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "насекомое",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "пойманный",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "период",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "указывать",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "радио",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "говорил",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "атом",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "человек",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "история",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "эффект",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "электрический",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "ожидать",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "кость",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "железнодорожные",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "вообразить",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "обеспечить",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "соглашаться",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "таким образом",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "нежный",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "женщина",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "капитан",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "догадываться",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "необходимо",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "резкое",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "крыло",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "создавать",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "сосед",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "стирка",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "летучая мышь",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "а",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "толпа",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "кукуруза",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "сравнить",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "стихотворение",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "строка",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "колокол",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "зависеть",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "мясо",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "руб",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "трубка",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "известный",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "доллар",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "поток",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "страх",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "зрение",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "тонкий",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "треугольник",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "планета",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "спешить",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "главный",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "колония",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "часы",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "шахта",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "связать",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "введите",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "основным",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "свежий",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "поиск",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "отправить",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "желтый",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "пистолет",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "позволять",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "печать",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "мертвый",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "место",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "пустыня",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "костюм",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "ток",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "лифт",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "выросла",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "приходим",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "мастер",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "трек",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "родитель",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "берег",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "деление",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "лист",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "вещество",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "пользу",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "подключать",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "пост",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "провести",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "аккорд",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "жира",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "довольный",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "оригинальный",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "доля",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "станция",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "папа",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "хлеб",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "взимать",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "собственно",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "бар",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "предложение",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "сегмент",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "раб",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "утка",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "растворимый",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "рынок",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "степень",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "заселять",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "цыпленок",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "дорогой",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "враг",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "ответ",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "напиток",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "происходить",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "поддержка",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "речь",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "природа",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "диапазон",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "пара",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "движение",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "путь",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "жидкости",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "войти",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "означало",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "фактор",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "зубы",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "оболочка",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "шея",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "кислорода",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "сахар",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "смерть",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "довольно",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "умение",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "женщины",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "сезон",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "решение",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "магнит",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "серебро",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "спасибо",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "филиал",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "матч",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "суффикс",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "особенно",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "рис",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "боится",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "огромный",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "сестра",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "сталь",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "обсуждать",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "вперед",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "похожи",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "направлять",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "опыт",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "счет",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "яблоко",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "купленный",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "привело",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "шаг",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "пальто",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "масса",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "карта",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "полоса",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "веревка",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "скольжение",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "выиграть",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "мечтать",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "вечер",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "состояние",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "корма",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "инструмент",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "общий",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "основной",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "запах",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "долина",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ни",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "двойной",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "сиденья",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "продолжать",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "блок",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "диаграмма",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "шляпа",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "продать",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "успех",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "компания",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "вычитать",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "мероприятие",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "частности",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "сделка",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "плавать",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "термин",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "напротив",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "жена",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "обуви",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "плечо",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "распространение",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "организовать",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "лагерь",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "изобретать",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "хлопок",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "родившийся",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "определять",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "кварта",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "девять",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "грузовик",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "шум",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "уровень",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "шанс",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "собирать",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "магазин",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "протяжение",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "бросать",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "блеск",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "имущество",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "колонка",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "молекула",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "выбирать",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "неправильно",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "серый",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "повторение",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "требовать",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "широкий",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "подготовить",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "соль",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "нос",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "множественное",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "гнев",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "претензии",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "континент",
+      "englishWord": "continent"
+    }
+  ]
+}

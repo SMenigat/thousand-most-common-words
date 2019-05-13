@@ -1,0 +1,5007 @@
+{
+  "languageCode": "mi",
+  "languageName": "Maori",
+  "languageNativeName": "Māori",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "rite",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "ahau",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "tona",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "e",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "e ia",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "ko",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "hoki",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "runga i",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "ko",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "ki",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ratou",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "kia",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "i",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "kotahi",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "E",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "tenei",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "mei",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "by",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "wera",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "kupu",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "engari",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "te aha",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "etahi",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "ko te",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "reira",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "koutou",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "ranei",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "ia",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "te",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "o",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "ki",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "ka",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "a",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "i roto i te",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "tatou i",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "taea e",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "i roto i",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "atu",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "he",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "nei",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "te mahi",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "ratou",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "te wā",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "ki te",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "e pai",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "pehea",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "mea",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "he",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "ia",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "korero ki",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "meatia e",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "huinga",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "e toru",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "hiahia",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "hau",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "pai",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "hoki",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "te tākaro",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "iti",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "mutunga",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "maka",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "te kāinga",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "tai’o",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "ringa",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "tauranga",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "nui",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "takikupu",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "tāpiri i",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "ara",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "te whenua",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "i konei",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "me",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "nui",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "tiketike",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "i taua",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "te whai",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "mahi",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "he aha",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "ui",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "tangata",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "huringa",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "haere",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "te marama",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "atawhai",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "atu",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "Me",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "whare",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "pikitia",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "tamata",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "tatou",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "ano",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "kararehe",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "tata",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "whaea",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "te ao",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "tata",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "hanga",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "whaiaro",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "te whenua",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "papa",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "tetahi",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "hou",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "mahi",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "wāhanga",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "tango",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "whiwhi",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "wahi",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "hanga",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "ora",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "i reira",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "i muri i",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "hoki",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "iti",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "anake",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "tawhio",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "te tangata",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "tau",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "haere mai",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "whakaatu",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "nga",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "pai",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "ahau",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "hoatu",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "to tatou",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "i raro i",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "ingoa",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "rawa",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "i roto i",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "tika",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "puka",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "rerenga kōrero",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "nui",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "whakaaro",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "mea",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "tauturu i te",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "iti",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "raina",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "rerekē",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "tahuri",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "take",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "nui",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "te tikanga",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "i mua i",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "nekehanga",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "matau",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "tamaiti",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "tau",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "rawa",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "taua",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ia",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "katoa",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "i reira",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "ka",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "ake",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "whakamahi",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "koutou",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "ara",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "e pā ana ki",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "maha",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "ka",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "ratou",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "te tuhituhi",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "pai",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "rite",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "na",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "enei",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ia",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "roa",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "hanga",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "mea",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "kite",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "ia ia",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "e rua",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "he",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "titiro",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "atu",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "ra",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "taea",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "haere",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "haere mai",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "i mea ai",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "te tau",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "tangi",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "kahore",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "te nuinga",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "te iwi",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "toku",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "ki runga",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "e mohio ana",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "wai",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "atu",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "karanga",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "tuatahi",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "nei",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "kia",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "ki raro",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "taha",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "kua",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "i teie nei",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "kitea",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "upoko",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "tu",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "ake",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "whārangi",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "kia",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "whenua",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "kitea",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "ka whakahoki",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "te kura",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "tupu",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "te tai’oraa i te",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "tonu",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "ako",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "te tipu",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "cover",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "kai",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "ra",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "e wha",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "i waenganui i",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "kāwanatanga",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "kia mau",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "kanohi",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "kore",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "whakamutunga",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "kia",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "whakaaro",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "pa",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "rakau",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "whakawhiti",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "pāmu",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "pakeke",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "tīmatanga",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "te kaha",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "kōrero",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "kite",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "tawhiti",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "te moana",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "te utu",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "mahue",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "te mutunga",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "oma",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "te mahi e kore e",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "ia",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "press",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "tata",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "te po",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "tūturu",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "ora",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "torutoru",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "ki te raki",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "pukapuka",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "kawe",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "ka tango",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "pūtaiao",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "kai",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "ruma",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "hoa",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "ka timata",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "whakaaro",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ika",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "maunga",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "mutu",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "kotahi",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "turanga",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "rongo",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "hoiho",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "tapahia",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "tino",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "mataara",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "te tae",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "kanohi",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "rakau",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "matua",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "tuwhera",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "te mea",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "tahi",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "i muri",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "white",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "tamariki",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "timata",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "ka",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "haere",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "tauira",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "mamatanga",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "pepa",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "rōpū",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "tonu",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "waiata",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "te hunga",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "e rua",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "tohu",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "maha",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "reta",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "tae noa ki",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "mile",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "te awa",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "motokā",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "waewae",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "tiaki",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "tuarua",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "nui",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "mania",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "kotiro",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "mua",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "taitamariki",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "rite",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "i runga",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "ake",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "whero",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "rārangi",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "ahakoa",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "ite",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "korero",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "manu",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "hohoro",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "tinana",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "kuri",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "whānau",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "tika",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "tūpono",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "waiho",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "waiata",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "whanganga",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "tatau",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "hua",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "mangu",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "poto",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "whika",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "te piha",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "hau",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "pātai",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "tupu",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "oti",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "kaipuke",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "rohe",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "hawhe",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "toka",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "kia",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "te ahi",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "ki te tonga",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "raruraru",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "wahi",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "ka korerotia",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "i mohio",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "haere",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "mai",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "runga",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "katoa",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "te kingi",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "street",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "inihi",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "kia tini",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "kahore",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "akoranga",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "noho",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "wira",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "tonu",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "kaha",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "puru",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "ahanoa",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "whakatau",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "mata",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "hohonu",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "marama",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "motu",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "waewae",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "pūnaha",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "pukumahi",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "whakamātautau",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "record",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "kaipuke",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "noa",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "koura",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "taea",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "plane",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "i muri ia ia",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "maroke",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "uiui nei",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "i kata",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "mano",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "i ma’iri a’e nei",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "rere",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "taki",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "game",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "hanga",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "whakaōrite i",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "wera",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "pahemo",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "kawea",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "wera",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "hukarere",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "mauiui",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "kawea",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ae",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "tawhiti",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "whakakiia e",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "rawhiti",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "peita",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "te reo",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "i roto i",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "kōwae",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "mana",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "pa",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "pai",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "etahi",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "rere",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "hinga",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "arahi",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "karanga",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "pouri",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "mihini",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "tuhipoka",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "tatari",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "mahere",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "ahua",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "whetu",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "pouaka",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "noun",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "mara",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "era atu",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "tika",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "taea",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "pauna",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "mea ai",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "ataahua",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "puku",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "tu",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "Kei roto i",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "mua",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "e whakaako",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "wiki",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "whakamutunga",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "i hoatu",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "matomato",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "tere",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "whakawhanake",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "moana",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "mahana",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "noa",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "meneti",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "kaha",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "motuhake",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "whakaaro",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "ki muri",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "mārama",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "hiku",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "te whakaputa",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "meka",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "wāhi",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "rongo",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "pai",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "haora",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "pai",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "pono",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "i roto i",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "rau",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "e rima",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "mahara",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "taahiraa",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "wawe",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "mau",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "hauauru",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "whenua",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "pānga",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "tae",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "nohopuku",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "verb",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "waiata",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "whakarongo",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "e ono",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "tepu",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "haere",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "iti iho",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "ata",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "tekau",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "simple",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "e rave rahi",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "oropuare",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "ki",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "te whawhai",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "takoto",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "ki",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "tauira",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "puhoi",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "te pokapū",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "aroha",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "tangata",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "moni",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "e mahi",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "puta",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "te ara",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "map",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "ua",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "tikanga",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "faatere i",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "hutia",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "matao",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "pānui",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "reo",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "pūngao",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "whaiwhai",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "pea",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "moenga",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "teina",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "hua",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "tere",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "pūtau",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "te whakapono",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "pea",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "tangohia",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "ohorere",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "tatau",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "tapawha",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "take",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "roa",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "tohu",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "koe",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "i raro",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "rohe",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "rahi",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "rerekē",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "whakatau",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "korero",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "taimaha",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "whānui",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "te huka",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "mea",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "porowhita",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "takirua",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "ngā",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "wehenga",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "haukūoro",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "ua",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "rahi",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "pōro i",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ano",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "poipoi",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "maturuturu",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "ngakau",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "ahau",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "reira",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "taimaha",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "kanikani",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "pūkaha",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "tūnga",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "ringa",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "whānui",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "rere",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "rauemi",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "hautanga",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "ngahere",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "noho",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "iwi",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "matapihi",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "toa",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "raumati",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "tereina",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "moe",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "hei whakamatautau",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "ana’e",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "waewae",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "mahi",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "taiepa",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "hao",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "maunga",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "hiahia",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "rangi",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "poari",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "hari",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "hotoke",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "Rahoroi",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "i tuhituhia",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "mohoao",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "taputapu",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "pupuri",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "karaihe",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "tarutaru",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "kau",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "mahi",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "mata",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "tohu",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "haerenga",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "mua",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "ngohengohe",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "pārekareka",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "kanapa",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "hau",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "rangi",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "marama",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "miriona",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "e mau",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "whakaoti",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "hari",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "Te ti’aturi nei",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "puawai",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "e kakahu ana io",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "ke",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "riro",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "hokohoko",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "e waiata ana",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "haerenga",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "tari",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ia farii i",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "rarangi",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "mangai",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "tangohia",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "tohu",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "mate",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "te iti rawa",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "raruraru",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "hamama",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "ki te kahore",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "i tuhituhi",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "uri",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "reo",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "amui atu",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "whakaaro",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "ma",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "break",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "wahine",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "iari",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "whakatika",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "kino",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "pupuhi",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "hinu",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "toto",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "pa ki",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "tupu",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "ōrau",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "uru",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "rōpū",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "waea",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "utu",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "ngaro",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "parauri",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "kakahu",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "kari",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "rite",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "ka tonoa",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "te whiriwhiri",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "hinga",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "uru",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "rere",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "ataahua",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "pēke",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "kohikohi",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "whakaora",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "mana",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "ira",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "taringa",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "atu",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "tino",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "whawhati",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "take",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "waenganui",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "te whakamate",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "tama",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "roto",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "taime",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "tauine",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "nui",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "puna",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "puritia e",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "tamaiti",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "tika tonu",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "orokati",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "iwi",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "papakupu",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "te waiu",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "tere",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "tikanga",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "whēkau",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "aufau i te",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "tau",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "wāhanga",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "kākahu",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "kapua",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "maere",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "ata",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "kohatu",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "iti",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "piki",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "hauhautanga",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "hoahoa",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "rawakore",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "rota",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "whakamātau",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "raro",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "matua",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "rino",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "kotahi",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "tokotoko",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "flat",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "e rua tekau",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "kiri",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "ataata",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "pae",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "rua",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "peke",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "te tamaiti",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "e waru",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "kainga",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "hui",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "pakiaka",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "hoko",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "whakaara",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "te whakaoti",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "whakarewa",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "ahakoa",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "pana",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "e whitu",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "kōwae",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "te toru",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "ka",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "pūpuri",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "makawe",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "whakaahua",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "tuari",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "papa",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "rānei",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "hua",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "tahu",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "pukepuke",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "haumaru",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "ngeru",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "rau",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "whakaaro",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "momo",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "te ture",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "moka",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "rohe",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "tārua",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "kīanga",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "puku",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "roroa",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "onepu",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "oneone",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "pukapuka",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "pāmahana",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "maihao",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "ahumahi",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "uara",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "whawhai",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "teka",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "whiua",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "tokomauri",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "māori",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "Tiro",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "tikanga",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "whakapaipai",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "e kore e",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "heamana",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "mōrearea",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "hua",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "taonga",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "matotoru",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "hoia",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "tukanga",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "whakahaere",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "mahi",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "wehe",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "uaua",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "tākuta",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "tēnā",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "te tiaki",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "te poutumarotanga",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "hua",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "hou",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "huānga",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "patua",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "ngā ākonga",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "kokonga",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "rōpū",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "homai",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "tona",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "te kimi",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "mowhiti",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "pūāhua",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "pepeke",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "mau",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "wā",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "tohu",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "reo irirangi",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "ka korero",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "ngota",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "tangata",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "hītori",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "pānga",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "hiko",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "e ti’aturi",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "wheua",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "whakakorekore mo",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "whakaaro",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "whakarato",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "whakaae",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "te kupu",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "ngawari",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "te wahine",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "rangatira",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "imi i",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "e tika ana",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "koi",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "parirau",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "te waihanga",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "hoa",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "horoi",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "pekapeka",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "kaua",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "mano",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "witi",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "whakatairite i",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "ruri",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "string",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "pere",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "whakawhirinaki",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "kai",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "te horoitanga i",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "ngongo",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "rongonui",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "tāra",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "awa",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "wehi",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "titiro",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "kikokore",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "tapatoru",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "ao",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "hohoro",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "rangatira",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "koroni",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "karaka",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "oku",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "here",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "tomo",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "matua",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "hou",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "rapu",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "tukua atu",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "kōwhai",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "pū",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "tukua",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "tā",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "mate",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "wahi",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "koraha",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "take",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "o nāianei",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "ararewa",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "whakatika",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "tae",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "ariki",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "ara",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "matua",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "uta",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "te wehenga",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "whārangi",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "taonga",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "kia paingia",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "hono",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "pou",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "whakapau",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "chord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "te ngako",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "koa",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "taketake",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "share",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "teihana",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "dad",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "taro",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "He ki atu tenei",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "tika",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "pae",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "tuku",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "wāhanga",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "pononga",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "pārera",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "tonu",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "mākete",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "tohu",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "huri",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "pīpī",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "aroha",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "hoariri",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "whakautu",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "inu",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "puta",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "tautoko",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "kupu",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "āhua",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "ngā tūmomo",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "korohū",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "motini",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "ara",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "wai",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "takiuru",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "te auraa",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "huawehe",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "niho",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "anga",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "kaki",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "hāora",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "huka",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "te mate",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "pretty",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "pūkenga",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "wahine",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "wa",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "otinga",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "ovahine",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "hiriwa",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "whakawhetai",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "peka",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "ōrite",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "pīmuri",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "rawa",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "piki",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "wehi",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "nui",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "tuahine",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "maitai",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "te matapaki i",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "whakamua",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "rite",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "te ārahi i",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "wheako",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "kaute",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "aporo",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "hokona",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "arahina",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "te ware",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "koti",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "papatipu",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kāri",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "pēne",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "taura",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "pepa",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "wikitōria",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "moe",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "ahiahi",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "huru",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "kai",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "taputapu",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "katoa",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "taketake",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "kakara",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "raorao",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "e kore",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "rua",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "nohoanga",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "tonu",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "poraka",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "tūtohi",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "pōtae",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "hoko",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "angitu",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "kamupene",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "tango",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "takahanga",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "ngā",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "mahi",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "kaukau",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "wā",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "te ritenga atu",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "wahine",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "hu",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "pokohiwi",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "horapa",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "whakarite",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "puni",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "whakaaroa",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "miro",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "matamua",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "whakatau",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "hine",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "e iwa",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "taraka",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "haruru",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "taumata",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "tupono",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "kohikohi",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "toa",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "totoro",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "maka",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "whiti",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "rawa",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "tīwae",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "muingota",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "tīpako",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "he",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "hina",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "tukurua",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "e rapu",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "whanui",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "te faaineine",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "tote",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "ihu",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "vahine",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "riri",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "kerēme",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "fenua",
+      "englishWord": "continent"
+    }
+  ]
+}

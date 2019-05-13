@@ -1,0 +1,5007 @@
+{
+  "languageCode": "cs",
+  "languageName": "Czech",
+  "languageNativeName": "čeština",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "as",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "já",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "jeho",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "že",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "se",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "byl",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "pro",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "na",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "jsou",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "s",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "se",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "být",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "na",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "jeden",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "mají",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "tento",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "od",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "od",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "horké",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "slovo",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "ale",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "co",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "některé",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "je",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "to",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "jste",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "nebo",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "měl",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "výše",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "z",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "na",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "a",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "ostrov",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "v",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "my",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "moci",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "out",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "další",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "byly",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "které",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "dělat",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "jejich",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "čas",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "pokud",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "bude",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "jak",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "řekl",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "každý",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "říct",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "dělá",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "set",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "tři",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "chtít",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "vzduchu",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "dobře",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "také",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "hrát",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "malé",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "konec",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "dát",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "domácí",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "číst",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "ruka",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "přístav",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "velký",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "kouzlo",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "přidat",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "dokonce",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "země",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "zde",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "musí",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "velký",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "vysoký",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "jako",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "následovat",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "akt",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "proč",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "zeptat se",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "muži",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "změna",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "šel",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "světlo",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "druh",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "vypnutí",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "potřebují",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "dům",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "obrázek",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "zkuste",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "nám",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "znovu",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "zvíře",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "bod",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "matka",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "svět",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "poblíž",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "stavět",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "já",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "Země",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "otec",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "jakýkoli",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "nový",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "práce",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "část",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "se",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "dostat",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "místo",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "z",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "žít",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "kde",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "po",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "zpět",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "málo",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "pouze",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "kolo",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "muž",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "rok",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "přišel",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "výstava",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "každý",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "dobrý",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "mě",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "dát",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "naše",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "pod",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "název",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "velmi",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "přes",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "jen",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "forma",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "věta",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "velký",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "myslíte",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "říkají",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "pomoci",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "nízká",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "linka",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "lišit se",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "turn",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "příčina",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "hodně",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "znamenat",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "před",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "krok",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "právo",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "chlapec",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "starý",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "příliš",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "stejný",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ona",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "všechny",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "zde",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "kdy",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "up",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "použití",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "vaše",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "cesta",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "o",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "mnoho",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "pak",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "je",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "napsat",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "by",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "jako",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "tak",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "tyto",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ní",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "dlouhý",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "provést",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "věc",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "viz",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "ho",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "dva",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "má",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "hledat",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "více",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "den",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "mohl",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "jít",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "přijít",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "ano",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "číslo",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "zvuk",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ne",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "nejvíce",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "lidé",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "my",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "přes",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "vědět",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "voda",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "než",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "volání",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "první",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "kdo",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "května",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "dolů",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "strana",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "byl",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "nyní",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "najít",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "hlava",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "stát",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "vlastní",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "strana",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "by",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "země",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "nalezeno",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "odpověď",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "škola",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "růst",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "studie",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "stále",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "učit se",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "rostlina",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "kryt",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "jídlo",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "slunce",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "čtyři",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "mezi",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "stát",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "mít",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "oko",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "nikdy",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "poslední",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "nechat",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "myšlenka",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "město",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "strom",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "kříž",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "farma",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "těžké",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "začátek",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "síla",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "příběh",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "pila",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "daleko",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "moře",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "kreslit",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "vlevo",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "pozdě",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "běh",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ne",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "zatímco",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "stiskněte tlačítko",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "close",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "noc",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "skutečný",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "život",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "málo",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "sever",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "kniha",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "nést",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "trvalo",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "věda",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "jíst",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "pokoj",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "přítel",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "začal",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "nápad",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ryby",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "hora",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "stop",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "jednou",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "základna",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "slyšet",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "kůň",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "řez",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "jistý",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "hodinky",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "barva",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "tvář",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "dřevo",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "hlavní",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "otevřeno",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "připadat",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "spolu",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "další",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "bílá",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "děti",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "začít",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "dostal",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "chodit",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "příklad",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "snadnost",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "papír",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "skupina",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "vždy",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "music",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ty,",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "jak",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "značka",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "často",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "dopis",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "do",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "míle",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "řeka",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "auto",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "nohy",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "péče",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "druhé",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "dost",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "prostý",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "dívka",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "obvykle",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "mladý",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "ready",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "výše",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "kdy",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "červená",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "seznam",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "ačkoli",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "cítit",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "diskuse",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "pták",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "brzy",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "tělo",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "pes",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "rodina",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "přímé",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "představovat",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "odejít",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "píseň",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "opatření",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "dveře",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "produkt",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "černá",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "krátký",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "číslice",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "třída",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "vítr",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "otázka",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "stát se",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "kompletní",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "loď",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "plocha",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "polovina",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "skála",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "objednávka",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "oheň",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "na jih",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problém",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "kus",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "řekl",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "věděl,",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "pas",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "od",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "horní",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "celý",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "král",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "ulice",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "palec",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "násobit",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "nic",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "kurz",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "pobyt",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "kola",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "plné",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "síla",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "modrá",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "objekt",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "rozhodnout",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "povrch",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "hluboké",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "měsíc",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "ostrov",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "nohy",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "systém",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "obsazeno",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "zkouška",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "záznam",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "loď",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "společné",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "zlato",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "možné",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "letadlo",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "Místo toho",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "suché",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "Zajímalo by mě,",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "smích",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "tisíc",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "před",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "běžel",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "zkontrolujte",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "hra",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "tvar",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "rovnítko",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "horký",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "Slečna",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "přinesl",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "teplo",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "sníh",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "pneumatiky",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "přinést",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ano",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "vzdálené",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "vyplnit",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "východ",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "malovat",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "jazyk",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "mezi",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "jednotka",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "síla",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "město",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "v pořádku",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "jisté",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "podívejte se",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "spadnout",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "vést",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "křik",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "tmavá",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "stroj",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "poznámka",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "počkejte",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "plán",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "obrázek",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "hvězda",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "box",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "podstatné jméno",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "pole",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "ostatní",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "správné",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "schopný",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "libra",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "done",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "krása",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "pohon",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "stál",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "obsahují",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "přední",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "učit",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "týden",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "finále",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "dal",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "zelená",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "rychlý",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "rozvíjet",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "oceán",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "teplý",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "zdarma",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minuta",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "silný",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "speciální",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "mysl",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "za",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "jasný",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "ocas",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "vyrábět",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "skutečnost",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "místo",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "slyšet",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "nejlepší",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "hodina",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "lepší",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "skutečný",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "během",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "sto",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "pět",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "pamatovat si",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "krok",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "brzy",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "držet",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "západ",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "země",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "zájem",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "dosáhnout",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "rychle",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "sloveso",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "zpívat",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "poslouchat",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "šest",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "tabulka",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "cestování",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "méně",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "ráno",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "deset",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "jednoduché",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "více",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "samohláska",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "k",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "válka",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "položit",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "proti",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "vzor",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "pomalý",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "centrum",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "láska",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "osoba",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "peníze",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "sloužit",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "se objeví",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "silnice",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "mapa",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "déšť",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "pravidlo",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "vládnout",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "vytáhněte",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "zima",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "oznámení",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "hlas",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energie",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "lov",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "pravděpodobné,",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "postel",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "bratr",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "vejce",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "jízda",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "buňka",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "věřit",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "možná",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "vybrat",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "náhlé",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "počítat",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "náměstí",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "důvod",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "délka",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "představovat",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "umění",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "Předmět",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "region",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "velikost",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "se liší",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "usadit",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "mluvit",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "hmotnost",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "obecně",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "led",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "záležitost",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "kruh",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "pár",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "patří",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "rozdělit",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "slabika",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "cítil",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "velký",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "koule",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ještě",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "vlna",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "pokles",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "srdce",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "am",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "přítomen",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "těžký",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "tanec",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "motor",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "pozice",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "paže",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "široký",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "plachta",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materiál",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "část",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "les",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "sedět",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "závod",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "okno",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "obchod",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "léto",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "vlak",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "spánek",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "ukázat",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "osamělý",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "noha",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "cvičení",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "zeď",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "úlovek",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "držák",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "přání",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "obloha",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "deska",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "radost",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "zimní",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "nasycený",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "písemná",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "divoký",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "nástroj",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "stále",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "sklo",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "tráva",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "kráva",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "práce",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "hrana",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "znamení",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "návštěva",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "kolem",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "měkké",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "zábava",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "světlý",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "plyn",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "počasí",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "měsíc",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "milionů",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "nést",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "úprava",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "šťastný",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "doufám, že",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "květina",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "oblékli",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "podivný",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "pryč",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "obchod",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodie",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "výlet",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "kancelář",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "přijmout",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "řádek",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "v ústech",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "přesný",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "symbol",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "zemřít",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "nejméně",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "problémy",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "křičet",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "mimo",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "napsal",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "semínko",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tón",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "připojit se",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "naznačují,",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "čistý",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "přestávka",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "dáma",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "dvůr",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "stoupat",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "špatný",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "rána",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "olej",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "krev",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "touch",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "rostl",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "centy",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "mix",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "tým",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "drát",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "náklady",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "ztratil",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "hnědá",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "opotřebení",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "zahrada",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "rovná",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "poslal",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "vybrat",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "klesl",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "fit",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "průtok",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "veletrh",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "banka",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "sbírat",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "uložit",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "ovládání",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "desetinná",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "ucho",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "jiný",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "docela",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "zlomil",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "pouzdro",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "střední",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "zabít",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "syn",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "jezero",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "chvíle",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "stupnice",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "hlasitý",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "na jaře",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "pozorovat",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "dítě",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "rovný",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "souhláska",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "národ",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "slovník",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "mléko",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "rychlost",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "metoda",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "varhany",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "zaplatit",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "věk",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "část",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "šaty",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "cloud",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "překvapení",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "tichý",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "kámen",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "maličký",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "stoupání",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "v pohodě",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "Design",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "špatná",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "hodně",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "experimentu",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "spodní",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "klíč",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "železo",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "jeden",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "hůl",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "byt",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "dvacet",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "kůže",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "úsměv",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "zmačkání",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "hole",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "skok",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "dítě",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "osm",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "obec",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "Seznamte se",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "kořen",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "koupit",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "zvýšit",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "řešit",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "kov",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "zda",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "stisk",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "sedm",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "bod",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "třetí",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "musí",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "ruční",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "vlasy",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "popsat",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "kuchař",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "podlahy",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "buď",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "výsledek",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "hořet",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "kopec",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "bezpečné",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "kočka",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "století",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "zvážit",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "typ",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "zákon",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "pobřeží",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopie",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "fráze",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "tichý",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "vysoký",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "písek",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "půda",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "role",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "teplota",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "prst",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "průmysl",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "hodnota",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "boj",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "lež",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "porazit",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "vzrušovat",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "přírodní",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "pohled",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "smysl",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "kapitál",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "nebude",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "židle",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "nebezpečí",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "ovoce",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "bohatý",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "tlustý",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "voják",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "proces",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "provoz",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "praxe",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "samostatná",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "obtížný",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "lékař",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "prosím",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "chránit",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "poledne",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "plodina",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "moderní",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "prvkem",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "zasažen",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "studenta",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "rohová",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "strana",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "dodávka",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "jehož",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "lokalizovat",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "kroužek",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "charakter",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "hmyz",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "chytil",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "období",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "označit",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "rádio",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "mluvil",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atom",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "člověk",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "historie",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "efekt",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektrické",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "očekávat",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "kost",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "zábradlí",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "představte si",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "poskytovat",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "souhlasí s tím,",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "tedy",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "jemný",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "žena",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapitán",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "hádat",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "potřeby",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "ostrý",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "křídlo",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "vytvořit",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "soused",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "mytí",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "netopýr",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "spíše",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "dav",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "kukuřice",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "porovnat",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "báseň",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "řetěz",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "zvonek",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "záviset",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "maso",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "rub",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "trubka",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "slavný",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dolarových",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "potok",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "strach",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "pohled",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "tenký",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "trojúhelník",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planeta",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "spěchat",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "šéf",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "kolonie",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "hodiny",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "důl",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "kravata",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "vstoupit",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "hlavní",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "čerstvý",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "hledání",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "odeslat",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "žlutý",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "pistole",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "povolit",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "vytisknout",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "mrtvý",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "místo",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "poušť",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "oblek",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "proud",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "výtah",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "růže",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "příjezd",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "master",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "dráha",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "rodič",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "pobřeží",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "divize",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "list",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "látka",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "upřednostňují",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "připojit",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "příspěvek",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "strávit",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "akord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "tuk",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "rád",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "původní",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "podíl",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "stanice",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "táta",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "chléb",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "nabíjení",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "správné",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "baru",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "nabídka",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "úsek",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "otrok",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "kachna",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "instant",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "trh",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "stupeň",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "naplnit",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "kočka",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "drahá",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "nepřítel",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "odpovědět",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "nápoj",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "dojít",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "podpora",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "řeč",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "příroda",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "rozsah",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "páry",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "pohyb",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "cesta",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "kapalina",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "přihlásit",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "znamenalo",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "podíl",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "zuby",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "skořepina",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "krk",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "kyslík",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "cukr",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "smrt",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "docela",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "dovednost",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "ženy",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "sezóna",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "řešení",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnet",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "stříbrná",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "děkuji",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "pobočka",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "zápas",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "přípona",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "zejména",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "obr",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "strach",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "obrovský",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "sestra",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "ocel",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "diskutovat",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "vpřed",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "podobné",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "průvodce",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "zkušenost",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "skóre",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "jablko",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "koupil",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "vedl",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "rozteč",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "kabát",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "hmotnost",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "karta",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "kapela",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "lano",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "skluzu",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "vítězství",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "sen",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "večer",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "stav",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "zdroj",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "nástroj",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "celkem",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "základní",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "vůně",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "údolí",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ani",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "dvojitý",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "sídlo",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "pokračovat",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "blok",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "graf",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "klobouk",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "prodávat",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "úspěch",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "společnost",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "odčítání",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "událost",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "zejména",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "dohoda",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "plavání",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "pojem",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "proti",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "manželka",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "bota",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "rameno",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "rozšíření",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "zařídit",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "tábor",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "vymyslet",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "bavlna",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "narozený",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "určit",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "kvart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "devět",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "truck",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "hluk",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "úroveň",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "šance",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "shromáždit",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "Obchod",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "úsek",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "hodit",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "lesk",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "nemovitosti",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "sloupec",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekula",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "vyberte",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "špatně",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "šedá",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "opakovat",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "vyžadují",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "široký",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "připravit",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "sůl",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "nos",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "množné",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "hněv",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "reklamace",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontinent",
+      "englishWord": "continent"
+    }
+  ]
+}

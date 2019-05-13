@@ -1,0 +1,5007 @@
+{
+  "languageCode": "eo",
+  "languageName": "Esperanto",
+  "languageNativeName": "Esperanto",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "kiel",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "Mi",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "sian",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ke",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "li",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "estis",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "por",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "sur",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "estas",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "kun",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ili",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "esti",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "ĉe",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "unu",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "havos",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "tiu",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "el",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "per",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "varmega",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "vorto",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "sed",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "kio",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "iuj",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "estas",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "ĝi",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "vi",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "aŭ",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "havis",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "la",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "de",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "por",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "kaj",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "a",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "en",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "ni",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "povas",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "el",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "aliaj",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "estis",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "kio",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "fari",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "iliaj",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "tempo",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "se",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "volo",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "kiom",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "diris",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "kiel",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "ĉiu",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "diru",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "faras",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "aro",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "tri",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "volas",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "aero",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "bone",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "ankaŭ",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "ludos",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "malgranda",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "fino",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "metita",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "hejmo",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "legi",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "manoj",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "port",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "granda",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "literumi",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "aldoni",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "eĉ",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "lando",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "tien",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "devas",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "granda",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "alta",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "tiaj",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "sekvi",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "akto",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "kial",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "demandu",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "viroj",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "ŝanĝo",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "eniris",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "malpeza",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "afabla",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "ekstere",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "bezonas",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "domo",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "foton",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "provu",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "nin",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "denove",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "besto",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "punkto",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "patrino",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "mondo",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "proksime",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "konstrui",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "aŭto",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "tero",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "patro",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "ajna",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "nova",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "laboro",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "parto",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "preni",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "akiri",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "loko",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "faris",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "vivi",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "kie",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "post",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "reen",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "iom",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "nur",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "ronda",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "viro",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "jaro",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "venis",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "spektaklo",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ĉiu",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "bonaj",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "Min",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "doni",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "nian",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "sub",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "nomo",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "tre",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "per",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "simple",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "formo",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "kondamno",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "granda",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "pensas",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "diras",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "helpi",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "malalta",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "linio",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "diferenciĝas",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "Siavice",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "kaŭzo",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "multa",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "signifus",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "antaŭ",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "movado",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "dekstra",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "knabo",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "malnova",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "tro",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "sama",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ŝi",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "ĉiuj",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "tie",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "kiam",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "supren",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "uzo",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "via",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "vojo",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "proksimume",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "multaj",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "tiam",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "ilin",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "skribi",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "farus",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "kiel",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "tiel",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "tiuj",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ŝia",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "longajn",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "fari",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "afero",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "vidi",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "li",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "du",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "havas",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "rigardi",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "pli",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "tagon",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "povis",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "iri",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "venu",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "faris",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "nombro",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "soni",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "neniu",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "plej",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "homoj",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "Mian",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "super",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "scias",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "akvo",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "ol",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "alvoko",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "unua",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "kiuj",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "may",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "malsupren",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "flanko",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "estintaj",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "nun",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "trovi",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "kapo",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "staras",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "propra",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "paĝo",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "devus",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "lando",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "trovita",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "respondo",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "lernejo",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "kreski",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "studo",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "ankoraŭ",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "lerni",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "planto",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "kovrilo",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "nutraĵo",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "suno",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "kvar",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "inter",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "ŝtata",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "konservi",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "okulo",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "neniam",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "lasta",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "lasu",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "pensis",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "urbo",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "arbo",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "transiri",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "farm",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "malfacila",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "komenco",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "potenco",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "rakonto",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "segilo",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "malproksime",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "maro",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "desegni",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "maldekstra",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "malfrue",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "run",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ne",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "dum",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "gazetaro",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "Fermi",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "nokto",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "reala",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "vivo",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "malmultaj",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "Norde",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "libro",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "porti",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "prenis",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "scienco",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "manĝi",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "ĉambro",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "amiko",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "komencis",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ideon",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "fiŝo",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "monto",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "ĉesi",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "unufoje",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "bazo",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "aŭdi",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ĉevalo",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "tranĉo",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "certas",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "spekti",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "koloro",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "vizaĝo",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "ligno",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "ĉefa",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "malfermita",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "ŝajnas",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "kune",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "sekva",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "blanka",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "infanoj",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "komenci",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "akiris",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "marŝi",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "ekzemplo",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "faciligi",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "papero",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "grupo",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "ĉiam",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "muziko",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "tiuj",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "ambaŭ",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "markon",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "ofte",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "letero",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "ĝis",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "mejlo",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "rivero",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "aŭto",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "piedojn",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "prizorgi",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "dua",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "sufiĉa",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "ebenaĵo",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "knabino",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "kutima",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "junulo",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "preta",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "supre",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "iam",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "ruĝa",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "lerta",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "kvankam",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "sentas",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "Diskuto",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "birdo",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "baldaŭ",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "korpo",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "hundo",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "familio",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "rekta",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "supozi",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "forlasi",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "kanto",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "mezuri",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "pordo",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "produkto",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "nigra",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "mallonga",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "numeralo",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "klaso",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "vento",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "demando",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "okazi",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "kompleta",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "ŝipo",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "spaco",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "duono",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "roko",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "ordon",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "fajro",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "sude",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problemo",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "peco",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "rakontis",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "sciis",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "pasi",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "ekde",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "supro",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "aro",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "reĝo",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "strato",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "colo",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "multipliki",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "nenio",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "Kompreneble",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "resti",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "radon",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "plena",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "forto",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "blua",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "objekto",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "decidi",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "surfaco",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "profunda",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "luno",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "insulo",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "piedo",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistemo",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "okupata",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "testo",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "rekordo",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "kruĉo",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "komunaj",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "oro",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "ebla",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "ebeno",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "anstataux",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "seka",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "demandas",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "ridon",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "milo",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "monato",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "kuris",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "kontroli",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "ludo",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "formo",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "egaligas",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "varmega",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "alportis",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "varmo",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "neĝo",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "pneŭo",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "alporti",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "jes",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "malproksima",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "plenigi",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "Oriente",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "pentri",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "lingvo",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "inter",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "unuo",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "potenco",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "urbo",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "fajna",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "certaj",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "muŝo",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "fali",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "konduki",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "krio",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "mallumo",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "maŝino",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "noto",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "atendi",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "plano",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "cifero",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "stelo",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "skatolo",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "substantivo",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "kampo",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "resto",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "ĝusta",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "povis",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "funto",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "farita",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "beleco",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "disko",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "staris",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "enhavi",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "antaŭa",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "instruos",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "semajno",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "lasta",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "donis",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "verda",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "¡oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "rapida",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "evoluigi",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "oceano",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "varma",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "senpaga",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minuto",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "forta",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "speciala",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "menso",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "malantaŭ",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "evidenta",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "vosto",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "produkti",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "fakto",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "spaco",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "aŭdis",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "bona",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "horo",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "pli",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "vera",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "dum",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "cent",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "kvin",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "memori",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "paŝo",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "frua",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "teni",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "okcidenta",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "tero",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "intereson",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "alveni",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "rapida",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "verbo",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "kanti",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "aŭskulti",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "ses",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "tablo",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "vojaĝado",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "malpli",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "mateno",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "dek",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "simpla",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "pluraj",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "vokalo",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "rilate",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "milito",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "kuŝis",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "kontraŭ",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "ŝablono",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "malrapida",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "centro",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "love",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "persono",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "monon",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "servas",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "aperi",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "vojo",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "Mapo",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "pluvo",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "regulo",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "regi",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "tiri",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "malvarma",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "anonco",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "voĉo",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energion",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "ĉasi",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "probabla",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "lito",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "fraton",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ovo",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "ride",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "ĉelo",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "kredas",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "eble",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "pick",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "subita",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "kalkuli",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "kvadrata",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "kialo",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "longo",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "reprezentas",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "arto",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "subjekto",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "regiono",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "grandeco",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "varios",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "starigi",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "paroli",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "pezo",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "Ĝenerale",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "glacio",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "afero",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "rondo",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "paro",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "inkluzivi",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "dividi",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "silabo",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "sentis",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "grandioza",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "pilko",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ankoraŭ",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "ondo",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "faligi",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "koro",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "estas",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "ĉeestanta",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "peza",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "danco",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "motoro",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "pozicion",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "brako",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "larĝa",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "velo",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materialon",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "frakcio",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "arbaro",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "sidiĝi",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "raso",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "fenestro",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "vendejo",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "someron",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "trajno",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "dormo",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "elprovi",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "Lone",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "kruro",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ekzerco",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "muro",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "catch",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "monto",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "deziri",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "ĉielo",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "surŝipe",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "ĝojo",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "vintro",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "SAT",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "skribita",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "sovaĝa",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrumento",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "konservis",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "vitro",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "herbo",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "bovino",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "laboro",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "eĝo",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "signo",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "vizito",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "estinteco",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "mola",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "amuza",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "brila",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gaso",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "vetero",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "monato",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "miliono",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "elporti",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "fini",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "feliĉa",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "atendi",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "floro",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "Vestu",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "stranga",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "iritaj",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "komerco",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodio",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "vojaĝo",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "oficejo",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ricevos",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "vico",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "buŝo",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "ĝusta",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "simbolo",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "morti",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "almenaŭ",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "malfelicxo",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "krio",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "krom",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "skribis",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "semoj",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "tono",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "aliĝi",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "sugesti",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "purigi",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "paŭzo",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "lady",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "jardo",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "supreniri",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "malbona",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "baton",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "petrolo",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "sango",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "tuŝi",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "kreskis",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "cendo",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "miksi",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "teamo",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "drato",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "kosto",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "perdita",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "bruna",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "surhavi",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "ĝardeno",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "egalaj",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "sendis",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "elekti",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "falis",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "persvadis",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "fluas",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "bela",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bordo",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "kolekti",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "ŝpari",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kontrolo",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "dekuma",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "orelo",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "alia",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "tute",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "rompis",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "okazo",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "mezo",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "mortigi",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "filo",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "lago",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "momenton",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "skalo",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "laŭta",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "printempo",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "observi",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "infano",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "rektaj",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "konsonanto",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "nacio",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "vortaro",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "lakto",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "rapido",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "metodo",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organo",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "pagi",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "aĝo",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "sekcio",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "robo",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "nubo",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "surprizo",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "trankvila",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "ŝtono",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "etajn",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "grimpo",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "malvarmeta",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "dezajno",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "malriĉa",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "multa",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "eksperimento",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "malsupro",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "ŝlosilo",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "fero",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "sola",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "bastono",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "plata",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "dudek",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "haŭto",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "rideto",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "crease",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "truo",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "salti",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "bebo",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "ok",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "vilaĝo",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "kunvenas",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "radiko",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "aĉeti",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "enspezi",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "solvi",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metalo",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "ĉu",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "puŝo",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "sep",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "paragrafo",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "triono",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "mortigu",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "tenis",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "haroj",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "priskribi",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "kuiristino",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "planko",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "ĉu",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "rezulto",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "bruligi",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "monto",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "sekura",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "kato",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "jarcento",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "konsideri",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "tipo",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "leĝo",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "iom",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "marbordo",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopio",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "frazon",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "malbrua",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "altkreska",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "sablon",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "planko",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "rulo",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperaturo",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "fingro",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "industrio",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "valoro",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "lukto",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "mensogo",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "venki",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "eksciti",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "natura",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "vido",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "sento",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "ĉefurbo",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "ne faros",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "seĝo",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "danĝero",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "fruktoj",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "riĉa",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "dikaj",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "soldato",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "procezo",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "funkcii",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "praktiko",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "apartaj",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "malfacila",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "kuracisto",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "bonvolu",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "protekti",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "tagmezo",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "kropo",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "modernaj",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "elemento",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "batita",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "lernantino",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "angulo",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "festo",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "provizado",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "kies",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "lokalizi",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "ringon",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "gravulo",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "insekto",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "kaptita",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "periodo",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "indiki",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radio",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "parolis",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atomo",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "homa",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "historio",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "efekto",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektra",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "atendi",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "osto",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "fervoja",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "imagu",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "provizi",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "interkonsenti",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "tiele",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "afabla",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "virino",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapitano",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "divenu",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "necesajn",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "akra",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "flugilo",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "Krei",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "proksimulo",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "lavita",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "vesperto",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "anstataŭ",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "amaso",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "grajnoj",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "kompari",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "poemo",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "kordo",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "sonorilo",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "dependi",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "viando",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "rub",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "tubo",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "famaj",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dolaro",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "fluo",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "timo",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "vido",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "maldika",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "triangulo",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planedo",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "rapidi",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "estro",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "kolonio",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "horloĝo",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "miaj",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "egaleco",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "eniri",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "granda",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "freŝa",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "serĉo",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "sendu",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "flava",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "pafilo",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "permesi",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "print",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "mortinto",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "punkto",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "dezerto",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "kostumo",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "aktuala",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "telfero",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "leviĝis",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "alveni",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "majstro",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "aŭtoveturejo",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "gepatro",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "bordo",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "divido",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "sheet",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "substanco",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "favorus",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "konekti",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "posteno",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "elspezi",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "chord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "graso",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "ĝojas",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "originala",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "samkondiĉe",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "stacidomo",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "dad",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "pano",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "ŝarĝi",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "taŭga",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "trinkejo",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "oferto",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segmento",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "sklavo",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "anaso",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "momenteto",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "merkato",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "grado",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "popoli",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "ĉik",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "kara",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "malamiko",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "respondi",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "trinkaĵon",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "okazi",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "subteno",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "parolado",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "naturo",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "ventumilo",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "vaporo",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "movado",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "vojo",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "likva",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "ensaluti",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "signifis",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "kvociento",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "dentoj",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "konko",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "kolo",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "oksigeno",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "sukero",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "morto",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "bela",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "lerto",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "virinoj",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "sezono",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "solvo",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magneto",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "arĝento",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "dankon",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "branĉo",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "match",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "sufikso",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "ĉefe",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "figo",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "timis",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "grandega",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "fratino",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "ŝtalo",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "diskuti",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "antaŭen",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "simila",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "gvidi",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "sperto",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "interpunkcio",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "pomon",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "aĉetinta",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "kondukis",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "tonalto",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "ŝildo",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "maso",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "karton",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "bando",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "ŝnuro",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "slip",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "venko",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "sonĝi",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "vespero",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "kondiĉo",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "feed",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "ilo",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "entute",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "baza",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "bonodoro",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "valo",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "nek",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "duobla",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "seĝo",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "daŭrigi",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "bloko",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "grafikaĵo",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "ĉapelo",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "vendi",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "sukceso",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "kompanio",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "subtrahi",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "okazaĵo",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "aparta",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "interkonsento",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "naĝi",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "termino",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "kontraŭa",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "edzino",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "ŝuo",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ŝultro",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "disvastiĝo",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "aranĝi",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "tendaro",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "elpensi",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "kotono",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Born",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "determini",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "kvarto",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "naŭ",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "kamiono",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "bruo",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "nivelo",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "ŝanco",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "kolekti",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "butiko",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "sekcio",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "ĵeti",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "briligi",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "propraĵo",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "kolono",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekulo",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "elekti",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "malĝusta",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "grizaj",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ripeto",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "postuli",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "larĝa",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "pretigi",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "Sala",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "nazon",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "pluralo",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "kolero",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "pretendo",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontinento",
+      "englishWord": "continent"
+    }
+  ]
+}

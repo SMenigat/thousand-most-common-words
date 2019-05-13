@@ -1,0 +1,5007 @@
+{
+  "languageCode": "hr",
+  "languageName": "Croatian",
+  "languageNativeName": "hrvatski jezik",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "kao",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "ja",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "njegov",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "da",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "on",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "bio",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "za",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "na",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "su",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "s",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "oni",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "biti",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "na",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "jedan",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "imati",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "ovo",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "iz",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "od strane",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "vruće",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "riječ",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "ali",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "što",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "Neki",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "je",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "to",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "što",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "ili",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "imala",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "biti",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "od",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "kako bi",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "i",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "kraj",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "u",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "smo",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "može",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "iz",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "drugi",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "bili su",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "koji",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "raditi",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "svoje",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "vrijeme",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "ako",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "hoće",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "kako",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "rekao je",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "pitaj",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "svaki",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "reći",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "radi",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "skup",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "tri",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "željeti",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "zrak",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "dobro",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "također",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "igrati",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "mali",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "kraj",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "staviti",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "Početna",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "pročitati",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "ruka",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "luka",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "veliki",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "čarolija",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "dodajte",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "još",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "zemljište",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "ovdje",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "mora",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "veliki",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "visoka",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "kao što",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "slijediti",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "čin",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "zašto",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "pitaj",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "muškarci",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "promjena",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "otišao",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "svjetlo",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "vrsta",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "isključen",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "potrebno",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "kuća",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "slika",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "probati",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "nas",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "opet",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "životinja",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "točka",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "majka",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "svijet",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "blizu",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "graditi",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "samouprave",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "zemlja",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "otac",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "bilo koji",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "nova",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "rad",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "dio",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "potrajati",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "dobiti",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "mjesto",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "napravljen",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "živjeti",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "gdje",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "nakon",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "natrag",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "malo",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "samo",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "okrugli",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "čovjek",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "godine",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "došao",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "Show",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "svaka",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "dobro",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "ja",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "daju",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "Naša",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "pod",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "Naziv",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "vrlo",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "kroz",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "upravo",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "obrazac",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "rečenica",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "super",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "mislim",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "kažu",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "pomoći",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "niska",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "linija",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "razlikuju",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "red",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "uzrok",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "mnogo",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "znači",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "prije",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "potez",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "pravo",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "dječak",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "stari",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "previše",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "isti",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ona",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "svi",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "postoji",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "kada",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "do",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "koristiti",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "vaš",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "način",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "oko",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "mnogi",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "zatim",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "ih",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "pisati",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "bi",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "kao što",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "tako",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "to",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ju",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "dug",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "napraviti",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "stvar",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "vidjeti",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "ga",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "dva",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ima",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "izgleda",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "više",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "dan",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "mogla",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "ići",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "dolaze",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "učinio",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "broj",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "zvuk",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ne",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "većina",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "ljudi",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "Moj",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "više",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "znam",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "voda",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "od",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "poziv",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "prvi",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "koji",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "svibanj",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "prema dolje",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "strana",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "bio",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "sada",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "naći",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "glava",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "stajati",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "vlastita",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "stranica",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "trebale",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "zemlja",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "nađen",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "odgovor",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "škola",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "rasti",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "studija",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "još uvijek",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "učiti",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "biljka",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "poklopac",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "hrana",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "sunce",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "četiri",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "između",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "stanje",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "zadržati",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "očiju",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "nikad",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "posljednji",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "pustiti",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "mislio",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "grad",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "stablo",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "križ",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "farma",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "teško",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "početak",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "možda",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "priča",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "pila",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "daleko",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "more",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "crtanje",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "napustio",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "kasno",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "Run",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "nemoj",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "a",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "pritisnite",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "u blizini",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "noć",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "real",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "život",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "nekoliko",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "sjeverno",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "knjiga",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "nose",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "uzeo",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "znanost",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "jesti",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "soba",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "prijatelj",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "počelo",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ideja",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "riba",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "planina",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "zaustaviti",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "jednom",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "baza",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "čuju",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "konj",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "rez",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "sigurni",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "gledati",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "boja",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "lice",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "drva",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "glavni",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "otvoren",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "čini se",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "zajedno",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "sljedeći",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "bijela",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "Djeca",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "početak",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "dobio",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "hodati",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "primjer",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ublažavanje",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "papir",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "skupina",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "uvijek",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "Glazba",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "onima",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "oboje",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "Mark",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "često",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "pismo",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "do",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "milja",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "rijeka",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "automobil",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "noge",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "briga",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "drugi",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "dovoljno",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "obični",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "djevojka",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "uobičajena",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "mladi",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "spremni",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "iznad",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "ikad",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "crvena",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "popis",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "iako",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "osjećati",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "Razgovor",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "ptica",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "uskoro",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "tijelo",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "pas",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "obitelj",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "neposredan",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "poza",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "ostavite",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "pjesma",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "mjeri",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "vrata",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "proizvod",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "crn",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "Ukratko",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "cifra",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "klasa",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "vjetar",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "pitanje",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "dogoditi se",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "potpun",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "brod",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "područje",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "pola",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "stijena",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "poredak",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "vatra",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "jug",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problem",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "komad",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "Rekao",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "znao",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "proći",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "budući",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "Vrh",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "cijeli",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "kralj",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "ulica",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "palac",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "množite",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "ništa",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "tečaj",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "ostati",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "kotača",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "puna",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "sila",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "plava",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "objekt",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "odlučite",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "površina",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "duboko",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "mjesec",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "otok",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "stopala",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistem",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "zauzet",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "Test",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "rekord",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "brod",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "zajednički",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "zlato",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "moguće",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "avion",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "Stead",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "suhi",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "Pitam",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "smijati",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "tisuća",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "prije",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "ran",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "provjeriti",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "igra",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "oblik",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "izjednačiti",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "vruće",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "propustiti",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "donio",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "topline",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "snijeg",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "gume",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "donijeti",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "Da",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "daleka",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "popuniti",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "istočno",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "slikati",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "jezik",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "među",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "jedinica",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "snaga",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "grad",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "fino",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "siguran",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "letjeti",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "pasti",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "dovesti",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "krik",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "mrak",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "uređaj",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "bilješka",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "čekati",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "plan",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "Slika",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "zvijezda",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "kutija",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "imenica",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "polje",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "ostatak",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "točne",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "u mogućnosti",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "funta",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "učinjeno",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "ljepota",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "pogon",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "stajao",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "sadrže",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "prednji",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "poučavati",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "tjedan",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "konačni",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "dao",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "zelena",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "Quick",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "razviti",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "Ocean",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "toplo",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "besplatno",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minuta",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "jak",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "poseban",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "um",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "iza",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "jasno",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "rep",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "proizvesti",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "činjenica",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "prostor",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "čula",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "najbolje",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "sat",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "bolje",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "pravi",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "vrijeme",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "sto",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "pet",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "zapamtite",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "korak",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "rano",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "držati",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "zapadno",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "tlo",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "interes",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "dostići",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "brzo",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "glagol",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "pjevati",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "slušaj",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "šest",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "stol",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "putovanje",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "manje",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "jutro",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "deset",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "jednostavan",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "nekoliko",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "samoglasnik",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "prema",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "rat",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "ležao",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "protiv",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "uzorak",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "spor",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "centar",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "volim",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "osoba",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "novac",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "služe",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "pojaviti",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "cesta",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "karta",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "kiša",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "pravilo",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "vladati",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "povući",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "hladnoće",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "obavijest",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "glas",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energije",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "Hunt",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "vjerojatno",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "krevet",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "brat",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "jaje",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "vožnja",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "stanica",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "vjerujem",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "možda",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "brati",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "nagli",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "računati",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "trg",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "razlog",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "dužina",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "predstavljaju",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "umjetnost",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "subjekt",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "regija",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "veličina",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "razlikuju",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "nastaniti",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "govoriti",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "težina",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "opći",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "led",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "stvar",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "krug",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "par",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "uključuju",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "podijeli",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "slog",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "osjećao",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "veličanstven",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "lopta",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "još",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "val",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "ispustiti",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "srce",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "ja",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "prisutna",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "teško",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "ples",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "motor",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "položaj",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "ruka",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "širok",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "jedro",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "materijal",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "razlomak",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "šuma",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "sjediti",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "utrka",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "prozor",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "trgovina",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "ljeto",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "vlak",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "spavanje",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "dokazati",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "usamljeni",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "noga",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "vježba",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "zid",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "ulov",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "Planina",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "želite",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "nebo",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "peglanje",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "radost",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "zima",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "SAT",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "napisano",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "divlja",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrument",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "zadržao",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "staklo",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "trava",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "krava",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "posao",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "rub",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "znak",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "posjet",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "prošlost",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "mekan",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "zabava",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "svijetle",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "plin",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "vremenska prognoza",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "mjesec",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "milijuna",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "snositi",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "finiš",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "sretna",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "nadam",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "cvijet",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "odijevate",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "čudno",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "Otišli",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "trgovina",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodija",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "putovanje",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "ured",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "dobiti",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "red",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "usta",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "točno",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "simbol",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "umrijeti",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "najmanji",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "nevolja",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "povik",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "osim",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "pisao",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "sjeme",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "ton",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "pridruže",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "predložiti",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "čist",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "pauza",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "dama",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "dvorište",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "rasti",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "loše",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "udarac",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "ulje",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "krv",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "touch",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "rastao",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "posto",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "mix",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "tim",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "žica",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "trošak",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "izgubljen",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "smeđa",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "nosite",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "vrt",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "jednaka",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "poslao",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "odaberite",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "pao",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "pristajati",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "protok",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "fer",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "banka",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "prikupiti",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "spasiti",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kontrola",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "decimale",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "uho",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "drugo",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "sasvim",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "razbio",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "slučaj",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "srednji",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "ubiti",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "sin",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "jezero",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "trenutak",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "razmjera",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "glasno",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "proljeće",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "promatrati",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "dijete",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "ravno",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "suglasnika",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "nacija",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "rječnik",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "mlijeko",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "brzina",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "način",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "orgulje",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "platiti",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "starost",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "dio",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "haljina",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "oblak",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "iznenađenje",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "tiho",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "kamena",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "maleni",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "uspon",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "svjež",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "dizajn",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "siromašnih",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "puno",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "eksperiment",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "dno",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "ključ",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "željezo",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "pojedinačni",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "štap",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "stan",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "dvadesetak",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "koža",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "osmijeh",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "gužvanja",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "rupa",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "skočiti",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "beba",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "osam",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "selo",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "Upoznajte",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "korijen",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "kupi",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "podizanje",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "riješiti",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metala",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "da li",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "guranje",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "sedam",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "stavak",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "treći",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "mora",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "održana",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "kosa",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "opisati",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "kuharica",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "kat",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "ili",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "rezultat",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "spali",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "Hill",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "sigurno",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "mačka",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "stoljeća",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "razmotriti",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "Tip",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "zakon",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "malo",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "obala",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopija",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "fraza",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "tihi",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "visok",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "pijesak",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "tlo",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "svitak",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatura",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "prst",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "industriju",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "vrijednost",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "borba",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "laž",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "pobijediti",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "uzbuditi",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "prirodni",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "pogled",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "osjećaj",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "kapitala",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "neće",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "stolica",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "opasnost",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "voće",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "bogata",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "debela",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "vojnik",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "proces",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "raditi",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "praksa",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "zaseban",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "teško",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "liječnik",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "molim",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "zaštititi",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "podne",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "usjev",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "moderni",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "Element",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "hit",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "student",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "kutak",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "stranka",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "opskrba",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "čije",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "locirati",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "prsten",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "karakter",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "insekata",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "uhvaćen",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "razdoblje",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "naznačiti",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radio",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "govorio",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atom",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "ljudsko",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "Povijest",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "posljedica",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "električna",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "očekujemo",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "kosti",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "željeznicom",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "zamislite",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "predvidjeti",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "Slažete",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "tako",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "nježan",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "žena",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapetan",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "pogađati",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "neophodan",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "oštar",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "krilo",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "stvoriti",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "susjed",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "pranje",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "šišmiš",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "radije",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "gomila",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "kukuruz",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "usporedbu",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "pjesma",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "niz",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "zvono",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "ovise",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "meso",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "trljati",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "cijev",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "poznati",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dolar",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "potok",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "strah",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "prizor",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "tanak",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "trokut",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planet",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "požuriti",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "glavni",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "kolonija",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "sat",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "rudnik",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "vezati",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "ući",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "glavni",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "svježi",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "pretraživanje",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "poslati",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "žuta",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "puška",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "dopustiti",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "Ispis",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "mrtvih",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "mjesto",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "pustinja",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "odijelo",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "tekući",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "lift",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ruža",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "stići",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "majstor",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "staza",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "roditelj",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "prikljucak",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "podjela",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "list",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "tvar",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "naklonost",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "povezivanje",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "poslije",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "potrošiti",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "akord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "masti",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "drago",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "izvorna",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "udio",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "kolodvor",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "tata",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "kruh",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "naplatiti",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "pravi",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "ponuda",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segment",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "rob",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "patka",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "Instant",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "tržište",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "stepen",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "naseliti",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "pilić",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "draga",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "neprijatelj",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "odgovori",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "piće",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "pojaviti",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "podrška",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "govor",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "priroda",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "domet",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "para",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "prijedlog",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "put",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "tekućina",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "klada",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "značio",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "kvocijent",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "zubi",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "Shell",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "vrat",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "kisika",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "šećer",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "smrt",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "prilično",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "vještina",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "žene",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "sezona",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "otopina",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnet",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "srebro",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "zahvaljujem",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "grana",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "Susret",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "sufiks",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "pogotovo",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "Slika",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "bojati",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ogroman",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "sestra",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "čelik",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "raspravljati",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "naprijed",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "sličan",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "voditi",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "iskustvo",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "postići",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "jabuka",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "kupio",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "dovelo",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "Pitch",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "kaput",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "masa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kartice",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "bend",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "konop",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "slip",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "pobjeda",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "sanjati",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "večer",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "stanje",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "hrane",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "alat",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "ukupan",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "osnovna",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "miris",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "dolina",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "niti",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "dvostruka",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "sjedište",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "nastaviti",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "blokirati",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "grafikon",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "šešir",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "prodajemo",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "uspjeh",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "tvrtka",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "oduzmite",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "događaj",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "Konkretno",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "dio",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "kupanje",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "pojam",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "nasuprot",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "žena",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "cipela",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ramena",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "širenje",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "urediti",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "kamp",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "izmišljati",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "pamuk",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Born",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "utvrdilo",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "pošteda",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "devet",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "kamion",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "buka",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "razina",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "šanse",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "okupljaju",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "dućan",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "stretch",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "bacati",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "sjaj",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "svojstvo",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "stupac",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekula",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "odaberite",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "pogrešno",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "siv",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ponoviti",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "zahtijevati",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "široka",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "pripremi",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "sol",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "nos",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "množini",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "ljutnja",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "tvrdnja",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontinent",
+      "englishWord": "continent"
+    }
+  ]
+}

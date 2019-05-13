@@ -1,0 +1,5007 @@
+{
+  "languageCode": "uz",
+  "languageName": "Uzbek",
+  "languageNativeName": "Ўзбек",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "sifatida",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "men",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "uning",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ekan",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "u",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "edi",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "uchun",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "bo’yicha",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "bor",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "bilan",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ular",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "bo’lishi",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "da",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "bir",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "bor",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "bu",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "ushbudan boshlab:",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "tomonidan",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "issiq",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "so’z",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "lekin",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "nima",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "bir qancha",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "hisoblanadi",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "u",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "siz",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "yoki",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "bor",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "The",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "ning",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "uchun",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "va",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "a",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "ichida",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "bizlar",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "mumkin",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "tashqarida",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "boshqa",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "edi",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "qaysi",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "nima",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "ularning",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "vaqt",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "agar",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "bo’ladi",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "qanaqasiga",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "dedi",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "E’lonni",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "har bir",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "aytib",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "qilsa",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "to’plami",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "uch",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "istaymiz",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "havo",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "yaxshi",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "shuningdek",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "o’yin",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "kichkina",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "oxiri",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "qo’yish",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "uy",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "o’qish",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "qo’l",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "port",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "katta",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "sehr",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "kiritish",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "hatto",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "er",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "bu yerga",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "kerak",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "katta",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "baland",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "bunday",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "rioya",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "ish",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "nima uchun",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "so’rarlar",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "Erkaklar",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "o’zgarish",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "ketdi",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "engil",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "rahmdil",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "off",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "kerak",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "uy",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "surat",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "urinish",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "bizga",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "yana",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "hayvon",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "nuqtasi",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "ona",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "dunyo",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "yaqin",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "qurish",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "o’zini",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "yer",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "ota",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "har qanday",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "yangi",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "ish",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "qism",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "olmoq",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "olish",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "joy",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "qilingan",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "jonli",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "qayerda",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "so’ng",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "orqa",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "oz",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "faqat",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "dumaloq",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "odam",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "yil",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "kelgan",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "ko’rsatish",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "har bir",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "yaxshi",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "meni",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "berishi",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "bizning",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "ostida",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "ism",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "juda",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "ichidan",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "faqat",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "shakl",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "hukm",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "buyuk",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "deb o’ylayman",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "aytish",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "yordam bering",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "past",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "chiziq",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "farq",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "burilish",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "sabab",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "ko’p",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "degani",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "oldin",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "harakat",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "o’ng",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "bola",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "qari",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "ham",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "bir xil",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "u",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "hamma",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "u yerda",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "qachon",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "up",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "foydalanish",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "Sening",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "yo’l",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "atrofida",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "ko’p",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "so’ng",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "ularga",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "yozish",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "bulardi",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "kabi",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "shunday",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "bular",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "uning",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "uzun",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "olmoq",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "narsa",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "qarang",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "uni",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "ikki",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "bor",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "nazar",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "ko’proq",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "kun",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "qo’lidan",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "borish",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "kelib",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "qilgan",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "soni",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "ovozli",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "yo’q",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "eng",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "odamlar",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "mening",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "ustida",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "bilaman",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "suv",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "nisbatan",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "chaqirish",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "birinchi",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "kim",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "mumkin",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "pastga",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "taraf",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "edi",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "hozir",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "topish",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "bosh",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "turmoq",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "xususiy",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "bet",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "kerak",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "mamlakat",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "topildi",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "javob",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "maktab",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "o’sadi",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "o’rganish",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "hali",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "o’rganish",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "o’simlik",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "qoplama",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "ovqat",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "quyosh",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "to’rt",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "o’rtasida",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "davlat",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "saqlamoq",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "ko’z",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "hech qachon",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "oxirgi",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "ruxsat",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "fikr",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "shahar",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "daraxt",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "kesib",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ferma",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "qiyin",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "start",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "qudrat",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "hikoya",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "arra",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "uzoq",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "dengiz",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "chizish",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "chap",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "kech",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "Run",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "bunday qilma",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "paytda",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "matbuot",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "yaqin",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "tun",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "haqiqiy",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "hayot",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "oz",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "shimol",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "kitob",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "bajarish",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "oldi",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "fan",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "ovqat",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "xona",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "do’st",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "boshladi",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "fikr",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "baliq",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "tog ‘",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "stop",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "bir marta",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "asos",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "eshitmoq",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ot",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "kesma",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "ishonch",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "tomosha",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "rang",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "yuz",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "o’tin",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "asosiy",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "ochiq",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "ko’rinadi",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "birga",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "keyingisi",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "oq rang",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "bolalar",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "boshlanishi",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "bor",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "yurish",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "misol",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "sukunat",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "qog’oz",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "guruh",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "har doim",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "musiqa",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ular",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "har ikkala",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "belgi",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "ko’pincha",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "xat",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "gacha",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "milya",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "daryo",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "avtomobil",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "fut",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "g’amxo’rlik",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "ikkinchi",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "yetarli",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "tekis",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "qiz",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "oddiy",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "yosh",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "tayyor",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "yuqorida",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "hech",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "qizil",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "ro’yxat",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "garchi",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "his",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "suhbat",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "qush",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "yaqinda",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "badan",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "it",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "oilaviy",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "to’g’ri",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "tug’dirmaydi",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "tark",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "song",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "o’lchov",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "eshik",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "mahsulot",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "qora",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "qisqa",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "raqam",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "class",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "shamol",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "savol",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "sodir",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "to’la",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "kema",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "maydon",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "yarim",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "qoya",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "buyurtma",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "yong’in",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "janub",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "muammo",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "qism",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "aytdi",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "bilgan",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "o’tishi",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "chunki",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "eng yaxshi",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "butun",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "qirol",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "ko’cha",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "inch",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "ko’paytirib",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "hech nima",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "Albatta,",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "qolish",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "g’ildirak",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "to’liq",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "kuch",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "ko’k",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "ob’ekt",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "qaror",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "yuza",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "chuqur",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "oy",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "orol",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "oyoq",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "tizim",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "band",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "sinov",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "rekord",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "qayiq",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "umumiy",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "oltin",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "mumkin",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "Samolyot",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "foyda",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "quruq",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "hayron",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "kulgu",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "ming",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "ilgari",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "yugurib",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "nazorat",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "o’yin",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "shakli",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "tenglashtirmoq",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "issiq",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "kechikmoq",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "olib",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "issiqlik",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "qor",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "shina",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "olib",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ha",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "uzoqdagi",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "to’ldirish",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "sharq",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "bo’yoq",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "til",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "orasida",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "birlik",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "kuch",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "shahar",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "jarima",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "aniq",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "chivin",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "kuz",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "qo’rg’oshin",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "yig’lamoq",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "qorong’u",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "mashina",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "eslatma",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "kutish",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "reja",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "shakl",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "yulduz",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "box",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "ot",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "dala",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "dam",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "to’g’ri",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "qodir",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "funt",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "qilingan",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "go’zallik",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "haydash",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "turib",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "o’z ichiga olgan",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "front",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "o’rgatish",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "xafta",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "oxirgi",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "berdi",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "yashil",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "ah",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "tez",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "rivojlantirish",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "okean",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "iliq",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "ozod",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "daqiqa",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "kuchli",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "maxsus",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "fikr",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "orqasida",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "aniq",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "dum",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "mahsulot",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "dalil",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "maydon",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "eshitib",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "eng yaxshi",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "soat",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "yaxshiroq",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "haqiqiy",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "davomida",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "yuz",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "besh",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "eslayman",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "qadam",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "barvaqt",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "ushlab turing",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "g’arb",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "yer",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "qiziqish",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "erishish",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "tez",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "fe’l",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "kuylashadi",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "tinglash",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "olti",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "stol",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "sayohat",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "ozroq",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "ertalab",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "o’n",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "oddiy",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "bir necha",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "unli tovush",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "tomonga",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "urush",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "yotar",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "qarshi",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "namuna",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "sekin",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "markaz",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "sevgi",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "shaxs",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "pul",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "xizmat",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "paydo",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "yo’l",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "xarita",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "yomg’ir",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "qoida",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "boshqarmoq",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "torting",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "sovuq",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "bildirishnoma",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "ovoz",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "quvvat",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "ov",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "ehtimolli",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "karavot",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "aka",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "tuxum",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "haydash",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "hujayra",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "iymon",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "ehtimol",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "termoq",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "kutilmagan",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "hisoblash",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "kvadrat",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "sabab",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "uzunlik",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "vakili",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "san’at",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "mavzu",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "mintaqa",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "hajmi",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "farq",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "hal",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "gapirish",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "vazn",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "umumiy",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "muz",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "qat’i nazar,",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "to’garak",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "juft",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "o’z ichiga oladi",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "ajratmoq",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "bo’g’in",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "his",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "grand",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "koptok",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "hali",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "to’lqin",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "tomchi",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "yurak",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "emasman",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "hozirgi",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "og’ir",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "raqs",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "motor",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "vaziyat",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "qo’l",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "keng",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "suzmoq",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "ashyo",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "kasr",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "o’rmon",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "o’tirib",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "irq",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "deraza",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "do’kon",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "yoz",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "poezd",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "uyqu",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "isbotlash",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "yolg’iz",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "oyoq",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "mashq",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "devor",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "tutmoq",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "mount",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "iltimos",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "osmon",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "taxta",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "xursandchilik",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "qish",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "signallarini",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "yozma",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "yovvoyi",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "asbob",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "saqlab",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "shisha",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "o’t",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "sigir",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "ish",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "chet",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "belgi",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "tashrif",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "o’tgan",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "yumshoq",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "qiziqarli",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "yorug ‘",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gaz",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "ob-havo",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "oy",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "million",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "qo’pol",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "marra",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "baxtli",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "umid",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "gul",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "kiyintirmoq",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "g’alati",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "ketganimda",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "savdo",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "kuy",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "sayohat",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "idora",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "qabul",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "qator",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "og’iz",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "aniq",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "ramz",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "o’lish",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "kamida",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "tashvish",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "baqirmoq qichqirmoq",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "tashqari",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "yozgan",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "urug ‘",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "ohang",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "qo’shilish",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "taklif",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "toza",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "tanaffus",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "xonim",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "yard",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "oshirish",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "yomon",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "zarba",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "neft",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "qon",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "tegish",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "o’sdi",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "foiz",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "mix",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "komanda",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "sim",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "qiymati",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "yo’qolgan",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "jigar rang",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "kiyish",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "bog ‘",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "teng",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "yuborilgan",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "ni tanlang",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "tushdi",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "mos",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "oqim",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "yarmarka",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "bank",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "to’plash",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "saqlash",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "nazorat",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "o’nlik",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "quloq",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "yana boshqa",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "mutlaqo",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "buzib",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "hodisa",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "o’rta",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "o’ldirish",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "o’g’il",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "ko’l",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "daqiqa",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "miqyosli",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "baland ovozda",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "bahor",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "kuzatish",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "yosh bola",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "streyt",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "ohangdosh",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "millat",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "lug’at",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "sut",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "tezlik",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "usul",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "to’lov",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "yosh",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "bo’lim",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "kiyim",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "bulut",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "surprise",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "sokin",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "tosh",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "kichkina",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "yuqoriga chiqmok",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "salqin",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "dizayn",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "kambag’al",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "maydoni",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "tajriba",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "pastki",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "kalit",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "temir",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "yakka",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "tayoq",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "tekis",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "yigirma",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "teri",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "tabassum",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "qat",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "teshik",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "sakramoq",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "chaqaloq",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "sakkiz",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "qishloq",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "uchrashmoq",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "ildiz",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "sotib",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "oshirish",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "hal",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metall",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "yoki",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "durang",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "yetti",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "paragraf",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "uchinchi",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "keladir",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "O’tkazilayotgan",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "soch",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "tasvirlab",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "oshpaz",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "pol",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "yoki",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "natija",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "kuyish",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "tepalik",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "zararsiz",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "mushuk",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "asr",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "tushunmoq",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "shrift",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "qonun",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "qirg’oq",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "nusxa",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "ifoda",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "shovqinsiz",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "baland",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "qum",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "yer",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "roll",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "harorat",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "barmoq",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "sanoat",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "qiymati",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "jang",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "yolg’on",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "mag’lub etdi",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "ta’sir qilmoq",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "tabiiy",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "ko’rinish",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "sezgi",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "kapital",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "yo’q",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "stul",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "xavfli",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "meva",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "boy",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "qalin",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "askar",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "jarayon",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "faoliyat",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "amaliyot",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "alohida",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "murakkab",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "shifokor",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "iltimos",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "himoya",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "peshin",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "hosil",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "zamonaviy",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "element",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "zarba",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "talaba",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "burchak",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "partiya",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "ta’minlash",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "kimning",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "topish",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "ring",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "fe’l",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "hasharot",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "qo’lga",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "davr",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "ko’rsatadi",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radio",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "gapirdi",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atom",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "odam",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "tarix",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "ta’sir",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektr",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "kutyapmiz",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "suyak",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "rels",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "tasavvur",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ta’minlash",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "qo’shilaman",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "shunday",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "yumshoq",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "ayol",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapitan",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "taxmin",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "zarur",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "o’tkir",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "qanot",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "yaratish",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "qo’shni",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "yuvish",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "ko’rshapalak",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "afzal",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "to’da",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "makkajo’xori",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "solishtirish",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "she’r",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "string",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "qo’ng’iroq",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "bog’liq",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "go’sht",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "ishqalamoq",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "trubka",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "mashhur",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dollar",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "oqim",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "qo’rqinch",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ko’z",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "ingichka",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "uchburchak",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "sayyora",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "shoshilmoq",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "boshliq",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "mustamlaka",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "soat",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "meniki",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "galstuk",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "kiritish",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "muhim",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "yangi",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "qidirish",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "yuborish",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "sariq",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "kun",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "ruxsat",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "chop etish",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "o’lgan",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "spot",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "sahro",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "kostyum",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "hozirgi",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "lift",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "atirgul",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "yetib",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "usta",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "trek",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "ota-",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "qirg’oq",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "taqsimlash",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "varaq",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "modda",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "muruvvat",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "ulanish",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "post",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "nafaqa",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "akkord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "yog ‘",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "xursand",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "original",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "ulushi",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "bekat",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "dada",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "non",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "ayblash",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "muvofiq",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "taklif qilish",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segment",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "qul",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "o’rdak",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "tez",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "bozor",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "gradus",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "aholining",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "jo’ja",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "aziz",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "dushman",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "javob",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "ichimlik",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "sodir",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "qo’llab-quvvatlash",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "nutq",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "tabiat",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "oralig’i",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "bug ‘",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "harakat",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "yo’l",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "suyuq",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "log",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "anglatadi",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "bo’linma",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "teeth",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "chig’anoq",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "bo’yin",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "kislorod",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "shakar",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "o’lim",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "shirin",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "mahorat",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "ayollar",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "mavsum",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "qaror",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnit",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "kumush",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "rahmat",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "filial",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "match",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "qo’shimchasi",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "ayniqsa",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "anjir",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "qo’rqqan",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ulkan",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "singil",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "po’lat",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "muhokama",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "olg’a",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "o’xshash",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "hidoyat",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "tajriba",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "xol",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "olma",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "sotib",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "led",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "pitch",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "palto",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "massa",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "karta",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "frans",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "arqon",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "siljitmoq",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "Win",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "xayol",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "kechqurun",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "holat",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "yem",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "asbob",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "jami",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "asosiy",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "hid",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "vodiy",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "na",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "ikki hissa",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "o’rin",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "davom",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "blok",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "sxema",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "shlyapa",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "sotish",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "muvaffaqiyat",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "kompaniya",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "ayirmoq",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "hodisa",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "alohida",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "kelishuv",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "suzmoq",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "muddat",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "qarama-qarshi",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "rafiqa",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "tufli",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "elka",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "tarqalishi",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "tashkil",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "lager",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "to’qirlar",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "paxta",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "tug’ma",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "aniqlash",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "kvarta",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "to’qqiz",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "yuk mashinasi",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "shovqin",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "daraja",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "tasodif",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "to’plash",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "do’kon",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "cho’zmoq",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "otish",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "nur",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "mulk",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "ustun",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekulasi",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "tanlang",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "noto’g’ri",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "kul rang",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "takrorlash",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "talab",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "keng",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "tayyorlash",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "tuz",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "burun",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "ko’plik",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "g’azab",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "talab",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "qit’a",
+      "englishWord": "continent"
+    }
+  ]
+}

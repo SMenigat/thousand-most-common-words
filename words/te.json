@@ -1,0 +1,5007 @@
+{
+  "languageCode": "te",
+  "languageName": "Telugu",
+  "languageNativeName": "తెలుగు",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "గా",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "నేను",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "తన",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ఆ",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "అతను",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "ఉంది",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "కోసం",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "న",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "ఉన్నాయి",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "తో",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "వారు",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "ఉంటుంది",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "వద్ద",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "ఒకటి",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "కలిగి",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "ఈ",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "నుండి",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "ద్వారా",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "వేడి",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "పదం",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "కానీ",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "ఏమి",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "కొన్ని",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "ఉంది",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "ఇది",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "మీరు",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "లేదా",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "వచ్చింది",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "ది",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "యొక్క",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "కు",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "మరియు",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "ఒక",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "లో",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "మేము",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "చెయ్యవచ్చు",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "అవుట్",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "ఇతర",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "ఉన్నాయి",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "ఇది",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "చేయండి",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "వారి",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "సమయం",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "ఉంటే",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "రెడీ",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "ఎలా",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "అన్నాడు",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "ఒక",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "ప్రతి",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "చెప్పండి",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "చేస్తుంది",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "సెట్",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "మూడు",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "కావలసిన",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "గాలి",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "బాగా",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "కూడా",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "ప్లే",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "చిన్న",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "ముగింపు",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "చాలు",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "హోమ్",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "చదవడానికి",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "చేతి",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "పోర్ట్",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "పెద్ద",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "అక్షరక్రమ",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "జోడించండి",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "కూడా",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "భూమి",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "ఇక్కడ",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "తప్పక",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "పెద్ద",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "అధిక",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "ఇటువంటి",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "అనుసరించండి",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "చట్టం",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "ఎందుకు",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "గోవా",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "పురుషులు",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "మార్పు",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "వెళ్ళింది",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "కాంతి",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "రకం",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "ఆఫ్",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "అవసరం",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "ఇల్లు",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "చిత్రాన్ని",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "ప్రయత్నించండి",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "మాకు",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "మళ్ళీ",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "జంతు",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "పాయింట్",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "తల్లి",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "ప్రపంచ",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "సమీపంలో",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "నిర్మించడానికి",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "స్వీయ",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "భూమి",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "తండ్రి",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "ఏ",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "కొత్త",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "పని",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "భాగం",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "పడుతుంది",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "పొందండి",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "స్థలం",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "తయారు",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "నివసిస్తున్నారు",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "పేరు",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "తర్వాత",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "తిరిగి",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "చిన్న",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "మాత్రమే",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "రౌండ్",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "మనిషి",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "సంవత్సరం",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "వచ్చింది",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "షో",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ప్రతి",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "మంచి",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "నాకు",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "ఇవ్వాలని",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "మా",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "కింద",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "పేరు",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "చాలా",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "ద్వారా",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "కేవలం",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "రూపం",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "వాక్యం",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "గొప్ప",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "అనుకుంటున్నాను",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "సే",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "సహాయం",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "తక్కువ",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "లైన్",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "తేడా",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "మలుపు",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "కారణం",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "చాలా",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "అర్థం",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "ముందు",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "తరలింపు",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "కుడి",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "బాయ్",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "పాత",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "చాలా",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "అదే",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ఆమె",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "అన్ని",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "అక్కడ",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "ఉన్నప్పుడు",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "అప్",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "ఉపయోగం",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "మీ",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "మార్గం",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "గురించి",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "అనేక",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "అప్పుడు",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "వాటిని",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "రాయడానికి",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "చేస్తాను",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "వంటి",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "కాబట్టి",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "ఈ",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "ఆమె యొక్క",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "దీర్ఘ",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "తయారు",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "విషయం",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "చూడండి",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "అతనికి",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "రెండు",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ఉంది",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "చూడండి",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "మరింత",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "రోజు",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "అనుకొనుట",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "వెళ్ళి",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "వచ్చిన",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "చేసింది",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "సంఖ్య",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "శబ్దము",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ఏ",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "అత్యంత",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "ప్రజలు",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "నా",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "పైగా",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "తెలుసు",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "నీటి",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "కంటే",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "కాల్",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "మొదటి",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "ఎవరు",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "మే",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "డౌన్",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "వైపు",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "ఉన్నాయి",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "ఇప్పుడు",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "కనుగొనేందుకు",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "తల",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "స్టాండ్",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "సొంత",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "పేజీ",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "తప్పక",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "దేశం",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "దొరకలేదు",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "సమాధానం",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "పాఠశాల",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "పెరుగుతాయి",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "అధ్యయనం",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "ఇప్పటికీ",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "తెలుసుకోవడానికి",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "మొక్క",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "కవర్",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "ఆహార",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "సూర్యుడు",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "నాలుగు",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "మధ్య",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "రాష్ట్ర",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "ఉంచేందుకు",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "కంటి",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "ఎప్పుడూ",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "గత",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "వీలు",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "ఆలోచన",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "నగరం",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "చెట్టు",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "క్రాస్",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "వ్యవసాయ",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "హార్డ్",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "ప్రారంభం",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "వాటిని",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "కథ",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "రంపపు",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "ఇప్పటివరకు",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "సముద్ర",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "డ్రా",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "ఎడమ",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "చివరి",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "రన్",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "చేయలేను",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "అయితే",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "పత్రికా",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "దగ్గరగా",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "రాత్రి",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "నిజ",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "జీవితం",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "కొన్ని",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "ఉత్తర",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "పుస్తకం",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "తీసుకు",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "పట్టింది",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "సైన్స్",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "తినడానికి",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "గది",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "స్నేహితుడు",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "ప్రారంభమైంది",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "ఆలోచన",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "చేప",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "పర్వతము",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "ఆపడానికి",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "ఒకసారి",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "బేస్",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "విను",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "గుర్రం",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "కట్",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "ఖచ్చితంగా",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "చూడటానికి",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "రంగు",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "ముఖం",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "చెక్క",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "ప్రధాన",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "ఓపెన్",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "అనిపించవచ్చు",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "కలిసి",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "తదుపరి",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "తెలుపు",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "పిల్లలు",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "ప్రారంభం",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "వచ్చింది",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "నడిచి",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "ఉదాహరణకు",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "సులభం",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "కాగితం",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "సమూహం",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "ఎల్లప్పుడూ",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "సంగీతం",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ఆ",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "రెండు",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "మార్క్",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "తరచుగా",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "లేఖ",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "వరకు",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "మైలు",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "నది",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "కారు",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "అడుగుల",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "సంరక్షణ",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "రెండవ",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "తగినంత",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "సాదా",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "అమ్మాయి",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "సాధారణ",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "యువ",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "సిద్ధంగా",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "పైన",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "ఎప్పుడూ",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "ఎరుపు",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "జాబితా",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "అయితే",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "అనుభూతి",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "చర్చ",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "పక్షి",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "త్వరలో",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "శరీర",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "కుక్క",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "కుటుంబం",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "ప్రత్యక్ష",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "భంగిమలో",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "వదిలి",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "పాట",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "కొలవటానికి",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "తలుపు",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "ఉత్పత్తి",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "నలుపు",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "చిన్న",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "సంఖ్యా",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "తరగతి",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "గాలి",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "ప్రశ్న",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "జరిగే",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "పూర్తి",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "ఓడ",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "ప్రాంతం",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "సగం",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "రాక్",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "ఆర్డర్",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "అగ్ని",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "దక్షిణ",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "సమస్య",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "ముక్క",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "చెప్పారు",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "తెలుసు",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "పాస్",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "నుండి",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "టాప్",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "మొత్తం",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "రాజు",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "వీధి",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "అంగుళం",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "గుణిస్తారు",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "ఏమీ",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "కోర్సు",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "ఉండడానికి",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "చక్రం",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "పూర్తి",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "శక్తి",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "నీలం",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "వస్తువు",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "నిర్ణయించుకుంటారు",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "ఉపరితల",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "లోతైన",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "చంద్రుడు",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "ద్వీపం",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "అడుగు",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "వ్యవస్థ",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "బిజీగా",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "పరీక్ష",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "రికార్డు",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "పడవ",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "సాధారణ",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "బంగారు",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "సాధ్యం",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "విమానం",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "మారుగా",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "పొడి",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "ఆశ్చర్యానికి",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "నవ్వు",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "వేల",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "క్రితం",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "నడిచింది",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "తనిఖీ",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "గేమ్",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "ఆకారం",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "పోల్చుతారు",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "వేడి",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "మిస్",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "తీసుకువచ్చారు",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "వేడి",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "మంచు",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "టైర్",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "తీసుకుని",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "అవును",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "సుదూర",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "పూరించడానికి",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "తూర్పు",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "పెయింట్",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "భాష",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "మధ్య",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "యూనిట్",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "శక్తి",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "పట్టణం",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "జరిమానా",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "కొన్ని",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "ఫ్లై",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "వస్తాయి",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "దారి",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "క్రై",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "కృష్ణ",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "యంత్రం",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "గమనిక",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "వేచి",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "ప్రణాళిక",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "ఫిగర్",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "స్టార్",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "బాక్స్",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "నామవాచకం",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "ఫీల్డ్",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "మిగిలిన",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "సరైన",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "సామర్థ్యం",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "పౌండ్",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "పూర్తయింది",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "అందం",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "డ్రైవ్",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "నిలిచి",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "కలిగి",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "ముందు",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "బోధించడానికి",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "వారం",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "ఆఖరి",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "ఇచ్చింది",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "ఆకుపచ్చ",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "ఓహ్",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "శీఘ్ర",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "అభివృద్ధి",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "సముద్ర",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "వెచ్చని",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "ఉచిత",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "నిమిషం",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "బలమైన",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "ప్రత్యేక",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "మనసు",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "వెనుక",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "స్పష్టమైన",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "తోక",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "ఉత్పత్తి",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "నిజానికి",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "స్పేస్",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "విన్న",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "ఉత్తమ",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "గంట",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "మంచి",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "నిజమైన",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "సమయంలో",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "వంద",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "ఐదు",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "గుర్తు",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "అడుగు",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "ప్రారంభ",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "పట్టి",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "పశ్చిమ",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "భూమి",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "వడ్డీ",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "చేరుకోవడానికి",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "ఫాస్ట్",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "క్రియ",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "పాడే",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "వినండి",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "ఆరు",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "పట్టిక",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "ప్రయాణ",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "తక్కువ",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "ఉదయం",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "పది",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "సాధారణ",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "అనేక",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "అచ్చు",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "వైపు",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "యుద్ధం",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "లే",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "వ్యతిరేకంగా",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "నమూనా",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "నెమ్మదిగా",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "సెంటర్",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "ప్రేమ",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "వ్యక్తి",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "డబ్బు",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "సర్వ్",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "టెలిఫోన్",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "రోడ్డు",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "మాప్",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "వర్షం",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "పాలన",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "పాలించే",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "పుల్",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "చల్లని",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "నోటీసు",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "వాయిస్",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "శక్తి",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "వేట",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "మూడింటిని",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "మంచం",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "సోదరుడు",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "గుడ్డు",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "రైడ్",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "సెల్",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "నమ్మకం",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "బహుశా",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "ఎంచుకోండి",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "ఆకస్మిక",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "కౌంట్",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "చదరపు",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "కారణం",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "పొడవు",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "య",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "కళ",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "విషయం",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "ప్రాంతం",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "పరిమాణం",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "మారుతుంటాయి",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "స్థిరపడేందుకు",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "మాట్లాడటం",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "బరువు",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "సాధారణ",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "మంచు",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "విషయం",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "సర్కిల్",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "జత",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "ఉన్నాయి",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "విభజన",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "అక్షరం",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "భావించాడు",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "గ్రాండ్",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "బంతి",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ఇంకా",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "అల",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "డ్రాప్",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "గుండె",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "ఉన్నాను",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "ప్రస్తుతం",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "భారీ",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "డ్యాన్స్",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "ఇంజిన్",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "స్థానం",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "చేయి",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "విస్తృత",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "ప్రయాణమయ్యారు",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "పదార్థం",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "భిన్నం",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "అటవీ",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "కూర్చుని",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "రేసు",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "విండో",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "స్టోర్",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "వేసవి",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "రైలు",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "నిద్ర",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "రుజువు",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "ఒంటరి",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "లెగ్",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "వ్యాయామం",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "గోడ",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "క్యాచ్",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "మౌంట్",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "అనుకుంటున్నారా",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "ఆకాశంలో",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "బోర్డు",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "ఆనందం",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "శీతాకాలంలో",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "శని",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "రాసిన",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "అడవి",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "వాయిద్యం",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "ఉంచింది",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "గాజు",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "గడ్డి",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "ఆవు",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "ఉద్యోగం",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "అంచు",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "సైన్",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "పర్యటన",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "గత",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "సాఫ్ట్",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "సరదాగా",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "బ్రైట్",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "గ్యాస్",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "వాతావరణ",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "నెల",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "మిలియన్",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "భరించలేదని",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "ముగింపు",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "సంతోషంగా",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "ఆశిస్తున్నాము",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "పుష్పం",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "దుస్తులు ధరింపజేయు",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "వింత",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "వెళ్లిపోవడంతో",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "వాణిజ్య",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "శ్రావ్యత",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "యాత్ర",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "కార్యాలయం",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "అందుకుంటారు",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "వరుసగా",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "నోరు",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "ఖచ్చితమైన",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "చిహ్నం",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "చనిపోయే",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "కనీసం",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "ఇబ్బంది",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "అరవడం",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "తప్ప",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "వ్రాసారు",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "విత్తనం",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "టోన్",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "చేరడానికి",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "సూచిస్తున్నాయి",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "శుభ్రంగా",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "విరామం",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "లేడీ",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "యార్డ్",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "పెరగడం",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "చెడు",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "దెబ్బ",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "చమురు",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "రక్త",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "టచ్",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "పెరిగింది",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "శాతం",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "కలపాలి",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "జట్టు",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "వైర్",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "ధర",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "కోల్పోయింది",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "గోధుమ",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "ధరిస్తారు",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "తోట",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "సమాన",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "పంపిన",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "ఎంచుకోండి",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "పడిపోయింది",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "సరిపోయే",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "ప్రవాహం",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "న్యాయమైన",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "బ్యాంకు",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "సేకరించడానికి",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "సేవ్",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "నియంత్రణ",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "దశాంశ",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "చెవి",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "వేరే",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "చాలా",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "విరిగింది",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "కేసు",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "మధ్య",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "చంపడానికి",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "కుమారుడు",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "సరస్సు",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "క్షణం",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "స్థాయి",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "బిగ్గరగా",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "వసంత",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "గమనించి",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "పిల్లల",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "నేరుగా",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "హల్లు",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "దేశం",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "నిఘంటువు",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "పాలు",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "వేగం",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "పద్ధతి",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "అవయవ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "చెల్లించటానికి",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "వయస్సు",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "విభాగం",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "దుస్తుల",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "క్లౌడ్",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "ఆశ్చర్యం",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "నిశ్శబ్ద",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "రాయి",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "చిన్న",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "ఆరోహణను",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "చల్లని",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "డిజైన్",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "పేద",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "చాలా",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "ప్రయోగం",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "దిగువ",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "కీ",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "ఇనుము",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "ఒకే",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "స్టిక్",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "ఫ్లాట్",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "ఇరవై",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "చర్మం",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "చిరునవ్వు",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "క్రీజ్",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "రంధ్రం",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "జంప్",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "బేబీ",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "ఎనిమిది",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "గ్రామం",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "మీట్",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "రూట్",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "కొనుగోలు",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "పెంచడానికి",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "పరిష్కరించడానికి",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "మెటల్",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "లేదో",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "పుష్",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "ఏడు",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "పేరా",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "మూడో",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "వలెను",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "ఒక్కొక",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "జుట్టు",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "వర్ణించేందుకు",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "కుక్",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "ఫ్లోర్",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "గాని",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "ఫలితంగా",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "బర్న్",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "కొండ",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "సురక్షితంగా",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "పిల్లి",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "శతాబ్దం",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "పరిగణలోకి",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "రకం",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "చట్టం",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "బిట్",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "తీరం",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "ప్రతిని",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "పదబంధం",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "నిశ్శబ్ద",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "పొడవైన",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "ఇసుక",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "మట్టి",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "రోల్",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "ఉష్ణోగ్రత",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "వేలు",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "పరిశ్రమ",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "విలువ",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "పోరాటం",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "అబద్ధం",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "ఓడించింది",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "ఉత్సుకతను",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "సహజ",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "వీక్షణ",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "భావం",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "రాజధాని",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "రెడీ",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "కుర్చీ",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "ప్రమాదం",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "పండు",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "రిచ్",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "మందపాటి",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "సైనికుడు",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "ప్రక్రియ",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "పనిచేస్తాయి",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "ఆచరణలో",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "ప్రత్యేక",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "కష్టం",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "డాక్టర్",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "దయచేసి",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "రక్షించేందుకు",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "మధ్యాహ్నం",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "పంట",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "ఆధునిక",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "మూలకం",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "హిట్",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "విద్యార్థి",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "మూలలో",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "పార్టీ",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "సరఫరా",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "దీని",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "గుర్తించడం",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "రింగ్",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "పాత్ర",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "క్రిమి",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "క్యాచ్",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "కాలం",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "సూచిస్తున్నాయి",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "రేడియో",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "మాట్లాడారు",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "అణువు",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "మానవ",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "చరిత్ర",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "ప్రభావం",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "విద్యుత్",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "ఆశించే",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "ఎముక",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "రైలు",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "ఊహించే",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "అందించేందుకు",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "అంగీకరిస్తున్నారు",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "అందువలన",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "సున్నితమైన",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "మహిళ",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "కెప్టెన్",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "అంచనా",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "అవసరం",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "పదునైన",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "వింగ్",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "సృష్టించడానికి",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "పొరుగు",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "వాష్",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "బ్యాట్",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "కాకుండా",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "గుంపు",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "మొక్కజొన్న",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "సరిపోల్చండి",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "పద్యం",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "స్ట్రింగ్",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "బెల్",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "ఆధారపడి",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "మాంసం",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "రబ్",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "ట్యూబ్",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "ప్రసిద్ధ",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "డాలర్",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "స్ట్రీమ్",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "భయము",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "దృష్టి",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "సన్నని",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "త్రిభుజం",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "గ్రహం",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "అత్యవసరము",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "చీఫ్",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "కాలనీ",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "గడియారం",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "మైన్",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "టై",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "నమోదు",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "ప్రధాన",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "తాజా",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "శోధన",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "పంపండి",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "పసుపు",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "తుపాకీ",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "అనుమతిస్తాయి",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "ముద్రణ",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "చనిపోయిన",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "స్పాట్",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "ఎడారి",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "దావా",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "ప్రస్తుత",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "లిఫ్ట్",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "గులాబీ",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "చేరు",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "మాస్టర్",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "ట్రాక్",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "పేరెంట్",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "తీరం",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "విభజన",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "షీట్",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "పదార్ధం",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "మొగ్గుచూపుతున్నారు",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "కనెక్ట్",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "పోస్ట్",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "ఖర్చు",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "తీగ",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "కొవ్వు",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "ఆనందంగా",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "అసలు",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "వాటా",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "స్టేషన్",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "తండ్రి",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "బ్రెడ్",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "వసూలు",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "సరైన",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "బార్",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "ఆఫర్",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "సెగ్మెంట్",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "బానిస",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "డక్",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "తక్షణ",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "మార్కెట్",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "డిగ్రీ",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "జనసాంద్రత",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "చిక్",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "ప్రియమైన",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "శత్రువు",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "ప్రత్యుత్తరం",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "పానీయం",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "సంభవించవచ్చు",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "మద్దతు",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "ప్రసంగం",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "ప్రకృతి",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "పరిధి",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "ఆవిరి",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "చలన",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "మార్గం",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "ద్రవ",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "లాగిన్",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "అర్థం",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "కోశంట్",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "పళ్ళు",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "షెల్",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "మెడ",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "ఆక్సిజన్",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "చక్కెర",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "మరణం",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "అందంగా",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "నైపుణ్యం",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "మహిళలు",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "సీజన్",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "పరిష్కారం",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "అయస్కాంతం",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "వెండి",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "ధన్యవాదాలు",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "శాఖ",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "మ్యాచ్",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "ప్రత్యయం",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "ముఖ్యంగా",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "అత్తి",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "భయపడ్డారు",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "భారీ",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "సోదరి",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "స్టీల్",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "చర్చించడానికి",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "ముందుకు",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "ఇదే",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "మార్గనిర్దేశం",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "అనుభవం",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "స్కోరు",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "ఆపిల్",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "కొనుగోలు",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "దారితీసింది",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "పిచ్",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "కోటు",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "మాస్",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "కార్డ్",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "బ్యాండ్",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "తాడు",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "స్లిప్",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "విజయం",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "కావాలని",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "సాయంత్రం",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "పరిస్థితి",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "ఫీడ్",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "సాధనం",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "మొత్తం",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "ప్రాథమిక",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "వాసన",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "లోయలో",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "లేదా",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "డబుల్",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "సీటు",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "కొనసాగుతుంది",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "బ్లాక్",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "చార్ట్",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "టోపీ",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "అమ్మే",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "విజయం",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "సంస్థ",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "వ్యవకలనం",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "ఈవెంట్",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "ప్రత్యేక",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "ఒప్పందం",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "ఈత",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "పదం",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "వ్యతిరేక",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "భార్య",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "షూ",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "భుజం",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "స్ప్రెడ్",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "ఏర్పాట్లు",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "శిబిరం",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "కనుగొనడమే",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "పత్తి",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "పుట్టినప్పటి",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "గుర్తించడానికి",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "కొలత గల పాత్ర",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "తొమ్మిది",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "ట్రక్",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "శబ్దం",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "స్థాయి",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "క్రీడల్లో అవకాశాలు",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "సేకరించడానికి",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "షాప్",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "సాగిన",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "త్రో",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "బాగా చేయు",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "ఆస్తి",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "కాలమ్",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "అణువు",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "ఎంచుకోండి",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "తప్పు",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "బూడిద",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "రిపీట్",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "అవసరం",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "విస్తృత",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "సిద్ధం",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "ఉప్పు",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "ముక్కు",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "బహువచనం",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "కోపం",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "దావా",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "ఖండం",
+      "englishWord": "continent"
+    }
+  ]
+}

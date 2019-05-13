@@ -1,0 +1,5007 @@
+{
+  "languageCode": "zu",
+  "languageName": "Zulu",
+  "languageNativeName": "isiZulu",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "njengoba",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "I",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "wakhe",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ukuthi",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "yena",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "kwaba",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "ngoba",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "on",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "kukhona",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "nge",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "bona",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "kube",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "at",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "eyodwa",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "abe",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "le",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "kusuka",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "by",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "esishisayo",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "igama",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "kodwana",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "lokho",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "Kwezinye",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "kuyinto",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "it",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "wena",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "noma",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "kwadingeka",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "lo",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "of",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "kuya",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "futhi",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "a",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "in",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "thina",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "okusemandleni",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ukuphuma",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "ezinye",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "babengamadoda",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "okuyinto",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "enza",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "yabo",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "nesikhathi",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "uma",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "kuthanda",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "indlela",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "uthe",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "an",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "ngamunye",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "ukutshela",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "enza",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "setha",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "amathathu",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "bafuna",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "air",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "kahle",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "futhi",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "udlale",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "amancane",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "Ukuphela",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "abeke",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "Ikhaya",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "funda",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "Isandla",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "echwebeni",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "ende",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "luzosho",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "ukwengeza",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "yebo",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "Izwe",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "lapha",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "kumele",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "enkulu",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "high",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "enjalo",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "ukulandela",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "isenzo",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "kungani",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "cela",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "amadoda",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "ushintsho",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "waya",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "Ukukhanya",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "uhlobo",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "off",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "badinga",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "indlu",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "yendaba",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "sizame",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "nathi",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "futhi",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "animal",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "phuzu",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "umama",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "umhlaba",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "tsini",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "ukwakha",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "wokuzilimaza",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "emhlabeni",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "Ubaba",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "yisiphi",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "omusha",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "Umsebenzi",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "okuyingxenye",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "kuthathe",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "uthole",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "indawo",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "ezenziwe",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "siphile",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "lapho",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "emva",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "back",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "kancane",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "kodwa",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "nxazonke",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "man",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "ngonyaka",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "weza",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "bonisa",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "njalo",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "okuhle",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "me",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "pha",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "ethu",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "ngaphansi",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "Igama",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "kakhulu",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "ngokusebenzisa",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "nje",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "ifomu",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "uhlamvu",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "okukhulu",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "acabange",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "bathi",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "usize",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "ongaphakeme",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "line",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "ihluke",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "baphendukela",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "kwesizathu",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "okuningi",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "asho",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "ngaphambi",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "ukuthutha",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "kwesokudla",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "mfana",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "endala",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "futhi",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "efanayo",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "yena",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "konke",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "khona",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "lapho",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "up",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "ukusetshenziswa",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "sakho",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "Indlela",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "mayelana",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "abaningi",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "ke",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "nabo",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "ukubhala",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "belungafica",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "like",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "kanjalo",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "la",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "wakhe",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "eside",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "ukwenza",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "Into",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "bheka",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "naye",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "ezimbili",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ine",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "bhekani",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "ngaphezulu",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "Usuku",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "okusemandleni",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "hamba",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "uze",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "wenza",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "Inombolo",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "kuzwakale",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "akukho",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "iningi",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "Abantu",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "yami",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "phezu",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "bazi",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "kwamanzi",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "kunalokho",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "call",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "okokuqala",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "ngubani",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "may",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "phasi",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "side",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "kwaba",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "Manje",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "thola",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "Ikhanda",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "nime",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "siqu",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "page",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "kufanele",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "izwe",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "wathola",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "Impendulo",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "esikoleni",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "ukhule",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "Ukutadisha",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "namanje",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "ufunde",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "plant",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "embesa",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "ngokudla",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "sun",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "ezine",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "emkhatsini",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "isimo",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "qhubeka",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "iso",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "bonaze",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "okokugcina",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "ake",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "bacabanga",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "dolobha",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "isihlahla",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "ukuwela",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ipulazi",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "kanzima",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "isiqalo",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "izikhwepha",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "Indaba",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "okwabonwa",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "le",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "ulwandle",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "udwebe",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "kwesokunxele",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "sekwephuzile",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "sigijime",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "ungenzi",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "ngenkathi",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "cindezela",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "ngokuminyanisa",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "ebusuku",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "kwangempela",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "kuphila",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "ambalwa",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "enyakatho",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "Incwadi",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "athwale",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "wathatha",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "isayensi",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "udle",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "Igumbi",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "umngani",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "waqala",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "umqondo",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "izinhlanzi",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "ntaba",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "ima",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "kanye",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "isiza",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "zwa",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ihhashi",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "ukusika",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "isiqiniseko",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "qaphela",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "Umbala",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "Ubuso",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "izinkuni",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "eziyinhloko",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "evulekile",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "babonakala",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "ndawonye",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "olandelayo",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "elimhlophe",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "izingane",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "uqale",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "wavuka",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "uhambe",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "Isibonelo",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ekudambiseni",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "ephepheni",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "iqoqo",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "njalo",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "umculo",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "nalabo",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "kokubili",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "uphawu",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "ngokuvamile",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "incwadi",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "kuze",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "lwamakhilomitha",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "emfuleni",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "Imoto",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "izinyawo",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "ukunakekelwa",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "kwesibili",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "ngokwanele",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "ithafa",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "ntombazane",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "evamile",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "young",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "ngomumo",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "ngenhla",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "njalo",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "obomvu",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "Uhlu",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "noma",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "bazizwa",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "inkulumo",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "nyoni",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "Ngokushesha",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "Umzimba",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "inja",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "umndeni",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "ngqo",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "abalona",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "ushiye",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "song",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "ukulinganisa",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "Umnyango",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "umkhiqizo",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "omnyama",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "okufutshane",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "inani",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "ikilasi",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "ovunguzayo",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "Umbuzo",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "kwenzeke",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "kuqedile",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "Umkhumbi",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "indawo",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "isigamu",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "idwala",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "oda",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "umlilo",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "eningizimu",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "Inkinga",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "ucezu",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "utshele",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "wayazi",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "Kudlula",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "kusukela",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "phezulu",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "wonke",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "inkosi",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "isitaladi",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "ngamasentimitha",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "phindaphinda",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "lutho",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "inkambo",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "uhlale",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "sondo",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "egcwele",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "isicindezelo",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "eluhlaza",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "intfo",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "unqume",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "ngaphandle",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "ezijulile",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "inyanga",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "esiqhingini",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "ngezinyawo",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "uhlelo",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "umatasa",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "ukulinga",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "amarekhodi",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "Isikebhe",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "ezivamile",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "igolide",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "kunokwenzeka",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "indiza",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "esikhundleni",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "eyomile",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "bayazibuza",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "uhleko",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "abayizinkulungwane",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "edlule",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "wagijimela",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "hlola",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "mdlalo",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "uhlobo",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "bathi",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "ashisayo",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "baletha",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "ukushisa",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "iqhwa",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "isondo",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "ukuletha",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "Yebo",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "ezikude",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "ukugcwalisa",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "empumalanga",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "ukupenda",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "lulwimi",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "phakathi",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "unit",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "Amandla",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "town",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "emihle",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "ezithile",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "ijeka manzi",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "awe",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "kuholele",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "khala",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "amnyama",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "umshini",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "inothi",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "ulinde",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "hlela",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "ukulinganisa",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "ikhwezi",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "ibhokisi",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "ibizo",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "ifusi",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "ukuphumula",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "lobenele",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "ekwazi",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "Ipondo",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "wenziwe",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "ubuhle",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "qhuba",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "wema",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "aqukethe",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "phambili",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "sifundise",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "ngesonto",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "sokugcina",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "wanikela",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "oluhlaza",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "Awu",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "okusheshayo",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "ukuthuthukisa",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "ulwandle olukhulu",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "afudumele",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "khulula",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "ngeminithi",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "oqinile",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "ekhethekile",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "kwengqondo",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "ngemuva",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "ecacile",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "umsila",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "khiqiza",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "Empeleni",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "isikhala",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "wezwa",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "umhlabeleli",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "ngehora",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "kangcono",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "kuyiqiniso",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "ngesikhatsi",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "angamakhulu",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "ezinhlanu",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "ukhumbule",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "Isinyathelo",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "zakuqala",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "ubambe",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "ngasentshonalanga",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "emhlabathini",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "Isithakazelo",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "afinyelele",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "bambelela",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "sento",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "sihlabelele",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "ulalele",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "eziyisithupha",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "ithebula",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "hamba amazwe",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "esingaphansi",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "Ekuseni",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "eziyishumi",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "elula",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "eziningana",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "unkamisa",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "bubheke",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "ukulwa",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "walala",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "ngokumelene",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "iphethini",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "wephuza",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "isikhungo",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "athande",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "Umuntu",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "imali",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "ukukhonza",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "avele",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "umgwaqo",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "ibalazwe",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "nemvula",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "ukubusa",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "phatha",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "donsa",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "ezibandayo",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "Isaziso",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "ngezwi",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "amandla",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "ukuhlasela",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "kungenzeka",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "embhedeni",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "umfowabo",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "iqanda",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "gibela",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "iseli",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "bakholwe",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "mhlawumbe",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "vuna",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "engazelelwe",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "ukubala",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "igceke",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "Isizathu",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "Ubude",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "bamele",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "yobuciko",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "isihloko",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "isifunda",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "Usayizi",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "ziyehluka",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "hlela",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "ukhulume",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "isisindo",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "jikelele",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "iqhwa",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "udaba",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "jikeleza",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "okubili",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "zihlanganisa",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "ahlukanisa",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "uhlamvu",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "wazizwa",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "omkhulu",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "ngebhola",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "nokho",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "qhweba",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "yokwehlisela",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "Inhliziyo",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "ngiyindlela",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "okwamanje",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "esindayo",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "dance",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "injini",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "isikhundla",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "ingalo",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "ububanzi",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "useyili",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "material",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "ingxenyenamba",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "ihlathi",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "ahlale",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "uhlanga",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "iwindi",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "esitolo",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "ehlobo",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "isitimela",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "sokulala",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "afakazele",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "oyedwa waba",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "emlenzeni",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "umsebenzi",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "Udonga",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "bamba",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "khweza",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "ufisa",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "isibhakabhaka",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "ebhodini",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "injabulo",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "ubusika",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "Wahlala",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "ebhaliwe",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "sasendle",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrument",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "igcinwe",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "ingilazi",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "utshani",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "eyensikazi",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "Umsebenzi",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "emaphethelweni",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "isibonakaliso",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "ukuvakasha",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "esidlule",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "esithambile",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "kumnandi",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "egqamile",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "negesi",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "sezulu",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "ngenyanga",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "isigidi",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "athwale",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "sekugcineni",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "ojabulayo",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "Ngethemba",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "mbali",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "wembathise",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "ongaziwa",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "esehambile",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "ezohwebo",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "Ihubo",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "uhambo",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "Ihhovisi",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "thola",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "irowu",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "Umlomo",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "oluqondile",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "uphawu",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "fa",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "okungenani",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "enkingeni",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "memeza",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "kuphela",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "wabhala",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "inzalo",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "umbala",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "ukujoyina",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "basikisela",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "zihlanzekile",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "ukwephuka",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "inenekazi",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "egcekeni",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "sukuma",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "okubi",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "igalelo",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "uwoyela",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "negazi",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "uthinte",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "lakhula",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "angu",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "xuba",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "ithimba",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "ucingo",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "Izindleko",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "walahlekelwa",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "onsundu",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "bagqoke",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "yensimu",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "alinganayo",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "wathumela",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "akhethe",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "bawa",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "linganisa",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "kopoza",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "ukujabulisa",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "ebhange",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "ukuqoqa",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "ukusindisa",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "amandla okuphatha",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "zamadesimali",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "indlebe",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "futhi",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "ngempela",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "waphula",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "Icala",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "maphakathi",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "babulale",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "indodana",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "ichweba",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "mzuzu",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "isikali",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "elikhulu",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "entwasahlobo",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "bona",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "Ingane",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "iqonde",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "lehamba",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "Isizwe",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "isichazamazwi",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "ubisi",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "isivinini",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "indlela",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "sitho",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "ukhokhe",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "yobudala",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "ingxenye",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "ingubo",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "ifu",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "Ngamangala",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "onokuthula",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "tshe",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "omncanyana",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "enyuka",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "abandayo",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "songoza",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "abampofu",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "uquqaba",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "lokulinga",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "ngezansi",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "isikhiye",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "nensimbi",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "ongashadile",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "uthi",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "ifulathi",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "amabili",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "isikhumba",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "emomotheka",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "dile",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "emgodini",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "eqa",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "umntwana",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "eziyisishiyagalombili",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "emzaneni",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "hlangana",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "impande",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "thenga",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "iphakamisa",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "ukuxazulula",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "sensimbi",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "noma",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "phusha",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "eziyisikhombisa",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "indzima",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "okwesithathu",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "kufanele",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "owawuzoba",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "izinwele",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "uchaze",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "umpheki",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "phansi",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "noma",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "japan",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "bashise",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "igquma",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "ephephile",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "likati",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "leminyaka",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "cabangela",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "Uhlobo",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "umthetho",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "ihhashi",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "ugu",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "Ikhophi",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "isisho",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "buthule",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "abade",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "isihlabathi",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "Inhlabathi",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "qoqa",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "lokushisa",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "ngomunwe",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "Imboni",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "azisa",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "impi",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "manga",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "bhula",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "ethusa",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "natural",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "buka",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "ngomqondo",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "komkhulu",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "ngeke",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "isitulo",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "ingozi",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "izithelo",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "ocebile",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "aminyene",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "sosha",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "inqubo",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "sebenzisa",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "Umkhuba",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "ahlukene",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "nzima",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "Udokotela",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "sicela",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "ukuvikela",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "emini",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "isitshalo",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "yesimanje",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "isici",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "shaya",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "ofundayo",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "ekhoneni",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "inhlangano",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "phakela",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "ogama",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "thola",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "nkeneza",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "uhlamvu",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "kwezinambuzane",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "babanjwa",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "isikhathi",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "khombisa",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "umsakazo",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "wakhuluma",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "athomu",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "womuntu",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "Umlando",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "umphumela",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "electric",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "bheka",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "amathambo",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "ujantshi",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "imagine",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ukuhlinzeka",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "uvume",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "Kanjalo",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "mnene",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "owesifazane",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "ukaputeni",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "ukuqagela",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "kunesidingo",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "ebukhali",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "iphiko",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "ukudala",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "umakhelwane",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "ukuhlamba",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "nelulwane",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "kunalokho",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "Isixuku",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "ukolweni",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "qhathanisa",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "inkondlo",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "intambo",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "insimbi",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "bathembele",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "Inyama",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "deda",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "umbhobho",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "esidumile",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "izindodla zemali",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "emfudlaneni",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "kwesaba",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ukubuka",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "mncane",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "calantsatfu",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "iplanethi",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "shesha",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "abakhulu",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "koloni",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "washi",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "emayini",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "ukulingana",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "faka",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "ezinkulu",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "opholile",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "cinga",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "thumela",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "ophuzi",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "isibhamu",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "uvumele",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "ukubhala",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "efile",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "indawo",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "hlamuka",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "izembatho",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "yamanje",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "baphakamisa",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "wasukuma",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "finyelela",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "induna",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "ithrekhi",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "umzali",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "isisekelo",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "ukuhlukana",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "ishidi",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "isiqa",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "siza",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "xhuma",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "post",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "khipha",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "kuzithinta",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "inoni",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "ithokoze",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "sokuqala",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "ingxenye",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "esiteshini",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "ubaba",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "isinkwa",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "gcwalisa",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "efanele",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "ibha",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "umnikelo",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "ingxenye",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "nceku",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "idada",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "osheshayo",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "indali",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "ibanga",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "populate",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "iphuphu",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "othandekayo",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "isitha",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "phendula",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "isiphuzo",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "zenzeka",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "ukwesekwa",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "Inkulumo",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "isidalo",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "uhla",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "umusi",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "ukunyakaza",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "indlela",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "uketshezi",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "ugongolo",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "wayesho",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "sekwa",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "amazinyo",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "igobolondo le",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "intamo",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "oksijini",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "ushukela",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "Ukufa",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "muhle",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "ikhono",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "abesifazane",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "isizini",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "isixazululo",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "uzibuthe",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "zesiliva",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "ngiyabonga",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "Igatsha",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "nomdlalo",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "Isijobelelo",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "ikakhulukazi",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "komkhiwane",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "ngesaba",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "omkhulu",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "udadewabo",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "zensimbi",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "uxoxe",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "phambili",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "efanayo",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "umholi",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "isipiliyoni",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "isikolo",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "apula",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "uthenge",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "wahola",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "iphimbo",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "isikhumba",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "isonto",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "ikhadi",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "ibhande",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "ngentambo",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "ukushelela",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "ukuphumelela",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "baphuphe",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "ukuhlwa",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "isimo",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "funga",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "Ithuluzi",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "inani",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "eziyisisekelo",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "iphunga",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "isigodi",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "noma",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "kabili",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "esihlalweni",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "uqhubeke",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "isixa",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "ishadi",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "imbenge",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "adayise",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "Impumelelo",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "yenkampani",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "khipha",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "umcimbi",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "ethile",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "intengo",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "bhukuda",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "ithemu",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "obuhlukile",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "umkakho",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "izicathulo",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ehlombe",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "ukusabalala",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "ukuhlela",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "ikamu",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "usungula",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "ukotini",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Uzalelwa",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "linqume",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "ayilitha",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "eyisishiyagalolunye",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "iloli",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "ngomsindo",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "Izinga",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "chance",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "hlangana",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "esitolo",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "elula",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "aphonse",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "inkazimulo",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "impahla",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "ikholomu",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "ingqamuzana",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "ukhethe",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "okungalungile",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "ezimpunga",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "uphinda",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "adinga",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "ebanzi",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "ukulungiselela",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "usawoti",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "impumulo",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "ubuningi",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "intukuthelo",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "Faka isicelo",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "izwekazi",
+      "englishWord": "continent"
+    }
+  ]
+}

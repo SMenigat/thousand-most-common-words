@@ -1,0 +1,5007 @@
+{
+  "languageCode": "hy",
+  "languageName": "Armenian",
+  "languageNativeName": "Հայերեն",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "ինչպես",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "ես",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "նրա",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "որ",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "նա",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "էր",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "համար",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "– ին",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "են",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "հետ",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "նրանք",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "լինել",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "ի",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "մեկ",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "ունենալ",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "այս",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "– ից",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "ի",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "տաք",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "բառ",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "բայց",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "ինչ",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "մի քանի",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "է",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "այն",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "դուք",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "կամ",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "էր",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "The",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "եւ",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "մինչեւ",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "իսկ",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "ա",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "– ին",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "մենք",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "կարող",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "դուրս",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "այլ",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "են",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "որը",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "անել",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "իրենց",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "ժամանակ",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "եթե",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "կամք",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "ինչպես",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "ասել",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "է",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "յուրաքանչյուր",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "ասել",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "մենք",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "շարք",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "երեք",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "ուզում",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "օդի",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "լավ",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "նույնպես",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "խաղալ",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "փոքր",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "վերջ",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "ի",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "տուն",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "կարդալ",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "ձեռք",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "նավահանգիստ",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "մեծ",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "տառ առ տառ ասել",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "ավելացնել",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "նույնիսկ",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "երկիր",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "այստեղ",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "պետք է",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "մեծ",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "բարձր",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "այդպիսի",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "հետեւել",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "գործ",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "ինչու",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "խնդրել",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "տղամարդիկ",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "փոփոխություն",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "գնաց",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "լույս",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "բարի",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "դուրս",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "անհրաժեշտ",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "տուն",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "նկար",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "փորձել",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "մեզ",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "կրկին",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "կենդանի",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "կետ",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "մայր",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "աշխարհ",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "մոտ",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "կառուցել",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "ինքնուրույն",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "երկիր",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "հայր",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "ցանկացած",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "նոր",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "աշխատանք",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "մաս",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "վերցնել",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "ստանալ",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "տեղ",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "է",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "ապրել",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "որտեղ",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "երբ",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "Վերադառնալ",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "քիչ բան",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "միայն",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "կլոր",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "մարդ",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "տարի",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "եկել",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "շոու",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "ամեն",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "լավ",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "ինձ",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "տալ",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "մեր",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "տակ",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "անունը",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "շատ",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "միջոցով",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "պարզապես",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "ձեւը",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "նախադասություն",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "մեծ",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "մտածել",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "ասել",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "օգնություն",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "ցածր",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "գիծ",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "տարբերվել",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "հերթը",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "պատճառը",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "շատ",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "նշանակում",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "մինչեւ",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "քայլ",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "իրավունք",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "տղա",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "հին",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "էլ",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "նույն",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "նա",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "ամբողջ",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "կան",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "երբ",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "մինչեւ",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "օգտագործումը",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "ձեր",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "ճանապարհ",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "մոտ",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "շատ",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "ապա",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "նրանց",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "գրել",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "որ",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "նման",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "այնքան",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "այդ",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "նրան",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "դեռ",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "անել",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "բան",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "տեսնել",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "նրան",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "երկու",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ունի",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "նայել",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "ավելի շատ",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "օր",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "կարող",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "գնալ",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "գալ",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "արել",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "թիվը",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "հնչել",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "ոչ",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "մեծ մասը",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "մարդ",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "իմ",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "է",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "իմանալ",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ջուր",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "քան",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "կոչ",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "առաջին",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "ով",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "կարող",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "ներքեւ",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "կողմը",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "եղել",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "այժմ",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "գտնել",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "ղեկավար",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "կանգնել",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "սեփական",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "էջ",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "պետք",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "երկիր",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "հայտնաբերել",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "պատասխան",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "դպրոց",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "աճել",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "սովորել",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "դեռ",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "սովորել",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "գործարան",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "կազմ",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "սնունդ",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "արեւ",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "չորս",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "միջեւ",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "պետական",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "պահել",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "աչքի",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "երբեք",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "անցյալ",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "թող",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "միտք",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "քաղաք",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "ծառ",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "անցնել",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "ֆերմա",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "դժվար",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "սկիզբ",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "զորություն",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "պատմություն",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "սղոց",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "հեռու",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "ծով",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "նկարել",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "Ձախ",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "ուշ",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "վազում",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "չեն",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "իսկ",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "մամուլ",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "մոտիկ",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "գիշեր",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "իրական",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "կյանք",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "քիչ",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "հյուսիս",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "Հյուրատետր",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "կրել",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "էր",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "գիտություն",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "ուտել",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "սենյակ",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "ընկեր",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "սկսվեց",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "գաղափար",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ձուկ",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "լեռնային",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "կանգ առնել",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "անգամ",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "բազա",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "լսել",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "ձի",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "կտրել",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "վստահ",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "դիտել",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "գույն",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "դեմքը",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "փայտ",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "հիմնական",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "բաց",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "կարծես",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "միասին",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "հաջորդ",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "ճերմակ",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "երեխաներ",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "սկսել",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "ստացել",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "քայլել",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "օրինակ",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "հանգիստ",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "թուղթ",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "խումբ",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "միշտ",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "երաժշտություն",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "այն",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "երկուսն էլ",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "նշան",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "հաճախ",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "նամակ",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "մինչեւ",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "մղոն",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "գետ",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "ավտոմեքենա",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "ոտքերը",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "խնամք",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "երկրորդ",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "բավական",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "պարզ",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "աղջիկ",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "սովորական",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "երիտասարդ",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "պատրաստ",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "վեր",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "որ",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "կարմիր",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "ցուցակ",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "սակայն",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "զգալ",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "խոսել",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "թռչուն",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "շուտով",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "մարմին",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "շուն",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "ընտանիք",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "ուղղակի",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "ստեղծում",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "լքել",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "երգ",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "չափել",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "դուռը",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "արդյունք",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "Սեւ",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "կարճ",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "թվական",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "դաս",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "քամի",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "հարց",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "պատահել",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "ամբողջական",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "նավ",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "շրջան",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "կես",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "ժայռ",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "կարգը",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "կրակ",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "հարավ",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "խնդիր",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "կտոր",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "ասել",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "գիտեր,",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "անցնել",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "հետո",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "Վերեւ",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "ամբողջություն",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "թագավորը",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "փողոց",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "դյույմ",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "բազմապատկել",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "ոչինչ",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "դասընթաց",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "մնալ",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "անիվ",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "լրիվ",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "ուժ",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "կապույտ",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "օբյեկտ",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "որոշել",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "մակերեւույթ",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "խոր",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "լուսին",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "կղզի",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "ոտքով",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "համակարգ",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "զբաղված",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "փորձարկում",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "գրառումը",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "նավակ",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "ընդհանուր",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "ոսկի",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "հնարավոր",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "ինքնաթիռ",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "նույնիսկ",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "չոր",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "զարմանում",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "ծիծաղել",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "հազար",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "առաջ",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "վազում",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "ստուգում",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "խաղ",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "ձեւը",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "հավասարեցնել",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "տաք",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "վրիպել",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "բերեց",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "շոգ",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "ձյուն",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "անվադող",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "բերել",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "այո",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "հեռավոր",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "լրացնել",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "արեւելք",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "նկարել",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "լեզու",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "մեջ",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "միավոր",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "իշխանություն",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "քաղաքի",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "տուգանք",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "որոշակի",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "թռչել",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "անկում",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "հանգեցնել",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "լաց",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "մութ",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "մեքենա",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "նշում",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "սպասել",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "պլան",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "գործիչ",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "աստղ",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "տուփ",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "noun",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "դաշտ",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "մնացածը",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "ճիշտ",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "կարող",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "ֆունտ",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "կատարած",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "գեղեցկություն",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "Տեղերի",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "կանգնած",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "պարունակել",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "ճակատ",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "սովորեցնել",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "շաբաթ",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "եզրափակիչ",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "տվեց",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "կանաչ",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "ախ",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "արագ",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "զարգանալ",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "օվկիանոս",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "ջերմ",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "ազատ",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "րոպե",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "ուժեղ",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "հատուկ",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "միտքը",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "ետեւում",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "պարզ",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "պոչ",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "արտադրել",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "փաստ",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "տարածք",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "լսել",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "լավագույն",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "ժամ",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "ավելի լավ",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "ճիշտ",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "ընթացքում",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "հարյուր",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "հինգ",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "հիշում",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "քայլ",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "վաղ",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "պահել",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "արեւմուտք",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "հիմք",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "հետաքրքրություն",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "հասնել",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "արագ",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "բայ",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "երգեցողություն",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "լսել",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "վեց",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "սեղան",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "ճանապարհորդություն",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "ավելի քիչ",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "առավոտ",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "տասը",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "պարզ",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "մի քանի",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "ձայնավոր",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "դեպի",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "պատերազմ",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "դնել",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "դեմ",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "օրինակ",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "դանդաղ",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "կենտրոն",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "ոչ",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "մարդ",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "գումար",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "ծառայել",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "հայտնվել",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "ճանապարհային",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "քարտեզ",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "անձրեւ",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "կանոն",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "կառավարել",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "քաշեք",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "ցուրտ",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "ծանուցում",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "ձայն",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "էներգիա",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "որս",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "հավանական",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "մահճակալ",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "եղբայր",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ձու",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "զբոսանք",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "բջջային",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "հավատալ",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "գուցե",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "ընտրել",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "հանկարծակի",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "հաշվել",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "հրապարակ",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "պատճառ",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "երկարություն",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "ներկայացնել",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "արվեստ",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "ենթակա",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "մարզ",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "չափը",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "տարբերվել",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "լուծել",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "խոսել",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "քաշը",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "գլխավոր",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "սառույց",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "անկախ նրանից, թե",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "շրջան",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "զույգ",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "ներառում են",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "բաժանել",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "վանկ",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "զգացի,",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "մեծ",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "գնդակ",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "դեռ",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "ալիք",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "թողնել",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "սիրտ",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "Թեմա.",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "ներկա",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "ծանր",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "պարի",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "շարժիչ",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "դիրքորոշումը",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "arm",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "լայն",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "վարել",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "նյութական",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "կոտորակ",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "անտառ",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "նստել",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "մրցավազք",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "պատուհան",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "խանութ",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "ամառ",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "գնացք",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "Երազ",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "ապացուցել",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "մենակ",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "ոտք",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "վարժություն",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "պատ",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "բռնել",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "լեռ",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "մաղթում",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "երկինք",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "խորհուրդ",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "ուրախություն",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "ձմեռ",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "գրավոր",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "վայրի",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "գործիք",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "պահել",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "ապակի",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "խոտ",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "կով",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "աշխատանք",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "եզրին",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "նշանը",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "մուտքը",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "անցյալը",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "փափուկ",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "զվարճանք",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "պայծառ",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "գազ",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "եղանակ",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "ամիս",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "միլիոն",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "կրել",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "Սալոնի",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "ուրախ",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "հուսով",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "ծաղիկ",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "հագցնել",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "տարօրինակ",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "գնացել",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "առեւտրի",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "մեղեդին",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "ուղեւորություն",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "գրասենյակ",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ստանալ",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "կարգ",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "բերան",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "ճիշտ",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "խորհրդանիշ",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "մեռնել",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "նվազագույնը",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "trouble",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "բղավել",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "բացառությամբ",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "գրել",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "սերմ",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "տոնուս",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "միանալ",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "առաջարկում",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "մաքուր",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "կոտրել",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "տիկին",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "բակ",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "բարձրացում",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "վատ",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "հարված",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "ձեթ",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "արյուն",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "դիպչել",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "աճել",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "ցենտ",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "խառնել",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "թիմ",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "մետաղալար",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "ծախսերը",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "կորցրել",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "դարչնագույն",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "հագնել",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "այգի",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "հավասար",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "ուղարկել",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "ընտրել",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "ընկել",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "տեղավորել",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "հոսքը",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "արդար",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "բանկ",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "հավաքել",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "պահել",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "Վերահսկիչ",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "տասնորդական",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "ականջ",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "ուրիշ",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "բավականին",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "խախտել",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "գործ",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "միջին",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "սպանել",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "որդի",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "լիճ",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "պահ",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "մասշտաբ",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "բարձրաձայն",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "գարուն",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "պահպանել",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "երեխա",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "ուղիղ",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "համահունչ",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "ազգ",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "բառարան",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "կաթ",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "արագություն",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "մեթոդ",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "մարմին",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "վճարել",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "դարաշրջան",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "բաժին",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "զգեստ",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "ամպ",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "զարմանք",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "հանգիստ",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "քար",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "փոքրիկ",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "բարձրանալ",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "զով",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "դիզայն",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "աղքատ",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "շատ",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "փորձ",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "հատակ",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "հիմնական",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "երկաթ",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "միայնակ",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "քարտ",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "բնակարան",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "քսան",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "մաշկի",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "ժպիտը",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "ծալել",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "փոս",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "Անցնել,",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "երեխա",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "ութ",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "գյուղ",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "հանդիպում",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "արմատ",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "գնել",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "բարձրացնել",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "լուծել",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "մետաղ",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "արդյոք",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "հրում",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "յոթ",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "պարբերություն",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "երրորդ",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "պետք",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "հերոս",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "մազերը",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "նկարագրել",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "խոհարար",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "հարկ",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "կամ",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "արդյունք",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "այրել",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "բլուր",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "ապահով",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "կատու",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "դար",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "համարում",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "տիպ",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "օրենք",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "բիտ",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "ափ",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "օրինակ",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "արտահայտություն",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "լռակյաց",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "բարձրահասակ",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "ավազ",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "հող",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "գլորում",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "ջերմաստիճան",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "մատ",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "արդյունաբերություն",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "արժեք",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "կռիվ",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "սուտ",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "ծեծել",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "հարուցել",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "բնական",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "դիտել",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "իմաստ",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "կապիտալ",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "չի",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "աթոռ",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "վտանգ",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "միրգ",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "հարուստ",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "հաստ",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "զինվոր",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "ընթացք",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "գործել",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "պրակտիկա",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "առանձին",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "դժվար",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "բժիշկ",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "խնդրում",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "պաշտպանել",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "կեսօր",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "Բուսաբուծություն",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "ժամանակակից",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "տարր",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "հարվածել",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "ուսանող",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "անկյուն",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "կուսակցություն",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "մատակարարում",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "ում",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "տեղադրել",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "մատանի",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "բնավորությունը",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "միջատ",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "բռնել",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "ժամկետը",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "ցույց տալ",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "ռադիո",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "խոսեց",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "ատոմ",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "մարդկային",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "պատմություն",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "ազդեցություն",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "էլեկտրական",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "ակնկալում",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "Ոսկրածուծի",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "երկաթուղի",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "պատկերացնել",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ապահովել",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "համաձայն",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "այսպիսով",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "մեղմ",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "կին",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "կապիտան",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "ենթադրություն",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "անհրաժեշտ",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "սուր",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "թեւը",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "ստեղծել",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "հարեւանը",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "լվանալը",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "խփել",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "այլ",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "ամբոխ",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "եգիպտացորեն",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "համեմատել",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "բանաստեղծություն",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "լարային",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "զանգ",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "կախված",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "միս",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "շփում",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "խողովակ",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "հայտնի",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "դոլար",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "հոսք",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "վախ",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "տեսարան",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "բարակ",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "եռանկյունի",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "մոլորակ",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "շտապել",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "գլխավոր",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "գաղութ",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "ժամացույց",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "իմ",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "ոքի",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "մտնել",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "հիմնական",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "թարմ",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "որոնում",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "ուղարկել",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "դեղին",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ատրճանակ",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "թույլ տալ",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "տպել",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "մեռած",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "տեղում",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "անապատ",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "կոստյում",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "ընթացիկ",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "Վերելակների",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "վարդ",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "ժամանել",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "վարպետ",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "շավիղ",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "ծնող",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "ափը",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "բաժին",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "թերթ",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "նյութ",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "կողմ",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "միացնել",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "հաղորդագրություն",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "ծախսել",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "կապան",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "ճարպ",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "ուրախ",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "օրիգինալ",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "բաժնետոմս",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "կայան",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "հայրիկ",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "հաց",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "անվճար",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "ճիշտ",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "բար",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "առաջարկ",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "հատված",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "ստրուկ",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "բադ",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "ակնթարթ",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "շուկա",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "աստիճան",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "բնակեցնել",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "Չիկ",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "սիրելի",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "թշնամի",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "պատասխանել",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "խմել",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "տեղի ունենալ",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "աջակցություն",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "խոսք",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "բնություն",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "շարք",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "գոլորշի",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "միջնորդությունը",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "ճանապարհը",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "հեղուկ",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "մուտք",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "նշանակում",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "քանորդ",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "ատամիկ",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "վահանակ",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "պարանոց",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "թթվածին",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "շաքար",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "մահվան",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "բավականին",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "հմտություն",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "կանայք",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "սեզոն",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "լուծում",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "մագնիս",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "արծաթ",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "thank",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "մասնաճյուղ",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "զույգ",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "վերջածանց",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "հատկապես",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "թուզ",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "վախենում",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "հսկայական",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "քույր",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "պողպատ",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "քննարկել",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "առաջ",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "նման",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "ուղեցույց",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "փորձառություն",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "հաշիվը",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "խնձոր",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "գնել",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "առաջնորդվում",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "սկիպիդար",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "վերարկու",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "զանգված",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "Հարցաթերթիկ",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "խումբ",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "պարան",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "բլանկ",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "հաղթանակ",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "երազ",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "երեկո",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "վիճակ",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "Վարդեր",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "գործիք",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "ընդհանուր",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "հիմնական",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "հոտ",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "հովիտ",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ոչ",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "կրկնակի",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "օջախ",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "շարունակել",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "թաղամաս",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "աղյուսակը",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "գլխարկը",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "վաճառել",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "հաջողություն",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "ընկերությունը",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "հանել",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "իրադարձություն",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "մասնավորապես",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "զբաղվել",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "լողալը",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "ժամկետ",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "հակադիր",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "կին",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "պայտ",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "բոթել",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "տարածումը",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "դասավորել",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "ճամբար",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "հնարել",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "բամբակ",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "ծնված",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "որոշել",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "կվարտա",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "ինը",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "բեռնատար մեքենա",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "աղմուկ",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "մակարդակ",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "շանս",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "հավաքել",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "խանութ",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "ձգվել",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "նետել",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "փայլ",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "սեփականություն",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "սյունակ",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "մոլեկուլ",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "ընտրել",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "սխալ",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "գորշ",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "կրկնել",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "պահանջում",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "լայն",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "պատրաստել",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "աղ",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "քիթը",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "հոգնակի",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "զայրույթը",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "պահանջը",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "անարատ",
+      "englishWord": "continent"
+    }
+  ]
+}

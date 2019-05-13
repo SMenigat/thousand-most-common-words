@@ -1,0 +1,5007 @@
+{
+  "languageCode": "my",
+  "languageName": "Myanmar (Burmese)",
+  "languageNativeName": "ျမန္​မာဘာသာ",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "အဖြစ်",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "ကျွန်တော်",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "သူ၏",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "ထို",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "သူ",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "ခဲ့",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "အတွက်",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "အပေါ်",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "များမှာ",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "နှင့်",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "သူတို့",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "ဖြစ်",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "တွင်",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "တစ်",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "ရှိ",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "ဤ",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "မှ",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "အားဖြင့်",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "ပူသော",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "စကားလုံး",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "ဒါပေမဲ့",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "ဘာလဲ",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "အချို့သော",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "ဖြစ်",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "က",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "ခင်ဗျား",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "သို့မဟုတ်",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "ရှိခဲ့",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "ထို",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "၏",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "သို့",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "နှင့်",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "တစ်ဦး",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "တွင်",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "ကျွန်တော်တို့",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "နိုင်",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "ထုတ်",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "အခြား",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "ခဲ့ကြတယ်",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "အရာ",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "ပြုပါ",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "သူတို့၏",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "အချိန်",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "အကယ်.",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "လိမ့်မည်",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "ဘယ်လိုလဲ",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "ကပြောပါတယ်",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "တစ်ခု",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "တစ်ခုချင်းစီ",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "ပြောပြ",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "မ",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "အစုံ",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "သုံး",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "အလိုရှိ",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "လေ",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "ကောင်းစွာ",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "လည်း",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "ကစား",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "သေးငယ်သော",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "အဆုံး",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "ထား",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "နေအိမ်",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "ဖတ်",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "လက်",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "port ကို",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "ကြီးမားတဲ့",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "စာလုံးပေါင်း",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "ပေါင်း",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "ပင်",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "မြေယာ",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "ဒီမှာ",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "ရ",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "ကြီးမားသော",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "မြင့်သော",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "ထိုကဲ့သို့သော",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "လိုက်",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "လုပ်ရပ်",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "အဘယ်ကြောင့်",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "မေးမြန်း",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "ယောက်ျား",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "ပွောငျးလဲ",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "သွားလေ၏",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "အလင်း",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "အမျိုးအစား",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "သွား",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "လိုအပ်",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "အိမ်",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "ရုပ်ပုံ",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "ကြိုးစား",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "ကျွန်တော်တို့ကို",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "နောက်တဖန်အ",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "တိရစ္ဆာန်အ",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "အမှတ်",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "မိခင်",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "ကမ္ဘာ",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "အနား",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "တည်ဆောက်",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "မိမိ",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "မြေကြီးပေါ်မှာ",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "ဖခင်",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "မည်သည့်",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "အသစ်",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "အလုပ်",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "အပိုင်း",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "ယူ",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "ရယူ",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "နေရာ",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "ဖန်ဆင်းတော်",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "အသက်ရှင်သော",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "ဘယ်မှာ",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "ပြီးနောက်",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "ပြန်.",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "အနည်းငယ်",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "သာ",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "လှည့်လည်",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "ယောက်ျား",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "ခုနှစ်",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "လာကြ၏",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "ပြသ",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "တိုင်း",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "ကောင်းသော",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "အကြှနျုပျ",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "ပေး",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "ကျွန်တော်တို့၏",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "အောက်",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "နာမကို",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "အလွန်",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "ဖြတ်.",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "့",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "ပုံသဏ္ဌာန်",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "ဝါကျ",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "ကြီးမားသော",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "ထင်",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "ပြော",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "ကူညီကြပါ",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "နိမ့်ကျ",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "လိုင်း",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "ကွဲပြားခြားနား",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "အလှည့်",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "အကွောငျး",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "အလွန်",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "ဆိုလို",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "ရှေ့က",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "လှုပ်ရှား",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "မှန်သော",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "လူကလေး",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "အဟောင်း",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "လွန်း",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "တူညီတဲ့",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "သူမ",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "အားလုံး",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "ဟိုမှာ",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "ဘယ်တော့လဲ",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "တက်",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "အသုံးပြု",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "သင့်",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "လမ်း",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "အကွောငျး",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "များသော",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "ထိုအခါ",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "သူတို့ကို",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "ရေးသား",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "အလိုတခုတည်း",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "ကဲ့သို့",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "ဒါကြောင့်",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "ဤ",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "သူမ၏",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "ရှည်လျားသော",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "အောင်",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "အရာ",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "မြင်",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "သူ့ကို",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "နှစ်",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ရှိပါတယ်",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "ကြည့်ရှု",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "နောက်ထပ်",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "နေ့",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "နိုင်",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "သွား",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "လာ",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "ပြု.",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "ဂဏန်း",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "သံကို",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "အဘယ်သူမျှမ",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "အများဆုံး",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "လူထု",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "ငါ့",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "ကျော်",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "သိ",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ရေ",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "ထက်",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "ခေါ်ဝေါ်",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "ပဌမ",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "အဘယ်သူသည်",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "နိုင်",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "ဆင်း",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "ဘက်",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "ဖြစ်",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "ယခု",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "ရှာတွေ့",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "ဦးခေါင်း",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "ရပ်နေ",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "ပိုင်ဆိုင်",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "စာမျက်နှာ",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "သင့်",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "ပြည်",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "တွေ့ရှိ",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "အဖြေ",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "ကြောငျး",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "ကြီးထွား",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "လေ့လာ",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "ဆဲ",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "သင်ကြား",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "စက်ရုံ",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "အဖုံး",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "အစာ",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "နေ",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "လေး",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "အကြား",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "ပြည်နယ်",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "သိုထား",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "မျက်စိ",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "ဘယ်တော့မှမ",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "နောက်ဆုံး",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "ကုန်အံ့",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "စိတ်ထင်",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "မြို့",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "သစ်ပင်",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "လက်ဝါးကပ်တိုင်",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "လယ်ယာ",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "ခိုင်မာသော",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "စတင်",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "အစွမ်းသတ္တိ",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "ဇာတ်လမ်း",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "လွှ",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "ဝေးလံသော",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "ပင်လယ်",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "မဲ",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "လက်ဝဲဘက်",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "နောက်ကျ",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "ပွေးသှား",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "မလုပ်ပါနှင့်",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "စဉ်",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "စာနယ်ဇင်းများ",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "ပိတ်",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "ည",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "စစ်မှန်သော",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "အသက်",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "နည်းသော",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "မြောက်ဘက်သို့",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "စာအုပ်",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "သယ်",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "ကိုယူ",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "သိပ္ပံပညာရပ်",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "စား",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "အခန်း",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "မိတ်ဆွေ",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "စတင်ခဲ့သည်",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "စိတ်ကူး",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "ငါး",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "တောင်",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "ရပ်",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "တခါ",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "အခြေစိုက်စခန်း",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "ကြား",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "မြင်း",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "ဖြတ်",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "သေချာ",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "အစောင့်",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "အရောင်",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "မျက်နှာ",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "သစ်သား",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "အဓိက",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "ဖွင့်လှစ်",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "ထင်ရ",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "အတူတူ",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "နောက်တစ်ခု",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "အဖြူ",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "ကလေးများ",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "အစ",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "တယ်",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "လမျးလြှောကျသှား",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "နမူနာ",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "ငြိမ်ဝပ်စွာနေ",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "စက္ကူ",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "အစု",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "အမြဲ",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "ဂီတ",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ထို",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "နှစ်ဦးစလုံး",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "အမှတ်",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "ခဏခဏ",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "စာ",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "သည်အထိ",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "မိုင်",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "မြစ်",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "ကား",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "ခြေဘဝါးတော်",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "ပြုစုစောင့်ရှောက်မှု",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "ဒုတိယ",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "လုံလောက်သော",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "လွင်ပြင်",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "မိန်းကလေး",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "ခါတိုင်းလို",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "ငယ်ရွယ်",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "အသင့်ရှိ",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "အထက်",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "အစဉ်",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "နီသော",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "စာရင်း",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "သော်လည်း",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "ခံစား",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "ဆွေးနွေးချက်",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "ငှက်",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "မကြာမီ",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "ကိုယ်ခန္ဓာ",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "ခှေး",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "မိသားစု",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "ညွှန်ပြ",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "ရှိုး",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "ထွက်သွား",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "သီချင်း",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "တိုင်းတာ",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "တံခါးပေါက်",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "ထုတ်ကုန်",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "အနက်ရောင်",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "တိုတောင်းသော",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "ဂဏန်း",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "အမျိုးအစား",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "လေတိုက်",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "မေးခွန်း",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "ဖြစ်ပျက်",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "ပြည့်စုံသော",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "သငေ်္ဘာ",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "ဧရိယာ",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "တဝက်",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "ကျောက်လုံးကြီး",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "အစီအစဉ်",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "မီး",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "တောင်",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "ပြဿနာ",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "အပိုင်းအစ",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "သို့ပြောသည်",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "သိ.",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "သွား",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "မှစ.",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "ထိပ်တန်း",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "အလုံးစုံ",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "မင်းကြီးသည်",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "လမ်း",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "လက်မ",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "များပြား",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "အဘယ်အရာကိုမျှ",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "သင်တန်း",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "နေခြင်း",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "ဘီး",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "ပြည့်သော",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "အင်အား",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "ပြာသော",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "ကန့်ကွက်",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "ဆုံးဖြတ်",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "မျက်နှာပြင်",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "နက်သော",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "လ",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "ကျွန်း",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "ခြေလျင်",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "စံနစ်",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "အလုပ်ရှုပ်သည်",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "စမ်းသပ်",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "စံချိန်",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "လှေ",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "ဘုံ",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "ရွှေစင်",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "ဖြစ်နိုင်သော",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "လေယာဉ်သည်",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "ခမည်းတော်အရာ၌",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "ခြောက်သွေ့သော",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "အံ့ဘွယ်သောအမှု",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "ရယ်မော",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "တထောင်",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "လွန်ခဲ့တဲ့",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "ပြေး",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "စစ်ဆေးခြင်း",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "ဂိမ်း",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "ပုံသဏ္ဌာန်",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "တူညီနေသည်",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "ပူသော",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "လွမ်း",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "သို့ဆောင် ခဲ့.",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "အပူ",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "မိုးပွင့်",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "တာယာ",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "ယူလာ",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "ဟုတ်ကဲ့",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "ဝေးကွာသော",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "ဖြည့်",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "အရှေ့",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "ဆေးသုတ်",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "ဘာသာစကား",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "အနက်",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "ယူနစ်",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "စွမ်းအား",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "မြို့",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "ကောင်းသော",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "အချို့",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "ယင်ကောင်",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "ကျ",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "ခဲ",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "အော်ဟစ်",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "မှောင်မိုက်",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "စက်ယန္တရား",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "မှတ်ချက်",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "စောင့်",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "စီမံကိန်း",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "ဂဏန်း",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "ကြယ်",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "သေတ္တာ",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "နာမ်",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "လယ်ယာ",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "အနားယူ",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "မှန်ကန်သော",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "နိုင်",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "ပေါင်",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "အဖေပြီးအောင်",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "လှပမှု",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "မောင်း",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "ရပ်နေကြ၏",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "ပါဝင်",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "ရှေ့",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "သင်ပေး",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "ရက်သတ္တပတ်",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "ဖိုင်နယ်",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "ကိုပေး၏",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "စိမ်းလန်းသော",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "Oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "မြန်ဆန်ပြီး",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "တိုးတက်",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "သမုဒ္ဒရာ",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "ပူနွေးသော",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "အခမဲ့",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "မိနစ်",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "အားကြီးသော",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "အထူး",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "စိတ်ကို",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "နောက်တွင်",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "ရှင်းလင်းသော",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "အမြီး",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "ဟင်းသီးဟင်းရွက်",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "အချက်အလက်",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "အာကာသ",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "ကြားလျှင်",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "အကောင်းဆုံး",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "နာရီ",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "ပိုကောင်း",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "စစ်မှန်တဲ့",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "စဉ်အတွင်း",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "တရာ",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "ငါး",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "သတိရ",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "လှမ်း",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "စောစော",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "ကိုင်",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "အနောက်",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "မြေပြင်",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "ဝါသနာ",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "ရောက်ရှိ",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "လျင်မြန်စွာ",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "ကြိယာ",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "Sing",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "နားထောင်",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "ခွောကျ",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "စားပှဲ",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "ခရီးသွား",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "နည်းသော",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "နံနက်",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "ဆယ်",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "လွယ်ကူသော",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "အတော်ကြာ",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "သရသံ",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "ကို",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "စစ်",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "ချထား",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "ဆန့်ကျင်",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "ပုံစံ",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "နှေးသော",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "အလယ်ဗဟို",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "ချစ်ခြင်းမေတ္တာ",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "လူ",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "ပိုက်ဆံ",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "အစေခံ",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "ပေါ်လာ",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "လမ်း",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "မြေပုံကို",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "မိုးရေ",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "အုပ်ချုပ်",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "အုပ်ချုပ်",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "ဆွဲပါ",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "အအေး",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "အသိပေးစာ",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "အသံ",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "အင်အား",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "အမဲလိုက်ခြင်း",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "ဖြစ်နိုင်ခြေ",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "အိပ်ရာ",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "အစ်ကို",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "ကြက်ဥ",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "စီးနင်း",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "ကလာပ်စည်း",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "ယုံကြည်",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "ဖြစ်ကောင်းဖြစ်နိုင်",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "ခူး",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "ရုတ်တရက်",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "ရေတွက်",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "စတုရန်းလေးထောင့",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "အကွောငျးရငျး",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "အရှည်",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "ကိုယ်စားပြု",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "အတတ်ပညာ",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "ဘာသာရပ်",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "ဒေသ",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "အရွယ်",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "ကွဲပြားခြားနား",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "စေ့စပ်",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "စကားပြော",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "အလေးချိန်",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "ယေဘုယျ",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "ရေခဲ",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "ကိစ္စ",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "အဝိုင်း",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "လင်မယား",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "ပါဝင်",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "သွေးခွဲ",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "syllable",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "ခံစားခဲ့ရ",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "ခမ်းနားကြီးကျယ်",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "အလုံး",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "သေး",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "လှိုငျး",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "တစ်စက်",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "နှလုံး",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "နံနက်",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "လက်ဆောင်",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "လေးလံသော",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "အကအခုန်",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "အင်ဂျင်ကို",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "အနေအထား",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "လက်",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "ကျယ်ဝန်းသော",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "ရွက်",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "ပစ္စည်း",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "အစိတ်အပိုင်း",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "သစ်တော",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "ထိုင်",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "လူမျိုး",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "ပြတင်းပေါက်",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "စတိုးဆိုင်",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "နွေရာသီ",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "မီးရထား",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "အိပ်",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "သက်သေပြ",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "Lone",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "ခြေထောက်",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "လေ့ကျင့်",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "နံရံ",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "ဖမ်း",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "တောင်ပေါ်မှာ",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "အလို",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "မိုးကောင်းကင်",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "ပျဉ်ပြား",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "ဝမ်းမြောက်သောစိတ်",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "ဆောင်းတွင်း",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "ကျမ်းစာ၌လာသည်",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "ရိုင်းသော",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "တူရိယာ",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "ထားရှိမည်",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "ဖန်ခွက်",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "မြက်",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "နွားမ",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "အလုပ်",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "အစပ်",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "အမှတ်လက္ခဏာ",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "အလည်အပတ်",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "အတိတ်",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "ပျော့ပျောင်း",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "ပျော်စရာ",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "ပြောင်လက်တောက်ပသော",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "ဓာတ်ငွေ့",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "ရာသီဥတုက",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "လ",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "သန်း",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "ဝက်ဝံ",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "အပြီးသတ်",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "မင်္ဂလာရှိသော",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "မျှော်လင့်ချက်",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "ပန်း",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "အဝတ်နှင့်ဖုံးလွှမ်း",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "ထူးဆန်းတဲ့",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "သွားကြောင်း",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "ကုန်သွယ်",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "တေးသွား",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "ခရီးစဉ်",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "ရုံး",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "ခံယူ",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "အတန်း",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "ပါးစပ်",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "အတိအကျ",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "အထိမ်းအမှတ်",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "သေဆုံး",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "အနည်းဆုံး",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "ဒုက္ခ",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "အော်",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "မှတပါး",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "ရေးသားခဲ့သည်",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "အစေ့",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "အသံ",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "ပူးပေါင်း",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "အကြံပြု",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "သန့်ရှင်းသော",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "ချိုး",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "အမျိုးသမီး",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "ခြံထဲမှာ",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "တက်",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "ဆိုးသော",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "ထိုးနှက်",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "ဆီ",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "သှေး",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "တို့",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "ကြီးပြင်းလာ",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "ရာခိုင်",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "ရောနှော",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "အဖွဲ့",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "ဝါယာကြိုး",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "ကုန်ကျစရိတ်",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "ပျောက်ဆုံး",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "ညိုသော",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "ဝတ်ဆင်",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "ဥယျာဉ်",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "တူညီသော",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "စေလွှတ်",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "ရှေးခယျြ",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "လဲကျ",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "မထိုက်မတန်",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "စီးဆင်း",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "တရားမျှတတဲ့",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "ကမ်း",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "စုဝေး",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "ကယ်ဆယ်",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "ထိန်းချုပ်မှု",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "ဆယ်လီ",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "နား",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "အခြားမည်",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "လုံးလုံး",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "ချိုးဖဲ့",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "အမှု",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "အလယ်",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "သတ်ဖြတ်",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "သား",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "အင်းအိုင်",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "တခဏ",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "စကေး",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "အသံကျယ်သော",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "စိမ့်စမ်း",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "စောင့်ရှောက်",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "ကလေး",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "တည့်တည့်",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "ဗျည်း",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "လူမျိုးသည်",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "အဘိဓါန်",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "နို့",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "အရှိန်",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "နည်းလမ်း",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "ကိုယ်အင်္ဂါ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "အခပေး",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "အသက်အရွယ်",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "အပိုင်း",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "အဝတ်အစား",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "မိုဃ်းတိမ်သည်",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "အံ့သြ",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "တိတ်ဆိတ်သော",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "ကျောက်သည်",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "အလွန်သေးငယ်သော",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "တက်",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "အေးချမ်းသော",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "ပုံစံ",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "ဆင်းရဲသော",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "အများကြီး",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "စမ်းသပ်မှု",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "အောက်ခြေ",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "သော့",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "သံ",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "တခုတည်းသော",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "တုတ်",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "ပြားချပ်ချပ်",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "နှစ်ဆယ်",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "အသားအရေ",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "ပွုံးရယျ",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "တွန့်",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "အပေါက်",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "ခုန်",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "ကလေး",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "ရှစ်",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "ရွာ",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "ဆုံ",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "အမြစ်",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "မဝယ်",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "မြှင့်တင်",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "ဖြေရှင်းပေး",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "သတ္တုဒြပ်စင်",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "ဖြစ်စေ",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "တွန်း",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "ခုနှစ်",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "စာပိုဒ်",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "တတိယ",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "မည်",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "ကျင်းပ",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "ဆံပင်",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "ဖေါ်ပြ",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "ချက်ပြုတ်",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "အထပ်",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "ဖြစ်စေ",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "ရလဒ်",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "မီးလောင်",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "တောင်တော်",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "ဘေးကင်းလုံခြုံ",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "ကြောင်",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "ရာစု",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "စဉ်းစားပါ",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "ပုံစံ",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "ပညတ္တိကျမ်း",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bit နဲ့",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "ပင်လယ်ကမ်း",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "မိတ္တူ",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "ထားသောစာပိုဒ်တိုများ",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "အသံတိတ်",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "မြင့်သော",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "သဲ",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "မြေဆီလွှာ",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "အလိပ်",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "အပူအအေး",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "လက်ညှိုးထိုး",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "စက်မှုလုပ်ငန်း",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "အဘိုး",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "တိုကျပှဲ",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "မုသား",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "ရိုက်",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "excite",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "သဘာဝက",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "အမြင်",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "အာရုံ",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "မြို့တော်",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "မသွားဘူး",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "ကုလားထိုင်",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "အန္တရာယ်",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "အသီး",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "ကြွယ်ဝသော",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "ထူသော",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "စစ်သား",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "ဖြစ်စဉ်",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "လည်ပတ်",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "အလေ့အကျင့်",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "သီးခြား",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "ခက်ခဲ",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "ဆရာဝန်",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "ကျေးဇူးပြု",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "ကာကွယ်",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "မွန်းတည့်",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "အသီးအနှံ",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "ခေတ်သစ်",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "ဓါတ်",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "ထိုး",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "ကျောင်းသား",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "ထောင့်",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "ပါတီ",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "ပေးသွင်း",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "မည်သူ၏",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "နေရာချထား",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "လက်စွပ်",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "ဇာတ်ကောင်စရိုက်",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "ပိုးကောင်",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "ဖမ်းမိ",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "ကာလ",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "ညွှန်ပြ",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "ရေဒီယို",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "စကားပြော",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "အက်တမ်",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "လူ့",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "သမိုင်း",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "အကျိုး",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "လျှပ်စစ်",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "မြျှောလငျ့",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "အရိုး",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "ရထားလမ်း",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "စိတ်ကူး",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "ပေး",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "သဘောတူ",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "ထိုသို့",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "နူးညံ့သိမ်မွေ့",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "မိန်းမ",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "ကပ္ပတိန်",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "တှေးဆ",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "လိုအပ်သော",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "ထက်သော",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "အတောင်",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "ဖန်တီး",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "အိမ်နီးချင်း",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "ရေချိုး",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "လင်းနို့",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "ထက်",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "လူစုလူဝေး",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "ပြောင်းဖူး",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "နှိုင်းယှဉ်ကြည့်",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "ကဗျာတစ်ပုဒ်",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "ကြိုး",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "ခေါင်းလောင်း",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "မှီခို",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "အသား",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "ပွတ်တိုက်",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "ပြွန်",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "ကျော်ကြား",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ဒေါ်လာစျေး",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "စမ်းချောင်း",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "ကြောက်လန့်",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "မျက်မှောက်",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "ပိန်သော",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "တြိဂံ",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "ဂြိုဟ်",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "အလျင်စလို",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "ကာကွယ်ရေးဦးစီးချုပ်",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "ကိုလိုနီ",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "နာရီ",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "သတ္တုတွင်း",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "လည်စည်း",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "ဝင်ရောက်",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "ဗိုလ်မှူး",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "လတ်ဆတ်သော",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "ရှာဖွေရေး",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "ပေးပို့",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "ဝါသော",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "သေနတ်",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "ခွင့်ပြု",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "ပုံနှိပ်",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "သေသော",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "အစက်",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "သဲကန္တာရ",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "ဝတ်စုံ",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "ယခု",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "ဓာတ်လှေကား",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "နှင်းဆီ",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "ရောက်လာ",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "မာစတာ",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "အရာ",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "မိဘတစ်",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "ကမ်း",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "အချင်းချင်းကွဲပြားခြင်း",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "စာရွက်",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "ပစ္စည်းဥစ္စာ",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "ကြေးဇူး",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "ဆက်",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "တိုင်",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "သုံးစှဲ",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "ကြိုး",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "ဆီ",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "ဝမ်းမြောက်ခြင်း",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "မူရင်း",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "ဝေစု",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "ဘူတာရုံ",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "အဖေ",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "ပေါင်မုန့်",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "တာဝန်ခံ",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "သင့်လျော်သော",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar မှာ",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "ပေးကမ်း",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "မြွှာ",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "ကျွန်",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "ဘဲ",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "ခဏ",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "ဈေးကွက်",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "ဒီဂရီ",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "နေထိုင်စေ",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "ယင်း",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "ချစ်လှစွာသော",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "ရန်သူ",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "ပြန်ကြားချက်",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "သောက်စရာ",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "ဖြစ်ပျက်",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "ထောက်ပံ့",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "မိန့်ခွန်း",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "သဘာဝ",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "အကွာအဝေး",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "ရေနွေးငွေ့",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "ရွေ့လျားမှု",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "လမ်းကြောင်းကို",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "အရည်",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "တုံး",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "ရည်ရွယ်",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "လဒ်",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "အံသွားခဲ",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "shell ကို",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "လည်ပင်း",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "အောက်စီဂျင်",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "သကြား",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "သေဆုံးခြင်း",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "လှပသော",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "ကျွမ်းကျင်မှု",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "အမျိုးသမီးများ",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "ရာသီ",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "ဖြေရှင်းချက်",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "သံလိုက်",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "ငွေကို",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "ကျေးဇူးတင်",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "အကိုင်း",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "မီးခြစ်",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "နောက်ဆက်",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "အထူးသဖြင့်",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "သဖန်းသီး",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "ကြောက်လန့်",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ကြီးမားသော",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "အစ်မ",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "သံမဏိ",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "ဆွေးနွေး",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "ရှေ့သို့",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "အလားတူ",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "လမ်းညွှန်",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "အတွေ့အကြုံ",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "နိုင်ပြီ",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "ပန်းသီး",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "ကိုဝယ်ယူ",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "အယ်လ်အီးဒီ",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "ကတ္တရာစေး",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "ကုတ်အင်္ကျီ",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "အစုလိုက်အပြုံလိုက်",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "ကဒ်",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "တီးဝိုင်း",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "ကြိုး",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "စလစ်",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "အောင်မြင်",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "အိပ်မက်",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "ညနေ",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "အခြေအနေ",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "အစာ",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "ဒီ tool",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "စုစုပေါင်း",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "အခြေခံပညာ",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "အနံ့",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "တောင်ကြား",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "မသာ",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "ကို double",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "ထိုင်ခုံ",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "ဆက်ပြီး",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "ပိတ်ဆို့",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "ဇယား",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "ဦးထုပ်",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "ရောင်းချ",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "အောင်မြင်ခြင်း",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "ကုမ္ပဏီ",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "အနုတ်",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "အဖြစ်အပျက်",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "အထူးသဖြင့်",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "စာချုပ်",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "ရေကူး",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "သက်တမ်း",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "ဆန့်ကျင်ဘက်",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "ဇနီး",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "ဖိနပ်",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "ပခုံး",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "ပျံ့နှံ့",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "စီစဉ်",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "စခန်း",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "တီထွင်",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "ဝါ",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "မွေးဖွားလာ",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "သတ်မှတ်",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "ဆေးမြီးတို",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "ကိုး",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "ထရပ်ကား",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "ဆူညံသံ",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "အဆင့်",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "အခွင့်အလမ်း",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "စုရုံး",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "ကုန်ဆိုင်",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "ဆန့်",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "ပစ်",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "တောက်ပ",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "ပစ္စည်းဥစ္စာပိုင်ဆိုင်မှု",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "ကော်လံ",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "မော်လီကျူး",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "ကိုရွေးပါ",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "မှားသော",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "မီးခိုးရောင်",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "ထပ်",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "တောင်းဆို",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "ကျယ်ပြန့်",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "ပြင်ဆင်ထား",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "ဆား",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "နှာခေါင်း",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "၏အများကိန်း",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "အမျက်ဒေါသ",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "တောင်းဆိုမှု",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "တိုက်",
+      "englishWord": "continent"
+    }
+  ]
+}

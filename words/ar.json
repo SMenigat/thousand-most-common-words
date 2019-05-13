@@ -1,0 +1,5007 @@
+{
+  "languageCode": "ar",
+  "languageName": "Arabic",
+  "languageNativeName": "اللغة العربية",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "كما",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "أنا",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "له",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "أن",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "هو",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "كان",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "إلى",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "في",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "هي",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "مع",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "هم",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "يكون",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "في",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "واحد",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "ديك",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "هذا",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "من",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "بواسطة",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "حار",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "كلمة",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "لكن",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "ما",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "بعض",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "هو",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "هو",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "أنت",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "أو",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "كان",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "و",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "من",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "إلى",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "و",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "و",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "في",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "نحن",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "علبة",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "خارج",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "البعض",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "و",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "التي",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "القيام",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "من",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "الوقت",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "إذا",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "سوف",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "كيف",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "قال",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "و",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "كل",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "أقول",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "لا",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "مجموعة",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "ثلاثة",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "تريد",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "هواء",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "جيد",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "أيضا",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "لعب",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "صغير",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "نهاية",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "وضع",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "المنزل",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "قرأ",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "يد",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "ميناء",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "كبير",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "تهجى",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "إضافة",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "حتى",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "الأرض",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "هنا",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "يجب",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "كبير",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "ارتفاع",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "مثل",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "تابع",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "فعل",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "لماذا",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "تطلب",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "الرجال",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "تغيير",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "ذهب",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "ضوء",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "نوع",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "بعيدا",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "تحتاج",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "منزل",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "صور",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "محاولة",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "لنا",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "مرة أخرى",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "الحيوان",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "نقطة",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "أم",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "العالم",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "قرب",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "بناء",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "النفس",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "أرض",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "الأب",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "أي",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "جديدة",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "العمل",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "جزء",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "أخذ",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "الحصول على",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "مكان",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "مصنوع",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "حي",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "حيث",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "بعد",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "ظهر",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "القليل",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "فقط",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "جولة",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "رجل",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "عام",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "جاء",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "المعرض",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "كل",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "جيد",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "أنا",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "منح",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "لدينا",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "تحت",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "اسم",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "جدا",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "من خلال",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "فقط",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "شكل",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "عقوبة",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "عظيم",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "اعتقد",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "قول",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "مساعدة",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "منخفض",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "خط",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "اختلف",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "منعطف",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "السبب",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "كثيرا",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "متوسط",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "قبل",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "خطوة",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "الحق",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "صبي",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "قديم",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "أيضا",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "نفسه",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "هي",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "كل",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "هناك",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "عندما",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "فوق",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "استخدام",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "ك",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "طريق",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "حول",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "كثير",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "ثم",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "هم",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "إرسال",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "أراد",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "مثل",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "هكذا",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "هؤلاء",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "لها",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "طويل",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "جعل",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "شيء",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "شاهد",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "له",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "اثنين",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "لديه",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "بحث",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "أكثر",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "يوم",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "يمكن",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "تذهب",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "جاء",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "لم",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "عدد",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "صوت",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "لا",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "أكثر",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "الناس",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "لي",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "على",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "تعرف",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ماء",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "من",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "دعوة",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "الأول",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "الذي",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "قد",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "إلى",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "الجانب",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "كان",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "الآن",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "اكتشاف",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "رئيس",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "الوقوف",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "الخاصة",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "الصفحة",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "ينبغي",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "بلد",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "أسس",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "الجواب",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "المدرسة",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "تنمو",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "دراسة",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "لا يزال",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "تعلم",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "مصنع",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "غطاء",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "غذاء",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "شمس",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "أربعة",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "بين",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "دولة",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "احتفظ",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "العين",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "أبدا",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "آخر",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "سمح",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "يعتقد",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "المدينة",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "شجرة",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "عبور",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "مزرعة",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "شاق",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "بداية",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "قد",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "قصة",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "منشار",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "الآن",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "بحر",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "رسم",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "غادر",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "متأخر",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "تشغيل",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "لا",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "في حين",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "الصحافة",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "قريب",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "الليل",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "حقيقية",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "حياة",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "قليل",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "شمال",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "كتاب",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "حمل",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "استغرق",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "علم",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "أكل",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "غرفة",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "صديق",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "بدأ",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "فكرة",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "سمك",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "الجبل",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "توقف",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "مرة واحدة",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "قاعدة",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "سمع",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "الحصان",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "قطع",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "بالتأكيد",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "راقب",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "لون",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "وجه",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "الخشب",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "رئيسي",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "مفتوحة",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "يبدو",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "معا",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "المقبل",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "أبيض",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "الأطفال",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "بدأ",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "حصلت",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "سير",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "مثال",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "سهولة",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "ورق",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "مجموعة",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "دائما",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "الموسيقى",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "تلك",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "كلا",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "علامة",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "غالبا",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "الرسالة",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "حتى",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "ميل",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "النهر",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "سيارة",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "قدم",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "الرعاية",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "ثان",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "بما فيه الكفاية",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "سهل",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "فتاة",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "معتاد",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "الشباب",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "جاهزة",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "فوق",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "أبدا",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "أحمر",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "قائمة",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "على الرغم من",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "إحساس",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "الحديث",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "طائر",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "قريبا",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "هيئة",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "الكلب",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "عائلة",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "مباشر",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "أربك",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "ترك",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "أغنية",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "قياس",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "باب",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "نتاج",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "أسود",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "قصير",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "الأرقام",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "الفئة",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "الرياح",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "السؤال",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "يحدث",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "كاملة",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "سفينة",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "منطقة",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "نصف",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "صخرة",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "النظام",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "النار",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "الجنوب",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "مشكلة",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "قطعة",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "قال",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "عرف",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "تمر",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "منذ",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "أعلى",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "ككل",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "ملك",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "شارع",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "بوصة",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "مضاعفة",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "لا شيء",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "بالطبع",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "إقامة",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "عجلة",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "كامل",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "قوة",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "الأزرق",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "موضوع",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "تقرر",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "سطح",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "عميق",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "ضوء القمر",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "الجزيرة",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "القدم",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "نظام",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "مشغول",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "اختبار",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "سجل",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "قارب",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "مشترك",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "الذهب",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "ممكن",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "طائرة",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "بدلا",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "جاف",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "عجب",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "الضحك",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "ألف",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "منذ",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "ركض",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "تحقق",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "لعبة",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "شكل",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "مساواة",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "حار",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "ملكة جمال",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "جلبت",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "حرارة",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "ثلج",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "إطار العجلة",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "جلب",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "نعم",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "بعيد",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "شغل",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "الشرق",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "الطلاء",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "اللغة",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "بين",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "وحدة",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "قوة",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "مدينة",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "غرامة",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "معين",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "يطير",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "سقط",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "قيادة",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "صرخة",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "مظلم",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "آلة",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "مذكرة",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "انتظر",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "خطة",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "الرقم",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "نجمة",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "صندوق",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "إسم",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "الحقل",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "بقية",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "صحيح",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "قادرة",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "الجنيه",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "منجز",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "الجمال",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "محرك",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "وقفت",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "تحتوي على",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "الجبهة",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "تعليم",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "أسبوع",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "نهائي",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "أعطى",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "الأخضر",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "يا",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "سريع",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "تطوير",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "المحيط",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "الحارة",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "حر",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "دقيقة",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "قوي",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "خاص",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "عقل",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "خلف",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "واضح",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "ذيل",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "إنتاج",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "حقيقة",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "الفضاء",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "سمعت",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "أفضل",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "ساعة",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "أفضل",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "صحيح",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "خلال",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "مائة",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "خمسة",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "تذكر",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "خطوة",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "في وقت مبكر",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "عقد",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "غرب",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "أرض",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "مصلحة",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "الوصول",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "بسرعة",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "الفعل",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "الغناء",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "استمع",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "ستة",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "الجدول",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "السفر",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "أقل",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "الصباح",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "عشرة",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "بسيطة",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "عدة",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "حرف لين",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "نحو",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "حرب",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "وضع",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "ضد",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "نمط",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "بطيئة",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "مركز",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "الحب",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "شخص",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "المال",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "خدمة",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "تظهر",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "طريق",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "خريطة",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "مطر",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "حكم",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "الحكم",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "سحب",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "بارد",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "إشعار",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "صوت",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "الطاقة",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "مطاردة",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "محتمل",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "قاع",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "شقيق",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "البيض",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "ركوب",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "خلية",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "اعتقد",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "ربما",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "اختيار",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "مفاجئ",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "عد",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "مربع",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "سبب",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "طول",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "تمثيل",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "فن",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "الموضوع",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "منطقة",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "حجم",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "تختلف",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "حل",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "الكلام",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "الوزن",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "عام",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "الجليد",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "مسألة",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "دائرة",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "زوج",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "تضمن",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "الفجوة",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "مقطع لفظي",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "شعر",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "الكبرى",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "كرة",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "بعد",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "موجة",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "إسقاط",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "قلب",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "صباحا",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "الحاضر",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "ثقيلة",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "رقص",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "محرك",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "موقف",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "الذراع",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "واسع",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "الشراع",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "مادة",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "جزء",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "الغابات",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "الجلوس",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "سباق",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "نافذة",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "متجر",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "الصيف",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "قطار",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "نوم",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "إثبات",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "وحيد",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "الساق",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ممارسة",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "جدار",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "مزلاج",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "جبل",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "رغب",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "سماء",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "مجلس الإدارة",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "الفرح",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "شتاء",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "السبت",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "مكتوبة",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "بري",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "أداة",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "أبقى",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "زجاج",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "العشب",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "بقرة",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "العمل",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "حافة",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "علامة",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "زيارة",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "الماضي",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "لينة",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "مرح",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "مشرق",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "الغاز",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "الطقس",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "شهر",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "مليون",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "تحمل",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "نهاية",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "سعيدة",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "نأمل",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "زهرة",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "كسا",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "غريب",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "ذهب",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "تجارة",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "لحن",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "رحلة",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "مكتب",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "تلقي",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "الصف",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "فم",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "بالضبط",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "رمز",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "مات",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "الأقل",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "مشكلة",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "صيحة",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "إلا",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "كتب",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "بذرة",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "نغمة",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "انضمام",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "اقترح",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "نظيف",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "استراحة",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "سيدة",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "ساحة",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "الارتفاع",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "سيئة",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "ضربة",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "زيت",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "الدم",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "لمس",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "نما",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "المائة",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "مزيج",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "فريق",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "سلك",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "التكلفة",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "فقدت",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "أسمر",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "ارتداء",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "حديقة",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "متساو",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "أرسلت",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "اختيار",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "سقط",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "تناسب",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "تدفق",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "عادل",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "البنك",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "جمع",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "حفظ",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "السيطرة",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "العشري",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "إذن",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "آخر",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "تماما",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "حطم",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "حالة",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "وسط",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "قتل",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "ابن",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "بحيرة",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "لحظة",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "على نطاق و",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "بصوت عال",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "الربيع",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "رصد",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "طفل",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "مباشرة",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "متوافق",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "الأمة",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "قاموس",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "حليب",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "السرعة",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "طريقة",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "عضو",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "دفع",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "العمر",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "القسم",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "فستان",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "سحابة",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "مفاجأة",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "هادئ",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "حجر",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "صغير",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "تسلق",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "بارد",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "تصميم",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "فقير",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "الكثير",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "تجربة",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "أسفل",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "مفتاح",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "حديد",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "احد",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "عصا",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "شقة",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "عشرون",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "الجلد",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "الابتسامة",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "تجعد",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "حفرة",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "القفزة",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "طفل",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "ثمانية",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "قرية",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "تلبية",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "الجذر",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "شراء",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "رفع",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "حل",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "المعادن",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "سواء",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "دفع",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "سبعة",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "فقرة",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "الثالث",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "يجب",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "عقدت",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "الشعر",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "وصف",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "طبخ",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "الطابق",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "كل",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "نتيجة",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "حرق",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "التل",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "آمنة",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "القط",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "القرن",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "النظر",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "نوع",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "القانون",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "لقمة",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "الساحل",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "نسخة",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "العبارة",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "الصمت",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "طويل",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "رمل",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "التربة",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "لفة",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "درجة الحرارة",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "إصبع",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "صناعة",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "قيمة",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "المعركة",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "كذبة",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "فوز",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "أثار",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "طبيعي",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "رأي",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "المعنى",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "العاصمة",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "سوف لا",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "كرسي",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "خطر",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "الفاكهة",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "غني",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "سميك",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "جندي",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "عملية",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "العمل",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "ممارسة",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "منفصلة",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "الصعب",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "الطبيب",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "الرجاء",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "حماية",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "ظهرا",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "محصول",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "الحديث",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "عنصر",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "ضرب",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "طالب",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "ركن",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "حزب",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "تزويد",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "الذي",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "حدد",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "عصابة",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "حرف",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "الحشرة",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "اشتعلت",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "فترة",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "تشير",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "راديو",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "وتحدث",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "ذرة",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "بشري",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "التاريخ",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "تأثير",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "كهربائي",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "توقع",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "العظام",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "سكة حديدية",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "تخيل",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "توفير",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "توافق",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "وبالتالي",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "لطيف",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "امرأة",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "نقيب",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "تخمين",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "الضرورة",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "حاد",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "جناح",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "خلق",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "الجيران",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "غسل",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "خفاش",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "بالأحرى",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "الحشد",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "الذرة",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "مقارنة",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "قصيدة",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "سلسلة",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "جرس",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "تعتمد",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "اللحوم",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "فرك",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "أنبوب",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "الشهيرة",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "الدولار",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "تيار",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "خوف",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "مشهد",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "رقيق",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "مثلث",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "كوكب",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "عجل",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "رئيس",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "مستعمرة",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "على مدار الساعة",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "منجم",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "ربطة عنق",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "دخول",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "الرئيسية",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "جديدة",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "البحث",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "إرسال",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "الأصفر",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "بندقية",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "السماح",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "طباعة",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "ميت",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "بقعة",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "صحراء",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "دعوى",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "التيار",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "رفع",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "ارتفع",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "وصول",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "سيد",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "المسار",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "الأم",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "الشاطئ",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "تقسيم",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "ورقة",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "مادة",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "صالح",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "اتصال",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "آخر",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "أنفق",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "وتر",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "دهن",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "سعيد",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "الأصلي",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "حصة",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "محطة",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "أب",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "الخبز",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "تهمة",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "السليم",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "شريط",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "العرض",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "قطاع",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "الرقيق",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "بط",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "لحظة",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "سوق",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "درجة",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "أهل",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "كتكوت",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "عزيزتي",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "العدو",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "الرد",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "شراب",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "تحدث",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "دعم",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "خطاب",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "الطبيعة",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "مجموعة",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "البخار",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "الحركة",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "مسار",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "السائل",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "تسجيل",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "مقصود",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "حاصل",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "أسنان",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "قذيفة",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "الرقبة",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "الأكسجين",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "السكر",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "الموت",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "جميل",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "مهارة",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "النساء",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "الموسم",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "حل",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "مغناطيس",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "فضة",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "شكرا",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "فرع",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "مباراة",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "لاحقة",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "خاصة",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "تين",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "خائف",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "ضخم",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "شقيقة",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "الصلب",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "بحث",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "إلى الأمام",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "مماثل",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "توجيه",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "التجربة",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "النتيجة",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "تفاحة",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "اشترى",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "أدى",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "رمية",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "معطف",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "كتلة",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "بطاقة",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "فرقة",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "حبل",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "انزلاق",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "الفوز",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "حلم",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "مساء",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "حالة",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "علف",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "أداة",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "الكل",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "الأساسية",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "رائحة",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "الوادي",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "ولا",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "ضعف",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "مقعد",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "تواصل",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "كتلة",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "جدول",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "قبعة",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "بيع",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "نجاح",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "شركة",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "طرح",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "حدث",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "خاصة",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "صفقة",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "السباحة",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "مصطلح",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "العكس",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "زوجة",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "حذاء",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "الكتف",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "انتشار",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "رتب",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "مخيم",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "اختراع",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "قطن",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "الولادة",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "حدد",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "رابعا",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "تسعة",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "شاحنة",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "الضوضاء",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "مستوى",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "فرصة",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "جمع",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "متجر",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "امتداد",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "رمي",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "تألق",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "الملكية",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "عمود",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "جزيء",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "اختر",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "خاطئ",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "رمادي",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "كرر",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "تتطلب",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "واسع",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "إعداد",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "ملح",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "الأنف",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "الجمع",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "غضب",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "مطالبة",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "القارة",
+      "englishWord": "continent"
+    }
+  ]
+}

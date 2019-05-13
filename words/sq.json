@@ -1,0 +1,5007 @@
+{
+  "languageCode": "sq",
+  "languageName": "Albanian",
+  "languageNativeName": "Shqip",
+  "words": [
+    {
+      "rank": 1,
+      "targetWord": "si",
+      "englishWord": "as"
+    },
+    {
+      "rank": 2,
+      "targetWord": "I",
+      "englishWord": "I"
+    },
+    {
+      "rank": 3,
+      "targetWord": "e tij",
+      "englishWord": "his"
+    },
+    {
+      "rank": 4,
+      "targetWord": "që",
+      "englishWord": "that"
+    },
+    {
+      "rank": 5,
+      "targetWord": "ai",
+      "englishWord": "he"
+    },
+    {
+      "rank": 6,
+      "targetWord": "ishte",
+      "englishWord": "was"
+    },
+    {
+      "rank": 7,
+      "targetWord": "për",
+      "englishWord": "for"
+    },
+    {
+      "rank": 8,
+      "targetWord": "në",
+      "englishWord": "on"
+    },
+    {
+      "rank": 9,
+      "targetWord": "janë",
+      "englishWord": "are"
+    },
+    {
+      "rank": 10,
+      "targetWord": "me",
+      "englishWord": "with"
+    },
+    {
+      "rank": 11,
+      "targetWord": "ata",
+      "englishWord": "they"
+    },
+    {
+      "rank": 12,
+      "targetWord": "jetë",
+      "englishWord": "be"
+    },
+    {
+      "rank": 13,
+      "targetWord": "në",
+      "englishWord": "at"
+    },
+    {
+      "rank": 14,
+      "targetWord": "një",
+      "englishWord": "one"
+    },
+    {
+      "rank": 15,
+      "targetWord": "kam",
+      "englishWord": "have"
+    },
+    {
+      "rank": 16,
+      "targetWord": "kjo",
+      "englishWord": "this"
+    },
+    {
+      "rank": 17,
+      "targetWord": "nga",
+      "englishWord": "from"
+    },
+    {
+      "rank": 18,
+      "targetWord": "nga",
+      "englishWord": "by"
+    },
+    {
+      "rank": 19,
+      "targetWord": "hot",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 20,
+      "targetWord": "fjalë",
+      "englishWord": "word"
+    },
+    {
+      "rank": 21,
+      "targetWord": "por",
+      "englishWord": "but"
+    },
+    {
+      "rank": 22,
+      "targetWord": "çfarë",
+      "englishWord": "what"
+    },
+    {
+      "rank": 23,
+      "targetWord": "disa",
+      "englishWord": "some"
+    },
+    {
+      "rank": 24,
+      "targetWord": "është",
+      "englishWord": "is"
+    },
+    {
+      "rank": 25,
+      "targetWord": "ajo",
+      "englishWord": "it"
+    },
+    {
+      "rank": 26,
+      "targetWord": "ju",
+      "englishWord": "you"
+    },
+    {
+      "rank": 27,
+      "targetWord": "ose",
+      "englishWord": "or"
+    },
+    {
+      "rank": 28,
+      "targetWord": "kishte",
+      "englishWord": "had"
+    },
+    {
+      "rank": 29,
+      "targetWord": "thonë",
+      "englishWord": "the"
+    },
+    {
+      "rank": 30,
+      "targetWord": "i",
+      "englishWord": "of"
+    },
+    {
+      "rank": 31,
+      "targetWord": "në",
+      "englishWord": "to"
+    },
+    {
+      "rank": 32,
+      "targetWord": "dhe",
+      "englishWord": "and"
+    },
+    {
+      "rank": 33,
+      "targetWord": "një",
+      "englishWord": "a"
+    },
+    {
+      "rank": 34,
+      "targetWord": "në",
+      "englishWord": "in"
+    },
+    {
+      "rank": 35,
+      "targetWord": "ne",
+      "englishWord": "we"
+    },
+    {
+      "rank": 36,
+      "targetWord": "mund",
+      "englishWord": "can"
+    },
+    {
+      "rank": 37,
+      "targetWord": "jashtë",
+      "englishWord": "out"
+    },
+    {
+      "rank": 38,
+      "targetWord": "tjetër",
+      "englishWord": "other"
+    },
+    {
+      "rank": 39,
+      "targetWord": "ishin",
+      "englishWord": "were"
+    },
+    {
+      "rank": 40,
+      "targetWord": "e cila",
+      "englishWord": "which"
+    },
+    {
+      "rank": 41,
+      "targetWord": "bëj",
+      "englishWord": "do"
+    },
+    {
+      "rank": 42,
+      "targetWord": "tyre",
+      "englishWord": "their"
+    },
+    {
+      "rank": 43,
+      "targetWord": "koha",
+      "englishWord": "time"
+    },
+    {
+      "rank": 44,
+      "targetWord": "nëse",
+      "englishWord": "if"
+    },
+    {
+      "rank": 45,
+      "targetWord": "do",
+      "englishWord": "will"
+    },
+    {
+      "rank": 46,
+      "targetWord": "si",
+      "englishWord": "how"
+    },
+    {
+      "rank": 47,
+      "targetWord": "tha",
+      "englishWord": "said"
+    },
+    {
+      "rank": 48,
+      "targetWord": "një",
+      "englishWord": "an"
+    },
+    {
+      "rank": 49,
+      "targetWord": "çdo",
+      "englishWord": "each"
+    },
+    {
+      "rank": 50,
+      "targetWord": "them",
+      "englishWord": "tell"
+    },
+    {
+      "rank": 51,
+      "targetWord": "bën",
+      "englishWord": "does"
+    },
+    {
+      "rank": 52,
+      "targetWord": "i vendosur",
+      "englishWord": "set"
+    },
+    {
+      "rank": 53,
+      "targetWord": "tre",
+      "englishWord": "three"
+    },
+    {
+      "rank": 54,
+      "targetWord": "dua",
+      "englishWord": "want"
+    },
+    {
+      "rank": 55,
+      "targetWord": "ajrit",
+      "englishWord": "air"
+    },
+    {
+      "rank": 56,
+      "targetWord": "mirë",
+      "englishWord": "well"
+    },
+    {
+      "rank": 57,
+      "targetWord": "edhe",
+      "englishWord": "also"
+    },
+    {
+      "rank": 58,
+      "targetWord": "luajnë",
+      "englishWord": "play"
+    },
+    {
+      "rank": 59,
+      "targetWord": "vogël",
+      "englishWord": "small"
+    },
+    {
+      "rank": 60,
+      "targetWord": "fund",
+      "englishWord": "end"
+    },
+    {
+      "rank": 61,
+      "targetWord": "vendos",
+      "englishWord": "put"
+    },
+    {
+      "rank": 62,
+      "targetWord": "shtëpi",
+      "englishWord": "home"
+    },
+    {
+      "rank": 63,
+      "targetWord": "lexoj",
+      "englishWord": "read"
+    },
+    {
+      "rank": 64,
+      "targetWord": "dorë",
+      "englishWord": "hand"
+    },
+    {
+      "rank": 65,
+      "targetWord": "port",
+      "englishWord": "port"
+    },
+    {
+      "rank": 66,
+      "targetWord": "i madh",
+      "englishWord": "large"
+    },
+    {
+      "rank": 67,
+      "targetWord": "magji",
+      "englishWord": "spell"
+    },
+    {
+      "rank": 68,
+      "targetWord": "të shtoni",
+      "englishWord": "add"
+    },
+    {
+      "rank": 69,
+      "targetWord": "edhe",
+      "englishWord": "even"
+    },
+    {
+      "rank": 70,
+      "targetWord": "tokë",
+      "englishWord": "land"
+    },
+    {
+      "rank": 71,
+      "targetWord": "këtu",
+      "englishWord": "here"
+    },
+    {
+      "rank": 72,
+      "targetWord": "duhet",
+      "englishWord": "must"
+    },
+    {
+      "rank": 73,
+      "targetWord": "i madh",
+      "englishWord": "big"
+    },
+    {
+      "rank": 74,
+      "targetWord": "i lartë",
+      "englishWord": "high"
+    },
+    {
+      "rank": 75,
+      "targetWord": "i tillë",
+      "englishWord": "such"
+    },
+    {
+      "rank": 76,
+      "targetWord": "ndjek",
+      "englishWord": "follow"
+    },
+    {
+      "rank": 77,
+      "targetWord": "akt",
+      "englishWord": "act"
+    },
+    {
+      "rank": 78,
+      "targetWord": "pse",
+      "englishWord": "why"
+    },
+    {
+      "rank": 79,
+      "targetWord": "kërkoj",
+      "englishWord": "ask"
+    },
+    {
+      "rank": 80,
+      "targetWord": "burra",
+      "englishWord": "men"
+    },
+    {
+      "rank": 81,
+      "targetWord": "ndryshim",
+      "englishWord": "change"
+    },
+    {
+      "rank": 82,
+      "targetWord": "shkoi",
+      "englishWord": "went"
+    },
+    {
+      "rank": 83,
+      "targetWord": "dritë",
+      "englishWord": "light"
+    },
+    {
+      "rank": 84,
+      "targetWord": "lloj",
+      "englishWord": "kind"
+    },
+    {
+      "rank": 85,
+      "targetWord": "nga",
+      "englishWord": "off"
+    },
+    {
+      "rank": 86,
+      "targetWord": "duhet",
+      "englishWord": "need"
+    },
+    {
+      "rank": 87,
+      "targetWord": "shtëpi",
+      "englishWord": "house"
+    },
+    {
+      "rank": 88,
+      "targetWord": "foto",
+      "englishWord": "picture"
+    },
+    {
+      "rank": 89,
+      "targetWord": "përpiqem",
+      "englishWord": "try"
+    },
+    {
+      "rank": 90,
+      "targetWord": "na",
+      "englishWord": "us"
+    },
+    {
+      "rank": 91,
+      "targetWord": "përsëri",
+      "englishWord": "again"
+    },
+    {
+      "rank": 92,
+      "targetWord": "kafshëve",
+      "englishWord": "animal"
+    },
+    {
+      "rank": 93,
+      "targetWord": "pikë",
+      "englishWord": "point"
+    },
+    {
+      "rank": 94,
+      "targetWord": "nënë",
+      "englishWord": "mother"
+    },
+    {
+      "rank": 95,
+      "targetWord": "botëror",
+      "englishWord": "world"
+    },
+    {
+      "rank": 96,
+      "targetWord": "afër",
+      "englishWord": "near"
+    },
+    {
+      "rank": 97,
+      "targetWord": "ndërtuar",
+      "englishWord": "build"
+    },
+    {
+      "rank": 98,
+      "targetWord": "vetë",
+      "englishWord": "self"
+    },
+    {
+      "rank": 99,
+      "targetWord": "toka",
+      "englishWord": "earth"
+    },
+    {
+      "rank": 100,
+      "targetWord": "baba",
+      "englishWord": "father"
+    },
+    {
+      "rank": 101,
+      "targetWord": "ndonjë",
+      "englishWord": "any"
+    },
+    {
+      "rank": 102,
+      "targetWord": "të reja",
+      "englishWord": "new"
+    },
+    {
+      "rank": 103,
+      "targetWord": "punë",
+      "englishWord": "work"
+    },
+    {
+      "rank": 104,
+      "targetWord": "pjesë",
+      "englishWord": "part"
+    },
+    {
+      "rank": 105,
+      "targetWord": "marrë",
+      "englishWord": "take"
+    },
+    {
+      "rank": 106,
+      "targetWord": "marrë",
+      "englishWord": "get"
+    },
+    {
+      "rank": 107,
+      "targetWord": "vendi",
+      "englishWord": "place"
+    },
+    {
+      "rank": 108,
+      "targetWord": "bërë",
+      "englishWord": "made"
+    },
+    {
+      "rank": 109,
+      "targetWord": "jetojnë",
+      "englishWord": "live"
+    },
+    {
+      "rank": 110,
+      "targetWord": "ku",
+      "englishWord": "where"
+    },
+    {
+      "rank": 111,
+      "targetWord": "pas",
+      "englishWord": "after"
+    },
+    {
+      "rank": 112,
+      "targetWord": "mbrapa",
+      "englishWord": "back"
+    },
+    {
+      "rank": 113,
+      "targetWord": "pak",
+      "englishWord": "little"
+    },
+    {
+      "rank": 114,
+      "targetWord": "vetëm",
+      "englishWord": "only"
+    },
+    {
+      "rank": 115,
+      "targetWord": "rreth",
+      "englishWord": "round"
+    },
+    {
+      "rank": 116,
+      "targetWord": "njeri",
+      "englishWord": "man"
+    },
+    {
+      "rank": 117,
+      "targetWord": "vit",
+      "englishWord": "year"
+    },
+    {
+      "rank": 118,
+      "targetWord": "erdhi",
+      "englishWord": "came"
+    },
+    {
+      "rank": 119,
+      "targetWord": "show",
+      "englishWord": "show"
+    },
+    {
+      "rank": 120,
+      "targetWord": "çdo",
+      "englishWord": "every"
+    },
+    {
+      "rank": 121,
+      "targetWord": "mirë",
+      "englishWord": "good"
+    },
+    {
+      "rank": 122,
+      "targetWord": "mua",
+      "englishWord": "me"
+    },
+    {
+      "rank": 123,
+      "targetWord": "jap",
+      "englishWord": "give"
+    },
+    {
+      "rank": 124,
+      "targetWord": "tonë",
+      "englishWord": "our"
+    },
+    {
+      "rank": 125,
+      "targetWord": "nën",
+      "englishWord": "under"
+    },
+    {
+      "rank": 126,
+      "targetWord": "Emri",
+      "englishWord": "name"
+    },
+    {
+      "rank": 127,
+      "targetWord": "shumë",
+      "englishWord": "very"
+    },
+    {
+      "rank": 128,
+      "targetWord": "me anë të",
+      "englishWord": "through"
+    },
+    {
+      "rank": 129,
+      "targetWord": "vetëm",
+      "englishWord": "just"
+    },
+    {
+      "rank": 130,
+      "targetWord": "formë",
+      "englishWord": "form"
+    },
+    {
+      "rank": 131,
+      "targetWord": "fjali",
+      "englishWord": "sentence"
+    },
+    {
+      "rank": 132,
+      "targetWord": "i madh",
+      "englishWord": "great"
+    },
+    {
+      "rank": 133,
+      "targetWord": "mendoj",
+      "englishWord": "think"
+    },
+    {
+      "rank": 134,
+      "targetWord": "thonë",
+      "englishWord": "say"
+    },
+    {
+      "rank": 135,
+      "targetWord": "të ndihmojë",
+      "englishWord": "help"
+    },
+    {
+      "rank": 136,
+      "targetWord": "ulët",
+      "englishWord": "low"
+    },
+    {
+      "rank": 137,
+      "targetWord": "linjë",
+      "englishWord": "line"
+    },
+    {
+      "rank": 138,
+      "targetWord": "ndryshoj",
+      "englishWord": "differ"
+    },
+    {
+      "rank": 139,
+      "targetWord": "kthesë",
+      "englishWord": "turn"
+    },
+    {
+      "rank": 140,
+      "targetWord": "shkaku",
+      "englishWord": "cause"
+    },
+    {
+      "rank": 141,
+      "targetWord": "shumë",
+      "englishWord": "much"
+    },
+    {
+      "rank": 142,
+      "targetWord": "mesatare",
+      "englishWord": "mean"
+    },
+    {
+      "rank": 143,
+      "targetWord": "para",
+      "englishWord": "before"
+    },
+    {
+      "rank": 144,
+      "targetWord": "veprim",
+      "englishWord": "move"
+    },
+    {
+      "rank": 145,
+      "targetWord": "drejtë",
+      "englishWord": "right"
+    },
+    {
+      "rank": 146,
+      "targetWord": "djalë",
+      "englishWord": "boy"
+    },
+    {
+      "rank": 147,
+      "targetWord": "vjetër",
+      "englishWord": "old"
+    },
+    {
+      "rank": 148,
+      "targetWord": "shumë",
+      "englishWord": "too"
+    },
+    {
+      "rank": 149,
+      "targetWord": "i njëjtë",
+      "englishWord": "same"
+    },
+    {
+      "rank": 150,
+      "targetWord": "ajo",
+      "englishWord": "she"
+    },
+    {
+      "rank": 151,
+      "targetWord": "të gjithë",
+      "englishWord": "all"
+    },
+    {
+      "rank": 152,
+      "targetWord": "atje",
+      "englishWord": "there"
+    },
+    {
+      "rank": 153,
+      "targetWord": "kur",
+      "englishWord": "when"
+    },
+    {
+      "rank": 154,
+      "targetWord": "up",
+      "englishWord": "up"
+    },
+    {
+      "rank": 155,
+      "targetWord": "përdorimi",
+      "englishWord": "use"
+    },
+    {
+      "rank": 156,
+      "targetWord": "tuaj",
+      "englishWord": "your"
+    },
+    {
+      "rank": 157,
+      "targetWord": "mënyrë",
+      "englishWord": "way"
+    },
+    {
+      "rank": 158,
+      "targetWord": "për",
+      "englishWord": "about"
+    },
+    {
+      "rank": 159,
+      "targetWord": "shumë",
+      "englishWord": "many"
+    },
+    {
+      "rank": 160,
+      "targetWord": "pastaj",
+      "englishWord": "then"
+    },
+    {
+      "rank": 161,
+      "targetWord": "ata",
+      "englishWord": "them"
+    },
+    {
+      "rank": 162,
+      "targetWord": "shkruaj",
+      "englishWord": "write"
+    },
+    {
+      "rank": 163,
+      "targetWord": "do",
+      "englishWord": "would"
+    },
+    {
+      "rank": 164,
+      "targetWord": "si",
+      "englishWord": "like"
+    },
+    {
+      "rank": 165,
+      "targetWord": "kështu",
+      "englishWord": "so"
+    },
+    {
+      "rank": 166,
+      "targetWord": "këto",
+      "englishWord": "these"
+    },
+    {
+      "rank": 167,
+      "targetWord": "e saj",
+      "englishWord": "her"
+    },
+    {
+      "rank": 168,
+      "targetWord": "gjatë",
+      "englishWord": "long"
+    },
+    {
+      "rank": 169,
+      "targetWord": "bëj",
+      "englishWord": "make"
+    },
+    {
+      "rank": 170,
+      "targetWord": "gjë",
+      "englishWord": "thing"
+    },
+    {
+      "rank": 171,
+      "targetWord": "shih",
+      "englishWord": "see"
+    },
+    {
+      "rank": 172,
+      "targetWord": "atë",
+      "englishWord": "him"
+    },
+    {
+      "rank": 173,
+      "targetWord": "dy",
+      "englishWord": "two"
+    },
+    {
+      "rank": 174,
+      "targetWord": "ka",
+      "englishWord": "has"
+    },
+    {
+      "rank": 175,
+      "targetWord": "shikoni",
+      "englishWord": "look"
+    },
+    {
+      "rank": 176,
+      "targetWord": "më shumë",
+      "englishWord": "more"
+    },
+    {
+      "rank": 177,
+      "targetWord": "ditë",
+      "englishWord": "day"
+    },
+    {
+      "rank": 178,
+      "targetWord": "mund",
+      "englishWord": "could"
+    },
+    {
+      "rank": 179,
+      "targetWord": "shkoj",
+      "englishWord": "go"
+    },
+    {
+      "rank": 180,
+      "targetWord": "eja",
+      "englishWord": "come"
+    },
+    {
+      "rank": 181,
+      "targetWord": "bëri",
+      "englishWord": "did"
+    },
+    {
+      "rank": 182,
+      "targetWord": "numri",
+      "englishWord": "number"
+    },
+    {
+      "rank": 183,
+      "targetWord": "zë",
+      "englishWord": "sound"
+    },
+    {
+      "rank": 184,
+      "targetWord": "asnjë",
+      "englishWord": "no"
+    },
+    {
+      "rank": 185,
+      "targetWord": "më",
+      "englishWord": "most"
+    },
+    {
+      "rank": 186,
+      "targetWord": "njerëz",
+      "englishWord": "people"
+    },
+    {
+      "rank": 187,
+      "targetWord": "tim",
+      "englishWord": "my"
+    },
+    {
+      "rank": 188,
+      "targetWord": "mbi",
+      "englishWord": "over"
+    },
+    {
+      "rank": 189,
+      "targetWord": "di",
+      "englishWord": "know"
+    },
+    {
+      "rank": 190,
+      "targetWord": "ujë",
+      "englishWord": "water"
+    },
+    {
+      "rank": 191,
+      "targetWord": "se",
+      "englishWord": "than"
+    },
+    {
+      "rank": 192,
+      "targetWord": "thirrje",
+      "englishWord": "call"
+    },
+    {
+      "rank": 193,
+      "targetWord": "parë",
+      "englishWord": "first"
+    },
+    {
+      "rank": 194,
+      "targetWord": "që",
+      "englishWord": "who"
+    },
+    {
+      "rank": 195,
+      "targetWord": "mund",
+      "englishWord": "may"
+    },
+    {
+      "rank": 196,
+      "targetWord": "poshtë",
+      "englishWord": "down"
+    },
+    {
+      "rank": 197,
+      "targetWord": "anë",
+      "englishWord": "side"
+    },
+    {
+      "rank": 198,
+      "targetWord": "qenë",
+      "englishWord": "been"
+    },
+    {
+      "rank": 199,
+      "targetWord": "tani",
+      "englishWord": "now"
+    },
+    {
+      "rank": 200,
+      "targetWord": "gjeni",
+      "englishWord": "find"
+    },
+    {
+      "rank": 201,
+      "targetWord": "kreu",
+      "englishWord": "head"
+    },
+    {
+      "rank": 202,
+      "targetWord": "qëndrim",
+      "englishWord": "stand"
+    },
+    {
+      "rank": 203,
+      "targetWord": "vet",
+      "englishWord": "own"
+    },
+    {
+      "rank": 204,
+      "targetWord": "faqe",
+      "englishWord": "page"
+    },
+    {
+      "rank": 205,
+      "targetWord": "duhet",
+      "englishWord": "should"
+    },
+    {
+      "rank": 206,
+      "targetWord": "vendi",
+      "englishWord": "country"
+    },
+    {
+      "rank": 207,
+      "targetWord": "gjetur",
+      "englishWord": "found"
+    },
+    {
+      "rank": 208,
+      "targetWord": "përgjigje",
+      "englishWord": "answer"
+    },
+    {
+      "rank": 209,
+      "targetWord": "shkollë",
+      "englishWord": "school"
+    },
+    {
+      "rank": 210,
+      "targetWord": "rritet",
+      "englishWord": "grow"
+    },
+    {
+      "rank": 211,
+      "targetWord": "Studimi",
+      "englishWord": "study"
+    },
+    {
+      "rank": 212,
+      "targetWord": "ende",
+      "englishWord": "still"
+    },
+    {
+      "rank": 213,
+      "targetWord": "mësoj",
+      "englishWord": "learn"
+    },
+    {
+      "rank": 214,
+      "targetWord": "bimë",
+      "englishWord": "plant"
+    },
+    {
+      "rank": 215,
+      "targetWord": "mbuluar",
+      "englishWord": "cover"
+    },
+    {
+      "rank": 216,
+      "targetWord": "ushqim",
+      "englishWord": "food"
+    },
+    {
+      "rank": 217,
+      "targetWord": "dielli",
+      "englishWord": "sun"
+    },
+    {
+      "rank": 218,
+      "targetWord": "katër",
+      "englishWord": "four"
+    },
+    {
+      "rank": 219,
+      "targetWord": "në mes të",
+      "englishWord": "between"
+    },
+    {
+      "rank": 220,
+      "targetWord": "shtet",
+      "englishWord": "state"
+    },
+    {
+      "rank": 221,
+      "targetWord": "mbaj",
+      "englishWord": "keep"
+    },
+    {
+      "rank": 222,
+      "targetWord": "sy",
+      "englishWord": "eye"
+    },
+    {
+      "rank": 223,
+      "targetWord": "kurrë",
+      "englishWord": "never"
+    },
+    {
+      "rank": 224,
+      "targetWord": "fundit",
+      "englishWord": "last"
+    },
+    {
+      "rank": 225,
+      "targetWord": "le të",
+      "englishWord": "let"
+    },
+    {
+      "rank": 226,
+      "targetWord": "mendimi",
+      "englishWord": "thought"
+    },
+    {
+      "rank": 227,
+      "targetWord": "qytet",
+      "englishWord": "city"
+    },
+    {
+      "rank": 228,
+      "targetWord": "pemë",
+      "englishWord": "tree"
+    },
+    {
+      "rank": 229,
+      "targetWord": "kalojnë",
+      "englishWord": "cross"
+    },
+    {
+      "rank": 230,
+      "targetWord": "fermë",
+      "englishWord": "farm"
+    },
+    {
+      "rank": 231,
+      "targetWord": "vështirë",
+      "englishWord": "hard"
+    },
+    {
+      "rank": 232,
+      "targetWord": "fillimi",
+      "englishWord": "start"
+    },
+    {
+      "rank": 233,
+      "targetWord": "mund",
+      "englishWord": "might"
+    },
+    {
+      "rank": 234,
+      "targetWord": "histori",
+      "englishWord": "story"
+    },
+    {
+      "rank": 235,
+      "targetWord": "pa",
+      "englishWord": "saw"
+    },
+    {
+      "rank": 236,
+      "targetWord": "tani",
+      "englishWord": "far"
+    },
+    {
+      "rank": 237,
+      "targetWord": "deti",
+      "englishWord": "sea"
+    },
+    {
+      "rank": 238,
+      "targetWord": "barazim",
+      "englishWord": "draw"
+    },
+    {
+      "rank": 239,
+      "targetWord": "la",
+      "englishWord": "left"
+    },
+    {
+      "rank": 240,
+      "targetWord": "vonë",
+      "englishWord": "late"
+    },
+    {
+      "rank": 241,
+      "targetWord": "drejtuar",
+      "englishWord": "run"
+    },
+    {
+      "rank": 242,
+      "targetWord": "nuk",
+      "englishWord": "don’t"
+    },
+    {
+      "rank": 243,
+      "targetWord": "ndërsa",
+      "englishWord": "while"
+    },
+    {
+      "rank": 244,
+      "targetWord": "shtypi",
+      "englishWord": "press"
+    },
+    {
+      "rank": 245,
+      "targetWord": "afër",
+      "englishWord": "close"
+    },
+    {
+      "rank": 246,
+      "targetWord": "natën",
+      "englishWord": "night"
+    },
+    {
+      "rank": 247,
+      "targetWord": "real",
+      "englishWord": "real"
+    },
+    {
+      "rank": 248,
+      "targetWord": "jetë",
+      "englishWord": "life"
+    },
+    {
+      "rank": 249,
+      "targetWord": "pak",
+      "englishWord": "few"
+    },
+    {
+      "rank": 250,
+      "targetWord": "veri",
+      "englishWord": "north"
+    },
+    {
+      "rank": 251,
+      "targetWord": "libri",
+      "englishWord": "book"
+    },
+    {
+      "rank": 252,
+      "targetWord": "kryer",
+      "englishWord": "carry"
+    },
+    {
+      "rank": 253,
+      "targetWord": "mori",
+      "englishWord": "took"
+    },
+    {
+      "rank": 254,
+      "targetWord": "shkenca",
+      "englishWord": "science"
+    },
+    {
+      "rank": 255,
+      "targetWord": "hani",
+      "englishWord": "eat"
+    },
+    {
+      "rank": 256,
+      "targetWord": "dhomë",
+      "englishWord": "room"
+    },
+    {
+      "rank": 257,
+      "targetWord": "mik",
+      "englishWord": "friend"
+    },
+    {
+      "rank": 258,
+      "targetWord": "filloi",
+      "englishWord": "began"
+    },
+    {
+      "rank": 259,
+      "targetWord": "Ideja",
+      "englishWord": "idea"
+    },
+    {
+      "rank": 260,
+      "targetWord": "peshk",
+      "englishWord": "fish"
+    },
+    {
+      "rank": 261,
+      "targetWord": "mal",
+      "englishWord": "mountain"
+    },
+    {
+      "rank": 262,
+      "targetWord": "stop",
+      "englishWord": "stop"
+    },
+    {
+      "rank": 263,
+      "targetWord": "dikur",
+      "englishWord": "once"
+    },
+    {
+      "rank": 264,
+      "targetWord": "bazë",
+      "englishWord": "base"
+    },
+    {
+      "rank": 265,
+      "targetWord": "dëgjojë",
+      "englishWord": "hear"
+    },
+    {
+      "rank": 266,
+      "targetWord": "kalë",
+      "englishWord": "horse"
+    },
+    {
+      "rank": 267,
+      "targetWord": "prerë",
+      "englishWord": "cut"
+    },
+    {
+      "rank": 268,
+      "targetWord": "i sigurt",
+      "englishWord": "sure"
+    },
+    {
+      "rank": 269,
+      "targetWord": "shikojnë",
+      "englishWord": "watch"
+    },
+    {
+      "rank": 270,
+      "targetWord": "ngjyra",
+      "englishWord": "color"
+    },
+    {
+      "rank": 271,
+      "targetWord": "fytyrë",
+      "englishWord": "face"
+    },
+    {
+      "rank": 272,
+      "targetWord": "dru",
+      "englishWord": "wood"
+    },
+    {
+      "rank": 273,
+      "targetWord": "kryesore",
+      "englishWord": "main"
+    },
+    {
+      "rank": 274,
+      "targetWord": "hapur",
+      "englishWord": "open"
+    },
+    {
+      "rank": 275,
+      "targetWord": "duket",
+      "englishWord": "seem"
+    },
+    {
+      "rank": 276,
+      "targetWord": "së bashku",
+      "englishWord": "together"
+    },
+    {
+      "rank": 277,
+      "targetWord": "tjetër",
+      "englishWord": "next"
+    },
+    {
+      "rank": 278,
+      "targetWord": "e bardhë",
+      "englishWord": "white"
+    },
+    {
+      "rank": 279,
+      "targetWord": "fëmijë",
+      "englishWord": "children"
+    },
+    {
+      "rank": 280,
+      "targetWord": "të fillojë",
+      "englishWord": "begin"
+    },
+    {
+      "rank": 281,
+      "targetWord": "mori",
+      "englishWord": "got"
+    },
+    {
+      "rank": 282,
+      "targetWord": "eci",
+      "englishWord": "walk"
+    },
+    {
+      "rank": 283,
+      "targetWord": "shembull",
+      "englishWord": "example"
+    },
+    {
+      "rank": 284,
+      "targetWord": "lehtësuar",
+      "englishWord": "ease"
+    },
+    {
+      "rank": 285,
+      "targetWord": "letër",
+      "englishWord": "paper"
+    },
+    {
+      "rank": 286,
+      "targetWord": "grup",
+      "englishWord": "group"
+    },
+    {
+      "rank": 287,
+      "targetWord": "gjithmonë",
+      "englishWord": "always"
+    },
+    {
+      "rank": 288,
+      "targetWord": "muzikë",
+      "englishWord": "music"
+    },
+    {
+      "rank": 289,
+      "targetWord": "ato",
+      "englishWord": "those"
+    },
+    {
+      "rank": 290,
+      "targetWord": "të dy",
+      "englishWord": "both"
+    },
+    {
+      "rank": 291,
+      "targetWord": "mark",
+      "englishWord": "mark"
+    },
+    {
+      "rank": 292,
+      "targetWord": "shpesh",
+      "englishWord": "often"
+    },
+    {
+      "rank": 293,
+      "targetWord": "letër",
+      "englishWord": "letter"
+    },
+    {
+      "rank": 294,
+      "targetWord": "deri",
+      "englishWord": "until"
+    },
+    {
+      "rank": 295,
+      "targetWord": "milje",
+      "englishWord": "mile"
+    },
+    {
+      "rank": 296,
+      "targetWord": "lumi",
+      "englishWord": "river"
+    },
+    {
+      "rank": 297,
+      "targetWord": "makinë",
+      "englishWord": "car"
+    },
+    {
+      "rank": 298,
+      "targetWord": "këmbët",
+      "englishWord": "feet"
+    },
+    {
+      "rank": 299,
+      "targetWord": "kujdes",
+      "englishWord": "care"
+    },
+    {
+      "rank": 300,
+      "targetWord": "i dytë",
+      "englishWord": "second"
+    },
+    {
+      "rank": 301,
+      "targetWord": "mjaft",
+      "englishWord": "enough"
+    },
+    {
+      "rank": 302,
+      "targetWord": "plain",
+      "englishWord": "plain"
+    },
+    {
+      "rank": 303,
+      "targetWord": "vajzë",
+      "englishWord": "girl"
+    },
+    {
+      "rank": 304,
+      "targetWord": "zakonshme",
+      "englishWord": "usual"
+    },
+    {
+      "rank": 305,
+      "targetWord": "i ri",
+      "englishWord": "young"
+    },
+    {
+      "rank": 306,
+      "targetWord": "gati",
+      "englishWord": "ready"
+    },
+    {
+      "rank": 307,
+      "targetWord": "sipër",
+      "englishWord": "above"
+    },
+    {
+      "rank": 308,
+      "targetWord": "kurrë",
+      "englishWord": "ever"
+    },
+    {
+      "rank": 309,
+      "targetWord": "i kuq",
+      "englishWord": "red"
+    },
+    {
+      "rank": 310,
+      "targetWord": "lista",
+      "englishWord": "list"
+    },
+    {
+      "rank": 311,
+      "targetWord": "ndonëse",
+      "englishWord": "though"
+    },
+    {
+      "rank": 312,
+      "targetWord": "të ndjehen të",
+      "englishWord": "feel"
+    },
+    {
+      "rank": 313,
+      "targetWord": "flasim",
+      "englishWord": "talk"
+    },
+    {
+      "rank": 314,
+      "targetWord": "zog",
+      "englishWord": "bird"
+    },
+    {
+      "rank": 315,
+      "targetWord": "shpejt",
+      "englishWord": "soon"
+    },
+    {
+      "rank": 316,
+      "targetWord": "trupi",
+      "englishWord": "body"
+    },
+    {
+      "rank": 317,
+      "targetWord": "qen",
+      "englishWord": "dog"
+    },
+    {
+      "rank": 318,
+      "targetWord": "familja",
+      "englishWord": "family"
+    },
+    {
+      "rank": 319,
+      "targetWord": "drejtpërdrejtë",
+      "englishWord": "direct"
+    },
+    {
+      "rank": 320,
+      "targetWord": "paraqesin",
+      "englishWord": "pose"
+    },
+    {
+      "rank": 321,
+      "targetWord": "largohen",
+      "englishWord": "leave"
+    },
+    {
+      "rank": 322,
+      "targetWord": "song",
+      "englishWord": "song"
+    },
+    {
+      "rank": 323,
+      "targetWord": "të matur",
+      "englishWord": "measure"
+    },
+    {
+      "rank": 324,
+      "targetWord": "dyer",
+      "englishWord": "door"
+    },
+    {
+      "rank": 325,
+      "targetWord": "produkt",
+      "englishWord": "product"
+    },
+    {
+      "rank": 326,
+      "targetWord": "e zezë",
+      "englishWord": "black"
+    },
+    {
+      "rank": 327,
+      "targetWord": "i shkurtër",
+      "englishWord": "short"
+    },
+    {
+      "rank": 328,
+      "targetWord": "numëror",
+      "englishWord": "numeral"
+    },
+    {
+      "rank": 329,
+      "targetWord": "klasë",
+      "englishWord": "class"
+    },
+    {
+      "rank": 330,
+      "targetWord": "era",
+      "englishWord": "wind"
+    },
+    {
+      "rank": 331,
+      "targetWord": "pyetje",
+      "englishWord": "question"
+    },
+    {
+      "rank": 332,
+      "targetWord": "ndodhë",
+      "englishWord": "happen"
+    },
+    {
+      "rank": 333,
+      "targetWord": "i plotë",
+      "englishWord": "complete"
+    },
+    {
+      "rank": 334,
+      "targetWord": "anije",
+      "englishWord": "ship"
+    },
+    {
+      "rank": 335,
+      "targetWord": "zonë",
+      "englishWord": "area"
+    },
+    {
+      "rank": 336,
+      "targetWord": "gjysmë",
+      "englishWord": "half"
+    },
+    {
+      "rank": 337,
+      "targetWord": "shkëmb",
+      "englishWord": "rock"
+    },
+    {
+      "rank": 338,
+      "targetWord": "mënyrë",
+      "englishWord": "order"
+    },
+    {
+      "rank": 339,
+      "targetWord": "zjarri",
+      "englishWord": "fire"
+    },
+    {
+      "rank": 340,
+      "targetWord": "jug",
+      "englishWord": "south"
+    },
+    {
+      "rank": 341,
+      "targetWord": "problemi",
+      "englishWord": "problem"
+    },
+    {
+      "rank": 342,
+      "targetWord": "pjesë",
+      "englishWord": "piece"
+    },
+    {
+      "rank": 343,
+      "targetWord": "tha",
+      "englishWord": "told"
+    },
+    {
+      "rank": 344,
+      "targetWord": "dinte",
+      "englishWord": "knew"
+    },
+    {
+      "rank": 345,
+      "targetWord": "kaloj",
+      "englishWord": "pass"
+    },
+    {
+      "rank": 346,
+      "targetWord": "që prej",
+      "englishWord": "since"
+    },
+    {
+      "rank": 347,
+      "targetWord": "top",
+      "englishWord": "top"
+    },
+    {
+      "rank": 348,
+      "targetWord": "tërë",
+      "englishWord": "whole"
+    },
+    {
+      "rank": 349,
+      "targetWord": "mbreti",
+      "englishWord": "king"
+    },
+    {
+      "rank": 350,
+      "targetWord": "rrugë",
+      "englishWord": "street"
+    },
+    {
+      "rank": 351,
+      "targetWord": "inç",
+      "englishWord": "inch"
+    },
+    {
+      "rank": 352,
+      "targetWord": "shumohen",
+      "englishWord": "multiply"
+    },
+    {
+      "rank": 353,
+      "targetWord": "asgjë",
+      "englishWord": "nothing"
+    },
+    {
+      "rank": 354,
+      "targetWord": "Sigurisht",
+      "englishWord": "course"
+    },
+    {
+      "rank": 355,
+      "targetWord": "qëndrojnë",
+      "englishWord": "stay"
+    },
+    {
+      "rank": 356,
+      "targetWord": "rrotë",
+      "englishWord": "wheel"
+    },
+    {
+      "rank": 357,
+      "targetWord": "plotë",
+      "englishWord": "full"
+    },
+    {
+      "rank": 358,
+      "targetWord": "forca",
+      "englishWord": "force"
+    },
+    {
+      "rank": 359,
+      "targetWord": "blu",
+      "englishWord": "blue"
+    },
+    {
+      "rank": 360,
+      "targetWord": "objekt",
+      "englishWord": "object"
+    },
+    {
+      "rank": 361,
+      "targetWord": "vendosë",
+      "englishWord": "decide"
+    },
+    {
+      "rank": 362,
+      "targetWord": "sipërfaqe",
+      "englishWord": "surface"
+    },
+    {
+      "rank": 363,
+      "targetWord": "thellë",
+      "englishWord": "deep"
+    },
+    {
+      "rank": 364,
+      "targetWord": "moon",
+      "englishWord": "moon"
+    },
+    {
+      "rank": 365,
+      "targetWord": "ishull",
+      "englishWord": "island"
+    },
+    {
+      "rank": 366,
+      "targetWord": "këmbë",
+      "englishWord": "foot"
+    },
+    {
+      "rank": 367,
+      "targetWord": "sistemi",
+      "englishWord": "system"
+    },
+    {
+      "rank": 368,
+      "targetWord": "i zënë",
+      "englishWord": "busy"
+    },
+    {
+      "rank": 369,
+      "targetWord": "provë",
+      "englishWord": "test"
+    },
+    {
+      "rank": 370,
+      "targetWord": "rekord",
+      "englishWord": "record"
+    },
+    {
+      "rank": 371,
+      "targetWord": "varkë",
+      "englishWord": "boat"
+    },
+    {
+      "rank": 372,
+      "targetWord": "përbashkët",
+      "englishWord": "common"
+    },
+    {
+      "rank": 373,
+      "targetWord": "ari",
+      "englishWord": "gold"
+    },
+    {
+      "rank": 374,
+      "targetWord": "të jetë e mundur",
+      "englishWord": "possible"
+    },
+    {
+      "rank": 375,
+      "targetWord": "aeroplan",
+      "englishWord": "plane"
+    },
+    {
+      "rank": 376,
+      "targetWord": "Në vend",
+      "englishWord": "stead"
+    },
+    {
+      "rank": 377,
+      "targetWord": "thatë",
+      "englishWord": "dry"
+    },
+    {
+      "rank": 378,
+      "targetWord": "pyes veten",
+      "englishWord": "wonder"
+    },
+    {
+      "rank": 379,
+      "targetWord": "qesh",
+      "englishWord": "laugh"
+    },
+    {
+      "rank": 380,
+      "targetWord": "mijë",
+      "englishWord": "thousand"
+    },
+    {
+      "rank": 381,
+      "targetWord": "më parë",
+      "englishWord": "ago"
+    },
+    {
+      "rank": 382,
+      "targetWord": "vrapoi",
+      "englishWord": "ran"
+    },
+    {
+      "rank": 383,
+      "targetWord": "kontrolloj",
+      "englishWord": "check"
+    },
+    {
+      "rank": 384,
+      "targetWord": "lojë",
+      "englishWord": "game"
+    },
+    {
+      "rank": 385,
+      "targetWord": "formë",
+      "englishWord": "shape"
+    },
+    {
+      "rank": 386,
+      "targetWord": "barazojnë",
+      "englishWord": "equate"
+    },
+    {
+      "rank": 387,
+      "targetWord": "hot",
+      "englishWord": "hot"
+    },
+    {
+      "rank": 388,
+      "targetWord": "Miss",
+      "englishWord": "miss"
+    },
+    {
+      "rank": 389,
+      "targetWord": "solli",
+      "englishWord": "brought"
+    },
+    {
+      "rank": 390,
+      "targetWord": "ngrohjes",
+      "englishWord": "heat"
+    },
+    {
+      "rank": 391,
+      "targetWord": "borë",
+      "englishWord": "snow"
+    },
+    {
+      "rank": 392,
+      "targetWord": "gomë",
+      "englishWord": "tire"
+    },
+    {
+      "rank": 393,
+      "targetWord": "sjellë",
+      "englishWord": "bring"
+    },
+    {
+      "rank": 394,
+      "targetWord": "po",
+      "englishWord": "yes"
+    },
+    {
+      "rank": 395,
+      "targetWord": "i largët",
+      "englishWord": "distant"
+    },
+    {
+      "rank": 396,
+      "targetWord": "mbushur",
+      "englishWord": "fill"
+    },
+    {
+      "rank": 397,
+      "targetWord": "lindje",
+      "englishWord": "east"
+    },
+    {
+      "rank": 398,
+      "targetWord": "bojë",
+      "englishWord": "paint"
+    },
+    {
+      "rank": 399,
+      "targetWord": "gjuha",
+      "englishWord": "language"
+    },
+    {
+      "rank": 400,
+      "targetWord": "në mesin e",
+      "englishWord": "among"
+    },
+    {
+      "rank": 401,
+      "targetWord": "njësi",
+      "englishWord": "unit"
+    },
+    {
+      "rank": 402,
+      "targetWord": "fuqia",
+      "englishWord": "power"
+    },
+    {
+      "rank": 403,
+      "targetWord": "qytet",
+      "englishWord": "town"
+    },
+    {
+      "rank": 404,
+      "targetWord": "gjobë",
+      "englishWord": "fine"
+    },
+    {
+      "rank": 405,
+      "targetWord": "sigurt",
+      "englishWord": "certain"
+    },
+    {
+      "rank": 406,
+      "targetWord": "fluturojnë",
+      "englishWord": "fly"
+    },
+    {
+      "rank": 407,
+      "targetWord": "bien",
+      "englishWord": "fall"
+    },
+    {
+      "rank": 408,
+      "targetWord": "të çojë",
+      "englishWord": "lead"
+    },
+    {
+      "rank": 409,
+      "targetWord": "qaj",
+      "englishWord": "cry"
+    },
+    {
+      "rank": 410,
+      "targetWord": "errët",
+      "englishWord": "dark"
+    },
+    {
+      "rank": 411,
+      "targetWord": "makinë",
+      "englishWord": "machine"
+    },
+    {
+      "rank": 412,
+      "targetWord": "shënim",
+      "englishWord": "note"
+    },
+    {
+      "rank": 413,
+      "targetWord": "pres",
+      "englishWord": "wait"
+    },
+    {
+      "rank": 414,
+      "targetWord": "Plani",
+      "englishWord": "plan"
+    },
+    {
+      "rank": 415,
+      "targetWord": "shifër",
+      "englishWord": "figure"
+    },
+    {
+      "rank": 416,
+      "targetWord": "yll",
+      "englishWord": "star"
+    },
+    {
+      "rank": 417,
+      "targetWord": "kuti",
+      "englishWord": "box"
+    },
+    {
+      "rank": 418,
+      "targetWord": "emër",
+      "englishWord": "noun"
+    },
+    {
+      "rank": 419,
+      "targetWord": "fushë",
+      "englishWord": "field"
+    },
+    {
+      "rank": 420,
+      "targetWord": "tjetër",
+      "englishWord": "rest"
+    },
+    {
+      "rank": 421,
+      "targetWord": "saktë",
+      "englishWord": "correct"
+    },
+    {
+      "rank": 422,
+      "targetWord": "gjendje",
+      "englishWord": "able"
+    },
+    {
+      "rank": 423,
+      "targetWord": "kile",
+      "englishWord": "pound"
+    },
+    {
+      "rank": 424,
+      "targetWord": "e bërë",
+      "englishWord": "done"
+    },
+    {
+      "rank": 425,
+      "targetWord": "bukuri",
+      "englishWord": "beauty"
+    },
+    {
+      "rank": 426,
+      "targetWord": "makinë",
+      "englishWord": "drive"
+    },
+    {
+      "rank": 427,
+      "targetWord": "qëndroi",
+      "englishWord": "stood"
+    },
+    {
+      "rank": 428,
+      "targetWord": "përmbaj",
+      "englishWord": "contain"
+    },
+    {
+      "rank": 429,
+      "targetWord": "para",
+      "englishWord": "front"
+    },
+    {
+      "rank": 430,
+      "targetWord": "mësojnë",
+      "englishWord": "teach"
+    },
+    {
+      "rank": 431,
+      "targetWord": "javë",
+      "englishWord": "week"
+    },
+    {
+      "rank": 432,
+      "targetWord": "përfundimtar",
+      "englishWord": "final"
+    },
+    {
+      "rank": 433,
+      "targetWord": "dha",
+      "englishWord": "gave"
+    },
+    {
+      "rank": 434,
+      "targetWord": "e gjelbër",
+      "englishWord": "green"
+    },
+    {
+      "rank": 435,
+      "targetWord": "oh",
+      "englishWord": "oh"
+    },
+    {
+      "rank": 436,
+      "targetWord": "shpejtë",
+      "englishWord": "quick"
+    },
+    {
+      "rank": 437,
+      "targetWord": "zhvilloj",
+      "englishWord": "develop"
+    },
+    {
+      "rank": 438,
+      "targetWord": "oqean",
+      "englishWord": "ocean"
+    },
+    {
+      "rank": 439,
+      "targetWord": "ngrohtë",
+      "englishWord": "warm"
+    },
+    {
+      "rank": 440,
+      "targetWord": "pa pagesë",
+      "englishWord": "free"
+    },
+    {
+      "rank": 441,
+      "targetWord": "minutë",
+      "englishWord": "minute"
+    },
+    {
+      "rank": 442,
+      "targetWord": "fortë",
+      "englishWord": "strong"
+    },
+    {
+      "rank": 443,
+      "targetWord": "të veçantë",
+      "englishWord": "special"
+    },
+    {
+      "rank": 444,
+      "targetWord": "mendja",
+      "englishWord": "mind"
+    },
+    {
+      "rank": 445,
+      "targetWord": "prapa",
+      "englishWord": "behind"
+    },
+    {
+      "rank": 446,
+      "targetWord": "qartë",
+      "englishWord": "clear"
+    },
+    {
+      "rank": 447,
+      "targetWord": "bisht",
+      "englishWord": "tail"
+    },
+    {
+      "rank": 448,
+      "targetWord": "prodhojnë",
+      "englishWord": "produce"
+    },
+    {
+      "rank": 449,
+      "targetWord": "fakti",
+      "englishWord": "fact"
+    },
+    {
+      "rank": 450,
+      "targetWord": "hapësirë",
+      "englishWord": "space"
+    },
+    {
+      "rank": 451,
+      "targetWord": "dëgjuar",
+      "englishWord": "heard"
+    },
+    {
+      "rank": 452,
+      "targetWord": "mirë",
+      "englishWord": "best"
+    },
+    {
+      "rank": 453,
+      "targetWord": "orë",
+      "englishWord": "hour"
+    },
+    {
+      "rank": 454,
+      "targetWord": "më mirë",
+      "englishWord": "better"
+    },
+    {
+      "rank": 455,
+      "targetWord": "e vërtetë",
+      "englishWord": "true"
+    },
+    {
+      "rank": 456,
+      "targetWord": "gjatë",
+      "englishWord": "during"
+    },
+    {
+      "rank": 457,
+      "targetWord": "njëqind",
+      "englishWord": "hundred"
+    },
+    {
+      "rank": 458,
+      "targetWord": "pesë",
+      "englishWord": "five"
+    },
+    {
+      "rank": 459,
+      "targetWord": "kujtoj",
+      "englishWord": "remember"
+    },
+    {
+      "rank": 460,
+      "targetWord": "hapi",
+      "englishWord": "step"
+    },
+    {
+      "rank": 461,
+      "targetWord": "fillim",
+      "englishWord": "early"
+    },
+    {
+      "rank": 462,
+      "targetWord": "mbajë",
+      "englishWord": "hold"
+    },
+    {
+      "rank": 463,
+      "targetWord": "perëndim",
+      "englishWord": "west"
+    },
+    {
+      "rank": 464,
+      "targetWord": "terren",
+      "englishWord": "ground"
+    },
+    {
+      "rank": 465,
+      "targetWord": "interesi",
+      "englishWord": "interest"
+    },
+    {
+      "rank": 466,
+      "targetWord": "arrijnë",
+      "englishWord": "reach"
+    },
+    {
+      "rank": 467,
+      "targetWord": "shpejtë",
+      "englishWord": "fast"
+    },
+    {
+      "rank": 468,
+      "targetWord": "folje",
+      "englishWord": "verb"
+    },
+    {
+      "rank": 469,
+      "targetWord": "këndoj",
+      "englishWord": "sing"
+    },
+    {
+      "rank": 470,
+      "targetWord": "dëgjoni",
+      "englishWord": "listen"
+    },
+    {
+      "rank": 471,
+      "targetWord": "gjashtë",
+      "englishWord": "six"
+    },
+    {
+      "rank": 472,
+      "targetWord": "Tabela",
+      "englishWord": "table"
+    },
+    {
+      "rank": 473,
+      "targetWord": "udhëtimit",
+      "englishWord": "travel"
+    },
+    {
+      "rank": 474,
+      "targetWord": "më pak",
+      "englishWord": "less"
+    },
+    {
+      "rank": 475,
+      "targetWord": "mëngjes",
+      "englishWord": "morning"
+    },
+    {
+      "rank": 476,
+      "targetWord": "dhjetë",
+      "englishWord": "ten"
+    },
+    {
+      "rank": 477,
+      "targetWord": "thjeshtë",
+      "englishWord": "simple"
+    },
+    {
+      "rank": 478,
+      "targetWord": "disa",
+      "englishWord": "several"
+    },
+    {
+      "rank": 479,
+      "targetWord": "zanore",
+      "englishWord": "vowel"
+    },
+    {
+      "rank": 480,
+      "targetWord": "drejt",
+      "englishWord": "toward"
+    },
+    {
+      "rank": 481,
+      "targetWord": "luftë",
+      "englishWord": "war"
+    },
+    {
+      "rank": 482,
+      "targetWord": "vë",
+      "englishWord": "lay"
+    },
+    {
+      "rank": 483,
+      "targetWord": "kundër",
+      "englishWord": "against"
+    },
+    {
+      "rank": 484,
+      "targetWord": "model",
+      "englishWord": "pattern"
+    },
+    {
+      "rank": 485,
+      "targetWord": "i ngadalshëm",
+      "englishWord": "slow"
+    },
+    {
+      "rank": 486,
+      "targetWord": "qendër",
+      "englishWord": "center"
+    },
+    {
+      "rank": 487,
+      "targetWord": "dashuri",
+      "englishWord": "love"
+    },
+    {
+      "rank": 488,
+      "targetWord": "person",
+      "englishWord": "person"
+    },
+    {
+      "rank": 489,
+      "targetWord": "paratë",
+      "englishWord": "money"
+    },
+    {
+      "rank": 490,
+      "targetWord": "shërbejnë",
+      "englishWord": "serve"
+    },
+    {
+      "rank": 491,
+      "targetWord": "duket",
+      "englishWord": "appear"
+    },
+    {
+      "rank": 492,
+      "targetWord": "rrugë",
+      "englishWord": "road"
+    },
+    {
+      "rank": 493,
+      "targetWord": "Harta",
+      "englishWord": "map"
+    },
+    {
+      "rank": 494,
+      "targetWord": "shi",
+      "englishWord": "rain"
+    },
+    {
+      "rank": 495,
+      "targetWord": "rregull",
+      "englishWord": "rule"
+    },
+    {
+      "rank": 496,
+      "targetWord": "qeverisur",
+      "englishWord": "govern"
+    },
+    {
+      "rank": 497,
+      "targetWord": "tërheq",
+      "englishWord": "pull"
+    },
+    {
+      "rank": 498,
+      "targetWord": "ftohtë",
+      "englishWord": "cold"
+    },
+    {
+      "rank": 499,
+      "targetWord": "njoftim",
+      "englishWord": "notice"
+    },
+    {
+      "rank": 500,
+      "targetWord": "zë",
+      "englishWord": "voice"
+    },
+    {
+      "rank": 501,
+      "targetWord": "energjisë",
+      "englishWord": "energy"
+    },
+    {
+      "rank": 502,
+      "targetWord": "gjueti",
+      "englishWord": "hunt"
+    },
+    {
+      "rank": 503,
+      "targetWord": "mundshme",
+      "englishWord": "probable"
+    },
+    {
+      "rank": 504,
+      "targetWord": "krevat",
+      "englishWord": "bed"
+    },
+    {
+      "rank": 505,
+      "targetWord": "vëlla",
+      "englishWord": "brother"
+    },
+    {
+      "rank": 506,
+      "targetWord": "vezë",
+      "englishWord": "egg"
+    },
+    {
+      "rank": 507,
+      "targetWord": "udhëtim",
+      "englishWord": "ride"
+    },
+    {
+      "rank": 508,
+      "targetWord": "qelizë",
+      "englishWord": "cell"
+    },
+    {
+      "rank": 509,
+      "targetWord": "besoj",
+      "englishWord": "believe"
+    },
+    {
+      "rank": 510,
+      "targetWord": "ndoshta",
+      "englishWord": "perhaps"
+    },
+    {
+      "rank": 511,
+      "targetWord": "marr",
+      "englishWord": "pick"
+    },
+    {
+      "rank": 512,
+      "targetWord": "papritur",
+      "englishWord": "sudden"
+    },
+    {
+      "rank": 513,
+      "targetWord": "të llogarisë",
+      "englishWord": "count"
+    },
+    {
+      "rank": 514,
+      "targetWord": "katrore",
+      "englishWord": "square"
+    },
+    {
+      "rank": 515,
+      "targetWord": "arsyeja",
+      "englishWord": "reason"
+    },
+    {
+      "rank": 516,
+      "targetWord": "Gjatësia",
+      "englishWord": "length"
+    },
+    {
+      "rank": 517,
+      "targetWord": "përfaqësojnë",
+      "englishWord": "represent"
+    },
+    {
+      "rank": 518,
+      "targetWord": "art",
+      "englishWord": "art"
+    },
+    {
+      "rank": 519,
+      "targetWord": "subjekt",
+      "englishWord": "subject"
+    },
+    {
+      "rank": 520,
+      "targetWord": "rajoni",
+      "englishWord": "region"
+    },
+    {
+      "rank": 521,
+      "targetWord": "Madhësia",
+      "englishWord": "size"
+    },
+    {
+      "rank": 522,
+      "targetWord": "ndryshojnë",
+      "englishWord": "vary"
+    },
+    {
+      "rank": 523,
+      "targetWord": "vendosen",
+      "englishWord": "settle"
+    },
+    {
+      "rank": 524,
+      "targetWord": "flasin",
+      "englishWord": "speak"
+    },
+    {
+      "rank": 525,
+      "targetWord": "pesha",
+      "englishWord": "weight"
+    },
+    {
+      "rank": 526,
+      "targetWord": "përgjithshme",
+      "englishWord": "general"
+    },
+    {
+      "rank": 527,
+      "targetWord": "akull",
+      "englishWord": "ice"
+    },
+    {
+      "rank": 528,
+      "targetWord": "çështje",
+      "englishWord": "matter"
+    },
+    {
+      "rank": 529,
+      "targetWord": "rrethi",
+      "englishWord": "circle"
+    },
+    {
+      "rank": 530,
+      "targetWord": "palë",
+      "englishWord": "pair"
+    },
+    {
+      "rank": 531,
+      "targetWord": "përfshijnë",
+      "englishWord": "include"
+    },
+    {
+      "rank": 532,
+      "targetWord": "ndarje",
+      "englishWord": "divide"
+    },
+    {
+      "rank": 533,
+      "targetWord": "rrokje",
+      "englishWord": "syllable"
+    },
+    {
+      "rank": 534,
+      "targetWord": "ndjerë",
+      "englishWord": "felt"
+    },
+    {
+      "rank": 535,
+      "targetWord": "i madh",
+      "englishWord": "grand"
+    },
+    {
+      "rank": 536,
+      "targetWord": "top",
+      "englishWord": "ball"
+    },
+    {
+      "rank": 537,
+      "targetWord": "ende",
+      "englishWord": "yet"
+    },
+    {
+      "rank": 538,
+      "targetWord": "vala",
+      "englishWord": "wave"
+    },
+    {
+      "rank": 539,
+      "targetWord": "rënie",
+      "englishWord": "drop"
+    },
+    {
+      "rank": 540,
+      "targetWord": "zemra",
+      "englishWord": "heart"
+    },
+    {
+      "rank": 541,
+      "targetWord": "jam",
+      "englishWord": "am"
+    },
+    {
+      "rank": 542,
+      "targetWord": "pranishëm",
+      "englishWord": "present"
+    },
+    {
+      "rank": 543,
+      "targetWord": "rëndë",
+      "englishWord": "heavy"
+    },
+    {
+      "rank": 544,
+      "targetWord": "valle",
+      "englishWord": "dance"
+    },
+    {
+      "rank": 545,
+      "targetWord": "motor",
+      "englishWord": "engine"
+    },
+    {
+      "rank": 546,
+      "targetWord": "pozita",
+      "englishWord": "position"
+    },
+    {
+      "rank": 547,
+      "targetWord": "krah",
+      "englishWord": "arm"
+    },
+    {
+      "rank": 548,
+      "targetWord": "të gjerë",
+      "englishWord": "wide"
+    },
+    {
+      "rank": 549,
+      "targetWord": "lundrojnë",
+      "englishWord": "sail"
+    },
+    {
+      "rank": 550,
+      "targetWord": "material",
+      "englishWord": "material"
+    },
+    {
+      "rank": 551,
+      "targetWord": "fraksion",
+      "englishWord": "fraction"
+    },
+    {
+      "rank": 552,
+      "targetWord": "pyjeve",
+      "englishWord": "forest"
+    },
+    {
+      "rank": 553,
+      "targetWord": "rri",
+      "englishWord": "sit"
+    },
+    {
+      "rank": 554,
+      "targetWord": "garë",
+      "englishWord": "race"
+    },
+    {
+      "rank": 555,
+      "targetWord": "dritare",
+      "englishWord": "window"
+    },
+    {
+      "rank": 556,
+      "targetWord": "dyqan",
+      "englishWord": "store"
+    },
+    {
+      "rank": 557,
+      "targetWord": "verë",
+      "englishWord": "summer"
+    },
+    {
+      "rank": 558,
+      "targetWord": "tren",
+      "englishWord": "train"
+    },
+    {
+      "rank": 559,
+      "targetWord": "gjumë",
+      "englishWord": "sleep"
+    },
+    {
+      "rank": 560,
+      "targetWord": "provoj",
+      "englishWord": "prove"
+    },
+    {
+      "rank": 561,
+      "targetWord": "i vetëm",
+      "englishWord": "lone"
+    },
+    {
+      "rank": 562,
+      "targetWord": "këmbë",
+      "englishWord": "leg"
+    },
+    {
+      "rank": 563,
+      "targetWord": "ushtrim",
+      "englishWord": "exercise"
+    },
+    {
+      "rank": 564,
+      "targetWord": "mur",
+      "englishWord": "wall"
+    },
+    {
+      "rank": 565,
+      "targetWord": "kapur",
+      "englishWord": "catch"
+    },
+    {
+      "rank": 566,
+      "targetWord": "mali",
+      "englishWord": "mount"
+    },
+    {
+      "rank": 567,
+      "targetWord": "uroj",
+      "englishWord": "wish"
+    },
+    {
+      "rank": 568,
+      "targetWord": "qiell",
+      "englishWord": "sky"
+    },
+    {
+      "rank": 569,
+      "targetWord": "bordi",
+      "englishWord": "board"
+    },
+    {
+      "rank": 570,
+      "targetWord": "lumturi",
+      "englishWord": "joy"
+    },
+    {
+      "rank": 571,
+      "targetWord": "dimrit",
+      "englishWord": "winter"
+    },
+    {
+      "rank": 572,
+      "targetWord": "sat",
+      "englishWord": "sat"
+    },
+    {
+      "rank": 573,
+      "targetWord": "shkruar",
+      "englishWord": "written"
+    },
+    {
+      "rank": 574,
+      "targetWord": "egra",
+      "englishWord": "wild"
+    },
+    {
+      "rank": 575,
+      "targetWord": "instrument",
+      "englishWord": "instrument"
+    },
+    {
+      "rank": 576,
+      "targetWord": "mbajtur",
+      "englishWord": "kept"
+    },
+    {
+      "rank": 577,
+      "targetWord": "qelqi",
+      "englishWord": "glass"
+    },
+    {
+      "rank": 578,
+      "targetWord": "bari",
+      "englishWord": "grass"
+    },
+    {
+      "rank": 579,
+      "targetWord": "lopë",
+      "englishWord": "cow"
+    },
+    {
+      "rank": 580,
+      "targetWord": "punë",
+      "englishWord": "job"
+    },
+    {
+      "rank": 581,
+      "targetWord": "edge",
+      "englishWord": "edge"
+    },
+    {
+      "rank": 582,
+      "targetWord": "shenjë",
+      "englishWord": "sign"
+    },
+    {
+      "rank": 583,
+      "targetWord": "vizitë",
+      "englishWord": "visit"
+    },
+    {
+      "rank": 584,
+      "targetWord": "e kaluara",
+      "englishWord": "past"
+    },
+    {
+      "rank": 585,
+      "targetWord": "e butë",
+      "englishWord": "soft"
+    },
+    {
+      "rank": 586,
+      "targetWord": "argëtim",
+      "englishWord": "fun"
+    },
+    {
+      "rank": 587,
+      "targetWord": "ndritshme",
+      "englishWord": "bright"
+    },
+    {
+      "rank": 588,
+      "targetWord": "gazit",
+      "englishWord": "gas"
+    },
+    {
+      "rank": 589,
+      "targetWord": "mot",
+      "englishWord": "weather"
+    },
+    {
+      "rank": 590,
+      "targetWord": "muaj",
+      "englishWord": "month"
+    },
+    {
+      "rank": 591,
+      "targetWord": "milion",
+      "englishWord": "million"
+    },
+    {
+      "rank": 592,
+      "targetWord": "mbajnë",
+      "englishWord": "bear"
+    },
+    {
+      "rank": 593,
+      "targetWord": "finish",
+      "englishWord": "finish"
+    },
+    {
+      "rank": 594,
+      "targetWord": "të lumtur",
+      "englishWord": "happy"
+    },
+    {
+      "rank": 595,
+      "targetWord": "shpresoj",
+      "englishWord": "hope"
+    },
+    {
+      "rank": 596,
+      "targetWord": "lule",
+      "englishWord": "flower"
+    },
+    {
+      "rank": 597,
+      "targetWord": "vesh",
+      "englishWord": "clothe"
+    },
+    {
+      "rank": 598,
+      "targetWord": "çuditshme",
+      "englishWord": "strange"
+    },
+    {
+      "rank": 599,
+      "targetWord": "shkuar",
+      "englishWord": "gone"
+    },
+    {
+      "rank": 600,
+      "targetWord": "tregtisë",
+      "englishWord": "trade"
+    },
+    {
+      "rank": 601,
+      "targetWord": "melodi",
+      "englishWord": "melody"
+    },
+    {
+      "rank": 602,
+      "targetWord": "udhëtim",
+      "englishWord": "trip"
+    },
+    {
+      "rank": 603,
+      "targetWord": "zyrë",
+      "englishWord": "office"
+    },
+    {
+      "rank": 604,
+      "targetWord": "marrë",
+      "englishWord": "receive"
+    },
+    {
+      "rank": 605,
+      "targetWord": "rresht",
+      "englishWord": "row"
+    },
+    {
+      "rank": 606,
+      "targetWord": "gojë",
+      "englishWord": "mouth"
+    },
+    {
+      "rank": 607,
+      "targetWord": "saktë",
+      "englishWord": "exact"
+    },
+    {
+      "rank": 608,
+      "targetWord": "simbol",
+      "englishWord": "symbol"
+    },
+    {
+      "rank": 609,
+      "targetWord": "vdes",
+      "englishWord": "die"
+    },
+    {
+      "rank": 610,
+      "targetWord": "më pak",
+      "englishWord": "least"
+    },
+    {
+      "rank": 611,
+      "targetWord": "probleme",
+      "englishWord": "trouble"
+    },
+    {
+      "rank": 612,
+      "targetWord": "bërtas",
+      "englishWord": "shout"
+    },
+    {
+      "rank": 613,
+      "targetWord": "me përjashtim të",
+      "englishWord": "except"
+    },
+    {
+      "rank": 614,
+      "targetWord": "shkroi",
+      "englishWord": "wrote"
+    },
+    {
+      "rank": 615,
+      "targetWord": "farë",
+      "englishWord": "seed"
+    },
+    {
+      "rank": 616,
+      "targetWord": "ton",
+      "englishWord": "tone"
+    },
+    {
+      "rank": 617,
+      "targetWord": "bashkohen",
+      "englishWord": "join"
+    },
+    {
+      "rank": 618,
+      "targetWord": "sugjerojnë",
+      "englishWord": "suggest"
+    },
+    {
+      "rank": 619,
+      "targetWord": "i pastër",
+      "englishWord": "clean"
+    },
+    {
+      "rank": 620,
+      "targetWord": "pushim",
+      "englishWord": "break"
+    },
+    {
+      "rank": 621,
+      "targetWord": "lady",
+      "englishWord": "lady"
+    },
+    {
+      "rank": 622,
+      "targetWord": "oborr",
+      "englishWord": "yard"
+    },
+    {
+      "rank": 623,
+      "targetWord": "ngrihem",
+      "englishWord": "rise"
+    },
+    {
+      "rank": 624,
+      "targetWord": "keq",
+      "englishWord": "bad"
+    },
+    {
+      "rank": 625,
+      "targetWord": "goditje",
+      "englishWord": "blow"
+    },
+    {
+      "rank": 626,
+      "targetWord": "naftës",
+      "englishWord": "oil"
+    },
+    {
+      "rank": 627,
+      "targetWord": "gjak",
+      "englishWord": "blood"
+    },
+    {
+      "rank": 628,
+      "targetWord": "prek",
+      "englishWord": "touch"
+    },
+    {
+      "rank": 629,
+      "targetWord": "u rrit",
+      "englishWord": "grew"
+    },
+    {
+      "rank": 630,
+      "targetWord": "cent",
+      "englishWord": "cent"
+    },
+    {
+      "rank": 631,
+      "targetWord": "përzierje",
+      "englishWord": "mix"
+    },
+    {
+      "rank": 632,
+      "targetWord": "ekipi",
+      "englishWord": "team"
+    },
+    {
+      "rank": 633,
+      "targetWord": "tela",
+      "englishWord": "wire"
+    },
+    {
+      "rank": 634,
+      "targetWord": "kosto",
+      "englishWord": "cost"
+    },
+    {
+      "rank": 635,
+      "targetWord": "humbur",
+      "englishWord": "lost"
+    },
+    {
+      "rank": 636,
+      "targetWord": "kafe",
+      "englishWord": "brown"
+    },
+    {
+      "rank": 637,
+      "targetWord": "vesh",
+      "englishWord": "wear"
+    },
+    {
+      "rank": 638,
+      "targetWord": "kopsht",
+      "englishWord": "garden"
+    },
+    {
+      "rank": 639,
+      "targetWord": "barabartë",
+      "englishWord": "equal"
+    },
+    {
+      "rank": 640,
+      "targetWord": "dërguar",
+      "englishWord": "sent"
+    },
+    {
+      "rank": 641,
+      "targetWord": "zgjidhni",
+      "englishWord": "choose"
+    },
+    {
+      "rank": 642,
+      "targetWord": "ra",
+      "englishWord": "fell"
+    },
+    {
+      "rank": 643,
+      "targetWord": "përshtaten",
+      "englishWord": "fit"
+    },
+    {
+      "rank": 644,
+      "targetWord": "rrjedhë",
+      "englishWord": "flow"
+    },
+    {
+      "rank": 645,
+      "targetWord": "drejtë",
+      "englishWord": "fair"
+    },
+    {
+      "rank": 646,
+      "targetWord": "banka",
+      "englishWord": "bank"
+    },
+    {
+      "rank": 647,
+      "targetWord": "mbledhë",
+      "englishWord": "collect"
+    },
+    {
+      "rank": 648,
+      "targetWord": "ruani",
+      "englishWord": "save"
+    },
+    {
+      "rank": 649,
+      "targetWord": "kontrollit",
+      "englishWord": "control"
+    },
+    {
+      "rank": 650,
+      "targetWord": "dhjetor",
+      "englishWord": "decimal"
+    },
+    {
+      "rank": 651,
+      "targetWord": "vesh",
+      "englishWord": "ear"
+    },
+    {
+      "rank": 652,
+      "targetWord": "tjetër",
+      "englishWord": "else"
+    },
+    {
+      "rank": 653,
+      "targetWord": "mjaft",
+      "englishWord": "quite"
+    },
+    {
+      "rank": 654,
+      "targetWord": "thyen",
+      "englishWord": "broke"
+    },
+    {
+      "rank": 655,
+      "targetWord": "rasti",
+      "englishWord": "case"
+    },
+    {
+      "rank": 656,
+      "targetWord": "mesme",
+      "englishWord": "middle"
+    },
+    {
+      "rank": 657,
+      "targetWord": "vrasin",
+      "englishWord": "kill"
+    },
+    {
+      "rank": 658,
+      "targetWord": "djali",
+      "englishWord": "son"
+    },
+    {
+      "rank": 659,
+      "targetWord": "liqeni",
+      "englishWord": "lake"
+    },
+    {
+      "rank": 660,
+      "targetWord": "moment",
+      "englishWord": "moment"
+    },
+    {
+      "rank": 661,
+      "targetWord": "shkallë",
+      "englishWord": "scale"
+    },
+    {
+      "rank": 662,
+      "targetWord": "me zë të lartë",
+      "englishWord": "loud"
+    },
+    {
+      "rank": 663,
+      "targetWord": "pranverë",
+      "englishWord": "spring"
+    },
+    {
+      "rank": 664,
+      "targetWord": "vëzhguar",
+      "englishWord": "observe"
+    },
+    {
+      "rank": 665,
+      "targetWord": "fëmijë",
+      "englishWord": "child"
+    },
+    {
+      "rank": 666,
+      "targetWord": "drejt",
+      "englishWord": "straight"
+    },
+    {
+      "rank": 667,
+      "targetWord": "bashkëtingëllore",
+      "englishWord": "consonant"
+    },
+    {
+      "rank": 668,
+      "targetWord": "komb",
+      "englishWord": "nation"
+    },
+    {
+      "rank": 669,
+      "targetWord": "fjalor",
+      "englishWord": "dictionary"
+    },
+    {
+      "rank": 670,
+      "targetWord": "qumësht",
+      "englishWord": "milk"
+    },
+    {
+      "rank": 671,
+      "targetWord": "shpejtësi",
+      "englishWord": "speed"
+    },
+    {
+      "rank": 672,
+      "targetWord": "Metoda",
+      "englishWord": "method"
+    },
+    {
+      "rank": 673,
+      "targetWord": "organ",
+      "englishWord": "organ"
+    },
+    {
+      "rank": 674,
+      "targetWord": "paguajnë",
+      "englishWord": "pay"
+    },
+    {
+      "rank": 675,
+      "targetWord": "mosha",
+      "englishWord": "age"
+    },
+    {
+      "rank": 676,
+      "targetWord": "seksion",
+      "englishWord": "section"
+    },
+    {
+      "rank": 677,
+      "targetWord": "veshje",
+      "englishWord": "dress"
+    },
+    {
+      "rank": 678,
+      "targetWord": "cloud",
+      "englishWord": "cloud"
+    },
+    {
+      "rank": 679,
+      "targetWord": "surprizë",
+      "englishWord": "surprise"
+    },
+    {
+      "rank": 680,
+      "targetWord": "i qetë",
+      "englishWord": "quiet"
+    },
+    {
+      "rank": 681,
+      "targetWord": "guri",
+      "englishWord": "stone"
+    },
+    {
+      "rank": 682,
+      "targetWord": "vogël",
+      "englishWord": "tiny"
+    },
+    {
+      "rank": 683,
+      "targetWord": "ngjit",
+      "englishWord": "climb"
+    },
+    {
+      "rank": 684,
+      "targetWord": "i ftohtë",
+      "englishWord": "cool"
+    },
+    {
+      "rank": 685,
+      "targetWord": "dizajn",
+      "englishWord": "design"
+    },
+    {
+      "rank": 686,
+      "targetWord": "varfër",
+      "englishWord": "poor"
+    },
+    {
+      "rank": 687,
+      "targetWord": "shumë",
+      "englishWord": "lot"
+    },
+    {
+      "rank": 688,
+      "targetWord": "eksperiment",
+      "englishWord": "experiment"
+    },
+    {
+      "rank": 689,
+      "targetWord": "fund",
+      "englishWord": "bottom"
+    },
+    {
+      "rank": 690,
+      "targetWord": "kyç",
+      "englishWord": "key"
+    },
+    {
+      "rank": 691,
+      "targetWord": "hekuri",
+      "englishWord": "iron"
+    },
+    {
+      "rank": 692,
+      "targetWord": "i vetëm",
+      "englishWord": "single"
+    },
+    {
+      "rank": 693,
+      "targetWord": "shkop",
+      "englishWord": "stick"
+    },
+    {
+      "rank": 694,
+      "targetWord": "banesë",
+      "englishWord": "flat"
+    },
+    {
+      "rank": 695,
+      "targetWord": "njëzet",
+      "englishWord": "twenty"
+    },
+    {
+      "rank": 696,
+      "targetWord": "lëkurës",
+      "englishWord": "skin"
+    },
+    {
+      "rank": 697,
+      "targetWord": "buzëqeshje",
+      "englishWord": "smile"
+    },
+    {
+      "rank": 698,
+      "targetWord": "rrudhë",
+      "englishWord": "crease"
+    },
+    {
+      "rank": 699,
+      "targetWord": "vrimë",
+      "englishWord": "hole"
+    },
+    {
+      "rank": 700,
+      "targetWord": "kërcejnë",
+      "englishWord": "jump"
+    },
+    {
+      "rank": 701,
+      "targetWord": "fëmijë",
+      "englishWord": "baby"
+    },
+    {
+      "rank": 702,
+      "targetWord": "tetë",
+      "englishWord": "eight"
+    },
+    {
+      "rank": 703,
+      "targetWord": "fshati",
+      "englishWord": "village"
+    },
+    {
+      "rank": 704,
+      "targetWord": "takohen",
+      "englishWord": "meet"
+    },
+    {
+      "rank": 705,
+      "targetWord": "rrënjë",
+      "englishWord": "root"
+    },
+    {
+      "rank": 706,
+      "targetWord": "blej",
+      "englishWord": "buy"
+    },
+    {
+      "rank": 707,
+      "targetWord": "të rritur",
+      "englishWord": "raise"
+    },
+    {
+      "rank": 708,
+      "targetWord": "zgjidhur",
+      "englishWord": "solve"
+    },
+    {
+      "rank": 709,
+      "targetWord": "metalike",
+      "englishWord": "metal"
+    },
+    {
+      "rank": 710,
+      "targetWord": "nëse",
+      "englishWord": "whether"
+    },
+    {
+      "rank": 711,
+      "targetWord": "shtytje",
+      "englishWord": "push"
+    },
+    {
+      "rank": 712,
+      "targetWord": "shtatë",
+      "englishWord": "seven"
+    },
+    {
+      "rank": 713,
+      "targetWord": "paragraf",
+      "englishWord": "paragraph"
+    },
+    {
+      "rank": 714,
+      "targetWord": "tretë",
+      "englishWord": "third"
+    },
+    {
+      "rank": 715,
+      "targetWord": "duhet",
+      "englishWord": "shall"
+    },
+    {
+      "rank": 716,
+      "targetWord": "mbajtur",
+      "englishWord": "held"
+    },
+    {
+      "rank": 717,
+      "targetWord": "flokët",
+      "englishWord": "hair"
+    },
+    {
+      "rank": 718,
+      "targetWord": "përshkruajnë",
+      "englishWord": "describe"
+    },
+    {
+      "rank": 719,
+      "targetWord": "kuzhinier",
+      "englishWord": "cook"
+    },
+    {
+      "rank": 720,
+      "targetWord": "kati",
+      "englishWord": "floor"
+    },
+    {
+      "rank": 721,
+      "targetWord": "ose",
+      "englishWord": "either"
+    },
+    {
+      "rank": 722,
+      "targetWord": "Rezultati",
+      "englishWord": "result"
+    },
+    {
+      "rank": 723,
+      "targetWord": "djeg",
+      "englishWord": "burn"
+    },
+    {
+      "rank": 724,
+      "targetWord": "kodër",
+      "englishWord": "hill"
+    },
+    {
+      "rank": 725,
+      "targetWord": "i sigurt",
+      "englishWord": "safe"
+    },
+    {
+      "rank": 726,
+      "targetWord": "mace",
+      "englishWord": "cat"
+    },
+    {
+      "rank": 727,
+      "targetWord": "shekulli",
+      "englishWord": "century"
+    },
+    {
+      "rank": 728,
+      "targetWord": "konsiderojnë",
+      "englishWord": "consider"
+    },
+    {
+      "rank": 729,
+      "targetWord": "lloj",
+      "englishWord": "type"
+    },
+    {
+      "rank": 730,
+      "targetWord": "ligji",
+      "englishWord": "law"
+    },
+    {
+      "rank": 731,
+      "targetWord": "bit",
+      "englishWord": "bit"
+    },
+    {
+      "rank": 732,
+      "targetWord": "Bregdeti",
+      "englishWord": "coast"
+    },
+    {
+      "rank": 733,
+      "targetWord": "kopje",
+      "englishWord": "copy"
+    },
+    {
+      "rank": 734,
+      "targetWord": "fraza",
+      "englishWord": "phrase"
+    },
+    {
+      "rank": 735,
+      "targetWord": "heshtur",
+      "englishWord": "silent"
+    },
+    {
+      "rank": 736,
+      "targetWord": "i gjatë",
+      "englishWord": "tall"
+    },
+    {
+      "rank": 737,
+      "targetWord": "rërë",
+      "englishWord": "sand"
+    },
+    {
+      "rank": 738,
+      "targetWord": "tokës",
+      "englishWord": "soil"
+    },
+    {
+      "rank": 739,
+      "targetWord": "roll",
+      "englishWord": "roll"
+    },
+    {
+      "rank": 740,
+      "targetWord": "temperatura",
+      "englishWord": "temperature"
+    },
+    {
+      "rank": 741,
+      "targetWord": "gisht",
+      "englishWord": "finger"
+    },
+    {
+      "rank": 742,
+      "targetWord": "industri",
+      "englishWord": "industry"
+    },
+    {
+      "rank": 743,
+      "targetWord": "Vlera",
+      "englishWord": "value"
+    },
+    {
+      "rank": 744,
+      "targetWord": "lufta",
+      "englishWord": "fight"
+    },
+    {
+      "rank": 745,
+      "targetWord": "gënjeshtër",
+      "englishWord": "lie"
+    },
+    {
+      "rank": 746,
+      "targetWord": "rrah",
+      "englishWord": "beat"
+    },
+    {
+      "rank": 747,
+      "targetWord": "nxeh",
+      "englishWord": "excite"
+    },
+    {
+      "rank": 748,
+      "targetWord": "natyrore",
+      "englishWord": "natural"
+    },
+    {
+      "rank": 749,
+      "targetWord": "view",
+      "englishWord": "view"
+    },
+    {
+      "rank": 750,
+      "targetWord": "kuptim",
+      "englishWord": "sense"
+    },
+    {
+      "rank": 751,
+      "targetWord": "kapitalit",
+      "englishWord": "capital"
+    },
+    {
+      "rank": 752,
+      "targetWord": "nuk do të",
+      "englishWord": "won’t"
+    },
+    {
+      "rank": 753,
+      "targetWord": "karrige",
+      "englishWord": "chair"
+    },
+    {
+      "rank": 754,
+      "targetWord": "rrezik",
+      "englishWord": "danger"
+    },
+    {
+      "rank": 755,
+      "targetWord": "fruta",
+      "englishWord": "fruit"
+    },
+    {
+      "rank": 756,
+      "targetWord": "i pasur",
+      "englishWord": "rich"
+    },
+    {
+      "rank": 757,
+      "targetWord": "i trashë",
+      "englishWord": "thick"
+    },
+    {
+      "rank": 758,
+      "targetWord": "ushtar",
+      "englishWord": "soldier"
+    },
+    {
+      "rank": 759,
+      "targetWord": "procesi",
+      "englishWord": "process"
+    },
+    {
+      "rank": 760,
+      "targetWord": "operoj",
+      "englishWord": "operate"
+    },
+    {
+      "rank": 761,
+      "targetWord": "praktikë",
+      "englishWord": "practice"
+    },
+    {
+      "rank": 762,
+      "targetWord": "të ndara",
+      "englishWord": "separate"
+    },
+    {
+      "rank": 763,
+      "targetWord": "i vështirë",
+      "englishWord": "difficult"
+    },
+    {
+      "rank": 764,
+      "targetWord": "mjeku",
+      "englishWord": "doctor"
+    },
+    {
+      "rank": 765,
+      "targetWord": "ju lutem",
+      "englishWord": "please"
+    },
+    {
+      "rank": 766,
+      "targetWord": "mbrojtur",
+      "englishWord": "protect"
+    },
+    {
+      "rank": 767,
+      "targetWord": "mesditë",
+      "englishWord": "noon"
+    },
+    {
+      "rank": 768,
+      "targetWord": "kulture",
+      "englishWord": "crop"
+    },
+    {
+      "rank": 769,
+      "targetWord": "moderne",
+      "englishWord": "modern"
+    },
+    {
+      "rank": 770,
+      "targetWord": "element",
+      "englishWord": "element"
+    },
+    {
+      "rank": 771,
+      "targetWord": "hit",
+      "englishWord": "hit"
+    },
+    {
+      "rank": 772,
+      "targetWord": "studenti",
+      "englishWord": "student"
+    },
+    {
+      "rank": 773,
+      "targetWord": "qoshe",
+      "englishWord": "corner"
+    },
+    {
+      "rank": 774,
+      "targetWord": "parti",
+      "englishWord": "party"
+    },
+    {
+      "rank": 775,
+      "targetWord": "furnizim",
+      "englishWord": "supply"
+    },
+    {
+      "rank": 776,
+      "targetWord": "të cilit",
+      "englishWord": "whose"
+    },
+    {
+      "rank": 777,
+      "targetWord": "gjetur",
+      "englishWord": "locate"
+    },
+    {
+      "rank": 778,
+      "targetWord": "unazë",
+      "englishWord": "ring"
+    },
+    {
+      "rank": 779,
+      "targetWord": "karakter",
+      "englishWord": "character"
+    },
+    {
+      "rank": 780,
+      "targetWord": "insekteve",
+      "englishWord": "insect"
+    },
+    {
+      "rank": 781,
+      "targetWord": "kapur",
+      "englishWord": "caught"
+    },
+    {
+      "rank": 782,
+      "targetWord": "periudha",
+      "englishWord": "period"
+    },
+    {
+      "rank": 783,
+      "targetWord": "tregojnë",
+      "englishWord": "indicate"
+    },
+    {
+      "rank": 784,
+      "targetWord": "radio",
+      "englishWord": "radio"
+    },
+    {
+      "rank": 785,
+      "targetWord": "foli",
+      "englishWord": "spoke"
+    },
+    {
+      "rank": 786,
+      "targetWord": "atom",
+      "englishWord": "atom"
+    },
+    {
+      "rank": 787,
+      "targetWord": "njerëzore",
+      "englishWord": "human"
+    },
+    {
+      "rank": 788,
+      "targetWord": "historia",
+      "englishWord": "history"
+    },
+    {
+      "rank": 789,
+      "targetWord": "efekti",
+      "englishWord": "effect"
+    },
+    {
+      "rank": 790,
+      "targetWord": "elektrike",
+      "englishWord": "electric"
+    },
+    {
+      "rank": 791,
+      "targetWord": "presin",
+      "englishWord": "expect"
+    },
+    {
+      "rank": 792,
+      "targetWord": "kockave",
+      "englishWord": "bone"
+    },
+    {
+      "rank": 793,
+      "targetWord": "hekurudhor",
+      "englishWord": "rail"
+    },
+    {
+      "rank": 794,
+      "targetWord": "imagjinoni",
+      "englishWord": "imagine"
+    },
+    {
+      "rank": 795,
+      "targetWord": "sigurojë",
+      "englishWord": "provide"
+    },
+    {
+      "rank": 796,
+      "targetWord": "pajtohem",
+      "englishWord": "agree"
+    },
+    {
+      "rank": 797,
+      "targetWord": "kështu",
+      "englishWord": "thus"
+    },
+    {
+      "rank": 798,
+      "targetWord": "i butë",
+      "englishWord": "gentle"
+    },
+    {
+      "rank": 799,
+      "targetWord": "grua",
+      "englishWord": "woman"
+    },
+    {
+      "rank": 800,
+      "targetWord": "kapiten",
+      "englishWord": "captain"
+    },
+    {
+      "rank": 801,
+      "targetWord": "guess",
+      "englishWord": "guess"
+    },
+    {
+      "rank": 802,
+      "targetWord": "nevojshme",
+      "englishWord": "necessary"
+    },
+    {
+      "rank": 803,
+      "targetWord": "mprehtë",
+      "englishWord": "sharp"
+    },
+    {
+      "rank": 804,
+      "targetWord": "krahut",
+      "englishWord": "wing"
+    },
+    {
+      "rank": 805,
+      "targetWord": "krijuar",
+      "englishWord": "create"
+    },
+    {
+      "rank": 806,
+      "targetWord": "fqinji",
+      "englishWord": "neighbor"
+    },
+    {
+      "rank": 807,
+      "targetWord": "laj",
+      "englishWord": "wash"
+    },
+    {
+      "rank": 808,
+      "targetWord": "lakuriq nate",
+      "englishWord": "bat"
+    },
+    {
+      "rank": 809,
+      "targetWord": "më tepër",
+      "englishWord": "rather"
+    },
+    {
+      "rank": 810,
+      "targetWord": "turmë",
+      "englishWord": "crowd"
+    },
+    {
+      "rank": 811,
+      "targetWord": "misri",
+      "englishWord": "corn"
+    },
+    {
+      "rank": 812,
+      "targetWord": "të krahasuar",
+      "englishWord": "compare"
+    },
+    {
+      "rank": 813,
+      "targetWord": "poemë",
+      "englishWord": "poem"
+    },
+    {
+      "rank": 814,
+      "targetWord": "string",
+      "englishWord": "string"
+    },
+    {
+      "rank": 815,
+      "targetWord": "zile",
+      "englishWord": "bell"
+    },
+    {
+      "rank": 816,
+      "targetWord": "varet",
+      "englishWord": "depend"
+    },
+    {
+      "rank": 817,
+      "targetWord": "mish",
+      "englishWord": "meat"
+    },
+    {
+      "rank": 818,
+      "targetWord": "fshij",
+      "englishWord": "rub"
+    },
+    {
+      "rank": 819,
+      "targetWord": "tub",
+      "englishWord": "tube"
+    },
+    {
+      "rank": 820,
+      "targetWord": "i famshëm",
+      "englishWord": "famous"
+    },
+    {
+      "rank": 921,
+      "targetWord": "dollar",
+      "englishWord": "dollar"
+    },
+    {
+      "rank": 822,
+      "targetWord": "lumë",
+      "englishWord": "stream"
+    },
+    {
+      "rank": 823,
+      "targetWord": "frikë",
+      "englishWord": "fear"
+    },
+    {
+      "rank": 284,
+      "targetWord": "pamje",
+      "englishWord": "sight"
+    },
+    {
+      "rank": 825,
+      "targetWord": "i hollë",
+      "englishWord": "thin"
+    },
+    {
+      "rank": 826,
+      "targetWord": "trekëndësh",
+      "englishWord": "triangle"
+    },
+    {
+      "rank": 827,
+      "targetWord": "planet",
+      "englishWord": "planet"
+    },
+    {
+      "rank": 828,
+      "targetWord": "nxitim",
+      "englishWord": "hurry"
+    },
+    {
+      "rank": 829,
+      "targetWord": "shefi",
+      "englishWord": "chief"
+    },
+    {
+      "rank": 830,
+      "targetWord": "koloni",
+      "englishWord": "colony"
+    },
+    {
+      "rank": 831,
+      "targetWord": "ora",
+      "englishWord": "clock"
+    },
+    {
+      "rank": 832,
+      "targetWord": "minave",
+      "englishWord": "mine"
+    },
+    {
+      "rank": 833,
+      "targetWord": "kravatë",
+      "englishWord": "tie"
+    },
+    {
+      "rank": 834,
+      "targetWord": "hyjnë",
+      "englishWord": "enter"
+    },
+    {
+      "rank": 835,
+      "targetWord": "i madh",
+      "englishWord": "major"
+    },
+    {
+      "rank": 836,
+      "targetWord": "freskët",
+      "englishWord": "fresh"
+    },
+    {
+      "rank": 837,
+      "targetWord": "kërko",
+      "englishWord": "search"
+    },
+    {
+      "rank": 838,
+      "targetWord": "dërgoni",
+      "englishWord": "send"
+    },
+    {
+      "rank": 839,
+      "targetWord": "verdhë",
+      "englishWord": "yellow"
+    },
+    {
+      "rank": 840,
+      "targetWord": "armë",
+      "englishWord": "gun"
+    },
+    {
+      "rank": 841,
+      "targetWord": "lejojnë",
+      "englishWord": "allow"
+    },
+    {
+      "rank": 842,
+      "targetWord": "print",
+      "englishWord": "print"
+    },
+    {
+      "rank": 843,
+      "targetWord": "vdekur",
+      "englishWord": "dead"
+    },
+    {
+      "rank": 844,
+      "targetWord": "vend",
+      "englishWord": "spot"
+    },
+    {
+      "rank": 845,
+      "targetWord": "shkretëtirë",
+      "englishWord": "desert"
+    },
+    {
+      "rank": 846,
+      "targetWord": "kostum",
+      "englishWord": "suit"
+    },
+    {
+      "rank": 847,
+      "targetWord": "aktuale",
+      "englishWord": "current"
+    },
+    {
+      "rank": 848,
+      "targetWord": "ashensor",
+      "englishWord": "lift"
+    },
+    {
+      "rank": 840,
+      "targetWord": "u rrit",
+      "englishWord": "rose"
+    },
+    {
+      "rank": 850,
+      "targetWord": "arrijnë",
+      "englishWord": "arrive"
+    },
+    {
+      "rank": 851,
+      "targetWord": "mjeshtër",
+      "englishWord": "master"
+    },
+    {
+      "rank": 852,
+      "targetWord": "udhë",
+      "englishWord": "track"
+    },
+    {
+      "rank": 853,
+      "targetWord": "prind",
+      "englishWord": "parent"
+    },
+    {
+      "rank": 854,
+      "targetWord": "breg",
+      "englishWord": "shore"
+    },
+    {
+      "rank": 855,
+      "targetWord": "ndarje",
+      "englishWord": "division"
+    },
+    {
+      "rank": 856,
+      "targetWord": "fletë",
+      "englishWord": "sheet"
+    },
+    {
+      "rank": 857,
+      "targetWord": "substancë",
+      "englishWord": "substance"
+    },
+    {
+      "rank": 858,
+      "targetWord": "favor",
+      "englishWord": "favor"
+    },
+    {
+      "rank": 859,
+      "targetWord": "lidhur",
+      "englishWord": "connect"
+    },
+    {
+      "rank": 860,
+      "targetWord": "pas",
+      "englishWord": "post"
+    },
+    {
+      "rank": 861,
+      "targetWord": "shpenzojnë",
+      "englishWord": "spend"
+    },
+    {
+      "rank": 862,
+      "targetWord": "akord",
+      "englishWord": "chord"
+    },
+    {
+      "rank": 863,
+      "targetWord": "yndyrë",
+      "englishWord": "fat"
+    },
+    {
+      "rank": 864,
+      "targetWord": "kënaqur",
+      "englishWord": "glad"
+    },
+    {
+      "rank": 865,
+      "targetWord": "origjinal",
+      "englishWord": "original"
+    },
+    {
+      "rank": 866,
+      "targetWord": "pjesa",
+      "englishWord": "share"
+    },
+    {
+      "rank": 867,
+      "targetWord": "stacion",
+      "englishWord": "station"
+    },
+    {
+      "rank": 868,
+      "targetWord": "baba",
+      "englishWord": "dad"
+    },
+    {
+      "rank": 869,
+      "targetWord": "bukë",
+      "englishWord": "bread"
+    },
+    {
+      "rank": 870,
+      "targetWord": "ngarkuar",
+      "englishWord": "charge"
+    },
+    {
+      "rank": 871,
+      "targetWord": "i duhur",
+      "englishWord": "proper"
+    },
+    {
+      "rank": 872,
+      "targetWord": "bar",
+      "englishWord": "bar"
+    },
+    {
+      "rank": 873,
+      "targetWord": "Oferta",
+      "englishWord": "offer"
+    },
+    {
+      "rank": 874,
+      "targetWord": "segment",
+      "englishWord": "segment"
+    },
+    {
+      "rank": 875,
+      "targetWord": "rob",
+      "englishWord": "slave"
+    },
+    {
+      "rank": 876,
+      "targetWord": "duck",
+      "englishWord": "duck"
+    },
+    {
+      "rank": 877,
+      "targetWord": "i menjëhershëm",
+      "englishWord": "instant"
+    },
+    {
+      "rank": 878,
+      "targetWord": "tregu",
+      "englishWord": "market"
+    },
+    {
+      "rank": 879,
+      "targetWord": "shkallë",
+      "englishWord": "degree"
+    },
+    {
+      "rank": 880,
+      "targetWord": "populloj",
+      "englishWord": "populate"
+    },
+    {
+      "rank": 881,
+      "targetWord": "zogth",
+      "englishWord": "chick"
+    },
+    {
+      "rank": 882,
+      "targetWord": "i dashur",
+      "englishWord": "dear"
+    },
+    {
+      "rank": 883,
+      "targetWord": "armik",
+      "englishWord": "enemy"
+    },
+    {
+      "rank": 884,
+      "targetWord": "përgjigjen",
+      "englishWord": "reply"
+    },
+    {
+      "rank": 885,
+      "targetWord": "pije",
+      "englishWord": "drink"
+    },
+    {
+      "rank": 886,
+      "targetWord": "ndodhin",
+      "englishWord": "occur"
+    },
+    {
+      "rank": 887,
+      "targetWord": "mbështetje",
+      "englishWord": "support"
+    },
+    {
+      "rank": 888,
+      "targetWord": "fjalim",
+      "englishWord": "speech"
+    },
+    {
+      "rank": 889,
+      "targetWord": "natyra",
+      "englishWord": "nature"
+    },
+    {
+      "rank": 890,
+      "targetWord": "varg",
+      "englishWord": "range"
+    },
+    {
+      "rank": 891,
+      "targetWord": "avull",
+      "englishWord": "steam"
+    },
+    {
+      "rank": 892,
+      "targetWord": "lëvizje",
+      "englishWord": "motion"
+    },
+    {
+      "rank": 893,
+      "targetWord": "rrugë",
+      "englishWord": "path"
+    },
+    {
+      "rank": 894,
+      "targetWord": "lëngshme",
+      "englishWord": "liquid"
+    },
+    {
+      "rank": 895,
+      "targetWord": "log",
+      "englishWord": "log"
+    },
+    {
+      "rank": 896,
+      "targetWord": "do të thoshte",
+      "englishWord": "meant"
+    },
+    {
+      "rank": 897,
+      "targetWord": "herës",
+      "englishWord": "quotient"
+    },
+    {
+      "rank": 898,
+      "targetWord": "dhëmbët",
+      "englishWord": "teeth"
+    },
+    {
+      "rank": 899,
+      "targetWord": "shell",
+      "englishWord": "shell"
+    },
+    {
+      "rank": 900,
+      "targetWord": "qafë",
+      "englishWord": "neck"
+    },
+    {
+      "rank": 901,
+      "targetWord": "oksigjen",
+      "englishWord": "oxygen"
+    },
+    {
+      "rank": 902,
+      "targetWord": "sheqer",
+      "englishWord": "sugar"
+    },
+    {
+      "rank": 903,
+      "targetWord": "vdekja",
+      "englishWord": "death"
+    },
+    {
+      "rank": 904,
+      "targetWord": "mjaft",
+      "englishWord": "pretty"
+    },
+    {
+      "rank": 905,
+      "targetWord": "aftësi",
+      "englishWord": "skill"
+    },
+    {
+      "rank": 906,
+      "targetWord": "gratë",
+      "englishWord": "women"
+    },
+    {
+      "rank": 907,
+      "targetWord": "sezon",
+      "englishWord": "season"
+    },
+    {
+      "rank": 908,
+      "targetWord": "zgjidhje",
+      "englishWord": "solution"
+    },
+    {
+      "rank": 909,
+      "targetWord": "magnet",
+      "englishWord": "magnet"
+    },
+    {
+      "rank": 910,
+      "targetWord": "argjendi",
+      "englishWord": "silver"
+    },
+    {
+      "rank": 911,
+      "targetWord": "thank",
+      "englishWord": "thank"
+    },
+    {
+      "rank": 912,
+      "targetWord": "degë",
+      "englishWord": "branch"
+    },
+    {
+      "rank": 913,
+      "targetWord": "ndeshje",
+      "englishWord": "match"
+    },
+    {
+      "rank": 914,
+      "targetWord": "prapashtesë",
+      "englishWord": "suffix"
+    },
+    {
+      "rank": 915,
+      "targetWord": "sidomos",
+      "englishWord": "especially"
+    },
+    {
+      "rank": 916,
+      "targetWord": "fiku",
+      "englishWord": "fig"
+    },
+    {
+      "rank": 917,
+      "targetWord": "i frikësuar",
+      "englishWord": "afraid"
+    },
+    {
+      "rank": 918,
+      "targetWord": "i madh",
+      "englishWord": "huge"
+    },
+    {
+      "rank": 919,
+      "targetWord": "motra",
+      "englishWord": "sister"
+    },
+    {
+      "rank": 920,
+      "targetWord": "çeliku",
+      "englishWord": "steel"
+    },
+    {
+      "rank": 921,
+      "targetWord": "diskutuar",
+      "englishWord": "discuss"
+    },
+    {
+      "rank": 922,
+      "targetWord": "përpara",
+      "englishWord": "forward"
+    },
+    {
+      "rank": 923,
+      "targetWord": "ngjashme",
+      "englishWord": "similar"
+    },
+    {
+      "rank": 924,
+      "targetWord": "udhëzojë",
+      "englishWord": "guide"
+    },
+    {
+      "rank": 925,
+      "targetWord": "përvojë",
+      "englishWord": "experience"
+    },
+    {
+      "rank": 926,
+      "targetWord": "pikë",
+      "englishWord": "score"
+    },
+    {
+      "rank": 927,
+      "targetWord": "mollë",
+      "englishWord": "apple"
+    },
+    {
+      "rank": 928,
+      "targetWord": "blerë",
+      "englishWord": "bought"
+    },
+    {
+      "rank": 929,
+      "targetWord": "udhëhequr",
+      "englishWord": "led"
+    },
+    {
+      "rank": 930,
+      "targetWord": "katran",
+      "englishWord": "pitch"
+    },
+    {
+      "rank": 931,
+      "targetWord": "pallto",
+      "englishWord": "coat"
+    },
+    {
+      "rank": 932,
+      "targetWord": "në masë",
+      "englishWord": "mass"
+    },
+    {
+      "rank": 933,
+      "targetWord": "kartë",
+      "englishWord": "card"
+    },
+    {
+      "rank": 934,
+      "targetWord": "band",
+      "englishWord": "band"
+    },
+    {
+      "rank": 935,
+      "targetWord": "litar",
+      "englishWord": "rope"
+    },
+    {
+      "rank": 936,
+      "targetWord": "shqip",
+      "englishWord": "slip"
+    },
+    {
+      "rank": 937,
+      "targetWord": "fitore",
+      "englishWord": "win"
+    },
+    {
+      "rank": 938,
+      "targetWord": "ëndërr",
+      "englishWord": "dream"
+    },
+    {
+      "rank": 939,
+      "targetWord": "mbrëmje",
+      "englishWord": "evening"
+    },
+    {
+      "rank": 940,
+      "targetWord": "kusht",
+      "englishWord": "condition"
+    },
+    {
+      "rank": 941,
+      "targetWord": "ushqim",
+      "englishWord": "feed"
+    },
+    {
+      "rank": 942,
+      "targetWord": "mjet",
+      "englishWord": "tool"
+    },
+    {
+      "rank": 943,
+      "targetWord": "totale",
+      "englishWord": "total"
+    },
+    {
+      "rank": 944,
+      "targetWord": "themelore",
+      "englishWord": "basic"
+    },
+    {
+      "rank": 945,
+      "targetWord": "erë",
+      "englishWord": "smell"
+    },
+    {
+      "rank": 946,
+      "targetWord": "luginë",
+      "englishWord": "valley"
+    },
+    {
+      "rank": 947,
+      "targetWord": "as",
+      "englishWord": "nor"
+    },
+    {
+      "rank": 948,
+      "targetWord": "dyfishtë",
+      "englishWord": "double"
+    },
+    {
+      "rank": 949,
+      "targetWord": "vend",
+      "englishWord": "seat"
+    },
+    {
+      "rank": 950,
+      "targetWord": "vazhdojnë",
+      "englishWord": "continue"
+    },
+    {
+      "rank": 951,
+      "targetWord": "bllok",
+      "englishWord": "block"
+    },
+    {
+      "rank": 952,
+      "targetWord": "tabelë",
+      "englishWord": "chart"
+    },
+    {
+      "rank": 953,
+      "targetWord": "hat",
+      "englishWord": "hat"
+    },
+    {
+      "rank": 954,
+      "targetWord": "shes",
+      "englishWord": "sell"
+    },
+    {
+      "rank": 955,
+      "targetWord": "suksesi",
+      "englishWord": "success"
+    },
+    {
+      "rank": 956,
+      "targetWord": "Kompania",
+      "englishWord": "company"
+    },
+    {
+      "rank": 957,
+      "targetWord": "zbres",
+      "englishWord": "subtract"
+    },
+    {
+      "rank": 958,
+      "targetWord": "ngjarje",
+      "englishWord": "event"
+    },
+    {
+      "rank": 959,
+      "targetWord": "i veçantë",
+      "englishWord": "particular"
+    },
+    {
+      "rank": 960,
+      "targetWord": "marrëveshje",
+      "englishWord": "deal"
+    },
+    {
+      "rank": 961,
+      "targetWord": "notoj",
+      "englishWord": "swim"
+    },
+    {
+      "rank": 962,
+      "targetWord": "term",
+      "englishWord": "term"
+    },
+    {
+      "rank": 963,
+      "targetWord": "kundërta",
+      "englishWord": "opposite"
+    },
+    {
+      "rank": 964,
+      "targetWord": "gruaja",
+      "englishWord": "wife"
+    },
+    {
+      "rank": 965,
+      "targetWord": "këpucëve",
+      "englishWord": "shoe"
+    },
+    {
+      "rank": 966,
+      "targetWord": "shpatull",
+      "englishWord": "shoulder"
+    },
+    {
+      "rank": 967,
+      "targetWord": "përhap",
+      "englishWord": "spread"
+    },
+    {
+      "rank": 968,
+      "targetWord": "organizoni",
+      "englishWord": "arrange"
+    },
+    {
+      "rank": 969,
+      "targetWord": "kampi",
+      "englishWord": "camp"
+    },
+    {
+      "rank": 970,
+      "targetWord": "trillime",
+      "englishWord": "invent"
+    },
+    {
+      "rank": 971,
+      "targetWord": "pambuku",
+      "englishWord": "cotton"
+    },
+    {
+      "rank": 972,
+      "targetWord": "Born",
+      "englishWord": "born"
+    },
+    {
+      "rank": 973,
+      "targetWord": "përcaktuar",
+      "englishWord": "determine"
+    },
+    {
+      "rank": 974,
+      "targetWord": "kuart",
+      "englishWord": "quart"
+    },
+    {
+      "rank": 975,
+      "targetWord": "nëntë",
+      "englishWord": "nine"
+    },
+    {
+      "rank": 976,
+      "targetWord": "kamion",
+      "englishWord": "truck"
+    },
+    {
+      "rank": 977,
+      "targetWord": "zhurmë",
+      "englishWord": "noise"
+    },
+    {
+      "rank": 978,
+      "targetWord": "nivel",
+      "englishWord": "level"
+    },
+    {
+      "rank": 979,
+      "targetWord": "shans",
+      "englishWord": "chance"
+    },
+    {
+      "rank": 980,
+      "targetWord": "mblidhen",
+      "englishWord": "gather"
+    },
+    {
+      "rank": 981,
+      "targetWord": "dyqan",
+      "englishWord": "shop"
+    },
+    {
+      "rank": 982,
+      "targetWord": "shtrirje",
+      "englishWord": "stretch"
+    },
+    {
+      "rank": 983,
+      "targetWord": "hedh",
+      "englishWord": "throw"
+    },
+    {
+      "rank": 984,
+      "targetWord": "shndrit",
+      "englishWord": "shine"
+    },
+    {
+      "rank": 985,
+      "targetWord": "pronë",
+      "englishWord": "property"
+    },
+    {
+      "rank": 986,
+      "targetWord": "kolona",
+      "englishWord": "column"
+    },
+    {
+      "rank": 987,
+      "targetWord": "molekulë",
+      "englishWord": "molecule"
+    },
+    {
+      "rank": 988,
+      "targetWord": "zgjidhni",
+      "englishWord": "select"
+    },
+    {
+      "rank": 989,
+      "targetWord": "gabuar",
+      "englishWord": "wrong"
+    },
+    {
+      "rank": 990,
+      "targetWord": "gri",
+      "englishWord": "gray"
+    },
+    {
+      "rank": 991,
+      "targetWord": "përsëritje",
+      "englishWord": "repeat"
+    },
+    {
+      "rank": 992,
+      "targetWord": "kërkojnë",
+      "englishWord": "require"
+    },
+    {
+      "rank": 993,
+      "targetWord": "gjerë",
+      "englishWord": "broad"
+    },
+    {
+      "rank": 994,
+      "targetWord": "përgatisë",
+      "englishWord": "prepare"
+    },
+    {
+      "rank": 995,
+      "targetWord": "kripë",
+      "englishWord": "salt"
+    },
+    {
+      "rank": 996,
+      "targetWord": "hundë",
+      "englishWord": "nose"
+    },
+    {
+      "rank": 997,
+      "targetWord": "shumës",
+      "englishWord": "plural"
+    },
+    {
+      "rank": 998,
+      "targetWord": "zemërimi",
+      "englishWord": "anger"
+    },
+    {
+      "rank": 999,
+      "targetWord": "pretendim",
+      "englishWord": "claim"
+    },
+    {
+      "rank": 1000,
+      "targetWord": "kontinenti",
+      "englishWord": "continent"
+    }
+  ]
+}
