@@ -34,7 +34,7 @@ const updateDictionary = () => {
       langDict.push({
         code: wordFileParsed.languageCode,
         name: wordFileParsed.languageName,
-        nativeName: wordFileParsed.nativeName,
+        nativeName: wordFileParsed.languageNativeName,
         wordFilePath: `words/${wordFile}`
       });
     } catch (e) {

@@ -2,491 +2,589 @@
   {
     "code": "af",
     "name": "Afrikaans",
+    "nativeName": "Afrikaans",
     "wordFilePath": "words/af.json"
   },
   {
     "code": "ar",
     "name": "Arabic",
+    "nativeName": "اللغة العربية",
     "wordFilePath": "words/ar.json"
   },
   {
     "code": "az",
     "name": "Azerbaijani",
+    "nativeName": "azərbaycan dili",
     "wordFilePath": "words/az.json"
   },
   {
     "code": "be",
     "name": "Belarusian",
+    "nativeName": "беларуская мова",
     "wordFilePath": "words/be.json"
   },
   {
     "code": "bg",
     "name": "Bulgarian",
+    "nativeName": "български език",
     "wordFilePath": "words/bg.json"
   },
   {
     "code": "bn",
     "name": "Bengali",
+    "nativeName": "বাংলা",
     "wordFilePath": "words/bn.json"
   },
   {
     "code": "bs",
     "name": "Bosnian",
+    "nativeName": "bosanski jezik",
     "wordFilePath": "words/bs.json"
   },
   {
     "code": "ca",
     "name": "Catalan",
+    "nativeName": "català",
     "wordFilePath": "words/ca.json"
   },
   {
     "code": "ceb",
     "name": "Cebuano",
+    "nativeName": "Cebuano",
     "wordFilePath": "words/ceb.json"
   },
   {
     "code": "co",
     "name": "Corsican",
+    "nativeName": "corsu",
     "wordFilePath": "words/co.json"
   },
   {
     "code": "cs",
     "name": "Czech",
+    "nativeName": "čeština",
     "wordFilePath": "words/cs.json"
   },
   {
     "code": "cy",
     "name": "Welsh",
+    "nativeName": "Cymraeg",
     "wordFilePath": "words/cy.json"
   },
   {
     "code": "da",
     "name": "Danish",
+    "nativeName": "dansk",
     "wordFilePath": "words/da.json"
   },
   {
     "code": "de",
     "name": "German",
+    "nativeName": "Deutsch",
     "wordFilePath": "words/de.json"
   },
   {
     "code": "el",
     "name": "Greek",
+    "nativeName": "Ελληνικά",
     "wordFilePath": "words/el.json"
   },
   {
     "code": "en",
     "name": "English",
+    "nativeName": "English",
     "wordFilePath": "words/en.json"
   },
   {
     "code": "eo",
     "name": "Esperanto",
+    "nativeName": "Esperanto",
     "wordFilePath": "words/eo.json"
   },
   {
     "code": "es",
     "name": "Spanish",
+    "nativeName": "Español",
     "wordFilePath": "words/es.json"
   },
   {
     "code": "et",
     "name": "Estonian",
+    "nativeName": "eesti",
     "wordFilePath": "words/et.json"
   },
   {
     "code": "eu",
     "name": "Basque",
+    "nativeName": "euskara",
     "wordFilePath": "words/eu.json"
   },
   {
     "code": "fa",
     "name": "Persian",
+    "nativeName": "فارسی",
     "wordFilePath": "words/fa.json"
   },
   {
     "code": "fi",
     "name": "Finnish",
+    "nativeName": "suomi",
     "wordFilePath": "words/fi.json"
   },
   {
     "code": "fr",
     "name": "French",
+    "nativeName": "Français",
     "wordFilePath": "words/fr.json"
   },
   {
     "code": "fry",
     "name": "Frisian",
+    "nativeName": "Frysk",
     "wordFilePath": "words/fry.json"
   },
   {
     "code": "ga",
     "name": "Irish",
+    "nativeName": "Gaeilge",
     "wordFilePath": "words/ga.json"
   },
   {
     "code": "gl",
     "name": "Galician",
+    "nativeName": "galego",
     "wordFilePath": "words/gl.json"
   },
   {
     "code": "gu",
     "name": "Gujarati",
+    "nativeName": "ગુજરાતી",
     "wordFilePath": "words/gu.json"
   },
   {
     "code": "ha",
     "name": "Hausa",
+    "nativeName": "هَوُسَ",
     "wordFilePath": "words/ha.json"
   },
   {
     "code": "haw",
     "name": "Hawaiian",
+    "nativeName": "Ōlelo Hawaiʻi",
     "wordFilePath": "words/haw.json"
   },
   {
     "code": "he",
     "name": "Hebrew",
+    "nativeName": "עברית",
     "wordFilePath": "words/he.json"
   },
   {
     "code": "hi",
     "name": "Hindi",
+    "nativeName": "हिन्दी",
     "wordFilePath": "words/hi.json"
   },
   {
     "code": "hr",
     "name": "Croatian",
+    "nativeName": "hrvatski jezik",
     "wordFilePath": "words/hr.json"
   },
   {
     "code": "ht",
     "name": "Haitian",
+    "nativeName": "Kreyòl ayisyen",
     "wordFilePath": "words/ht.json"
   },
   {
     "code": "hu",
     "name": "Hungarian",
+    "nativeName": "magyar",
     "wordFilePath": "words/hu.json"
   },
   {
     "code": "hy",
     "name": "Armenian",
+    "nativeName": "Հայերեն",
     "wordFilePath": "words/hy.json"
   },
   {
     "code": "id",
     "name": "Indonesian",
+    "nativeName": "Indonesian",
     "wordFilePath": "words/id.json"
   },
   {
     "code": "ig",
     "name": "Igbo",
+    "nativeName": "Asụsụ Igbo",
     "wordFilePath": "words/ig.json"
   },
   {
     "code": "is",
     "name": "Icelandic",
+    "nativeName": "Íslenska",
     "wordFilePath": "words/is.json"
   },
   {
     "code": "it",
     "name": "Italian",
+    "nativeName": "Italiano",
     "wordFilePath": "words/it.json"
   },
   {
     "code": "ja",
     "name": "Japanese",
+    "nativeName": "日本語",
     "wordFilePath": "words/ja.json"
   },
   {
     "code": "jv",
     "name": "Javanese",
+    "nativeName": "basa Jawa",
     "wordFilePath": "words/jv.json"
   },
   {
     "code": "ka",
     "name": "Georgian",
+    "nativeName": "ქართული",
     "wordFilePath": "words/ka.json"
   },
   {
     "code": "kk",
     "name": "Kazakh",
+    "nativeName": "қазақ тілі",
     "wordFilePath": "words/kk.json"
   },
   {
     "code": "km",
     "name": "Khmer",
+    "nativeName": "ខេមរភាសា",
     "wordFilePath": "words/km.json"
   },
   {
     "code": "kn",
     "name": "Kannada",
+    "nativeName": "ಕನ್ನಡ",
     "wordFilePath": "words/kn.json"
   },
   {
     "code": "ko",
     "name": "Korean",
+    "nativeName": "한국어",
     "wordFilePath": "words/ko.json"
   },
   {
     "code": "ku",
     "name": "Kurdish",
+    "nativeName": "Kurdî",
     "wordFilePath": "words/ku.json"
   },
   {
     "code": "ky",
     "name": "Kyrgyz",
+    "nativeName": "Кыргызча",
     "wordFilePath": "words/ky.json"
   },
   {
     "code": "la",
     "name": "Latin",
+    "nativeName": "latine",
     "wordFilePath": "words/la.json"
   },
   {
     "code": "lb",
     "name": "Luxembourgish",
+    "nativeName": "Lëtzebuergesch",
     "wordFilePath": "words/lb.json"
   },
   {
     "code": "lo",
     "name": "Lao",
+    "nativeName": "ພາສາ",
     "wordFilePath": "words/lo.json"
   },
   {
     "code": "lt",
     "name": "Lithuanian",
+    "nativeName": "lietuvių kalba",
     "wordFilePath": "words/lt.json"
   },
   {
     "code": "lv",
     "name": "Latvian",
+    "nativeName": "latviešu valoda",
     "wordFilePath": "words/lv.json"
   },
   {
     "code": "mg",
     "name": "Malagasy",
+    "nativeName": "fiteny malagasy",
     "wordFilePath": "words/mg.json"
   },
   {
     "code": "mi",
     "name": "Maori",
+    "nativeName": "Māori",
     "wordFilePath": "words/mi.json"
   },
   {
     "code": "mk",
     "name": "Macedonian",
+    "nativeName": "македонски јазик",
     "wordFilePath": "words/mk.json"
   },
   {
     "code": "ml",
     "name": "Malayalam",
+    "nativeName": "മലയാളം",
     "wordFilePath": "words/ml.json"
   },
   {
     "code": "mn",
     "name": "Mongolian",
+    "nativeName": "Монгол хэл",
     "wordFilePath": "words/mn.json"
   },
   {
     "code": "mr",
     "name": "Marathi",
+    "nativeName": "मराठी",
     "wordFilePath": "words/mr.json"
   },
   {
     "code": "mt",
     "name": "Maltese",
+    "nativeName": "Malti",
     "wordFilePath": "words/mt.json"
   },
   {
     "code": "mww",
     "name": "Hmong",
+    "nativeName": "川黔滇苗语第一土语",
     "wordFilePath": "words/mww.json"
   },
   {
     "code": "my",
     "name": "Myanmar (Burmese)",
+    "nativeName": "ျမန္​မာဘာသာ",
     "wordFilePath": "words/my.json"
   },
   {
     "code": "ne",
     "name": "Nepali",
+    "nativeName": "नेपाली",
     "wordFilePath": "words/ne.json"
   },
   {
     "code": "nl",
     "name": "Dutch",
+    "nativeName": "Nederlands",
     "wordFilePath": "words/nl.json"
   },
   {
     "code": "no",
     "name": "Norwegian",
+    "nativeName": "Norsk",
     "wordFilePath": "words/no.json"
   },
   {
     "code": "ny",
     "name": "Chichewa",
+    "nativeName": "chiCheŵa",
     "wordFilePath": "words/ny.json"
   },
   {
     "code": "pa",
     "name": "Punjabi",
+    "nativeName": "ਪੰਜਾਬੀ",
     "wordFilePath": "words/pa.json"
   },
   {
     "code": "pl",
     "name": "Polish",
+    "nativeName": "język polski",
     "wordFilePath": "words/pl.json"
   },
   {
     "code": "ps",
     "name": "Pashto",
+    "nativeName": "پښتو",
     "wordFilePath": "words/ps.json"
   },
   {
     "code": "pt",
     "name": "Portuguese",
+    "nativeName": "Português",
     "wordFilePath": "words/pt.json"
   },
   {
     "code": "ro",
     "name": "Romanian",
+    "nativeName": "Română",
     "wordFilePath": "words/ro.json"
   },
   {
     "code": "ru",
     "name": "Russian",
+    "nativeName": "Русский",
     "wordFilePath": "words/ru.json"
   },
   {
     "code": "si",
     "name": "Sinhala",
+    "nativeName": "සිංහල",
     "wordFilePath": "words/si.json"
   },
   {
     "code": "sk",
     "name": "Slovak",
+    "nativeName": "slovenčina",
     "wordFilePath": "words/sk.json"
   },
   {
     "code": "sl",
     "name": "Slovenian",
+    "nativeName": "slovenščina",
     "wordFilePath": "words/sl.json"
   },
   {
     "code": "so",
     "name": "Somali",
+    "nativeName": "Soomaaliga",
     "wordFilePath": "words/so.json"
   },
   {
     "code": "sq",
     "name": "Albanian",
+    "nativeName": "Shqip",
     "wordFilePath": "words/sq.json"
   },
   {
     "code": "sr",
     "name": "Serbian",
+    "nativeName": "српски језик",
     "wordFilePath": "words/sr.json"
   },
   {
     "code": "st",
     "name": "Sesotho",
+    "nativeName": "Sesotho",
     "wordFilePath": "words/st.json"
   },
   {
     "code": "su",
     "name": "Sundanese",
+    "nativeName": "Basa Sunda",
     "wordFilePath": "words/su.json"
   },
   {
     "code": "sv",
     "name": "Swedish",
+    "nativeName": "svenska",
     "wordFilePath": "words/sv.json"
   },
   {
     "code": "sw",
     "name": "Swahili",
+    "nativeName": "Kiswahili",
     "wordFilePath": "words/sw.json"
   },
   {
     "code": "ta",
     "name": "Tamil",
+    "nativeName": "தமிழ்",
     "wordFilePath": "words/ta.json"
   },
   {
     "code": "te",
     "name": "Telugu",
+    "nativeName": "తెలుగు",
     "wordFilePath": "words/te.json"
   },
   {
     "code": "tg",
     "name": "Tajik",
+    "nativeName": "тоҷикӣ",
     "wordFilePath": "words/tg.json"
   },
   {
     "code": "th",
     "name": "Thai",
+    "nativeName": "ไทย",
     "wordFilePath": "words/th.json"
   },
   {
     "code": "tl",
     "name": "Tagalog (Filipino)",
+    "nativeName": "Wikang Tagalog",
     "wordFilePath": "words/tl.json"
   },
   {
     "code": "tr",
     "name": "Turkish",
+    "nativeName": "Türkçe",
     "wordFilePath": "words/tr.json"
   },
   {
     "code": "uk",
     "name": "Ukrainian",
+    "nativeName": "Українська",
     "wordFilePath": "words/uk.json"
   },
   {
     "code": "ur",
     "name": "Urdu",
+    "nativeName": "اردو",
     "wordFilePath": "words/ur.json"
   },
   {
     "code": "uz",
     "name": "Uzbek",
+    "nativeName": "Ўзбек",
     "wordFilePath": "words/uz.json"
   },
   {
     "code": "vi",
     "name": "Vietnamese",
+    "nativeName": "Tiếng Việt",
     "wordFilePath": "words/vi.json"
   },
   {
     "code": "xh",
     "name": "Xhosa",
+    "nativeName": "isiXhosa",
     "wordFilePath": "words/xh.json"
   },
   {
     "code": "yi",
     "name": "Yiddish",
+    "nativeName": "ייִדיש",
     "wordFilePath": "words/yi.json"
   },
   {
     "code": "yo",
     "name": "Yoruba",
+    "nativeName": "Yorùbá",
     "wordFilePath": "words/yo.json"
   },
   {
     "code": "zh",
     "name": "Chinese",
+    "nativeName": "中文",
     "wordFilePath": "words/zh.json"
   },
   {
     "code": "zsm",
     "name": "Malaysian",
+    "nativeName": "bahasa Malaysia",
     "wordFilePath": "words/zsm.json"
   },
   {
     "code": "zu",
     "name": "Zulu",
+    "nativeName": "isiZulu",
     "wordFilePath": "words/zu.json"
   }
 ]
