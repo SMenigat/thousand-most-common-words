@@ -1,6 +1,6 @@
 # 1000-most-common-words
 
-1000 most common words in a lot of languages
+1000 most common words in a lot of languages.
 
 ## Usage
 
@@ -139,6 +139,7 @@ console.log(words);
 */
 ```
 
-  
+## Sources
 
+- [1000mostcommonwords.com](https://1000mostcommonwords.com/)
 
