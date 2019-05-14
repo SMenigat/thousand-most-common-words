@@ -1,4 +1,4 @@
-# 1000-most-common-words
+# thousand-most-common-words
 
 1000 most common words in a lot of languages.
 
@@ -10,7 +10,7 @@ Returns array of available language codes (`ISO 639`).
 
 ```javascript
 // import library
-const MostCommonWords = require('1000-most-common-words');
+const MostCommonWords = require('thousand-most-common-words');
 
 // load all available language codes
 const allCodes = MostCommonWords.getAllLanguageCodes();
@@ -24,7 +24,7 @@ Returns array of available language names (english).
 
 ```javascript
 // import library
-const MostCommonWords = require('1000-most-common-words');
+const MostCommonWords = require('thousand-most-common-words');
 
 // load all available language names
 const allNames = MostCommonWords.getAllLanguageNames();
@@ -38,7 +38,7 @@ Returns array of available native language names.
 
 ```javascript
 // import library
-const MostCommonWords = require('1000-most-common-words');
+const MostCommonWords = require('thousand-most-common-words');
 
 // load all available language names
 const allNativeNames = MostCommonWords.getAllLanguageNativeNames();
@@ -54,7 +54,7 @@ Returns an empty array if language is not available.
 
 ```javascript
 // import library
-const MostCommonWords = require('1000-most-common-words');
+const MostCommonWords = require('thousand-most-common-words');
 
 // load word objects
 const words = MostCommonWords.getWordsByLanguageCode('es');
@@ -85,7 +85,7 @@ Returns an empty array if language is not available.
 
 ```javascript
 // import library
-const MostCommonWords = require('1000-most-common-words');
+const MostCommonWords = require('thousand-most-common-words');
 
 // load word objects
 const words = MostCommonWords.getWordsByLanguageName('Spanish');
@@ -116,7 +116,7 @@ Returns an empty array if language is not available.
 
 ```javascript
 // import library
-const MostCommonWords = require('1000-most-common-words');
+const MostCommonWords = require('thousand-most-common-words');
 
 // load word objects
 const words = MostCommonWords.getWordsByLanguageNativeName('Español');

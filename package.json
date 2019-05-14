@@ -1,9 +1,9 @@
 {
-  "name": "1000-most-common-words",
+  "name": "thousand-most-common-words",
   "version": "1.0.0",
   "description": "Collection of 1000 most common words of a lot of languages",
   "main": "index.js",
-  "repository": "git@github.com:SMenigat/1000-most-common-words.git",
+  "repository": "git@github.com:SMenigat/thousand-most-common-words.git",
   "author": "Samuel Menigat <samuel.menigat@gmail.com>",
   "license": "MIT",
   "devDependencies": {
