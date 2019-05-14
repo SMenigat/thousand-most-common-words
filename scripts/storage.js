@@ -47,7 +47,20 @@ const updateDictionary = () => {
   console.log(`Updated dictionary to contain ${langDict.length} languages`);
 };
 
+const getDictionary = () => {
+  let dict = [];
+  try {
+    const raw = fs.readFileSync(dictionaryFilePath);
+    dict = JSON.parse(raw);
+  } catch (e) {
+    console.error("Error while loading dictionary");
+    console.error(e);
+  }
+  return dict;
+};
+
 module.exports = {
   storeLanguage,
-  updateDictionary
+  updateDictionary,
+  getDictionary
 };
